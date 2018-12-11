@@ -36,7 +36,7 @@ No Módulo Venda do Siscoserv estão previstos os seguintes registros:
 
 - Registro de Presença Comercial (RPC): contém dados referentes às operações realizadas por meio de Presença Comercial no Exterior relacionada à pessoa jurídica domiciliada no Brasil. 
 
-## 4.1. Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS)
+# 4.1. Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS)
 
 O Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS) serve para informar a venda realizada por residentes ou domiciliados no País a residentes ou domiciliados no exterior. 
 
@@ -51,3 +51,23 @@ Cada RVS destina-se a apenas um contrato de prestação de serviços1. Cada cont
 Caso o contrato envolva mais de um adquirente deve ser registrado um RVS por adquirente. Por exemplo, quando um contrato for assinado com uma empresa matriz e suas filiais em países diferentes (diversos adquirentes), devem ser registrados tantos RVS quantos sejam os adquirentes.
 
 As operações de prestação de serviços previstas em contratos de garantia decorrentes da venda de bens ou serviços2 realizadas a residentes e domiciliados no exterior devem ser registradas quando ensejarem faturamento.
+
+**___________________________________**
+
+¹ Neste caso, leia-se “prestação de serviços” como “prestação de serviços, transferência de intangível e realização de outras operações que produzam variações no patrimônio”. 
+
+² Neste caso, leia-se “bens ou serviços” como “bens, mercadorias, serviços, intangíveis ou outras operações que produzam variações no patrimônio”
+
+# 4.1.1. Prazo para o RVS
+
+O prazo para incluir o RVS é até o último dia útil do 3o (terceiro) mês subsequente à data de início da prestação de serviço.
+
+![img]()
+
+Até 31 de dezembro de 2013, o prazo para o RVS foi, excepcionalmente, até o último dia útil do 6º (sexto) mês subsequente à data de início da prestação de serviço, da comercialização de intangível ou da realização de operação que produza variação no patrimônio. 
+
+![img]()
+
+# 4.2. Registro de Faturamento (RF)
+
+O RF do Siscoserv complementa o RVS com informações relativas ao faturamento a residentes ou domiciliados no exterior, pela venda de serviços1, bem como os demais custos e despesas incorridos para a efetiva prestação desses serviços. Neste registro são solicitados os seguintes dados: a data de emissão e o número da nota fiscal ou documento equivalente (inclusive nota de despesa), o valor faturado (valor parcial ou total do contrato, expresso na moeda informada no RVS), o valor mantido no exterior, bem como outros elementos pertinentes.
