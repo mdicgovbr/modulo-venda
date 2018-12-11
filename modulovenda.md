@@ -65,8 +65,7 @@ O prazo para incluir o RVS é até o último dia útil do 3o (terceiro) mês sub
 ![img]()
 
 Até 31 de dezembro de 2013, o prazo para o RVS foi, excepcionalmente, até o último dia útil do 6º (sexto) mês subsequente à data de início da prestação de serviço, da comercialização de intangível ou da realização de operação que produza variação no patrimônio. 
-
-![img]()
+![img](https://github.com/mdicgovbr/modulo-venda/blob/master/img/figura2.png)
 
 # 4.2. Registro de Faturamento (RF)
 
