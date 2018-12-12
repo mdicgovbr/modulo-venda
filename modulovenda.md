@@ -176,3 +176,79 @@ Também devem ser registradas as operações de venda de serviços1 iniciadas e 
 Caso tenha ocorrido o faturamento integral antes das datas constantes do Anexo Único da Portaria Conjunta RFB/SCS no 1.908, de 19 de julho de 2012, e não tenha sido iniciada a prestação do serviço3, o registro de faturamento obedecerá ao item 2.2 do Capítulo 2 deste Manual.
 
 Em qualquer dos casos, a Data constante dos Dados do RF deve ser aquela constante da nota fiscal ou documento equivalente.
+As operações iniciadas e concluídas antes das datas constantes do Anexo Único não devem ser registradas, independentemente de terem sido ou não faturadas. 
+
+Não podem ser registradas operações previamente ao início da prestação do serviço, da transferência do intangível ou da realização de outra operação que produza variação no patrimônio.
+
+A responsabilidade pelos registros RVS/RF do Módulo Venda do Siscoserv é do residente ou domiciliado no País que mantenha relação contratual com residente ou domiciliado no exterior e que contra este fature a prestação de serviço1, ainda que ocorra subcontratação de residente ou domiciliado no País ou no exterior.
+
+Exemplos:
+(1) Empresa (A), domiciliada no Brasil, mantém relação contratual, em que é prestadora de serviço, com empresa (B), domiciliada no exterior, e contra esta fatura a prestação de serviço. A empresa (A) subcontrata empresa (C), domiciliada no Brasil, para prestação parcial ou integral de serviço pertinente à relação contratual de (A) com (B). A empresa (A) deve proceder aos registros RVS e RF no Módulo Venda do Siscoserv, no modo de prestação em que o serviço for prestado a (B) (Modo 1 – Comércio Transfronteiriço, Modo 2 – Consumo no Brasil ou Modo 4 – Movimento Temporário de Pessoas Físicas). A empresa (C) não deve proceder aos registros no Módulo Venda do Siscoserv em relação a sua relação contratual com (A), pois ambas são domiciliadas no Brasil. Além disso, como não há relação contratual entre (B) e (C), não há registros no Siscoserv adicionais a serem feitos.
+
+(2) Empresa (A), domiciliada no Brasil, mantém relação contratual, em que é prestadora de serviço, com empresa também domiciliada no Brasil (B), e contra esta fatura a prestação de serviço. A empresa (A) subcontrata empresa (C), domiciliada no exterior, para prestação parcial ou integral de serviço pertinente à relação contratual de (A) com (B). Empresa (A) deve proceder aos registros RAS e RP no Módulo Aquisição do Siscoserv, no modo de prestação em que o serviço for prestado por (C) (Modo 1 – Comércio Transfronteiriço, Modo 2 – Consumo no Exterior ou Modo 4 – Movimento Temporário de Pessoas Físicas). A empresa (A) não deve proceder aos registros no Módulo Venda do Siscoserv quanto à sua relação contratual com (B), pois ambas são domiciliadas no Brasil. Além disso, como não há relação contratual entre (B) e (C), não há registros no Siscoserv adicionais a serem feitos.
+
+(3) Empresa (A), domiciliada no Brasil, mantém relação contratual, em que é prestadora de serviço, com empresa (B), domiciliada no exterior, mediante movimentação temporária de profissionais e contra esta fatura a prestação de serviço. A empresa (A) deve proceder aos registros RVS e RF no Módulo Venda do Siscoserv em Modo 4 – Movimento Temporário de Pessoa Física, em relação a essa operação. 
+
+(4) Empresa (B), que é filial, sucursal ou controlada domiciliada no exterior de Empresa (A) domiciliada no Brasil, presta serviço a empresa domiciliada no exterior. Empresa (A) deve proceder aos registros no Módulo Venda do Siscoserv em Modo 3 – Presença Comercial no Exterior.
+
+
+# 6. Quem está dispensado de efetuar registro no Siscoserv – Módulo Venda
+
+Estão dispensadas do registro no Siscoserv, nas operações que não tenham utilizado mecanismos de apoio ao comércio exterior de serviços, de intangíveis e demais operações de que trata o art. 26 da Lei no 12.546, de 14 de dezembro de 2011:
+
+I – Empresas cadastradas no SIMPLES NACIONAL e MEI - as pessoas jurídicas optantes pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte – Simples Nacional e os Microempreendedores Individuais (MEI) de que trata o §1o do artigo 18-A da Lei Complementar no 123, de 14 de dezembro de 2006; e
+
+II – Pessoas Físicas - as pessoas físicas residentes no País que, em nome individual, não explorem, habitual e profissionalmente, qualquer atividade econômica de natureza civil ou comercial, com o fim especulativo de lucro, desde que não realizem operações em valor superior a US$ 30.000,00 (trinta mil dólares dos Estados Unidos da América), ou o equivalente em outra moeda, no mês.
+
+
+# 7. Cronograma de registro das informações 
+
+O Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS) e o Registro de Faturamento (RF) obedeceram, no momento da implantação do Siscoserv, ao cronograma, que tem por base a Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio – NBS, conforme previsto no § 5º do art. 6º da Portaria Conjunta RFB/SCS no 1.908, de 19 de julho de 2012.
+
+# 8. Modos de Prestação de Serviços – Módulo Venda
+
+Os modos de prestação identificam, conforme estabelecido no Acordo Geral sobre Comércio de Serviços da OMC (GATS)2, a prestação de serviços, segundo a localização do prestador e do tomador. No Módulo Venda, os modos de prestação são os seguintes: 
+
+Modo 1 – Comércio transfronteiriço: serviço prestado do território de um país ao território de outro país, por residente ou domiciliado no Brasil a residente ou domiciliado no exterior.
+
+Exemplos:
+    • serviço vendido via Internet por empresa brasileira a empresa domiciliada no exterior;
+    • serviços de corretagem de ações prestados a cliente residente ou domiciliado no exterior efetuados por empresa corretora domiciliada no Brasil;
+    • serviços de projeto e desenvolvimento de estruturas e conteúdo de páginas eletrônicas realizados no Brasil para cliente residente ou domiciliado no exterior;
+    • serviços de transporte internacional de cargas prestado por empresa domiciliada no Brasil a empresa domiciliada no exterior
+    • serviços de transporte internacional de passageiros prestado por empresa domiciliada no Brasil a residentes no exterior.
+
+ 
+
+
+Modo 2 - Consumo no Brasil: serviço prestado por residente ou domiciliado no Brasil e consumido no território brasileiro por residente ou domiciliado no exterior.
+
+Exemplos:
+    • serviços educacionais presenciais prestados no Brasil a residente no exterior;
+    • capacitação no Brasil de funcionários de pessoa jurídica domiciliada no exterior;
+    • empresa estrangeira envia equipamento para reparo no Brasil;
+    • serviços médicos especializados prestados no Brasil a residente no exterior;
+    • serviços de manuseio de cargas e contêineres prestados no Brasil a pessoa jurídica domiciliada no exterior;
+    • serviços de hospedagem prestados no Brasil a residente no exterior.
+
+ 
+
+
+Modo 3 - Presença comercial no exterior: consiste na prestação de serviço por pessoa jurídica domiciliada no exterior relacionada a uma pessoa jurídica domiciliada no Brasil. Para fins do Siscoserv, considera-se relacionada à pessoa jurídica domiciliada no Brasil a sua filial, sucursal ou controlada, domiciliada no exterior. 
+
+Exemplos:
+    • filial de empresa brasileira de construção estabelecida no exterior para execução de obra; 
+    • filiais bancárias no exterior de banco brasileiro;
+    • controlada de empresa brasileira de tecnologia da informação no exterior.
+
+ 
+
+
+Modo 4 – Movimento temporário de pessoas físicas: residentes no Brasil deslocam-se por tempo limitado ao exterior com vistas a prestar um serviço a residente ou domiciliado no exterior. 
+
+Exemplos:
+    • arquiteto residente no Brasil desloca-se para desenvolver projeto de arquitetura no exterior;
+    • empreiteiras domiciliadas no Brasil enviam trabalhadores que mantêm vínculo empregatício no Brasil para construção de uma rodovia no exterior;
+    • advogado residente no Brasil desloca-se para o exterior a fim de prestar consultoria jurídica.
+
+
