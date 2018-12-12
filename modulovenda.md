@@ -212,11 +212,11 @@ Os modos de prestação identificam, conforme estabelecido no Acordo Geral sobre
 Modo 1 – Comércio transfronteiriço: serviço prestado do território de um país ao território de outro país, por residente ou domiciliado no Brasil a residente ou domiciliado no exterior.
 
 Exemplos:
-    • serviço vendido via Internet por empresa brasileira a empresa domiciliada no exterior;
-    • serviços de corretagem de ações prestados a cliente residente ou domiciliado no exterior efetuados por empresa corretora domiciliada no Brasil;
-    • serviços de projeto e desenvolvimento de estruturas e conteúdo de páginas eletrônicas realizados no Brasil para cliente residente ou domiciliado no exterior;
-    • serviços de transporte internacional de cargas prestado por empresa domiciliada no Brasil a empresa domiciliada no exterior
-    • serviços de transporte internacional de passageiros prestado por empresa domiciliada no Brasil a residentes no exterior.
+    * serviço vendido via Internet por empresa brasileira a empresa domiciliada no exterior;
+    * serviços de corretagem de ações prestados a cliente residente ou domiciliado no exterior efetuados por empresa corretora domiciliada no Brasil;
+    * serviços de projeto e desenvolvimento de estruturas e conteúdo de páginas eletrônicas realizados no Brasil para cliente residente ou domiciliado no exterior;
+    * serviços de transporte internacional de cargas prestado por empresa domiciliada no Brasil a empresa domiciliada no exterior
+    * serviços de transporte internacional de passageiros prestado por empresa domiciliada no Brasil a residentes no exterior.
 
  
 
@@ -224,12 +224,12 @@ Exemplos:
 Modo 2 - Consumo no Brasil: serviço prestado por residente ou domiciliado no Brasil e consumido no território brasileiro por residente ou domiciliado no exterior.
 
 Exemplos:
-    • serviços educacionais presenciais prestados no Brasil a residente no exterior;
-    • capacitação no Brasil de funcionários de pessoa jurídica domiciliada no exterior;
-    • empresa estrangeira envia equipamento para reparo no Brasil;
-    • serviços médicos especializados prestados no Brasil a residente no exterior;
-    • serviços de manuseio de cargas e contêineres prestados no Brasil a pessoa jurídica domiciliada no exterior;
-    • serviços de hospedagem prestados no Brasil a residente no exterior.
+    * serviços educacionais presenciais prestados no Brasil a residente no exterior;
+    * capacitação no Brasil de funcionários de pessoa jurídica domiciliada no exterior;
+    * empresa estrangeira envia equipamento para reparo no Brasil;
+    * serviços médicos especializados prestados no Brasil a residente no exterior;
+    * serviços de manuseio de cargas e contêineres prestados no Brasil a pessoa jurídica domiciliada no exterior;
+    * serviços de hospedagem prestados no Brasil a residente no exterior.
 
  
 
@@ -237,18 +237,22 @@ Exemplos:
 Modo 3 - Presença comercial no exterior: consiste na prestação de serviço por pessoa jurídica domiciliada no exterior relacionada a uma pessoa jurídica domiciliada no Brasil. Para fins do Siscoserv, considera-se relacionada à pessoa jurídica domiciliada no Brasil a sua filial, sucursal ou controlada, domiciliada no exterior. 
 
 Exemplos:
-    • filial de empresa brasileira de construção estabelecida no exterior para execução de obra; 
-    • filiais bancárias no exterior de banco brasileiro;
-    • controlada de empresa brasileira de tecnologia da informação no exterior.
-
- 
-
+    * filial de empresa brasileira de construção estabelecida no exterior para execução de obra; 
+    * filiais bancárias no exterior de banco brasileiro;
+    * controlada de empresa brasileira de tecnologia da informação no exterior.
 
 Modo 4 – Movimento temporário de pessoas físicas: residentes no Brasil deslocam-se por tempo limitado ao exterior com vistas a prestar um serviço a residente ou domiciliado no exterior. 
 
 Exemplos:
-    • arquiteto residente no Brasil desloca-se para desenvolver projeto de arquitetura no exterior;
-    • empreiteiras domiciliadas no Brasil enviam trabalhadores que mantêm vínculo empregatício no Brasil para construção de uma rodovia no exterior;
-    • advogado residente no Brasil desloca-se para o exterior a fim de prestar consultoria jurídica.
+    * arquiteto residente no Brasil desloca-se para desenvolver projeto de arquitetura no exterior;
+    * empreiteiras domiciliadas no Brasil enviam trabalhadores que mantêm vínculo empregatício no Brasil para construção de uma rodovia no exterior;
+    * advogado residente no Brasil desloca-se para o exterior a fim de prestar consultoria jurídica.
 
 
+Devem registrar operações em Modo 4 no Módulo Venda do Siscoserv:
+
+a. as pessoas físicas residentes no Brasil, sem vínculo empregatício com pessoa física ou jurídica residente ou domiciliada no Brasil, quando se desloquem temporariamente a um país estrangeiro com vistas a prestar um serviço a um residente ou domiciliado no exterior (por exemplo, os profissionais independentes);
+
+b. as pessoas jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física residente no Brasil, com vínculo empregatício ou por meio de terceirização, para a prestação de serviço a residentes ou domiciliados no exterior (por exemplo, prestadores de serviços por contrato ou visitantes de negócios).
+
+Não deverão registrar operações em Modo 4 no Siscoserv as Pessoas Jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física para exercer vínculo empregatício com Pessoa Jurídica no exterior a ela relacionada (por exemplo, transferido intracorporação). 
