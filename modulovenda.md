@@ -150,6 +150,7 @@ Caso a pessoa jurídica domiciliada no Brasil mantenha, no exterior, mais de uma
 # 4.4.1. Prazo para o RPC
 
 A prestação das informações no RPC deve ser realizada anualmente, a partir de 2014, em relação ao ano-calendário anterior, até o último dia útil do mês de junho do ano subsequente à realização de operações por meio de presença comercial no exterior relacionada à pessoa jurídica domiciliada no Brasil.
+<img src="https://github.com/mdicgovbr/pagina-manuais/blob/master/img/12aEdicaoManualModuloVenda_versao%20final_html_abef73f2dca707da.png"/>
 
 # 5. Quem deve efetuar registro no Siscoserv – Módulo Venda
 
