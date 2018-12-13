@@ -52,12 +52,6 @@ Caso o contrato envolva mais de um adquirente deve ser registrado um RVS por adq
 
 As operações de prestação de serviços previstas em contratos de garantia decorrentes da venda de bens ou serviços2 realizadas a residentes e domiciliados no exterior devem ser registradas quando ensejarem faturamento.
 
-**___________________________________**
-
-¹ Neste caso, leia-se “prestação de serviços” como “prestação de serviços, transferência de intangível e realização de outras operações que produzam variações no patrimônio”. 
-
-² Neste caso, leia-se “bens ou serviços” como “bens, mercadorias, serviços, intangíveis ou outras operações que produzam variações no patrimônio”
-
 # 4.1.1. Prazo para o RVS
 
 O prazo para incluir o RVS é até o último dia útil do 3o (terceiro) mês subsequente à data de início da prestação de serviço.
@@ -256,3 +250,134 @@ a. as pessoas físicas residentes no Brasil, sem vínculo empregatício com pess
 b. as pessoas jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física residente no Brasil, com vínculo empregatício ou por meio de terceirização, para a prestação de serviço a residentes ou domiciliados no exterior (por exemplo, prestadores de serviços por contrato ou visitantes de negócios).
 
 Não deverão registrar operações em Modo 4 no Siscoserv as Pessoas Jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física para exercer vínculo empregatício com Pessoa Jurídica no exterior a ela relacionada (por exemplo, transferido intracorporação). 
+
+# 9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS)
+
+O registro de operações no Siscoserv será realizado de acordo com a Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS) e pelas respectivas Notas Explicativas (NEBS), aprovadas pelo Decreto no 7.708, de 2 de abril de 2012, e suas alterações posteriores.
+
+ 
+A prestação de serviços1 iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela Portaria Conjunta RFB / SCS nº 1.820, de 2014.
+
+A prestação de serviços2 iniciada a partir de 1º de janeiro de 2019 devem ser registradas tendo por base a Portaria Conjunta RFB / SCS nº nº 1.429, de 2018, que produz efeitos a partir de 1º de janeiro de 2019.
+
+Esse registro deverá observar as seguintes regras gerais para interpretação da NBS:
+
+
+Regra 1. Os títulos das Seções e Capítulos têm apenas valor indicativo. Para os efeitos legais, a classificação do serviço, intangível ou outra operação que produza variação no patrimônio é determinada pelos textos das posições e das Notas de Seção e de Capítulo quando houver e, desde que não sejam contrárias aos textos das referidas posições e Notas, pelas Regras seguintes.
+
+Regra 2. Quando aparentar que o serviço, intangível ou outra operação que produza variações no patrimônio pode ser classificado em duas ou mais posições, a classificação efetuar-se-á da seguinte forma:
+
+2a) A posição mais específica prevalece sobre a mais genérica. Todavia, quando duas ou mais posições se referirem, cada uma delas, a apenas um dos serviços, intangíveis ou outras operações que produzam variações no patrimônio que constituam o objeto a ser classificado, tais posições devem ser consideradas como igualmente específicas, ainda que uma dessas posições apresente uma descrição mais precisa ou completa desse objeto.
+
+2b) Quando a Regra 2a) não permitir efetuar a classificação, o serviço, intangível ou outra operação que produza variações no patrimônio classificar-se-á na posição situada em último lugar na ordem numérica, dentre as suscetíveis de serem consideradas válidas.
+
+Regra 3. A classificação de serviços, intangíveis e outras operações que produzam variações no patrimônio nas subposições de uma mesma posição é determinada, para efeitos legais, pelos textos dessas subposições e, quando houver, das Notas de Subposição respectivas, assim como, "mutatis mutandis", pelas Regras precedentes, entendendo-se que apenas são comparáveis subposições do mesmo nível. Para os fins da presente Regra, as Notas de Seção e de Capítulo são também aplicáveis, salvo disposições em contrário.
+
+Regra 4. As Regras anteriores aplicar-se-ão, "mutatis mutandis", para determinar dentro de cada posição ou subposição, o item aplicável e, dentro deste último, o subitem correspondente, entendendo-se que apenas são comparáveis desdobramentos (itens e subitens) do mesmo nível.
+
+No contexto do Siscoserv e da Nomenclatura Brasileira de Serviços, são exemplos de:
+
+1) Serviços: serviços de construção; serviços de transporte de cargas; serviços de concessão de crédito; serviços de pesquisa e desenvolvimento; serviços de consultoria; serviços de auditoria; serviços de gerenciamento de redes; serviços fotográficos; serviços de arquitetura e serviços de saúde humana. 
+
+2) Intangíveis: licenciamento de direitos de autor e direitos conexos; licenciamento de direitos sobre a propriedade industrial; cessão de direitos de autor e direitos conexos; cessão de direitos sobre a propriedade industrial.
+
+3) Outras operações que produzam variações no patrimônio: fornecimento de refeições; fornecimento de bebidas em bares, cervejarias e outros e arrendamento mercantil financeiro de máquinas e equipamentos.
+
+O usuário deve informar o código de acordo com a Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS).
+
+O código na Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS) é composto por nove dígitos, sendo que sua significância, da esquerda para a direita, é: 
+
+a) o primeiro dígito, da esquerda para a direita, é o número 1 e é o indicador que o código que se segue se refere a um serviço, intangível ou outra operação que produz variação no patrimônio;
+
+b) o segundo e o terceiro dígitos indicam o Capítulo da NBS;
+
+c) o quarto e o quinto dígitos, associados ao primeiro e ao segundo dígitos, representam a posição dentro de um Capítulo; 
+
+d) o sexto e o sétimo dígitos, associados aos cinco primeiro dígitos, representam, respectivamente, as subposições de primeiro e de segundo nível; 
+
+e) o oitavo dígito é o item; e
+
+f) o nono dígito é o subitem.
+
+A sistemática de classificação dos códigos da NBS obedece à seguinte estrutura:
+Exemplo: 
+O código 1.1403.21.10, onde se classificam os “serviços de engenharia de projetos de construção residencial” deve ser entendido, da esquerda para a direita, da forma que se segue:
+
+a) o algarismo 1, da esquerda para a direita, sinaliza que se trata de código que se aloja na NBS;
+
+b) o segundo e o terceiro dígitos (14) informa que o código em tela está no Capítulo 14, dedicado aos “Outros Serviços Profissionais”;
+
+c) o quarto e o quinto, da esquerda para a direita (03), associados ao primeiro, segundo e terceiro dígitos, separados por um ponto, (1.14) assinala que a terceira posição do Capítulo 14 é ocupada pelos “serviços de engenharia”;
+
+d) o sexto e o sétimo dígitos, da esquerda para a direita, indicam, respectivamente, as subposições de primeiro e segundo nível (21);
+
+e) o oitavo dígito (1) diz que há item no código; e
+
+f) o nono dígito (0) informa que o item não foi desdobrado (se o fosse, então o algarismo deveria ser diferente de zero).
+
+Dessa maneira, fica claro que nem sempre o código NBS se apresenta totalmente desdobrado, isto é, um algarismo diferente de zero para subitem como, por exemplo:
+
+|1.0119.10.00|Serviços de construção de estruturas de prédios|
+|------------|-------------------------------------------------------------|
+|1.0606.10.00|Serviços de operação de aeroportos, exceto manuseio de cargas|
+|1.0905.91.00|Serviços de consultoria financeira  |
+|1.2206.19.10|Serviços de palestras e conferências|
+
+O usuário pode informar diretamente o código, ou localizá-lo acionando a ferramenta de busca: ![](#), situada ao lado do campo Código NBS. 
+
+Na informação do código NBS, a posição mais específica prevalece sobre a mais genérica, sendo que o código só pode ser informado em seu maior nível de detalhamento (nove dígitos). 
+
+
+Exemplo 1:
+Código NBS
+Capítulo 1: 1.01
+Posição: 1.0105
+Subposição N1: 1.0105.1
+Subposição N2: 1.0105.11
+
+Como, para esse código, não há desdobramentos além do nível Subposição N2, os dígitos faltantes são preenchidos com 0, até que se complete 9 dígitos.
+
+Código a ser informado: 1.0105.11.00
+
+
+Exemplo 2:
+Capítulo 1: 1.07
+Posição: 1.0702
+
+Como, para esse código, não há desdobramentos além do nível Posição, os dígitos faltantes são preenchidos com 0, até que se complete 9 dígitos.
+
+Código a ser informado: 1.0702.00.00
+
+
+Para utilizar a ferramenta de busca:
+
+1-   no campo Código NBS, acionar botão ;
+2-   é aberta a janela Seleção de Código NBS para realização da busca do código;
+3-  o usuário pode optar por Utilizar Pesquisa por Código ou Utilizar Pesquisa por Descrição:
+
+
+Utilizar Pesquisa por Código: o usuário deve selecionar o código, expandindo os níveis “Capítulo”, “Posição”, “Subposição”, “Item” e “Subitem”, conforme o caso. Uma vez identificado o código NBS, acionar.
+
+**___________________________________**
+
+[1] Neste caso, leia-se “prestação de serviços” como “prestação de serviços, transferência de intangível e realização de outras operações que produzam variações no patrimônio”. 
+
+[2] Neste caso, leia-se “bens ou serviços” como “bens, mercadorias, serviços, intangíveis ou outras operações que produzam variações no patrimônio”
+
+[3] Neste caso, leia-se “prestação de serviços” como “prestação de serviços, transferência de intangível e realização de outras operações que produzam variações no patrimônio”.
+
+[4] Neste caso, leia-se “venda de serviços” como “venda de serviços, transferência de intangível ou realização de outras operações que produzam variações no patrimônio”.
+
+[5] Neste caso, leia-se “venda de serviços” como “venda de serviços, transferência de intangível ou realização de outras operações que produzam variações no patrimônio”.
+
+[6] Neste caso, leia-se “prestação de serviços”, como “prestação de serviços, transferência de intangível e realização de outras operações que produzam variações no patrimônio”.
+
+[7] Idem Nota 2
+
+[8] Idem Nota 2
+
+[9] Aprovado pelo Decreto Legislativo nº 30, de 15 de dezembro de 1994, e promulgado pelo Decreto nº 1.355, de 30 de dezembro de 1994.
+
+[10] Neste caso, leia-se “prestação de serviços”, como “prestação de serviços, transferência de intangível e realização de outras operações que produzam variações no patrimônio”.
+
+[11] Idem 10
