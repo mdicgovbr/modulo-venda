@@ -352,11 +352,241 @@ Código a ser informado: 1.0702.00.00
 Para utilizar a ferramenta de busca:
 
 1-   no campo Código NBS, acionar botão ;
+
 2-   é aberta a janela Seleção de Código NBS para realização da busca do código;
+
 3-  o usuário pode optar por Utilizar Pesquisa por Código ou Utilizar Pesquisa por Descrição:
 
 
+
 Utilizar Pesquisa por Código: o usuário deve selecionar o código, expandindo os níveis “Capítulo”, “Posição”, “Subposição”, “Item” e “Subitem”, conforme o caso. Uma vez identificado o código NBS, acionar.
+
+![](#)
+
+Utilizar Pesquisa por Descrição: no campo Descrição, informe termo que identifique o serviço, acione Pesquisar, selecione com um clique um dos códigos NBS localizados, acione Confirmar. 
+
+Em caso de dúvidas sobre classificação da NBS, consulte as Regras de Interpretação da NBS, bem como suas Notas Explicativas (NEBS). 
+
+Caso persistam dúvidas, deve ser formalizado processo administrativo de consulta à Secretaria da Receita Federal do Brasil (RFB), nos termos do art. 48 da Lei no 9.430, de 27 de dezembro de 1996 e do Decreto no 7.708, de 02 de abril de 2012, que instituiu a NBS.
+
+
+# 10 Mecanismos de apoio / fomento ao Comércio Exterior de Serviços e Intangíveis
+
+A informação sobre Mecanismo de apoio/fomento no Siscoserv tem a finalidade de contribuir para  a gestão do fomento pelos órgãos e instituições responsáveis pela sua concessão. Esta informação deve ser registrada em cumprimento ao previsto no art. 26 da Lei no 12.546, de 14 de dezembro de 2011.
+
+O campo enquadramento deve ser obrigatoriamente preenchido no caso de operação amparada em um ou mais mecanismos de apoio/fomento ao comércio exterior de serviços, intangíveis e às outras operações que produzam variação no patrimônio. 
+
+O órgão ou a entidade da administração pública que tenha atribuição legal de regulação, normatização, controle ou fiscalização de mecanismo de apoio/fomento, sem prejuízo de legislação específica, utilizará as informações da operação, relacionadas à sua área de competência, para verificação do adimplemento das condições necessárias à fruição daquele mecanismo sob sua gestão.  
+
+A concessão ou o reconhecimento de cada mecanismo condiciona-se ao registro das operações no Siscoserv. 
+
+No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de serviços, os definidos na seguinte lista exaustiva:
+
+# 10.1 - Mecanismos de Apoio / Fomento (Enquadramento) no RVS do Módulo Venda:
+
+Mecanismos de Apoio/Fomento
+Medida Legal
+ACC - Adiantamento sobre Contrato de Câmbio – Redução a Zero do IR e do IOF. 
+
+Antecipação parcial ou total em reais relativa ao preço da moeda estrangeira vendida ao banco autorizado a operar no mercado de câmbio, pelo exportador, para entrega futura. O ACC é concedido antes da prestação do serviço a residente ou domiciliado no exterior.
+
+Decreto no 6.306, de 14 de dezembro de 2007, art. 8º
+Circular BCB nº 3.691, de 16 de dezembro de 2013, arts. 65 a 68
+Portaria MDIC nº 210, de 31 de agosto de 2012
+
+ACE – Adiantamento sobre Cambiais Entregues - Redução a Zero do IR e do IOF. 
+
+Antecipação parcial ou total em reais relativa ao preço da moeda estrangeira vendida ao banco autorizado a operar no mercado de câmbio, pelo exportador, para entrega futura. O ACE é concedido após a prestação de serviço a residente ou domiciliado no exterior e geralmente sucede uma  operação prévia de ACC.
+
+Decreto no 6.306, de 14 de dezembro de 2007, art. 8º
+ Circular BCB nº 3.691 de 16 de dezembro de 201, arts. 65 a 68
+Portaria MDIC no 210, de 31 de agosto de 2012
+
+BNDES-Exim Pós-Embarque – Serviços
+
+Financiamento à comercialização de serviços nacionais no exterior, através da modalidade supllier’s credit (refinanciamento ao exportador) ou através da modalidade buyer’s credit (financiamento direto ao importador).
+
+CIRCULAR AEX nº 8/2015, de 27 de julho de 2015
+http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/posemb.html
+
+BNDES-Exim Pré-Embarque - Serviços
+
+Financiamento à produção nacional de serviços a serem exportados.
+
+CIRCULAR AEX nº 11/2015, de 23 de outubro de 2015
+http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/preemb.html
+FGE - Fundo de Garantia à Exportação 
+
+Garantia prestada pela União nas operações de Seguro de Crédito à Exportação (SCE), que objetiva segurar as exportações brasileiras contra os riscos comerciais, políticos e extraordinários que possam afetar as transações econômicas e financeiras vinculadas a operações de crédito à exportação.
+
+Lei nº 6.704, de 26 de outubro de 1979
+Lei no 9.818, de 23 de agosto de 1999
+Maiores informações em FGE.
+PROEX - EQUALIZAÇÃO 
+
+Cobertura de parte dos encargos financeiros incidentes, de forma a tornar as taxas de juros equivalentes às praticadas internacionalmente.
+
+Lei no 10.184, de 12 de fevereiro de 2001
+Portaria MDIC no 208, de 20 de outubro de 2010
+
+PROEX - Financiamento 
+
+Financiamento direto ao exportador brasileiro ou importador, com recursos financeiros obtidos junto ao Tesouro Nacional, para conceder às exportações brasileiras condições equivalentes às do mercado internacional. 
+
+Lei no 10.184, de 12 de fevereiro de 2001
+Portaria MDIC no 208, de 20 de outubro de 2010
+
+
+
+# 10.2 - Mecanismos de Apoio / Fomento (Enquadramento) no RPC do Módulo Venda:
+
+MECANISMO
+Medida Legal
+BNDES-Exim Pós-Embarque – Serviços
+
+Financiamento à comercialização de serviços nacionais no exterior, através da modalidade supllier’s credit (refinanciamento ao exportador) ou através da modalidade buyer’s credit (financiamento direto ao importador).
+
+CIRCULAR AEX nº 8/2015, de 27 de julho de 2015. 
+http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/posemb.html
+
+FGE - Fundo de Garantia à Exportação 
+
+Garantia prestada pela União nas operações de Seguro de Crédito à Exportação (SCE), que objetiva segurar as exportações brasileiras contra os riscos comerciais, políticos e extraordinários que possam afetar as transações econômicas e financeiras vinculadas a operações de crédito à exportação.
+
+Lei no 9.818, de 23 de agosto de 1999
+Maiores informações em FGE.
+PROEX - EQUALIZAÇÃO 
+
+Cobertura de parte dos encargos financeiros incidentes, de forma a tornar as taxas de juros equivalentes às praticadas internacionalmente.
+
+Lei no 10.184, de 12 de fevereiro de 2001
+Portaria MDIC no 208, de 20 de outubro de 2010
+
+PROEX - Financiamento 
+
+Financiamento direto ao exportador brasileiro ou importador, com recursos financeiros obtidos junto ao Tesouro Nacional, para conceder às exportações brasileiras condições equivalentes às do mercado internacional. 
+
+Lei no 10.184, de 12 de fevereiro de 2001
+Portaria MDIC no 208, de 20 de outubro de 2010
+
+
+# 11. Informações e canais de atendimento
+
+Os Manuais são publicados pela Comissão do Siscoserv para contribuir com a orientação em relação aos aspectos normativos e operacionais relacionados ao Sistema.
+
+Para dúvidas adicionais, estão disponíveis os seguintes canais de atendimento:
+
+    • Dúvidas gerais sobre registros:
+
+O canal para dirimir dúvidas gerais referentes ao Siscoserv, e que não estejam contempladas neste Manual, é o COMEX Responde: http://www.comexresponde.gov.br/. Ao acessar o site, o usuário deve buscar no menu de Assuntos Gerais o tema “Sistemas e Ferramentas de Apoio”. Em seguida, no menu de Assuntos Específicos, o usuário deve escolher "Siscoserv". Após digitar sua mensagem no campo de Mensagem, basta inserir o Código de Verificação e clicar em Enviar.
+
+
+    • Dúvidas sobre o Acesso e Aspectos Técnicos do Siscoserv: 
+
+Em caso de erros ou falhas apresentados pelo Sistema, estão disponíveis os canais do SERPRO para diagnóstico e correção:
+- Formulário: http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior;
+- Email: css.serpro@serpro.gov.br; ou
+- Fone: 0800-978-2331. 
+
+    • Dúvidas sobre classificação de serviços, intangíveis e outras operações que produzam variações no patrimônio: 
+
+Deve ser realizada consulta às Regras de Interpretação da Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio – NBS, bem como às suas Notas Explicativas (NEBS), disponíveis nos seguintes endereços eletrônicos: 
+http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13
+http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/nbs-nomenclatura-brasileira-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio
+
+Caso persistam dúvidas, deve ser formalizado processo administrativo de consulta à Secretaria da Receita Federal do Brasil (RFB), nos termos do art. 48 da Lei no 9.430, de 27 de dezembro de 1996 e do Decreto no 7.708, de 02 de abril de 2012, que instituiu a NBS.
+
+    • Dúvidas sobre registro no Siscoserv: 
+
+Deverão ser consultados os Manuais Informatizados dos Módulos Venda e Aquisição do Siscoserv no sítio da Secretaria da Receita Federal do Brasil (RFB) na Internet, no endereço <http://www.receita.fazenda.gov.br> e no sítio da Secretaria de Comércio e Serviços (SCS) na Internet, no endereço http://www.mdic.gov.br, bem como disponibilizados no Sistema.
+
+Também está disponível no sítio da Secretaria de Comércio e Serviços (SCS) uma sessão de Perguntas Frequentes que pode ser acessada por meio do seguinte endereço eletrônico: http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-6
+
+    • Dúvidas sobre casos concretos – Consultas à Secretaria da Receita Federal do Brasil 
+
+A consulta é o instrumento previsto na Instrução Normativa RFB n º 1.396, de 16 de setembro de 2013 que o contribuinte possui para esclarecer dúvidas quanto à interpretação de determinado dispositivo da legislação tributária e aduaneira relativo aos tributos administrados pela Secretaria da Receita Federal do Brasil (RFB) e sobre a classificação de serviços, intangíveis e outras operações que produzam variações no patrimônio. 
+
+Devido às possíveis implicações tributárias, as dúvidas concretas referentes às necessidades de registro, à responsabilidade pelo registro, à classificação NBS, às multas e aos prazos, entre outras, deverão ser formalizadas mediante consulta à RFB, a qual dará origem a uma Solução de Consulta ou a uma Solução de Divergência. Importante destacar a necessidade de expor com detalhes a circunstância, examinando a questão face ao preceito legal que lhe é pertinente.
+
+A Solução de Consulta e a Solução de Divergência, a partir da data de sua publicação, têm efeito vinculante no âmbito da RFB, respaldam o sujeito passivo que as aplicar (mesmo que não seja o consulente), desde que se enquadre na hipótese por elas abrangida, sem prejuízo de que a autoridade fiscal, em procedimento de fiscalização, verifique seu efetivo enquadramento. 
+
+Maiores informações sobre as Consultas estão disponíveis em:
+http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/consulta-sobre-interpretacao-da-legislacao-tributaria.
+
+    • Dúvidas sobre a legislação relativa ao Siscoserv: 
+
+A legislação relativa ao Siscoserv encontra-se disponível nos endereços: 
+http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4
+http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/siscoserv-sist-integrado-de-com-exterior-int-e-outras-operacoes-prod-var-patrim/siscoserv-sistema-integrado-de-comercio-exterior-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio
+
+
+Além dos canais disponíveis, o usuário pode tirar dúvidas em eventos relacionados ao Siscoserv. A divulgação dos eventos é realizada na seção “Notícias” do sistema. 
+
+# 12. Glossário
+
+Esse glossário foi desenvolvido para facilitar o entendimento dos conceitos presentes nos registros do SISCOSERV.
+
+Admissão Temporária: regime aduaneiro especial que permite a importação de bens que devam permanecer no País durante prazo e finalidade fixados, com suspensão de tributos na importação, retornando ao exterior sem sofrer modificações que lhes confiram nova individualidade. Também poderão ser submetidos a este regime bens destinados à prestação de serviços ou a produção de outros bens, desde que com o pagamento proporcional dos impostos federais incidentes na importação, de acordo com o tempo de permanência no País.
+
+Data de início da prestação de serviço: é a data acordada entre residente e domiciliado no Brasil, e residente e domiciliado no exterior em contrato (formal ou não) para o início da prestação do serviço; para a transferência de intangível; e para a realização de operação que produza variação no patrimônio.
+Declaração de Importação (DI): é um documento eletrônico exigido na importação de bens, cujo processamento ocorre através do Sistema Integrado de Comércio Exterior – Siscomex–Importação. A DI consolida as informações cambiais, tributárias, fiscais, comerciais e estatísticas da operação. 
+Empresa Controlada: Considera-se controlada a sociedade na qual a controladora, diretamente ou através de outras controladas, é titular de direitos de sócio que lhe assegurem, de modo permanente, preponderância nas deliberações sociais e o poder de eleger a maioria dos administradores.
+Mecanismo de Apoio/Fomento: Mecanismos de apoio ou fomento de diversas naturezas (promocional, tributária, creditícia e financeira) a operações de comércio exterior de serviços, intangíveis e outras operações que produzam variações no patrimônio.
+Ente Despersonalizado: trata-se um termo da doutrina jurídica para se referir aos entes que não possuem denominação legal específica, mas que podem, nos termos do art. 12 do Código de Processo Civil Brasileiro, ser representados em juízo, ativa e passivamente.  São entes despersonalizados: a massa falida, a herança jacente ou vacante, o espólio, as sociedades sem personalidade jurídica e o condomínio.
+Exportação Temporária: regime aduaneiro especial que permite a saída do País, com suspensão do imposto de exportação, de mercadoria nacional ou nacionalizada, condicionada ao seu retorno em prazo determinado, no mesmo estado em que foi exportada.
+
+Serviço: É uma obrigação de fazer do prestador, destinada a atender uma necessidade do tomador.
+Intangível: Serão considerados os seguintes intangíveis para fins do registro no SISCOSERV:
+I - o licenciamento (autorização para usar ou explorar comercialmente direito patrimonial) e a cessão, temporária ou definitiva, dos direitos de propriedade intelectual objeto das Seções 1 a 7 da Parte II do Acordo sobre os Aspectos dos Direitos de Propriedade Intelectual Relacionados ao Comércio, conforme o Anexo 1C do Acordo Constitutivo da Organização Mundial do Comércio constante da Ata Final que incorpora os Resultados das Negociações Comerciais Multilaterais da Rodada Uruguai, aprovada pelo Decreto no 1.355, de 31 de dezembro de 1994;
+
+II - os contratos de transferência de tecnologia envolvendo a prestação de serviços de assistência técnica e científica, combinadamente ou não, e o fornecimento da tecnologia – know how;
+
+III - os contratos de franquia;
+
+IV - a exploração dos recursos naturais e o licenciamento dos direitos sobre conhecimento tradicional; e 
+
+V - o licenciamento dos direitos relativos ao acesso a recursos genéticos.
+
+Informações adicionais podem ser obtidas nas Notas Explicativas dos Capítulos 11 e 27 da Nomenclatura Brasileira de Serviços, Intangíveis e outras Operações que Produzam Variações no Patrimônio – NBS.
+Movimentação Temporária de Bens: A movimentação temporária de bens ocorre tanto na importação (Admissão Temporária) quanto na exportação (Exportação Temporária).
+Negócio: operação ou conjunto de operações integrantes do contrato de prestação de serviços; da transferência ou da aquisição do intangível; e da realização de operação(ões) que produza(m) variação(ões) no patrimônio.
+
+NIF – Número de Identificação Fiscal: É o número fornecido pelo órgão de administração tributária no exterior indicador de pessoa física ou jurídica.
+
+Operação: conjunto de dados que caracterizam a prestação de um serviço, a transferência ou aquisição de intangível e a realização de operação que produza variação no patrimônio. 
+
+No RVS, são dados de uma operação: Código da NBS, Descrição da NBS, Código e País de Destino; Código e Descrição da Moeda; Modo de Prestação; Data de Início; Data de Conclusão; Valor e, se for o caso, Mecanismo de apoio/fomento.
+
+No RPC são dados de uma operação: Código da NBS, Descrição da NBS e Valor Faturado. Os dados de uma operação no RPC só devem ser preenchidos quando a operação for amparada por mecanismo de fomento ao comércio exterior de serviços, ou seja, quando for preenchido o campo Mecanismo de apoio/fomento.
+
+
+Outras Operações que Produzam Variações no Patrimônio: São operações classificadas na NBS que não se enquadram como serviços nem como intangíveis. 
+
+São exemplos: 
+- Operações que envolvem simultaneamente a prestação de serviço e o fornecimento de mercadoria, em que incidem o ICMS e o ISS, como Fornecimento de alimentos – código NBS 1.0301;
+- Operações de arrendamento mercantil financeiro, código NBS 1.0901.5; 
+- Arrendamento mercantil operacional, código NBS 1.1101 e 1.1102; 
+- Contratos de franquias, código NBS 1.1110.30.00; e 
+- Fomento comercial (factoring), código NBS 1.0908.00.00.
+
+Registro de Exportação (RE): no Sistema Integrado de Comércio Exterior - Siscomex é o conjunto de informações de natureza comercial, financeira, cambial e fiscal que caracterizam a operação de exportação de uma mercadoria e definem o seu enquadramento.
+
+Residente no Brasil: Considera-se residente no Brasil a pessoa física (Lei no 9.718, de 27 de novembro de 1998, art. 12; Instrução Normativa SRF no 208, de 27 de setembro de 2002, art. 2o, com a alteração dada pela Instrução Normativa RFB no 1.008, de 9 de fevereiro de 2010) : 
+
+I - que resida no Brasil em caráter permanente;
+II - que se ausente para prestar serviços como assalariada a autarquias ou repartições do Governo brasileiro situadas no exterior;
+III - que ingresse no Brasil: 
+a) com visto permanente, na data da chegada;
+b) com visto temporário: 
+1. para trabalhar com vínculo empregatício, na data da chegada;
+2. na data em que complete 184 dias, consecutivos ou não, de permanência no Brasil, dentro de um período de até doze meses;
+3. na data da obtenção de visto permanente ou de vínculo empregatício, se ocorrida antes de completar 184 dias, consecutivos ou não, de permanência no Brasil, dentro de um período de até doze meses;
+IV - brasileira que adquiriu a condição de não residente no Brasil e retorne ao País com ânimo definitivo, na data da chegada;
+V - que se ausente do Brasil em caráter temporário, ou se retire em caráter permanente do território nacional sem entregar a Comunicação de Saída Definitiva do País, durante os primeiros doze meses consecutivos de ausência.
+
+Valor Faturado: É o valor parcial ou total da operação objeto de registro de faturamento (nota fiscal de serviço, fatura comercial ou documento equivalente) ou do registro de presença comercial. Deverá ser registrado na moeda vigente do contrato (RVS) da prestação do serviço, intangível ou outra operação que produza variação no patrimônio ou em dólar dos Estados Unidos da América no caso de presença comercial relacionada à pessoa jurídica domiciliada no Brasil (RPC). 
+
+Valor Mantido no Exterior: refere-se aos recursos em moeda estrangeira, relativos aos recebimentos de serviços, intangíveis ou outras operações que produzam variações no patrimônio, mantidos no exterior, nos termos da Lei no 11.371/2006 e Instrução Normativa no 726, de 28 de fevereiro de 2007.
 
 **___________________________________**
 
