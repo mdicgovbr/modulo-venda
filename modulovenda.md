@@ -1,12 +1,15 @@
 # MANUAL MODULO VENDA 12ª. Edição
 
 ## Sumário
+<<<<<<< HEAD
 
 [**Capítulo 1**](#_30j0zll)
 
 [**Informações gerais e normativas sobre o Siscoserv**](#_1fob9te)
 
 [**1. Introdução**](#_1o97atn)
+=======
+>>>>>>> título mudado
 
 [**2. Base Legal do Siscoserv**](#_488uthg)
 
@@ -176,8 +179,17 @@
 <a id="_1fob9te"></a>
 # Informações gerais e normativas sobre o Siscoserv
 
+<<<<<<< HEAD
 <a id="_1o97atn"></a>
 ## 1. Introdução
+=======
+# **Capítulo 1**
+
+[]{#_1fob9te .anchor}**Informações gerais e normativas sobre o
+Siscoserv**
+
+**1. Introdução**
+>>>>>>> título mudado
 
 O Sistema Integrado de Comércio Exterior de Serviços,
 [Intangíveis](#haapch) e [Outras Operações que Produzam Variações no Patrimônio](#3tm4grq) (Siscoserv) é um sistema informatizado, desenvolvido pelo Governo Federal como ferramenta para o aprimoramento das ações de estímulo, formulação, acompanhamento e aferição das políticas públicas relacionadas a serviços e intangíveis,
