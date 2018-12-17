@@ -2367,7 +2367,7 @@ sujeito às sanções previstas no art. 7º ou no art.
 A decisão pode ser revista pelo usuário, clicando em **Atendimento à
 legislação** no *menu* lateral esquerdo na tela de **Resumo**.
 
-**1. Dados da Presença Comercial no Exterior**
+ **1. Dados da Presença Comercial no Exterior**
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image41.png)
 
@@ -2417,7 +2417,7 @@ No caso de filial e sucursal, o campo não é disponibilizado.
 Acione **Avançar** para validar os dados e seguir para a próxima tela
 **Dados do Negócio**.
 
-**2. Dados do Negócio**
+ **2. Dados do Negócio**
 
 Em dados do negócio, são incluídas informações relativas à venda de serviços, transferência de [intangíveis](#haapch) e realização de [[outras operações que produzam variação no patrimônio]{.underline}](#3tm4grq) pela presença comercial relacionada à
 pessoa jurídica domiciliada no Brasil.
@@ -2888,7 +2888,8 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
 
-<h3 id="_3kkl7fh"><strong>3.3. Excluir Lote</strong></h3>
+<a id="_3kkl7fh"></a>
+### 3.3. Excluir Lote
 
 Caso o usuário detecte, antes do processamento noturno dos lotes, que enviou um lote indevidamente, ele poderá exclui-lo. Para tal, é
 necessário que o *status* do lote ainda seja EP -- Em Processamento.
@@ -2899,12 +2900,14 @@ A partir da tela de listagem dos lotes enviados (veja [Consultar Lote](#_2lfnejv
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image110.png)
 
-<h3 id="_3ohklq9"><strong>3.4. Cumprimento de Prazos na Transferência em Lote</strong></h3>
+<a id="_3ohklq9"></a>
+### 3.4. Cumprimento de Prazos na Transferência em Lote
 
 Para fins de cumprimento dos prazos legais, o sistema adota a data e o horário informados na coluna **Data de Geração do Protocolo**, ou seja,
 a data em que os arquivos foram enviados para processamento. Vale ressaltar que a obrigação só é tempestivamente cumprida se os arquivos forem processados com sucesso (*status* PS), dentro dos prazos legais estabelecidos para os registros.
 
-<h2 id="_4jpj0b3"><strong>4. Relatório Gerencial</strong></h2>
+<a id="_4jpj0b3"></a>
+## 4. Relatório Gerencial    
 
 A funcionalidade **Relatório Gerencial** visa a atender uma solicitação dos usuários do Siscoserv com vistas a gerar um relatório sobre todas as operações registradas no sistema e, ainda, o *status* dessas informações.
 
