@@ -727,7 +727,7 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 +-----------------------------------+-----------------------------------+
 | **Mecanismos de Apoio/Fomento**   | **Medida Legal**                  |
 +===================================+===================================+
-| **ACC - Adiantamento sobre        | [[Decreto nº]{.underline}       |
+| **ACC - Adiantamento sobre        | [[Decreto nº]{.underline}         |
 | Contrato de Câmbio -- Redução a   | [6.306, de 14 de dezembro de      |
 | Zero do IR e do IOF. **           | 2007, art.                        |
 |                                   | 8º]{.underline}](http://www.plana |
@@ -746,7 +746,7 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 |                                   | l=1&pagina=143&totalArquivos=232) |
 +-----------------------------------+-----------------------------------+
 | **ACE -- Adiantamento sobre       | [[Decreto                         |
-| Cambiais Entregues - Redução a    | nº](http://www.planalto.gov.br/ |
+| Cambiais Entregues - Redução a    | nº](http://www.planalto.gov.br/   |
 | Zero do IR e do IOF. **           | ccivil_03/_Ato2007-2010/2007/Decr |
 |                                   | eto/D6306.htm)                    |
 | Antecipação parcial ou total em   | 6.306, de 14 de dezembro de 2007, |
@@ -757,7 +757,7 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 | entrega futura. O ACE é concedido | 68]{.underline}](http://www.bcb.g |
 | **após** a prestação de serviço a | ov.br/?CAMBIOREGULA)              |
 | residente ou domiciliado no       |                                   |
-| exterior e geralmente sucede uma  | [[Portaria MDIC nº]{.underline} |
+| exterior e geralmente sucede uma  | [[Portaria MDIC nº]{.underline}   |
 | operação prévia de ACC.           | [210, de 31 de agosto de          |
 |                                   | 2012]{.underline}](http://pesquis |
 |                                   | a.in.gov.br/imprensa/jsp/visualiz |
@@ -794,7 +794,7 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 | Garantia prestada pela União nas  | nalto.gov.br/ccivil_03/LEIS/L6704 |
 | operações de Seguro de Crédito à  | .htm)                             |
 | Exportação (SCE), que objetiva    |                                   |
-| segurar as exportações            | [[Lei nº]{.underline} [9.818,   |
+| segurar as exportações            | [[Lei nº]{.underline} [9.818,     |
 | brasileiras contra os riscos      | de 23 de agosto de                |
 | comerciais, políticos e           | 1999]{.underline}](http://www.pla |
 | extraordinários que possam afetar | nalto.gov.br/ccivil_03/leis/L9818 |
@@ -806,26 +806,26 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 |                                   | pt/Institucional/BNDES_Transparen |
 |                                   | te/Fundos/Fge/).                  |
 +-----------------------------------+-----------------------------------+
-| **PROEX - EQUALIZAÇÃO **          | [[Lei nº]{.underline} [10.184,  |
+| **PROEX - EQUALIZAÇÃO **          | [[Lei nº]{.underline} [10.184,    |
 |                                   | de 12 de fevereiro de             |
 | Cobertura de parte dos encargos   | 2001]{.underline}](http://www.pla |
 | financeiros incidentes, de forma  | nalto.gov.br/ccivil_03/Leis/LEIS_ |
 | a tornar as taxas de juros        | 2001/L10184.htm)                  |
 | equivalentes às praticadas        |                                   |
-| internacionalmente.               | [[Portaria MDIC nº]{.underline} |
+| internacionalmente.               | [[Portaria MDIC nº]{.underline}   |
 |                                   | [208, de 20 de outubro de         |
 |                                   | 2010]{.underline}](http://www.mdi |
 |                                   | c.gov.br/arquivos/dwnl_1287751168 |
 |                                   | .pdf)                             |
 +-----------------------------------+-----------------------------------+
-| **PROEX - Financiamento **        | [[Lei nº]{.underline} [10.184,  |
+| **PROEX - Financiamento **        | [[Lei nº]{.underline} [10.184,    |
 |                                   | de 12 de fevereiro de             |
 | Financiamento direto ao           | 2001]{.underline}](http://www.pla |
 | exportador brasileiro ou          | nalto.gov.br/ccivil_03/Leis/LEIS_ |
 | importador, com recursos          | 2001/L10184.htm)                  |
 | financeiros obtidos junto ao      |                                   |
 | Tesouro Nacional, para conceder   | [[Portaria MDIC                   |
-| às exportações brasileiras        | nº](http://www.desenvolvimento. |
+| às exportações brasileiras        | nº](http://www.desenvolvimento.   |
 | condições equivalentes às do      | gov.br/arquivos/dwnl_1307111964.p |
 | mercado internacional.            | df)                               |
 |                                   | 208, de 20 de outubro de 2010\    |
@@ -878,13 +878,13 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 |                                   | c.gov.br/arquivos/dwnl_1287751168 |
 |                                   | .pdf)                             |
 +-----------------------------------+-----------------------------------+
-| **PROEX - Financiamento **        | [[Lei nº]{.underline} [10.184,  |
+| **PROEX - Financiamento **        | [[Lei nº]{.underline} [10.184,    |
 |                                   | de 12 de fevereiro de             |
 | Financiamento direto ao           | 2001]{.underline}](http://www.pla |
 | exportador brasileiro ou          | nalto.gov.br/ccivil_03/Leis/LEIS_ |
 | importador, com recursos          | 2001/L10184.htm)                  |
 | financeiros obtidos junto ao      |                                   |
-| Tesouro Nacional, para conceder   | [[Portaria MDIC nº]{.underline} |
+| Tesouro Nacional, para conceder   | [[Portaria MDIC nº]{.underline}   |
 | às exportações brasileiras        | [208, de 20 de outubro de         |
 | condições equivalentes às do      | 2010]{.underline}](http://www.des |
 | mercado internacional.            | envolvimento.gov.br/arquivos/dwnl |
@@ -1852,7 +1852,7 @@ Cabe ressaltar ainda que os registros inseridos a partir de um arquivo de lote n
 manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apresentará a seguinte tela:
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
-
+**
 <strong id="_4cmhg48">2.1.2. Retificação do RVS</strong>
 
 O RVS ou o Aditivo ao RVS não podem ser cancelados, cabendo apenas retificações.
