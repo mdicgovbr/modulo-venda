@@ -1963,7 +1963,6 @@ Selecionada a opção **Informar o Número do RVS,** preencha o campo com o núm
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image63.png)
 
-Selecionada a opção **Exibir Lista de RVS Incluídos,** informe o número do aditivo que se deseja retificar e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
 do mais recente para o mais antigo. Acione o botão ![
 Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RVS desejado.
@@ -1971,17 +1970,6 @@ graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image61.png)
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image64.png)
-
-Após selecionar o RVS cujo aditivo se deseja retificar, o Sistema mostra a tela [**Dados do Negócio**](#2981zbj) do RVS selecionado, indicando as [operações](#upglbi) cadastradas no registro original e todos os termos aditivos. Há dois tipos de
-ícones: Visualizar -
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image50.png) e Alterar -
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image58.png). O ícone para alterar aparece apenas ao lado do aditivo que se deseja retificar, informado na tela anterior.
-
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image53.png)
-
-Ao clicar no ícone
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image58.png) o Sistema mostra a tela [**Dados do Negócio**](#2981zbj) do aditivo que se deseja retificar. O usuário deve efetuar o preenchimento, seguindo os passos descritos no tópico [**2.1.2 do Capítulo 2 deste Manual**](#_4cmhg48) --
-** Retificação do RVS.**
 
 Após conferir os dados retificados na tela **Resumo do RVS**, acione o botão **Incluir** para retificar o aditivo ao RVS. O Sistema retornará
 mensagem de confirmação de retificação do aditivo.
@@ -2408,8 +2396,7 @@ Acione **Avançar** para validar os dados e seguir para a próxima tela
 Em dados do negócio, são incluídas informações relativas à venda de serviços, transferência de [intangíveis](#haapch) e realização de [[outras operações que produzam variação no patrimônio]{.underline}](#3tm4grq) pela presença comercial relacionada à
 pessoa jurídica domiciliada no Brasil.
 
-![Tela RPC
-11](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image39.png)
+![Tela RPC11](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image39.png)
 
 **Ano da apuração**
 
