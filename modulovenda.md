@@ -266,8 +266,8 @@ data de início da prestação de serviço, da comercialização de intangível 
 
 **4.2. Registro de Faturamento (RF)**
 
-O RF do Siscoserv complementa o RVS com informações relativas ao faturamento a residentes ou domiciliados no exterior, pela venda de serviços[^4], bem como os demais custos e despesas incorridos para a efetiva prestação desses serviços. Neste registro são solicitados os seguintes dados: a data de emissão e o número da nota fiscal ou documento equivalente (inclusive nota de despesa), o [[valor faturado]{.underline}](#2szc72q) (valor parcial ou total do contrato,
-expresso na moeda informada no RVS), o [[valor mantido no exterior]{.underline}](#3s49zyc), bem como outros elementos pertinentes.
+O RF do Siscoserv complementa o RVS com informações relativas ao faturamento a residentes ou domiciliados no exterior, pela venda de serviços[^4], bem como os demais custos e despesas incorridos para a efetiva prestação desses serviços. Neste registro são solicitados os seguintes dados: a data de emissão e o número da nota fiscal ou documento equivalente (inclusive nota de despesa), o [valor faturado](#2szc72q) (valor parcial ou total do contrato,
+expresso na moeda informada no RVS), o [valor mantido no exterior](#3s49zyc), bem como outros elementos pertinentes.
 
 Para cada RVS deve ser registrado um RF, ainda que a nota fiscal tenha sido emitida em relação a mais de um negócio, ou seja, a mais de um RVS.
 Neste caso, o número da nota fiscal será repetido em cada RF.
