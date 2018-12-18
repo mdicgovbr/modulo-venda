@@ -1300,7 +1300,6 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco,
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas5.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image151.jpg)
 
-
 Existem outros Campos de preenchimento opcional. São campos de preenchimento opcional:
 
 > \- Endereço Web da Pessoa Física Vendedora;
@@ -1327,7 +1326,6 @@ Passo 4: Após a atualização das informações, o Usuário/Responsável clica 
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image146.jpg)
 
-
 []{#_3oy7u29 .anchor}
 
 **1.5.3. Caso 3 -- Usuário/Responsável pelo Registro é o próprio Vendedor**
@@ -1340,11 +1338,9 @@ possível efetuar novo registro antes de preencher os dados solicitados.]{.under
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image138.jpg)
 
-
 Passo 2: Seleciona a Opção "O usuário é o próprio Vendedor" e clica em Avançar;
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image165.jpg)
-
 
 Passo 3: O Sistema apresenta uma tela para a inserção dos Dados cadastrais.
 
@@ -1362,7 +1358,6 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco,
 > \- Endereço da Pessoa Física Vendedora;
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas7.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image158.jpg)
-
 
 Existem outros campos de preenchimento opcional:
 
@@ -1402,7 +1397,6 @@ localizado no sítio www.receita.fazenda.gov.br e, antes de validar o certificad
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image19.png)
 
-
 Nota: As telas podem apresentar configurações diferentes, dependendo do navegador de internet utilizado pelo usuário.
 
 Em seguida, o usuário clica no símbolo do **Certificado Digital @** e o Sistema solicitará a senha de validação do Certificado.
@@ -1441,16 +1435,10 @@ Para incluir um Registro de Venda de Serviços (RVS) é preciso acessar o
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image25.png)
 
-
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda de seu Certificado Digital.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image20.png)
-
-
 No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica deve informar o CPF ou CNPJ do vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [[procuração eletrônica]{.underline}](#_1yyy98l) do representado.
-
-Para iniciar a inclusão do registro, há duas opções: **Criar Novo RVS**
-ou **Aproveitar Dados de RVS Incluído**.
 
 Na opção **Criar Novo RVS**, os campos a serem preenchidos estarão em branco. Para usar essa opção, selecione **Criar Novo RVS** e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png)
 
@@ -1494,7 +1482,6 @@ Em seguida, o Siscoserv apresenta a seguinte tela:
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image13.png)
 
-
 O usuário deve indicar que as informações objeto de registro serão prestadas em atendimento aos arts. 25 e 26 da Lei nº
 12.546, de 14 de dezembro de 2011, à Portaria MDIC nº
 113, de 17 de maio de 2012, e à Instrução Normativa RFB nº 1.277 de 28 de junho de 2012.
@@ -1537,7 +1524,6 @@ Caso não seja informado o **NIF**, deve-se selecionar uma das opções de
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image16.png)
 
-
 Deve-se indicar se o adquirente é pessoa vinculada ao vendedor nos termos do [[art. 23 da Lei 9.430 de dezembro de
 1996]{.underline}](http://www.planalto.gov.br/ccivil_03/LEIS/L9430.htm#art23).
 
@@ -1546,7 +1532,6 @@ Deve-se indicar se o adquirente é pessoa vinculada ao vendedor nos termos do [[
 Caso o adquirente seja pessoa vinculada ao vendedor, selecione o tipo de vinculação.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image17.png)
-
 
 Acione **Avançar** para validar os dados e seguir para a próxima tela
 (**Dados do [Negócio](#40ew0vw)**).
@@ -1625,7 +1610,6 @@ A alteração da **Moeda** na primeira operação do registro altera a moeda das
 essa alteração não promove a conversão automática do valor em função da moeda alterada. Se for o caso, o usuário deve converter o valor de cada operação em função da nova moeda do registro.
 
 ![manual8ed\_enq01\_venda](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image30.png)
-
 
 [**Modo de Prestação:**](#_11bux6d)
 
@@ -1762,7 +1746,6 @@ Acione **Avançar** para seguir para o próximo passo.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image36.png)
 
-
 **Resumo do RVS**
 
 A tela **Resumo do RVS** traz as informações preenchidas pelo usuário para incluir o RVS.
@@ -1815,13 +1798,11 @@ Para incluir um Aditivo ao RVS, é preciso acessar o *menu* **Aditivo** e em seg
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image48.png)
 
-
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda do Certificado Digital do usuário.
 
 No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do Vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [[procuração eletrônica]{.underline}](#1s66p4f) do representado.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image29.png)
-
 
 Para incluir um aditivo a um registro, o usuário tem como opções:
 **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
