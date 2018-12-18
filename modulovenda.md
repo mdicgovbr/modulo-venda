@@ -260,30 +260,16 @@ O prazo para incluir o RVS é até o último dia útil do 3º
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image155.png)
 
-
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image155.png)
-
 Até 31 de dezembro de 2013, o prazo para o RVS foi, excepcionalmente,
 até o último dia útil do 6^[º]{.underline}^ (sexto) mês subsequente à
-data de início da prestação de serviço, da comercialização de intangível
-ou da realização de operação que produza variação no patrimônio.
-
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image148.png)
+data de início da prestação de serviço, da comercialização de intangível ou da realização de operação que produza variação no patrimônio.
 
 **4.2. Registro de Faturamento (RF)**
 
-O RF do Siscoserv complementa o RVS com informações relativas ao
-faturamento a residentes ou domiciliados no exterior, pela venda de
-serviços[^4], bem como os demais custos e despesas incorridos para a
-efetiva prestação desses serviços. Neste registro são solicitados os
-seguintes dados: a data de emissão e o número da nota fiscal ou
-documento equivalente (inclusive nota de despesa), o [[valor
-faturado]{.underline}](#2szc72q) (valor parcial ou total do contrato,
-expresso na moeda informada no RVS), o [[valor mantido no
-exterior]{.underline}](#3s49zyc), bem como outros elementos pertinentes.
+O RF do Siscoserv complementa o RVS com informações relativas ao faturamento a residentes ou domiciliados no exterior, pela venda de serviços[^4], bem como os demais custos e despesas incorridos para a efetiva prestação desses serviços. Neste registro são solicitados os seguintes dados: a data de emissão e o número da nota fiscal ou documento equivalente (inclusive nota de despesa), o [[valor faturado]{.underline}](#2szc72q) (valor parcial ou total do contrato,
+expresso na moeda informada no RVS), o [[valor mantido no exterior]{.underline}](#3s49zyc), bem como outros elementos pertinentes.
 
-Para cada RVS deve ser registrado um RF, ainda que a nota fiscal tenha
-sido emitida em relação a mais de um negócio, ou seja, a mais de um RVS.
+Para cada RVS deve ser registrado um RF, ainda que a nota fiscal tenha sido emitida em relação a mais de um negócio, ou seja, a mais de um RVS.
 Neste caso, o número da nota fiscal será repetido em cada RF.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image148.png)
@@ -3080,7 +3066,9 @@ As seguintes informações são disponibilizadas na planilha Excel dos **Relató
 *\* As informações acima servem para criar os vínculos entre registro,
 operação e fatura. Esses dados não têm nenhuma utilidade para operações transmitidas por lote.*
 
-<h3 id="_2d51dmb"><strong>4.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física</strong></h3>
+<a id="_2d51dmb"></a>
+
+### 4.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Relatório Gerencial;
 
@@ -3106,7 +3094,9 @@ Podem ser selecionadas as seguintes opções:
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [Relatórios Gerenciais RVS](#1e03kqp) (atentar que no 2º caso as informações do CPF do vendedor serão disponibilizadas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e [Relatórios Gerenciais RF](#3xzr3ei).
 
-<h3><strong id="_3c9z6hx">4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor</h3></strong>
+<a id="_3c9z6hx"></a>
+
+### 4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor
 
 
 Passo 1: Usuário/Responsável pelo Registro, que neste caso é o próprio vendedor, acessa o Siscoserv e clica em Relatório Gerencial;
