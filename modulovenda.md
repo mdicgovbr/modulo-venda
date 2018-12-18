@@ -728,6 +728,7 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 
 <a id="_1rvwp1q"></a>
 <a id="_2sioyqq"></a>
+
 ### 10.1. Mecanismos de Apoio / Fomento (Enquadramento) no RVS do Módulo Venda:
 
 +-----------------------------------+-----------------------------------+
