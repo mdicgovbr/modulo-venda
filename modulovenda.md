@@ -209,11 +209,11 @@ A prestação de informação no Siscoserv observa as normas complementares esta
 O Siscoserv conta com dois Módulos: **Venda e Aquisição**.
 
 No **Módulo Venda** devem ser registrados os serviços,
-[intangíveis](#haapch) e [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq), vendidos por
+[intangíveis](#haapch) e [outras operações que produzam variações no patrimônio](#3tm4grq), vendidos por
 [residentes](#1tuee74) ou domiciliados no País a residentes ou domiciliados no exterior. Este módulo abrange também o registro das operações realizadas por meio de presença comercial no exterior.
 
 No **Módulo Aquisição** devem ser registrados os serviços,
-[intangíveis](#haapch) e [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq), adquiridos por
+[intangíveis](#haapch) e [outras operações que produzam variações no patrimônio](#3tm4grq), adquiridos por
 [residentes](#1tuee74) ou domiciliados no País, de residentes ou domiciliados no exterior.
 
 Para maiores informações sobre o Modulo Aquisição acesse:
@@ -226,7 +226,7 @@ Para maiores informações sobre o Modulo Aquisição acesse:
 No Módulo Venda do Siscoserv estão previstos os seguintes registros:
 
 \- Registro de Venda de Serviços (RVS): contém dados referentes à venda,
-por [residente](#1tuee74) ou domiciliado no País, de serviços, [intangíveis](#haapch) e [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq), a residente ou domiciliado no exterior;
+por [residente](#1tuee74) ou domiciliado no País, de serviços, [intangíveis](#haapch) e [outras operações que produzam variações no patrimônio](#3tm4grq), a residente ou domiciliado no exterior;
 
 \- Registro de Faturamento (RF): contém dados referentes ao faturamento decorrente de venda objeto de prévio RVS; e
 
@@ -236,7 +236,7 @@ por [residente](#1tuee74) ou domiciliado no País, de serviços, [intangíveis](
 ### 4.1. Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS)
 
 O Registro de Venda de Serviços, [Intangíveis](#haapch) e
-[[Outras Operações que Produzam Variações no Patrimônio]{.underline}](#3tm4grq) (RVS) serve para informar a venda realizada por [residentes](#1tuee74) ou domiciliados no País a residentes ou domiciliados no exterior.
+[Outras Operações que Produzam Variações no Patrimônio](#3tm4grq) (RVS) serve para informar a venda realizada por [residentes](#1tuee74) ou domiciliados no País a residentes ou domiciliados no exterior.
 
 Estão obrigados a registrar as informações no Sistema aqueles relacionados no [[item]{.underline}](#_vx1227) 5 e dispensados de registro aqueles relacionados no item 6.
 
@@ -319,7 +319,7 @@ A operação cujo valor não seja conhecido por ocasião do seu registro em fun�
 
 **4.3.3. Operação com pessoas físicas residentes no exterior mediante consumo no Brasil:**
 
-As vendas de serviços, [intangíveis](#haapch) e [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq),
+As vendas de serviços, [intangíveis](#haapch) e [outras operações que produzam variações no patrimônio](#3tm4grq),
 em [modo de prestação 2](#1mrcu09) (consumo no Brasil),
 realizadas com pessoas físicas residentes no exterior, poderão ser registradas pelos seus montantes acumulados mensalmente, por NBS e por País do Adquirente. Nesse caso, a data de início será o primeiro dia do mês e a data de conclusão será o último dia do mês para as operações ocorridas nesse período. Exemplo: venda no Brasil de serviços de hospedagem para funcionário de empresa domiciliada no exterior.
 
@@ -378,7 +378,7 @@ Devem ser registradas no Siscoserv as operações realizadas por meio de presen�
 
 A responsabilidade de efetuar o Registro de Presença Comercial no Exterior (RPC) no Módulo Venda do Siscoserv é da pessoa jurídica domiciliada no Brasil que mantenha filial, sucursal ou
 [controlada](#2nusc19) domiciliada no exterior para a prestação de serviços, transferência de
-[intangíveis](#haapch) ou realização de [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq).
+[intangíveis](#haapch) ou realização de [outras operações que produzam variações no patrimônio](#3tm4grq).
 
 No RPC deve ser registrada a receita anual total de venda de serviço, de transferência de intangível e de realização de outra operação que produza variação no patrimônio, obtida por meio do estabelecimento de presença comercial no exterior de filial, sucursal ou
 [controlada](#2nusc19) relacionada à pessoa jurídica domiciliada no Brasil.
@@ -403,7 +403,7 @@ A prestação das informações no RPC deve ser realizada anualmente, a partir d
 Estão obrigados a registrar as informações no Sistema -- Módulo Venda,
 os [residentes](#1tuee74) ou domiciliados no Brasil que realizem, com residentes ou domiciliados no exterior,
 [operações](#upglbi) de venda de serviços,
-[intangíveis](#haapch) e [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq) das pessoas físicas, das pessoas jurídicas ou dos entes despersonalizados, inclusive operações de exportação de serviços.
+[intangíveis](#haapch) e [outras operações que produzam variações no patrimônio](#3tm4grq) das pessoas físicas, das pessoas jurídicas ou dos entes despersonalizados, inclusive operações de exportação de serviços.
 
 Estão obrigados a efetuar registro no Módulo Venda do Siscoserv:
 
@@ -413,7 +413,7 @@ II - a pessoa física ou jurídica, residente ou domiciliada no Brasil,
 que transfere o intangível, inclusive os direitos de propriedade intelectual, por meio de cessão, concessão, licenciamento ou por quaisquer outros meios admitidos em direito; e
 
 III - a pessoa física ou jurídica ou o responsável legal do ente despersonalizado, residente ou domiciliado no Brasil, que realize
-[[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq).
+[outras operações que produzam variações no patrimônio](#3tm4grq).
 
 Para fins do Módulo Venda do Siscoserv, são considerados prestadores de serviço os residentes ou domiciliados no Brasil que faturam os residentes ou domiciliados no exterior.
 
@@ -478,7 +478,7 @@ II - Pessoas Físicas - as pessoas físicas residentes no País que, em nome ind
 ## 7. Cronograma de registro das informações
 
 O Registro de Venda de Serviços, [[Intangíveis](#haapch)]{.underline} e
-[[Outras Operações que Produzam Variações no Patrimônio]{.underline}](#3tm4grq) (RVS) e o Registro de Faturamento
+[Outras Operações que Produzam Variações no Patrimônio](#3tm4grq) (RVS) e o Registro de Faturamento
 (RF) obedeceram, no momento da implantação do Siscoserv, ao cronograma,
 que tem por base a Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio -- NBS, conforme previsto no § 5º do art. 6º da
 [[Portaria Conjunta RFB/SCS nº]{.underline} [1.908, de 19 de julho de
@@ -575,12 +575,12 @@ desde que não sejam contrárias aos textos das referidas posições e Notas, pe
 [intangível](#haapch) ou [outra operação que produza variações](#3tm4grq) no patrimônio pode ser classificado em duas ou mais posições, a classificação efetuar-se-á da seguinte forma:
 
 2a) A posição mais específica prevalece sobre a mais genérica. Todavia,
-quando duas ou mais posições se referirem, cada uma delas, a apenas um dos serviços, [intangíveis](#haapch) ou [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq) que constituam o objeto a ser classificado, tais posições devem ser consideradas como igualmente específicas, ainda que uma dessas posições apresente uma descrição mais precisa ou completa desse objeto.
+quando duas ou mais posições se referirem, cada uma delas, a apenas um dos serviços, [intangíveis](#haapch) ou [outras operações que produzam variações no patrimônio](#3tm4grq) que constituam o objeto a ser classificado, tais posições devem ser consideradas como igualmente específicas, ainda que uma dessas posições apresente uma descrição mais precisa ou completa desse objeto.
 
 2b) Quando a Regra 2a) não permitir efetuar a classificação, o serviço,
 intangível ou [[outra operação que produza variações no patrimônio]{.underline}](#3tm4grq) classificar-se-á na posição situada em último lugar na ordem numérica, dentre as suscetíveis de serem consideradas válidas.
 
-**Regra 3.** A classificação de serviços, intangíveis e [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq)
+**Regra 3.** A classificação de serviços, intangíveis e [outras operações que produzam variações no patrimônio](#3tm4grq)
 nas subposições de uma mesma posição é determinada, para efeitos legais,
 pelos textos dessas subposições e, quando houver, das Notas de Subposição respectivas, assim como, \"*mutatis mutandis*\", pelas Regras precedentes, entendendo-se que apenas são comparáveis subposições do mesmo nível. Para os fins da presente Regra, as Notas de Seção e de Capítulo são também aplicáveis, salvo disposições em contrário.
 
@@ -595,7 +595,7 @@ serviços de gerenciamento de redes; serviços fotográficos; serviços de arqui
 
 2\) [Intangíveis](#haapch): licenciamento de direitos de autor e direitos conexos; licenciamento de direitos sobre a propriedade industrial; cessão de direitos de autor e direitos conexos; cessão de direitos sobre a propriedade industrial.
 
-3\) [[Outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq): fornecimento de refeições;
+3\) [Outras operações que produzam variações no patrimônio](#3tm4grq): fornecimento de refeições;
 fornecimento de bebidas em bares, cervejarias e outros e arrendamento mercantil financeiro de máquinas e equipamentos.
 
 O usuário deve informar o código de acordo com a Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS).
@@ -994,7 +994,7 @@ tributárias, fiscais, comerciais e estatísticas da operação. 
 **Empresa Controlada**: Considera-se controlada a sociedade na qual a controladora, diretamente ou através de outras controladas, é titular de direitos de sócio que lhe assegurem, de modo permanen[]{#1302m92
 .anchor}te, preponderância nas deliberações sociais e o poder de eleger a maioria dos administradores.
 
-**Mecanismo de Apoio/Fomento:** Mecanismos de apoio ou fomento de diversas naturezas (promocional, tributária, creditícia e financeira) a operações de comércio exterior de serviços, intangíveis e [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq)[]{#2250f4o .anchor}.
+**Mecanismo de Apoio/Fomento:** Mecanismos de apoio ou fomento de diversas naturezas (promocional, tributária, creditícia e financeira) a operações de comércio exterior de serviços, intangíveis e [outras operações que produzam variações no patrimônio](#3tm4grq)[]{#2250f4o .anchor}.
 
 **Ente Despersonalizado:** trata-se um termo da doutrina jurídica para se referir aos entes que não possuem denominação legal específica, mas que podem, nos termos do art. 12 do Código de Processo Civil Brasileiro,
 ser representados em juízo, ativa e passivamente. São entes despersonalizados: a massa falida, a herança jacente ou vacante, o espólio, as sociedades sem personalidade jurídica e o condomínio.
@@ -2395,7 +2395,7 @@ A conversão em dólar dos Estados Unidos da América deve ser efetuada tomando-
 
 **Posição NBS / Descrição da posição da NBS**
 
-Informe o(s) código(s) da NBS, em nível de posição, mais representativo(s) em relação à **Receita Total** obtida da venda de serviços, transferência de [intangíveis](#haapch) e realização de [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq) pela presença comercial.
+Informe o(s) código(s) da NBS, em nível de posição, mais representativo(s) em relação à **Receita Total** obtida da venda de serviços, transferência de [intangíveis](#haapch) e realização de [outras operações que produzam variações no patrimônio](#3tm4grq) pela presença comercial.
 
 A partir de 2019, caso a empresa indique mais de uma **NBS mais representativa**, o Sistema abrirá um campo para que seja indicado o percentual de cada uma dessas NBS em relação à **Receita Total** aferida pela presença comercial no ano anterior.
 
