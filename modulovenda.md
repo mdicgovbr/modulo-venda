@@ -1038,6 +1038,7 @@ Mecanismo de apoio/fomento.
 
 No RPC são dados de uma operação: Código da NBS, Descrição da NBS e Valor Faturado. Os dados de uma operação no RPC só devem ser preenchidos quando a operação for amparada por mecanismo de fomento ao comércio exterior de serviços, ou seja, quando for preenchido o campo Mecanismo de apoio/fomento.
 
+<a id="3tm4grq"></a>
 **Outras Operações que Produzam Variações no Patrimônio:** São operações classificadas na NBS que não se enquadram como serviços nem como intangíveis.
 
 São exemplos:
