@@ -2322,7 +2322,7 @@ sujeito às sanções previstas no art. 7º ou no art.
 A decisão pode ser revista pelo usuário, clicando em **Atendimento à
 legislação** no *menu* lateral esquerdo na tela de **Resumo**.
 
- **1. Dados da Presença Comercial no Exterior**
+**1. Dados da Presença Comercial no Exterior**
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image41.png)
 
@@ -2372,7 +2372,7 @@ No caso de filial e sucursal, o campo não é disponibilizado.
 Acione **Avançar** para validar os dados e seguir para a próxima tela
 **Dados do Negócio**.
 
- **2. Dados do Negócio**
+**2. Dados do Negócio**
 
 Em dados do negócio, são incluídas informações relativas à venda de serviços, transferência de [intangíveis](#haapch) e realização de [[outras operações que produzam variação no patrimônio]{.underline}](#3tm4grq) pela presença comercial relacionada à
 pessoa jurídica domiciliada no Brasil.
