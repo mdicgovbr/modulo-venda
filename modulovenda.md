@@ -398,34 +398,12 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 
 # 10.2 - Mecanismos de Apoio / Fomento (Enquadramento) no RPC do Módulo Venda:
 
-MECANISMO
-Medida Legal
-BNDES-Exim Pós-Embarque – Serviços
-
-Financiamento à comercialização de serviços nacionais no exterior, através da modalidade supllier’s credit (refinanciamento ao exportador) ou através da modalidade buyer’s credit (financiamento direto ao importador).
-
-CIRCULAR AEX nº 8/2015, de 27 de julho de 2015. 
-http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/posemb.html
-
-FGE - Fundo de Garantia à Exportação 
-
-Garantia prestada pela União nas operações de Seguro de Crédito à Exportação (SCE), que objetiva segurar as exportações brasileiras contra os riscos comerciais, políticos e extraordinários que possam afetar as transações econômicas e financeiras vinculadas a operações de crédito à exportação.
-
-Lei no 9.818, de 23 de agosto de 1999
-Maiores informações em FGE.
-PROEX - EQUALIZAÇÃO 
-
-Cobertura de parte dos encargos financeiros incidentes, de forma a tornar as taxas de juros equivalentes às praticadas internacionalmente.
-
-Lei no 10.184, de 12 de fevereiro de 2001
-Portaria MDIC no 208, de 20 de outubro de 2010
-
-PROEX - Financiamento 
-
-Financiamento direto ao exportador brasileiro ou importador, com recursos financeiros obtidos junto ao Tesouro Nacional, para conceder às exportações brasileiras condições equivalentes às do mercado internacional. 
-
-Lei no 10.184, de 12 de fevereiro de 2001
-Portaria MDIC no 208, de 20 de outubro de 2010
+|MECANISMO|Medida Legal|
+|----------------------------------|-------------------------------------------------------|
+|**BNDES-Exim Pós-Embarque – Serviços** Financiamento à comercialização de serviços nacionais no exterior, através da modalidade supllier’s credit (refinanciamento ao exportador) ou através da modalidade buyer’s credit (financiamento direto ao importador).|CIRCULAR AEX nº 8/2015, de 27 de julho de 2015. http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/posemb.html|
+|**FGE - Fundo de Garantia à Exportação** Garantia prestada pela União nas operações de Seguro de Crédito à Exportação (SCE), que objetiva segurar as exportações brasileiras contra os riscos comerciais, políticos e extraordinários que possam afetar as transações econômicas e financeiras vinculadas a operações de crédito à exportação.|Lei no 9.818, de 23 de agosto de 1999 Maiores informações em FGE.|
+|**PROEX - EQUALIZAÇÃO** Cobertura de parte dos encargos financeiros incidentes, de forma a tornar as taxas de juros equivalentes às praticadas internacionalmente.|Lei no 10.184, de 12 de fevereiro de 2001 Portaria MDIC no 208, de 20 de outubro de 2010|
+|**PROEX - Financiamento** Financiamento direto ao exportador brasileiro ou importador, com recursos financeiros obtidos junto ao Tesouro Nacional, para conceder às exportações brasileiras condições equivalentes às do mercado internacional.| Lei no 10.184, de 12 de fevereiro de 2001 Portaria MDIC no 208, de 20 de outubro de 2010|
 
 
 # 11. Informações e canais de atendimento
