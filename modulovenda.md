@@ -1680,8 +1680,15 @@ Cabe ressaltar ainda que os registros inseridos a partir de um arquivo de lote n
 manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apresentará a seguinte tela:
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
+<<<<<<< 37857d2af67601147aab9e36de81b38fa1368258
 **
 <strong id="_4cmhg48">2.1.2. Retificação do RVS</strong>
+=======
+
+[]{#_4cmhg48 .anchor}
+
+<a id="_4cmhg48"><strong>2.1.2. Retificação do RVS</strong></a>
+>>>>>>> 2.1.2
 
 O RVS ou o Aditivo ao RVS não podem ser cancelados, cabendo apenas retificações.
 
