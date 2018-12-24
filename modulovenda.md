@@ -1869,16 +1869,12 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
 
-[]{#_4cmhg48 .anchor}
-
-**2.1.2. Retificação do RVS**
+<a id="_4cmhg48"><strong>2.1.2. Retificação do RVS</strong></a>
 
 O RVS ou o Aditivo ao RVS não podem ser cancelados, cabendo apenas retificações.
 
 Não pode ser incluída nova [operação](#upglbi) por meio de retificação. Para incluir uma nova operação em um RVS já incluído,
-utilize a função [ [Inclusão de Aditivo](#_4c5u7s8) ao RVS.
-]{.underline}
-
+utilize a função [Inclusão de Aditivo](#_4c5u7s8) ao RVS.
 Para retificar um RVS é preciso acessar o *menu* **RVS** e em seguida
 **Retificar**.
 
@@ -1886,7 +1882,7 @@ Para retificar um RVS é preciso acessar o *menu* **RVS** e em seguida
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda do Certificado Digital do usuário.
 
-No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do Vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [[procuração eletrônica]{.underline}](#1s66p4f) do representado.
+No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do Vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [procuração eletrônica](#1s66p4f) do representado.
 
 Para retificar um RVS, o usuário tem como opções: **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
 
@@ -1907,7 +1903,7 @@ graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image67.png)
 
-Após selecionar o RVS que deseja retificar, siga os passos descritos no tópico [**[2.1 -]{.underline}** [ **Inclusão do RVS.**]{.underline}](#_2rb4i01)
+Após selecionar o RVS que deseja retificar, siga os passos descritos no tópico [**2.1 - Inclusão do RVS**](#_2rb4i01).
 
 Após conferir os dados retificados na tela **Resumo do RVS**, acione o botão **Incluir** para retificar o RVS. O Sistema retornará mensagem de confirmação de retificação dos dados no Siscoserv.
 
@@ -1916,7 +1912,7 @@ Após conferir os dados retificados na tela **Resumo do RVS**, acione o botão *
 Os RVS podem ter todos os campos retificados antes da inclusão de
 **Faturamento** da [operação](#upglbi). Após o faturamento da operação não podem ser retificados os campos **Código NBS** e
 **Moeda**. Em caso de erro de preenchimento nestes campos para as
-[operações](#upglbi) já faturadas, proceda previamente conforme o [[item 2.2.2 deste capítulo -- Cancelamento do RF.]{.underline}](#_2wwbldi)
+[operações](#upglbi) já faturadas, proceda previamente conforme o [item 2.2.2 deste capítulo -- Cancelamento do RF.](#_2wwbldi)
 
 Caso, devido à necessidade de cancelamento do RF para retificar o RVS, o usuário perca o prazo de inclusão de RF, devem ser incluídos em
 **Informações Complementares** o número do RF cancelado e o número do RF que o substituiu após a retificação do RVS.
@@ -1927,25 +1923,26 @@ inclusive das operações de aditivos. Os valores previamente cadastrados são m
 A retificação do **Valor da [Operação](#upglbi)** só é
 possível se esse for maior ou igual aos valores já faturados.
 
-Após o término do [[prazo para inclusão do último RF]{.underline}](#_49x2ik5), o valor total faturado deve coincidir com o
+Após o término do [prazo para inclusão do último RF](#_49x2ik5), o valor total faturado deve coincidir com o
 **Valor da Operação**, ou seja, o valor do(s) RF(s) devem coincidir com o valor informado no RVS.
 
-Excepcionalmente, se, após o término do [[prazo para inclusão do último RF]{.underline}](#_49x2ik5), ocorrer de os valores do RVS e do(s) RF não serem coincidentes:
+Excepcionalmente, se, após o término do [prazo para inclusão do último RF](#_49x2ik5), ocorrer de os valores do RVS e do(s) RF não serem coincidentes:
 
-a\) caso o serviço prestado tenha valor diferente do inicialmente registrado, o usuário deve retificar no RVS o **Valor da Operação** de forma a corresponder ao valor do serviço efetivamente prestado;
-
-b\) caso o serviço tenha sido prestado e o faturamento tenha sido parcial ou inexistente, o usuário deve retificar o RVS para incluir em
-**Informações Complementares** a justificativa para tanto.
+<ol type="a">
+  <li>caso o serviço prestado tenha valor diferente do inicialmente registrado, o usuário deve retificar no RVS o <strong> Valor da Operação</strong>  de forma a corresponder ao valor do serviço efetivamente prestado.</li>
+  <li>caso o serviço tenha sido prestado e o faturamento tenha sido parcial ou inexistente, o usuário deve retificar o RVS para incluir em
+<strong> Informações Complementares</strong>  a justificativa para tanto.</li>
+</ol>
 
 O **Valor da Operação** pode ser retificado para 0,00 (zero) nos seguintes casos:
 
-a\) o usuário tenha registrado a operação para um vendedor incorreto;
 
-b\) a operação tenha sido informada em duplicidade;
-
-c\) a operação tenha sido informada no módulo Venda indevidamente; ou
-
-d\) o pagamento tenha sido inexistente.
+<ol type="a">
+  <li> o usuário tenha registrado a operação para um vendedor incorreto;</li>
+  <li>a operação tenha sido informada em duplicidade;</li>
+  <li>a operação tenha sido informada no módulo Venda indevidamente; ou</li>
+  <li>o pagamento tenha sido inexistente.</li>
+</ol>
 
 Nesses casos, o usuário deve obrigatoriamente justificar a referida retificação em **Informações Complementares**. No caso das alíneas a e b, deve-se indicar o número do RVS correto. No caso da alínea c, indique o número do RAS.
 
@@ -1957,7 +1954,8 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
 
 Não pode ser incluída nova operação por meio de retificação. Para incluir uma nova operação em um RVS já incluído, utilize a função
-[**[Inclusão de Aditivo ao RVS]{.underline}**](#_4c5u7s8).
+[**Inclusão de Aditivo ao RVS** ](#_4c5u7s8).
+
 
 **2.1.3. Retificação do Aditivo ao RVS**
 
