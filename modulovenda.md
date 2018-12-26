@@ -1709,13 +1709,6 @@ Selecionada a opção **Informar o Número do RVS,** preencha o campo com o núm
 
 Selecionada a opção **Exibir Lista de RVS Incluídos,** acione o botão
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
-do mais recente para o mais antigo. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RVS desejado.
-
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image79.png)
-
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image67.png)
-
-Após selecionar o RVS que deseja retificar, siga os passos descritos no tópico [**2.1 - Inclusão do RVS**](#_2rb4i01).
 
 Após conferir os dados retificados na tela **Resumo do RVS**, acione o botão **Incluir** para retificar o RVS. O Sistema retornará mensagem de confirmação de retificação dos dados no Siscoserv.
 
@@ -1962,7 +1955,7 @@ Todas as retificações de valor no RVS realizadas após o primeiro RF devem ser
 No quadro **Selecione a Operação a Faturar** serão apresentados o
 **Valor da Operação** e o **Saldo a Faturar.**
 
-Quando a operação estiver totalmente faturada, o ícone ![Descrição:
+Quando a operação estiver totalmente faturada, o ícone ![
 Descrição:
 À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png) à direita, no quadro **Selecione a Operação a Faturar**, deixa de aparecer **.**
 
@@ -2419,7 +2412,6 @@ sucursal e controlada no exterior. Para atuar como representante legal de pessoa
 Para consultar um RPC, o usuário tem como opções: **Informar o Número do RPC** ou **Exibir Lista de RPC Incluídos**.
 
 Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser consultado e acionado o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
-
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![
 ](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
@@ -3147,11 +3139,6 @@ Registros devidos:
 
 Descrição
 
-Empresa residente ou domiciliada no Brasil -- Empᴮᴿ, utiliza corretora de seguros, também residente ou domiciliada no Brasil, -- Corᴮᴿ que intermedeia a contratação com a seguradora residente ou domiciliada no exterior -- Segₑₓ. Desta forma, mesmo intervindo o intermediário Corᴮᴿ, as partes do contrato do seguro continuam a ser Empᴮᴿ e Segₑₓ e cabe a Empᴮᴿ, a contratante no Brasil, o registro no Siscoserv.
-
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image95.jpg)
-
-Atores:
 
 > Empᴮᴿ: Empresa residente ou domiciliado no Brasil
 >
