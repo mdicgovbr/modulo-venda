@@ -180,7 +180,7 @@
 ## 1. Introdução
 
 O Sistema Integrado de Comércio Exterior de Serviços,
-[Intangíveis](#haapch) e [[Outras Operações que Produzam Variações no Patrimônio]{.underline}](#3tm4grq) (Siscoserv) é um sistema informatizado, desenvolvido pelo Governo Federal como ferramenta para o aprimoramento das ações de estímulo, formulação, acompanhamento e aferição das políticas públicas relacionadas a serviços e intangíveis,
+[Intangíveis](#haapch) e [Outras Operações que Produzam Variações no Patrimônio](#3tm4grq) (Siscoserv) é um sistema informatizado, desenvolvido pelo Governo Federal como ferramenta para o aprimoramento das ações de estímulo, formulação, acompanhamento e aferição das políticas públicas relacionadas a serviços e intangíveis,
 bem como para a orientação de estratégias empresariais de comércio exterior de serviços e intangíveis.
 
 O Siscoserv guarda conformidade com as diretrizes do Acordo Geral sobre Comércio de Serviços (GATS) da Organização Mundial do Comércio (OMC),
@@ -1820,9 +1820,7 @@ No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pesso
 Para incluir um aditivo a um registro, o usuário tem como opções:
 **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
 
-Selecionada a opção **Informar o Número do RVS,** preencha o campo com número de RVS que se deseja aditar e acione o botão ![
-Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png)
+Selecionada a opção **Informar o Número do RVS,** preencha o campo com número de RVS que se deseja aditar e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png)
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image78.png)
 
@@ -1855,7 +1853,7 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
 
-<a id="_4cmhg48"><strong>2.1.2. Retificação do RVS</strong></a>
+<strong id="_4cmhg48">2.1.2. Retificação do RVS</strong>
 
 O RVS ou o Aditivo ao RVS não podem ser cancelados, cabendo apenas retificações.
 
@@ -1872,9 +1870,7 @@ No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pesso
 
 Para retificar um RVS, o usuário tem como opções: **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
 
-Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número de RVS que se deseja retificar e acione o botão ![
-Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
+Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número de RVS que se deseja retificar e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image77.png)
 
@@ -1942,7 +1938,7 @@ Não pode ser incluída nova operação por meio de retificação. Para incluir 
 [**Inclusão de Aditivo ao RVS** ](#_4c5u7s8).
 
 
-<a id="_3jd0qos"><strong>2.1.3. Retificação do Aditivo ao RVS</strong></a>
+<strong id="_3jd0qos">2.1.3. Retificação do Aditivo ao RVS</strong>
 
 O aditivo ao RVS não pode ser cancelado, cabendo apenas retificações.
 
@@ -1961,9 +1957,7 @@ Selecionada a opção **Informar o Número do RVS,** preencha o campo com o núm
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image63.png)
 
-Selecionada a opção **Exibir Lista de RVS Incluídos,** informe o número do aditivo que se deseja retificar e acione o botão ![
-Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
+Selecionada a opção **Exibir Lista de RVS Incluídos,** informe o número do aditivo que se deseja retificar e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
 do mais recente para o mais antigo. Acione o botão ![
 Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RVS desejado.
@@ -2026,7 +2020,7 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
 
-<a id="_1yib0wl"><strong>2.1.4. Consulta ao RVS ou ao Aditivo ao RVS</strong></a>
+<strong id="_1yib0wl">2.1.4. Consulta ao RVS ou ao Aditivo ao RVS</strong>
 
 Esta função permite efetuar consulta a dados dos RVS no Sistema.
 
@@ -2047,9 +2041,7 @@ No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pesso
 Para consultar um RVS ou um Aditivo ao RVS, o usuário tem como opções:
 **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
 
-Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número do RVS que se deseja consultar e acione o botão ![
-Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
+Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número do RVS que se deseja consultar e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image125.png)
 
@@ -2085,9 +2077,7 @@ Em seguida, o Sistema disponibiliza duas opções para registro do faturamento: 
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image114.png)
 
-Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número do RVS que se deseja incluir o RF e acione o botão ![
-Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
+Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número do RVS que se deseja incluir o RF e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image112.png)
 
@@ -2142,9 +2132,7 @@ Todas as retificações de valor no RVS realizadas após o primeiro RF devem ser
 No quadro **Selecione a Operação a Faturar** serão apresentados o
 **Valor da Operação** e o **Saldo a Faturar.**
 
-Quando a operação estiver totalmente faturada, o ícone ![
-Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png) à direita, no quadro **Selecione a Operação a Faturar**, deixa de aparecer **.**
+Quando a operação estiver totalmente faturada, o ícone ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png) à direita, no quadro **Selecione a Operação a Faturar**, deixa de aparecer **.**
 
 Na inclusão do RF, o Sistema calcula e exibe o **Valor Total do RF**.
 
@@ -2312,7 +2300,7 @@ Em seguida, é exibida a tela **Resumo do RF**.
 
 ### 2.3. Registro de Presença Comercial no Exterior (RPC)
 
-<a id="_r2r73f"><strong>2.3.1. Inclusão do RPC</strong></a>
+<strong id="_r2r73f">2.3.1. Inclusão do RPC</strong>
 
 Para incluir um **Registro de Presença Comercial no Exterior (RPC)** é
 preciso acessar o *menu* operações e escolher a opção **RPC** e em seguida a opção **Incluir**.
@@ -2513,7 +2501,7 @@ O Sistema retornará mensagem de confirmação da inclusão dos dados no Siscose
 
 Convém manter controle dos números de RPC incluídos no Siscoserv, para facilitar eventuais retificações posteriores.
 
-<a id="_3b2epr8"><strong>2.3.2. Retificação do RPC</strong></a>
+<strong id="_3b2epr8">2.3.2. Retificação do RPC</strong>
 
 Para retificar um RPC é preciso acessar o *menu* **RPC** e em seguida
 **Retificar**.
@@ -2540,7 +2528,7 @@ Selecionado o RPC a ser retificado, siga os passos descritos no tópico
 
 Após conferir os dados retificados na tela **Resumo do RPC**, acione o botão **Retificar**. O Sistema retornará mensagem de confirmação de retificação dos dados no Siscoserv.
 
-**2.3.3. Cancelamento do RPC**
+<strong id="_1q7ozz1">2.3.3. Cancelamento do RPC</strong>
 
 Esta função permite ao usuário cancelar um RPC.
 
@@ -2586,7 +2574,7 @@ Para consultar um RPC é preciso acessar o *menu* **RPC** e em seguida
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda de seu Certificado Digital.
 
 No campo **CNPJ da Domiciliada no Brasil,** o usuário representante legal deve informar o CNPJ da domiciliada no Brasil que possui filial,
-sucursal e controlada no exterior. Para atuar como representante legal de pessoa jurídica, o usuário deve possuir [[procuração eletrônica]{.underline}](#1s66p4f) da pessoa jurídica representada.
+sucursal e controlada no exterior. Para atuar como representante legal de pessoa jurídica, o usuário deve possuir [procuração eletrônica](#1s66p4f) da pessoa jurídica representada.
 
 Para consultar um RPC, o usuário tem como opções: **Informar o Número do RPC** ou **Exibir Lista de RPC Incluídos**.
 
@@ -2628,21 +2616,21 @@ bem como do Retorno do Lote, detalhado na sessão 3.2 -- Consultar Lote.
 
 Os seguintes documentos trazem as orientações técnicas necessárias para a correta criação dos arquivos a serem transmitidos:
 
-\- [[Orientações Técnicas para o desenvolvimento da funcionalidade Transmissão em Lote do SISCOSERV Módulos Venda e Aquisição]{.underline}](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf)[]{#1ulbmlt
+\- [Orientações Técnicas para o desenvolvimento da funcionalidade Transmissão em Lote do SISCOSERV Módulos Venda e Aquisição](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf)[]{#1ulbmlt
 .anchor};
 
-\- [[Modelos dos Arquivos XML e XSD para Transmissão em Lote]{.underline}](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Modelos_dos_Arquivos_XML_e_XSD_para_Transmiss%C3%A3o_em_Lote_-_V_2.0.zip);
+\- [Modelos dos Arquivos XML e XSD para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Modelos_dos_Arquivos_XML_e_XSD_para_Transmiss%C3%A3o_em_Lote_-_V_2.0.zip);
 e
 
-\- [[Tabelas de Códigos do Siscoserv para Transmissão em Lote]{.underline}](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Tabelas_de_C%C3%B3digos_do_Siscosev_para_Transmiss%C3%A3o_em_Lote.zip).
+\- [Tabelas de Códigos do Siscoserv para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Tabelas_de_C%C3%B3digos_do_Siscosev_para_Transmiss%C3%A3o_em_Lote.zip).
 
 Cabe ressaltar a necessidade de avaliação sobre alterações necessárias nos registros realizados por meio de transmissão em lote a partir da publicação da nova edição da NBS e de suas notas explicativas.
 
-A prestação de serviços²⁴ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [[Portaria Conjunta RFB / SCS nº 1.820, de
-2014]{.underline}](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
+A prestação de serviços²⁴ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de
+2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
 
 A prestação de serviços^13^ iniciada a partir de 1º de janeiro de 2019
-devem ser registradas tendo por base a [[Portaria Conjunta RFB / SCS nº
+devem ser registradas tendo por base a [Portaria Conjunta RFB / SCS nº
 nº 1.429, de
 2018]{.underline}](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20),
 que produz efeitos a partir de 1º de janeiro de 2019.
@@ -2659,8 +2647,8 @@ O processamento dos arquivos de lote divide-se em 4 etapas:
 
 4)  Efetivação das operações contidas no lote.
 
-As duas primeiras etapas ocorrem no momento do envio do arquivo de lote enquanto que as duas etapas finais ocorrem durante o processamento noturno dos lotes (o Sistema processa os lotes no período de menor utilização do Sistema de forma a não impactar a seu desempenho durante os períodos de maior acesso). Desta forma, o Sistema apresentará ao usuário o resultado das duas primeiras etapas do processamento imediatamente após o envio do lote. Quanto às demais etapas, o usuário deverá consultar o seu resultado a partir do dia seguinte ao envio do lote (veja [[Consultar Lote]{.underline}](#_2lfnejv)). A data que será
-considerada como de inclusão de registro será a de envio do arquivo de lote, desde que o arquivo esteja em conformidade com as especificações pertinentes contidas nas [[Orientações Técnicas]{.underline}](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf).
+As duas primeiras etapas ocorrem no momento do envio do arquivo de lote enquanto que as duas etapas finais ocorrem durante o processamento noturno dos lotes (o Sistema processa os lotes no período de menor utilização do Sistema de forma a não impactar a seu desempenho durante os períodos de maior acesso). Desta forma, o Sistema apresentará ao usuário o resultado das duas primeiras etapas do processamento imediatamente após o envio do lote. Quanto às demais etapas, o usuário deverá consultar o seu resultado a partir do dia seguinte ao envio do lote (veja [Consultar Lote](#_2lfnejv)). A data que será
+considerada como de inclusão de registro será a de envio do arquivo de lote, desde que o arquivo esteja em conformidade com as especificações pertinentes contidas nas [Orientações Técnicas](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf).
 
 Durante a validação do arquivo de lote o Sistema verificará se as regras referentes aos nomes de arquivo e ao formato de compactação do arquivo de lote estão sendo respeitadas. Caso elas sejam violadas, o envio do lote não se efetivará.
 
@@ -2672,19 +2660,19 @@ Este erro pode ocorrer por dois motivos:
     > selecionada. Por exemplo, o arquivo de dados refere-se a **Incluir
     > RF**, mas o usuário selecionou **Incluir RVS** no *menu*. Neste
     > caso, basta reenviar o lote após selecionar a operação correta
-    > (veja [[Procedimentos para envio do arquivo de
-    > lote]{.underline}](#_280hiku)); ou
+    > (veja [Procedimentos para envio do arquivo de
+    > lote](#_280hiku)); ou
     >
 2)  O arquivo de dados enviado não está de acordo com as especificações
-    > descritas nas [[Orientações
-    > Técnicas]{.underline}](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf).
+    > descritas nas [Orientações
+    > Técnicas](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf).
     > Neste caso, o sistema responsável pela geração dos arquivos de
     > lote e de dados deve sofrer correções.
 
 Neste momento, o Sistema atribuirá ao lote um *status* de acordo com o *status* dos arquivos de dados que o compõem.
 
 Durante o processamento noturno dos lotes, o Sistema analisará os dados enviados de forma a garantir a sua coerência e aderência às regras de negócio definidas no corpo deste manual. Como exemplo de uma das regras de negócio verificadas, o Siscoserv não permitirá que o Brasil seja indicado como o país de residência ou domicílio do adquirente. Em seguida, o Sistema efetivará as operações contidas nos arquivos de dados aprovados e atribuirá aos arquivos de lote e de dados os
-*status*[]{#3sv78d1 .anchor} decorrentes deste processamento.
+*status* decorrentes deste processamento.
 
 ***Status* dos Arquivos de Lote**
 
@@ -2694,8 +2682,8 @@ Um arquivo de lote pode receber seis *status* diferentes:
 
 1)  **EP** -- **Em Processamento**: o lote foi recebido pelo Sistema e
     > pelo menos um dos arquivos de dados que o compõem passou pela
-    > validação de formato (veja [[Processamento dos Arquivos de
-    > Lote]{.underline}](#1ulbmlt)). Os arquivos de dados serão
+    > validação de formato (veja Processamento dos Arquivos de
+    > Lote](#1ulbmlt)). Os arquivos de dados serão
     > processados pelo Siscoserv que verificará se as informações estão
     > de acordo com suas regras de negócio.
 
@@ -2737,13 +2725,11 @@ Um arquivo de lote pode receber seis *status* diferentes:
     > usuário optou por cancelar o seu processamento. Todos os arquivos
     > de dados que estavam com *status* EP passarão para o *status* EX.
 
-[]{#_280hiku
-.anchor}![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image134.png)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image134.png)
 
-[]{#_n5rssn .anchor}
 ### 3.1. Procedimentos para envio do arquivo de lote
 
-Para efetuar a transmissão em lote o usuário deve [[acessar o Siscoserv]{.underline}](#_25lcl3g) e clicar na aba **Transmissão em Lote**.
+Para efetuar a transmissão em lote o usuário deve [acessar o Siscoserv](#_25lcl3g) e clicar na aba **Transmissão em Lote**.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image135.png)
 
@@ -2775,9 +2761,7 @@ Após clicar em **Avançar** o sistema apresentará a seguinte tela:
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image128.png)
 
-O usuário, então, deve clicar em **Escolher arquivo**, localizar o arquivo de lote que deseja transmitir e clicar no botão ![
-Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image101.png).
+O usuário, então, deve clicar em **Escolher arquivo**, localizar o arquivo de lote que deseja transmitir e clicar no botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image101.png).
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image141.png)
 
@@ -2804,7 +2788,7 @@ O campo **Nº do Protocolo** é composto por duas letras e um número sequencial
 
 **Validação dos Arquivos de Lote e de Dados**
 
-As [[Orientações Técnicas]{.underline}](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf)
+As Orientações Técnicas](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf)
 apresentam as regras a serem obedecidos na geração dos arquivos de lote e de dados. A primeira regra a ser validada pelo Sistema refere-se ao nome dos arquivos. Caso sejam enviados arquivos cujos nomes não obedeçam a estas regras, o Sistema emitirá uma das seguintes mensagens.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image131.png)
@@ -2817,7 +2801,7 @@ apresentada.
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image126.png)
 
 Após a transmissão bem sucedida do arquivo de lote, o Siscoserv valida o formato dos arquivos de dados e atribui ao lote e aos arquivos de dados que o compõem um *status* de acordo com o resultado da validação (veja
-[[*Status* dos Arquivos de Lote]{.underline}](#3sv78d1))
+*Status* dos Arquivos de Lote](#3sv78d1))
 
 Para maior detalhamento sobre o *status* ou o tipo de erro associados aos arquivos de dados, ao deixar o cursor do *mouse* sobre a coluna
 **Status** e **Código Erro**, o Sistema exibirá o significado dos códigos apresentados:
@@ -2828,7 +2812,7 @@ Para maior detalhamento sobre o *status* ou o tipo de erro associados aos arquiv
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image111.png)
 
-Um arquivo de retorno contendo mais detalhes sobre os erros encontrados pode ser gerado ao clicar o botão **Gerar Arquivo de Retorno**. O formato do arquivo de retorno está descrito nas [[Orientações Técnicas]{.underline}](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf).
+Um arquivo de retorno contendo mais detalhes sobre os erros encontrados pode ser gerado ao clicar o botão **Gerar Arquivo de Retorno**. O formato do arquivo de retorno está descrito nas Orientações Técnicas](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf).
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image109.png)
 
@@ -2868,16 +2852,14 @@ Os erros de formatação ou de regra de negócio indicados podem ser inspecionad
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image133.png)
 
-[]{#_10kxoro .anchor}
-
-**3.2.1. Arquivo de Retorno do Lote**
+<strong id="_10kxoro">3.2.1. Arquivo de Retorno do Lote</strong>
 
 Um arquivo de retorno contendo o resultado do processamento do lote, bem como mais detalhes sobre os erros encontrados, pode ser gerado ao clicar o botão **Gerar Arquivo de Retorno**.
 
 Caso o lote tenha sido processado com sucesso, o arquivo de retorno conterá os números de registro gerados pelo Siscoserv: RVS ou RF,
 dependendo do tipo de registro incluído.
 
-O formato do arquivo de retorno está descrito nas [[Orientações Técnicas.]{.underline}](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf)
+O formato do arquivo de retorno está descrito nas Orientações Técnicas.](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf)
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image123.png)
 
@@ -2886,86 +2868,80 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
 
-[]{#_3kkl7fh .anchor}
-
-### 3.3. Excluir Lote
+<h3 id="_3kkl7fh"><strong>3.3. Excluir Lote</strong></h3>
 
 Caso o usuário detecte, antes do processamento noturno dos lotes, que enviou um lote indevidamente, ele poderá exclui-lo. Para tal, é
 necessário que o *status* do lote ainda seja EP -- Em Processamento.
 Logo, a operação estará disponível apenas no mesmo dia do envio do lote.
 
-A partir da tela de listagem dos lotes enviados (veja [[Consultar Lote]{.underline}](#_2lfnejv)), ao clicar o botão
+A partir da tela de listagem dos lotes enviados (veja [Consultar Lote](#_2lfnejv)), ao clicar o botão
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image116.png) ao lado do lote que se deseja excluir, o Sistema removerá definitivamente o lote da fila de processamento.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image110.png)
 
-### 3.4. Cumprimento de Prazos na Transferência em Lote
+<h3 id="_3ohklq9"><strong>3.4. Cumprimento de Prazos na Transferência em Lote</strong></h3>
 
 Para fins de cumprimento dos prazos legais, o sistema adota a data e o horário informados na coluna **Data de Geração do Protocolo**, ou seja,
 a data em que os arquivos foram enviados para processamento. Vale ressaltar que a obrigação só é tempestivamente cumprida se os arquivos forem processados com sucesso (*status* PS), dentro dos prazos legais estabelecidos para os registros.
 
-[]{#_4jpj0b3 .anchor}
-
-## 4. Relatório Gerencial
+<h2 id="_4jpj0b3"><strong>4. Relatório Gerencial</strong></h2>
 
 A funcionalidade **Relatório Gerencial** visa a atender uma solicitação dos usuários do Siscoserv com vistas a gerar um relatório sobre todas as operações registradas no sistema e, ainda, o *status* dessas informações.
 
 O sistema permite a geração dos Relatórios Gerenciais cujas informações abranjam um período máximo de um (1) ano, retroativo ao início de operação do Siscoserv.
 
 O Siscoserv permite que o Usuário/Responsável pelo Registro gere os Relatórios Gerenciais em três situações distintas, a saber:
+<ol type="a">
+<li>Usuário/Responsável pelo Registro representa uma Pessoa Jurídica;</li>
 
-a)  Usuário/Responsável pelo Registro representa uma Pessoa Jurídica;
+<li>Usuário/Responsável pelo Registro representa Pessoa Física; e</li>
 
-b)  Usuário/Responsável pelo Registro representa Pessoa Física; e
-
-c)  Usuário/Responsável pelo Registro é o Próprio Vendedor.
+<li> Usuário/Responsável pelo Registro é o Próprio Vendedor. </li>
+</ol>
 
 O **Usuário/Responsável pelo Registro** é que detém o e-CPF e/ou a procuração eletrônica da Pessoa Jurídica ou da Pessoa Física e é o responsável pela inserção dos dados no Sistema.
 
-[]{#_2yutaiw .anchor}
-
-### 4.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica
+<h3 id="_2yutaiw"><strong>4.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica</strong></h3>
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Relatório Gerencial;
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image85.jpg)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image85.jpg)
 
 Passo 2: Usuário/ Responsável pelo Registro preenche o CNPJ da Pessoa Jurídica Vendedora e clica em "Avançar";
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial2.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image118.jpg)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image118.jpg)
 
 Passo 3: Usuário/Responsável pelo Registro seleciona dentre as diversas opções possíveis aquelas que deseja e clica em "Gerar Relatório".
 
 Podem ser selecionadas as seguintes opções:
 
-[Agrupamento:]{.underline}
+[Agrupamento:
 
 \- CNPJ de 14 posições: para gerar o relatório de apenas uma empresa do Grupo; ou
 
 \- CNPJ de 8 posições: para gerar relatório contendo todas as empresas do mesmo Grupo. Este tipo de consulta está disponível apenas para CNPJ de natureza matriz, que terá acesso aos registros da própria matriz e de suas filiais.
 
-[Opção de registros efetuados no Sistema:]{.underline}
+[Opção de registros efetuados no Sistema:
 
 \- RVS ou RF: serão disponibilizados todos os registros efetuados no período de 1 ano. As informações sobre os RVS aparecem em uma planilha e as informações sobre os RF em outra.
 
-[Período para geração do relatório:]{.underline}
+[Período para geração do relatório:
 
 \- Selecionar o período das informações desejadas, que não deve ser superior a 1 ano.
 
 \- Consulta disponível para **matriz**:
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\RElatorio Gerencial5.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image69.jpg)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image69.jpg)
 
 \- Consulta disponível para **filial**:
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\RElatorio Gerencial5.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image69.jpg)![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image69.jpg)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image69.jpg)![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image69.jpg)
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado.
 
-As seguintes informações são disponibilizadas na planilha E[]{#1e03kqp
-.anchor}xcel dos **Relatórios Gerenciais relativos aos RVS**:
+As seguintes informações são disponibilizadas na planilha Excel dos **Relatórios Gerenciais relativos aos RVS**:
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Planilha Excel1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image147.jpg)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image147.jpg)
 
 -   Mês/ano
 
@@ -3036,8 +3012,7 @@ As seguintes informações são disponibilizadas na planilha E[]{#1e03kqp
 *\* As informações acima servem para criar os vínculos entre registro,
 operação e fatura. Esses dados não têm nenhuma utilidade para operações transmitidas por lote.*
 
-As seguintes informações são disponibilizadas na planilha E[]{#3xzr3ei
-.anchor}xcel dos **Relatórios Gerenciais relativos aos RF**:
+As seguintes informações são disponibilizadas na planilha Excel dos **Relatórios Gerenciais relativos aos RF**:
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image82.png)
 
@@ -3082,66 +3057,63 @@ As seguintes informações são disponibilizadas na planilha E[]{#3xzr3ei
 *\* As informações acima servem para criar os vínculos entre registro,
 operação e fatura. Esses dados não têm nenhuma utilidade para operações transmitidas por lote.*
 
-[]{#_2d51dmb .anchor}
-
-### 4.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física
+<h3 id="_2d51dmb"><strong>4.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física</strong></h3>
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Relatório Gerencial;
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image85.jpg)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image85.jpg)
 
 Passo 2: Usuário/Responsável pelo Registro preenche o CPF da Pessoa Física Vendedora e clica em "Avançar";
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial3.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image88.jpg)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image88.jpg)
 
 Passo 3: Usuário/ Responsável pelo Registro seleciona dentre as diversas opções possíveis, aquelas que deseja e clica em "Gerar Relatório".
 
 Podem ser selecionadas as seguintes opções:
 
-[Opção de registros efetuados no Sistema:]{.underline}
+[Opção de registros efetuados no Sistema:
 
 \- RVS ou RF: serão disponibilizados todos os registros efetuados no período de 1 ano. As informações sobre os RVS aparecem em uma planilha e as informações sobre os RF em outra.
 
-[Data para geração do relatório:]{.underline}
+[Data para geração do relatório:
 
 \- Selecionar o período das informações desejadas, que não deve ser superior a 1 ano.
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial6.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image117.jpg)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image117.jpg)
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [Relatórios Gerenciais RVS](#1e03kqp) (atentar que no 2º caso as informações do CPF do vendedor serão disponibilizadas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e [Relatórios Gerenciais RF](#3xzr3ei).
 
-[]{#_3c9z6hx .anchor}
+<h3><strong id="_3c9z6hx">4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor</h3></strong>
 
-### 4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor
 
 Passo 1: Usuário/Responsável pelo Registro, que neste caso é o próprio vendedor, acessa o Siscoserv e clica em Relatório Gerencial;
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image85.jpg)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image85.jpg)
 
 Passo 2: Usuário/Responsável pelo Registro seleciona a opção "O Usuário
 é o Próprio Vendedor";
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial4.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image89.jpg)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image89.jpg)
 
 Passo 3: Usuário/Responsável pelo Registro seleciona dentre as diversas opções possíveis, aquelas que deseja e clica em "Gerar Relatório".
 
 Podem ser selecionadas as seguintes opções:
 
-[Opção de registros efetuados no Sistema:]{.underline}
+Opção de registros efetuados no Sistema:
 
 \- RVS ou RF: serão disponibilizados todos os registros efetuados no período de 1 ano. As informações sobre os RVS aparecem em uma planilha e as informações sobre os RF em outra.
 
-[Data para geração do relatório:]{.underline}
+Data para geração do relatório:
 
 \- Selecionar o período das informações desejadas, que não deve ser superior a 1 ano.
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial7.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image80.jpg)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image80.jpg)
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [Relatórios Gerenciais RVS](#1e03kqp) (observar que no 3º caso as informações do CPF do usuário e do CPF do vendedor são as mesmas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e
 [Relatórios Gerenciais RF](#3xzr3ei).
 
-[]{#_1rf9gpq .anchor}\
-**Capítulo 3**![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png)
+**Capítulo 3**
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png)
 
 **Cenários Exemplificativos de Registro no Siscoserv**
 
@@ -3160,28 +3132,28 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image113.jpg)
 
-[Atores]{.underline}:
+Atores:
 
-> E~BR~: Exportador residente ou domiciliado no Brasil
+> EBR: Exportador residente ou domiciliado no Brasil
 >
-> AgC~BR~: Agente de Cargas residente ou domiciliado no Brasil
+> AgcBR: Agente de Cargas residente ou domiciliado no Brasil
 >
-> T~EX~: Transportador residente ou domiciliado no Exterior
+> TEX: Transportador residente ou domiciliado no Exterior
 >
-> I~EX~: Importador residente ou domiciliado no Exterior
+> IEX: Importador residente ou domiciliado no Exterior
 
-[Relações entre os Atores:]{.underline}
+Relações entre os Atores:
 
-> E~BR~ -- I~EX~: Exportador Brasileiro se compromete a transportar
+> EBR -- IEX: Exportador Brasileiro se compromete a transportar
 > mercadorias até o local indicado pelo Importador residente ou
 > domiciliado no exterior.
 >
-> E~BR~ -- AgC~BR~: Exportador brasileira contrata Agente de Cargas
+> EBR -- AgcBR: Exportador brasileira contrata Agente de Cargas
 > residente ou domiciliado no Brasil para que, **em nome de Exportador
 > brasileiro**, contrate o transporte marítimo das mercadorias até o
 > local indicado pelo Importador residente ou domiciliado no Exterior~.~
 >
-> AgC~BR~ -- T~EX~: Agente de Cargas residente ou domiciliado no Brasil
+> AgcBR -- TEX: Agente de Cargas residente ou domiciliado no Brasil
 > contrata Transportador residente ou domiciliado no Exterior, **em
 > nome** do Exportador brasileiro, para transportar as mercadorias até o
 > local indicado pelo Importador residente ou domiciliado no Exterior,
@@ -3192,54 +3164,52 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 > revela-se por meio da existência de contrato, escrito ou não, e
 > faturamento correspondente.
 
-[Registros devidos:]{.underline}
+[Registros devidos:
 
-> E~BR~: RAS pelo serviço de transporte tendo T~EX~ como vendedor.
+> EBR: RAS pelo serviço de transporte tendo TEX como vendedor.
 >
-> Observação: Neste cenário E~BR~ não se sujeita a registrar no Módulo
+> Observação: Neste cenário EBR não se sujeita a registrar no Módulo
 > Venda do Siscoserv os serviços de transporte internacional de carga
-> adquiridos de T~EX~, cujo custo seja por ele repassado a I~EX~.
+> adquiridos de TEX, cujo custo seja por ele repassado a IEX.
 >
 **Cenário 1.2. Transporte internacional de cargas intermediado por agente de cargas.**
 
 **Importação brasileira com a obrigação de transportar da empresa brasileira**
 
-![C:\\Users\\luple\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Cenário
-1.2 -
-Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image153.png)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image153.png)
 
-[Atores]{.underline}:
+Atores:
 
-> I~BR~: Importador residente ou domiciliado no Brasil
+> IBR: Importador residente ou domiciliado no Brasil
 >
-> E~EX~: Exportador residente ou domiciliado no Exterior
+> EEX: Exportador residente ou domiciliado no Exterior
 >
-> AgC~BR~: Agente de Cargas residente ou domiciliado no Brasil
+> AgcBR: Agente de Cargas residente ou domiciliado no Brasil
 >
-> AgCg~EX~: Agente de carga residente ou domiciliado no Exterior
+> AgcgEX: Agente de carga residente ou domiciliado no Exterior
 >
-> T~EX~: Transportador residente ou domiciliado no Exterior
+> TEX: Transportador residente ou domiciliado no Exterior
 
-[Relações entre os Atores:]{.underline}
+Relações entre os Atores:
 
-> I~BR~ -- E~EX~: I~BR~ assume o ônus de transportar a mercadoria
+> IBR -- EEX: IBR assume o ônus de transportar a mercadoria
 > importada
 >
-> I~BR~ -- AgC~BR~: I~BR~ contrata AgC~BR~ para que, em nome de I~BR~,
+> IBR -- AgcBR: IBR contrata AgcBR para que, em nome de IBR,
 > contrate o transporte marítimo das mercadorias até o local indicado
-> por I~BR.~
+> por IBR.
 >
-> AgC~BR~ -- T~EX~: AgC~BR~ contrata T~EX~, em nome de I~BR~, para
-> transportar as mercadorias até o local indicado por I~BR~, sendo que
-> T~EX~ de fato fará o transporte.
+> AgcBR -- TEX: AgcBR contrata TEX, em nome de IBR, para
+> transportar as mercadorias até o local indicado por IBR, sendo que
+> TEX de fato fará o transporte.
 
-[Registros devidos:]{.underline}
+Registros devidos:
 
-> I~BR~: RAS pelo serviço de transporte tendo T~EX~ como vendedor.
+> IBR: RAS pelo serviço de transporte tendo TEX como vendedor.
 >
 > Observação: Caso o agente de cargas brasileiro intermedeie, em nome do
 > importador brasileiro, a contratação do agente de cargas estrangeiro,
-> deve ser feito um RAS por I~BR~ tendo AgCg~EX~ como vendedor do
+> deve ser feito um RAS por IBR tendo AgcgEX como vendedor do
 > serviço.
 >
 **Cenário 1.3. Transporte internacional de cargas com consolidação e desconsolidação de cargas.**
@@ -3248,33 +3218,33 @@ Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_i
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image97.png)
 
-[Atores]{.underline}:
+Atores:
 
-> E~EX~: Exportador residente ou domiciliado no Exterior
+> EEX: Exportador residente ou domiciliado no Exterior
 >
-> I~BR~: Importador residente ou domiciliado no Brasil
+> IBR: Importador residente ou domiciliado no Brasil
 >
 > C~EX~: Consolidador de cargas residente ou domiciliado no Exterior
 >
 > D~BR~: Desconsolidador de cargas residente ou domiciliado no Brasil
 >
-> T~EX~: Transportador residente ou domiciliado no Exterior
+> TEX: Transportador residente ou domiciliado no Exterior
 
-[Relações entre os Atores]{.underline}:
+[Relações entre os Atores:
 
-> E~EX~ -- I~BR~: E~EX~ compromete-se com o I~BR~ a transportar a
-> mercadoria até local indicado por I~BR~ em solo brasileiro.
+> EEX -- IBR: EEX compromete-se com o IBR a transportar a
+> mercadoria até local indicado por IBR em solo brasileiro.
 >
-> E~EX~ -- C~EX~: E~EX~ contrata C~EX~ para providenciar a consolidação
-> e o transporte da mercadoria até o local indicado por I~BR~
+> EEX -- C~EX~: EEX contrata C~EX~ para providenciar a consolidação
+> e o transporte da mercadoria até o local indicado por IBR
 >
 > C~EX~ -- D~BR~: C~EX~ contrata D~BR~ para fazer a desconsolidação da
 > mercadoria.
 >
-> C~EX~ -- T~EX~: C~EX~ contrata em seu próprio nome T~EX~ para
+> C~EX~ -- TEX: C~EX~ contrata em seu próprio nome TEX para
 > transportar a mercadoria.
 
-[Registros devidos]{.underline}:
+[Registros devidos:
 
 > D~BR~: RVS pelo serviço de desconsolidação tendo C~EX~ como
 > adquirente.
@@ -3286,40 +3256,38 @@ Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_i
 
 **Exportação brasileira com a obrigação de transportar da empresa brasileira**
 
-![C:\\Users\\luple\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Cenário
-1.4 -
-Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image102.png)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image102.png)
 
-[Atores]{.underline}:
+Atores:
 
-> E~BR~: Exportador residente ou domiciliado no Brasil
+> EBR: Exportador residente ou domiciliado no Brasil
 >
-> I~EX~: Importador residente ou domiciliado no Exterior
+> IEX: Importador residente ou domiciliado no Exterior
 >
 > C~BR~: Consolidador de cargas residente ou domiciliado no Brasil
 >
 > D~EX~: Desconsolidador de cargas residente ou domiciliado no Exterior
 >
-> T~EX~: Transportador, operador de veículo, residente ou domiciliado no
+> TEX: Transportador, operador de veículo, residente ou domiciliado no
 > Exterior.
 
-[Relações entre os Atores:]{.underline}
+Relações entre os Atores:
 
-> E~BR~ -- I~EX~: E~BR~ compromete-se com o I~EX~ a transportar a
-> mercadoria até local indicado por I~EX~.
+> EBR -- IEX: EBR compromete-se com o IEX a transportar a
+> mercadoria até local indicado por IEX.
 >
-> E~BR~ -- C~BR~: E~BR~ contrata C~BR~ para providenciar a consolidação
-> e o transporte da mercadoria até o local indicado por I~EX~.
+> EBR -- C~BR~: EBR contrata C~BR~ para providenciar a consolidação
+> e o transporte da mercadoria até o local indicado por IEX.
 >
-> C~BR~ -- T~EX~: CBR contrata T~EX~ para transportar as mercadorias até
-> o local indicado por I~EX~, sendo que T~EX~ de fato fará o transporte.
+> C~BR~ -- TEX: CBR contrata TEX para transportar as mercadorias até
+> o local indicado por IEX, sendo que TEX de fato fará o transporte.
 >
 > C~BR~ -- D~EX~: C~BR~ contrata D~EX~ para fazer a desconsolidação da
 > mercadoria.
 
-[Registros devidos:]{.underline}
+Registros devidos:
 
-> C~BR~: RAS pelo serviço de transporte tendo T~EX~ como vendedor e RAS
+> C~BR~: RAS pelo serviço de transporte tendo TEX como vendedor e RAS
 > pelo serviço de desconsolidação, tendo D~EX~ como vendedor.
 >
 
@@ -3388,8 +3356,6 @@ Registros devidos:
 O serviço de remessa expressa (courier) apresenta, de forma genérica,
 dois possíveis cenários.
 
-[]{#_2vor4mt .anchor}
-
 **Cenário 3.1. Empresa brasileira exportadora (ou importadora) faturada por empresa estrangeira prestadora do serviço de remessa expressa**
 
 O registro é de responsabilidade do exportador/importador residente ou domiciliado no Brasil sempre que a relação contratual relativa aos serviços de remessa expressa seja entre esse exportador/importador e a empresa prestadora desses serviços domiciliada no exterior.
@@ -3397,8 +3363,6 @@ O registro é de responsabilidade do exportador/importador residente ou domicili
 Quando não houver clareza sobre essa relação contratual, o exportador/importador residente ou domiciliado no Brasil deve se amparar nos documentos de faturamento pelos serviços prestados.
 
 Quando o exportador/importador residente ou domiciliado no Brasil receber um documento de fatura de uma empresa de remessa expressa domiciliada no exterior, mesmo que o fluxo de pagamento ocorra com a filial desta empresa domiciliada no Brasil, caberá ao exportador/importador o registro.
-
-[]{#_1au1eum .anchor}
 
 **Cenário 3.2. Empresa brasileira faturada pela filial residente ou domiciliada no Brasil de empresa estrangeira**
 
@@ -3415,7 +3379,6 @@ Neste caso, caberá à empresa de remessa expressa domiciliada no Brasil verific
 Cabe ainda ressaltar que as empresas domiciliadas no Brasil, ainda que relacionadas a empresas estrangeiras (ou seja, mesmo quando são uma presença comercial de uma empresa estrangeira no Brasil), são consideradas pela legislação brasileira, para todos os fins, empresas brasileiras. Sendo assim, essas empresas consideradas presença comercial de uma empresa estrangeira no Brasil, por estarem domiciliadas no país e estarem regidas pela legislação comercial e tributária que afeta a todas as empresas brasileiras, devem efetuar seus registros em Módulo Venda e Aquisição do Siscoserv sempre que realizarem operações de venda ou aquisição de serviços com residentes ou domiciliados no exterior,
 inclusive operações *intercompany*, de acordo com o previsto na legislação pertinente ao Siscoserv e neste Manual.
 
-[]{#_3utoxif .anchor}
 
 ## 4. Expatriados
 
@@ -3430,14 +3393,12 @@ Conforme o Art. 2° da Instrução Normativa SRF nº 208, de 2002,
 considera-se **residente** no Brasil, a pessoa física que resida no Brasil em caráter permanente, a que se ausente para prestar serviços como assalariada a autarquias ou repartições do Governo brasileiro situadas no exterior e a que se ausente do Brasil em caráter temporário ou se retire em caráter permanente do território nacional sem apresentar a Comunicação de Saída Definitiva do País, durante os primeiros 12
 (doze) meses consecutivos de ausência.
 
-[]{#_29yz7q8 .anchor}Já segundo o Art. 3º, considera-se
+Já segundo o Art. 3º, considera-se
 **não-residente** no Brasil (**expatriado**), a pessoa física que não resida no Brasil em caráter permanente e não se enquadre nas hipóteses previstas no art. 2º supracitado, a que se retire em caráter permanente do território nacional, na data da saída, desde que apresentada a Comunicação de Saída Definitiva do País, e a que se ausente do Brasil em caráter temporário, a partir do dia seguinte àquele em que complete doze meses consecutivos de ausência.
 
 **Cenário 1**
 
 Empresa residente ou domiciliada no Brasil que envia empregado para trabalhar em empresa residente ou domiciliada no exterior e que continua remunerando esse empregado pelos serviços prestados fora do país, em virtude de manutenção do vínculo empregatício. O reembolso feito pela empresa estrangeira referente ao salário do empregado deve ser registrado no Siscoserv, pois tal situação configura prestação de serviço em modo 4. Também deve ser registrado no Siscoserv a remuneração do empregado caso ele torne-se não residente, mantendo vínculo empregatício no Brasil.
-
-[]{#_p49hy1 .anchor}
 
 **Cenário 2**
 
@@ -3445,73 +3406,73 @@ Empresa residente e domiciliada no Brasil que efetua apenas o pagamento de contr
 Importante ressaltar que esse cenário trata exclusivamente de situação em que não há nenhuma prestação de serviços do expatriado à empresa brasileira.
 
 [¹]:  Neste caso, leia-se "prestação de serviços" como "prestação de
-    serviços, transferência de intangível e realização de [[outras
+    serviços, transferência de intangível e realização de [outras
     operações que produzam variações no
-    patrimônio]{.underline}](#3tm4grq)".
+    patrimônio](#3tm4grq)".
 
 [²]: Neste caso, leia-se "bens ou serviços" como "bens, mercadorias,
-    serviços, intangíveis ou [[outras operações que produzam variações
-    no patrimônio](#1jvko6v)"]{.underline}
+    serviços, intangíveis ou [outras operações que produzam variações
+    no patrimônio](#1jvko6v)
 
 [³]: Neste caso, leia-se "prestação de serviços" como "prestação de
-    serviços, transferência de intangível e realização de [[outras
+    serviços, transferência de intangível e realização de [outras
     operações que produzam variações no
-    patrimônio]{.underline}](#1jvko6v)".
+    patrimônio](#1jvko6v)".
 
 [⁴]: Neste caso, leia-se "venda de serviços" como "venda de serviços,
-    transferência de intangível ou realização de [[outras operações que
-    produzam variações no patrimônio]{.underline}](#1jvko6v)".
+    transferência de intangível ou realização de [outras operações que
+    produzam variações no patrimônio](#1jvko6v)".
 
 [⁵]: Neste caso, leia-se "venda de serviços" como "venda de serviços,
-    transferência de intangível ou realização de [[outras operações que
-    produzam variações no patrimônio]{.underline}](#1jvko6v)".
+    transferência de intangível ou realização de [outras operações que
+    produzam variações no patrimônio](#1jvko6v)".
 
 [⁶]: Neste caso, leia-se "prestação de serviços", como "prestação de
-    serviços, transferência de intangível e realização de [[outras
+    serviços, transferência de intangível e realização de [outras
     operações que produzam variações no
-    patrimônio]{.underline}](#1jvko6v)".
+    patrimônio](#1jvko6v)".
 
 [⁷]: Idem Nota 2
 
 [⁸]: Idem Nota 2.
 
-[⁹]: Aprovado pelo Decreto Legislativo n~~º~~ 30, de 15 de dezembro de
-    1994, e promulgado pelo Decreto n~~º~~ 1.355, de 30 de dezembro de
+[⁹]: Aprovado pelo Decreto Legislativo nº 30, de 15 de dezembro de
+    1994, e promulgado pelo Decreto nº 1.355, de 30 de dezembro de
     1994.
 
 [¹⁰]: Neste caso, leia-se "prestação de serviços", como "prestação de
-    serviços, transferência de intangível e realização de [[outras
+    serviços, transferência de intangível e realização de [outras
     operações que produzam variações no
-    patrimônio]{.underline}](about:blank)".
+    patrimônio](about:blank)".
 
 [¹¹]: Idem.
 
 [₁₂]: Neste caso, leia-se "prestação de serviços" como "prestação de
     serviços, transferência de [intangível](#haapch) e realização de
-    [[outras operações que produzam variações no
-    patrimônio](#3tm4grq).]{.underline}
+    [outras operações que produzam variações no
+    patrimônio](#3tm4grq).
 
 [₁₃]: Neste caso, leia-se "venda de serviços" como "venda de serviços,
-    intangíveis e [[outras operações que produzam variações no
-    patrimônio]{.underline}](#1jvko6v)".
+    intangíveis e [outras operações que produzam variações no
+    patrimônio](#1jvko6v)".
 
 [¹⁴]: Neste caso, leia-se "prestação de serviços", como "prestação de
-    serviços, transferência de intangível e realização de [[outras
+    serviços, transferência de intangível e realização de [outras
     operações que produzam variações no
-    patrimônio]{.underline}](#1jvko6v)".
+    patrimônio](#1jvko6v)".
 
 [¹⁵]: Idem Nota 15
 
 [¹⁶]: Neste caso, leia-se "prestação de serviços", como "prestação de
-    serviços, transferência de intangível e realização de [[outras
+    serviços, transferência de intangível e realização de [outras
     operações que produzam variações no
-    patrimônio]{.underline}](#1jvko6v)".
+    patrimônio](#1jvko6v)".
 
-[¹⁷]: Maiores informações no [[item 9 do Capítulo 1]{.underline}](#_206ipza) deste Manual.
+[¹⁷]: Maiores informações no [item 9 do Capítulo 1](#_206ipza) deste Manual.
 
 [¹⁸]: Neste caso, leia-se "serviços" como "serviços, intangíveis e
-    [[outras operações que produzam variações no
-    patrimônio](#3tm4grq)".]{.underline}
+    [outras operações que produzam variações no
+    patrimônio](#3tm4grq)".
 
 [¹⁹]: Neste caso, leia-se "serviço prestado" como "serviço prestado,
     intangível transferido e outra operação que produza variações no
@@ -3522,18 +3483,18 @@ Importante ressaltar que esse cenário trata exclusivamente de situação em que
     produza variação no patrimônio".
 
 [₂₁]: Neste caso, leia-se "serviços", como "serviços, intangíveis e
-    [[outras operações que produzam variações no
-    patrimônio]{.underline}](#1jvko6v)".
+    [outras operações que produzam variações no
+    patrimônio](#1jvko6v)".
 
 [₂₂]: Neste caso, leia-se "serviços", como "serviços, intangíveis e
     [outras operações que produzam variações no
-    patrimônio]{.underline}".
+    patrimônio".
 
 [₂₃]: Neste caso, leia-se "serviços", como "serviços, intangíveis e
-    [[outras operações que produzam variações no
-    patrimônio]{.underline}](#1jvko6v)"[.]{.underline}
+    [outras operações que produzam variações no
+    patrimônio](#1jvko6v)"
 
 [₂₄]: Neste caso, leia-se "prestação de serviços", como "prestação de
-    serviços, transferência de intangível e realização de [[outras
+    serviços, transferência de intangível e realização de [outras
     operações que produzam variações no
-    patrimônio]{.underline}](#1jvko6v)".
+    patrimônio](#1jvko6v)".
