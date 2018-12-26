@@ -1839,8 +1839,7 @@ Descrição:
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image78.png)
 
 Selecionada a opção **Exibir Lista de RVS Incluídos,** acione o botão
-![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
 do mais recente para o mais antigo. Acione o botão ![Descrição:
 Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RVS desejado.
@@ -1892,8 +1891,7 @@ Descrição:
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image77.png)
 
 Selecionada a opção **Exibir Lista de RVS Incluídos,** acione o botão
-![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
 do mais recente para o mais antigo. Acione o botão ![Descrição:
 Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RVS desejado.
@@ -1971,8 +1969,7 @@ No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pesso
 
 Para retificar um Aditivo ao RVS, o usuário tem como opções: **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
 
-Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número de RVS que se deseja retificar. Informe o número do aditivo que se deseja retificar e acione o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
+Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número de RVS que se deseja retificar. Informe o número do aditivo que se deseja retificar e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image63.png)
 
@@ -2069,8 +2066,7 @@ Descrição:
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image125.png)
 
 Selecionada a opção **Exibir Lista de RVS Incluídos,** acione o botão
-![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
 do mais recente para o mais antigo. Acione o botão ![Descrição:
 Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RVS desejado.
@@ -2107,10 +2103,8 @@ Descrição:
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image112.png)
 
-Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CNPJ do Vendedor, ainda que seja o mesmo CPF do usuário, acione o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png)
- para ser disponibilizada a relação de todos os RVS previamente incluídos. Na lista de RVS exibida, acione o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png). O Sistema abrirá a tela
+Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CNPJ do Vendedor, ainda que seja o mesmo CPF do usuário, acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png)
+ para ser disponibilizada a relação de todos os RVS previamente incluídos. Na lista de RVS exibida, acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png). O Sistema abrirá a tela
 **[Operações](#upglbi) a Faturar**, sendo possível visualizar o **Valor da Operação** e **Saldo a Faturar** para cada operação, referente ao RVS selecionado **.**
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image84.png)
@@ -2198,17 +2192,13 @@ Em seguida, o Sistema disponibiliza duas opções para retificação do RF:
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image94.png)
 
 Selecionada a opção **Pesquisar pelo Número do RVS,** preencha o campo com o número do RVS cujo RF se deseja retificar e acione o botão
-![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). Clique no botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png) à direita do RF a ser retificado.
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). Clique no botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png) à direita do RF a ser retificado.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image100.png)
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image91.png)
 
-Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CNPJ do vendedor, ainda que seja o mesmo CPF do usuário. Acione o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png) para ser disponibilizada a relação de todos os RF previamente incluídos. Na lista de RF exibida, acione o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png) à direita do RF a ser retificado.
+Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CNPJ do vendedor, ainda que seja o mesmo CPF do usuário. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png) para ser disponibilizada a relação de todos os RF previamente incluídos. Na lista de RF exibida, acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png) à direita do RF a ser retificado.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image66.png)
 
@@ -2257,7 +2247,7 @@ O RF pode ser cancelado nas seguintes hipóteses:
 
 1 -- cancelamento da nota fiscal de serviço ou documento equivalente; ou
 
-2 -- erro no preenchimento dos campos **Código NBS** ou **Moeda** do RVS**.**
+2 -- erro no preenchimento dos campos **Código NBS** ou **Moeda** do RVS **.**
 
 Para cancelar um RF é preciso acessar o *menu* **RF** e em seguida
 **Cancelar**.
@@ -2273,14 +2263,12 @@ Em seguida, o Sistema disponibiliza duas opções para cancelamento do RF:
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image54.png)
 
 Selecionada a opção **Pesquisar pelo Número do RVS,** preencha o campo com o número do RVS cujo RF se deseja cancelar e acione o botão
-![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). Clique no ícone
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). Clique no ícone
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png) à direita do respectivo **Número do RF** a ser cancelado. Confirme o cancelamento do RF clicando no botão **OK** na caixa de mensagem.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image81.png)
 
-Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CNPJ do vendedor, ainda que seja o mesmo CPF do usuário. Acione o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png) para ser disponibilizada a relação de todos os RF previamente incluídos. Na lista de RF exibida, acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png). *C*onfirme o cancelamento do RF clicando no botão OK na caixa de mensagem.
+Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CNPJ do vendedor, ainda que seja o mesmo CPF do usuário. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png) para ser disponibilizada a relação de todos os RF previamente incluídos. Na lista de RF exibida, acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png). *C*onfirme o cancelamento do RF clicando no botão OK na caixa de mensagem.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image70.png)
 
@@ -2315,21 +2303,17 @@ Em seguida, o Sistema disponibiliza duas opções para consultar RF:
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image38.png)
 
-Se o usuário selecionar a opção **Pesquisar pelo Número do RVS,** deve preencher o campo com o número do RVS cujo RF se deseja consultar e acione o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). Clique no ícone ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png) à direita do respectivo **Número do RF**
+Se o usuário selecionar a opção **Pesquisar pelo Número do RVS,** deve preencher o campo com o número do RVS cujo RF se deseja consultar e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). Clique no ícone ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png) à direita do respectivo **Número do RF**
 a ser consultado. Em seguida é exibida a tela **Resumo do RF**.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image35.png)
 
 Se o usuário selecionar a opção **Pesquisar pelo CPF/CNPJ do Vendedor**,
-deve preencher o CPF/CNPJ do vendedor, ainda que seja o mesmo CPF do usuário. Acione o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png) para ser disponibilizada a relação de todos os RF previamente incluídos.
+deve preencher o CPF/CNPJ do vendedor, ainda que seja o mesmo CPF do usuário. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png) para ser disponibilizada a relação de todos os RF previamente incluídos.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image34.png)
 
-Clique no ícone ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png) à direita do respectivo **Número do RF**
+Clique no ícone ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png) à direita do respectivo **Número do RF**
 a ser consultado.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image27.png)
@@ -2338,7 +2322,6 @@ Em seguida, é exibida a tela **Resumo do RF**.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image59.jpg)
 
-[]{#_qbtyoq .anchor}
 
 ### 2.3. Registro de Presença Comercial no Exterior (RPC)
 
@@ -2574,8 +2557,7 @@ Descrição:
 À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![Descrição:
-Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
+](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![Descrição:
 Descrição: Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser retificado.
@@ -2613,8 +2595,7 @@ Descrição:
 À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![Descrição:
-Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
+](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![Descrição:
 Descrição: Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser cancelado.
@@ -2646,8 +2627,7 @@ Descrição:
 À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![Descrição:
-Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
+](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![Descrição:
 Descrição: Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser consultado.
@@ -2904,14 +2884,11 @@ Após identificar o vendedor, o usuário poderá consultar o lote pelo número d
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image103.png)
 
-Caso o usuário utilize a opção **Informar Nº do Protocolo**, após clicar o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image106.png), o Sistema apresentará a tela com os dados do lote informado.
+Caso o usuário utilize a opção **Informar Nº do Protocolo**, após clicar o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image106.png), o Sistema apresentará a tela com os dados do lote informado.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image107.png)
 
-Se o usuário selecionar a opção **Listar arquivos em lote enviados**, ao clicar o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image106.png), o Sistema listará todos os lotes enviados em nome do CPF/CNPJ do vendedor. O usuário pode consultar um lote específico ao clicar o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image101.png). Neste caso, a tela com os dados do lote será apresentada como se o usuário consultasse o lote pelo seu número de protocolo.
+Se o usuário selecionar a opção **Listar arquivos em lote enviados**, ao clicar o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image106.png), o Sistema listará todos os lotes enviados em nome do CPF/CNPJ do vendedor. O usuário pode consultar um lote específico ao clicar o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image101.png). Neste caso, a tela com os dados do lote será apresentada como se o usuário consultasse o lote pelo seu número de protocolo.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image157.png)
 
