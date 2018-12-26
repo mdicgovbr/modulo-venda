@@ -1193,8 +1193,7 @@ b)  Usuário/Responsável pelo Registro representa uma Pessoa física; e
 
 c)  Usuário/Responsável pelo Registro é o Próprio Vendedor.
 
-[]{#_2ce457m .anchor}
-
+<a id="_2ce457m"></a>
 **1.5.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica**
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Informações cadastrais;
