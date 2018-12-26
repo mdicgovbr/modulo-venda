@@ -2111,7 +2111,7 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png)
  para ser disponibilizada a relação de todos os RVS previamente incluídos. Na lista de RVS exibida, acione o botão ![Descrição: Descrição:
 À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png). O Sistema abrirá a tela
-**[Operações](#upglbi) a Faturar**, sendo possível visualizar o **Valor da Operação** e **Saldo a Faturar** para cada operação, referente ao RVS selecionado**.**
+**[Operações](#upglbi) a Faturar**, sendo possível visualizar o **Valor da Operação** e **Saldo a Faturar** para cada operação, referente ao RVS selecionado **.**
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image84.png)
 
@@ -2120,48 +2120,40 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 > Para incluir os dados do faturamento de um serviço²⁰ no campo
 > **Operações** **a Faturar**, o usuário deve:
 >
-> a\) selecionar a operação a ser faturada, acionando o botão ![Descrição:
-> Descrição:
-> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png)
-> **;**
+>    <ol type="a">
+>    <li> selecionar a operação a ser faturada, acionando o botão <img alt=""  src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png"> 
+>    <strong>;</strong></li>
+>    <li>na tela seguinte <strong>Incluir Dados do RF</strong>, verificar o <strong>Valor da
+>    Operação</strong> e <strong>Saldo a Faturar</strong> da operação selecionada, bem como
+>    outros dados, no campo <strong>Dados da Operação</strong>;</li>
+>    <li>preencher a data da nota fiscal ou do documento equivalente ou
+>    selecioná-la, clicando no ícone <strong>Calendário</strong>;</li>
+>    <li>inserir o <a href="#2szc72q"> valor faturado </a>, o <a href="3s49zyc">valor mantido
+>    no exterior</a>, se for o caso, e clicar no botão
+>    <strong>Adicionar Dado</strong>. Caso haja outra operação a faturar no mesmo RVS, com
+>    a mesma data e referente à mesma nota fiscal de serviço ou documento
+>    equivalente, acionar o botão <img src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png"> 
+>    ao lado da operação desejada para incluir
+>    novos dados;</li>
+> 
+>![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image87.png)
 >
-> b\) na tela seguinte **Incluir Dados do RF**, verificar o **Valor da
-> Operação** e **Saldo a Faturar** da operação selecionada, bem como
-> outros dados, no campo **Dados da Operação**;
+>![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image83.png)
 >
-> c\) preencher a data da nota fiscal ou do documento equivalente ou
-> selecioná-la, clicando no ícone **Calendário**;
->
-> d\) inserir o [valor faturado](#2szc72q), o [[valor mantido
-> no exterior]{.underline}](#3s49zyc), se for o caso, e clicar no botão
-> **Adicionar Dado**. Caso haja outra operação a faturar no mesmo RVS, com
-> a mesma data e referente à mesma nota fiscal de serviço ou documento
-> equivalente, acionar o botão ![Descrição: Descrição:
-> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png)
-> ao lado da operação desejada para incluir
-> novos dados;
-
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image87.png)
-
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image83.png)
-
-> e\) antes da inclusão do RF, caso seja detectado erro de preenchimento,
-> clicar no ícone ![Descrição: Descrição:
-> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png)
+> <li> antes da inclusão do RF, caso seja detectado erro de preenchimento,
+> clicar no ícone <img src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png">
 > à direita para corrigi-lo, procedendo
-> conforme descrito acima. Para excluí-lo, clicar no ícone ![Descrição:
-> Descrição:
-> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png)
+> conforme descrito acima. Para excluí-lo, clicar no ícone <img src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png">
 > à esquerda do campo;
->
-> f\) inserir o **Número da NF de Serviço ou do Documento Equivalente** e
-> acionar o botão **Avançar.** O usuário deve preencher o campo **Número
-> da NF ou Documento Equivalente** com o número da nota fiscal de serviço
+></li>
+> <li> inserir o <strong>Número da NF de Serviço ou do Documento Equivalente</strong> e
+> acionar o botão <strong>Avançar.</strong> O usuário deve preencher o campo <strong>Número
+> da NF ou Documento Equivalente</strong> com o número da nota fiscal de serviço
 > referente à operação faturada ou, na sua ausência, com o número do
-> documento equivalente.
-
+> documento equivalente.</li>
+> </ol>
 Após a **Data de Conclusão** da operação, o valor total faturado deve coincidir com o **Valor da Operação**, na moeda do RVS. Caso os valores sejam divergentes, o usuário deve retificar o **Valor da Operação**
-utilizando os passos descritos no item [[2.1.2 (Retificação do RVS)]{.underline}](#_4cmhg48) e [[2.1.3 (Retificação do Aditivo ao RVS)]{.underline}](#_16ges7u), se for o caso.
+utilizando os passos descritos no item [2.1.2 (Retificação do RVS)](#_4cmhg48) e [2.1.3 (Retificação do Aditivo ao RVS)](#_16ges7u), se for o caso.
 
 Todas as retificações de valor no RVS realizadas após o primeiro RF devem ser justificadas no campo **Informações Complementares**.
 
@@ -2170,7 +2162,7 @@ No quadro **Selecione a Operação a Faturar** serão apresentados o
 
 Quando a operação estiver totalmente faturada, o ícone ![Descrição:
 Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png) à direita, no quadro **Selecione a Operação a Faturar**, deixa de aparecer**.**
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png) à direita, no quadro **Selecione a Operação a Faturar**, deixa de aparecer **.**
 
 Na inclusão do RF, o Sistema calcula e exibe o **Valor Total do RF**.
 
