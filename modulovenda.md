@@ -1287,6 +1287,10 @@ No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pesso
 Na opção **Criar Novo RVS**, os campos a serem preenchidos estarão em branco. Para usar essa opção, selecione **Criar Novo RVS** e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png)
 
 
+<<<<<<< 8aa4c173bd5402d5076adfb0feda543f7637f304
+=======
+
+>>>>>>> Atualizando formatação dos numeros
 Cada RVS destina-se a apenas um contrato de prestação de serviços₁₂.
 Cada contrato pode conter uma ou mais
 [operações](#2m6kmyk) em um mesmo RVS, desde que todas as operações sejam cursadas com o mesmo adquirente.
@@ -1686,14 +1690,7 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
 
-<<<<<<< HEAD
-
-<a id="_4cmhg48"></a>
-
-**2.1.2. Retificação do RVS**
-=======
 <a id="_4cmhg48"><strong>2.1.2. Retificação do RVS</strong></a>
->>>>>>> Update modulovenda.md
 
 O RVS ou o Aditivo ao RVS não podem ser cancelados, cabendo apenas retificações.
 
@@ -1746,24 +1743,14 @@ Após o término do [prazo para inclusão do último RF](#_49x2ik5), o valor tot
 **Valor da Operação**, ou seja, o valor do(s) RF(s) devem coincidir com o valor informado no RVS.
 
 Excepcionalmente, se, após o término do [prazo para inclusão do último RF](#_49x2ik5), ocorrer de os valores do RVS e do(s) RF não serem coincidentes:
-<<<<<<< HEAD
 
 
-=======
-
-<ol type="a">
-  <li>caso o serviço prestado tenha valor diferente do inicialmente registrado, o usuário deve retificar no RVS o <strong> Valor da Operação</strong>  de forma a corresponder ao valor do serviço efetivamente prestado.</li>
-  <li>caso o serviço tenha sido prestado e o faturamento tenha sido parcial ou inexistente, o usuário deve retificar o RVS para incluir em
-<strong> Informações Complementares</strong>  a justificativa para tanto.</li>
-</ol>
->>>>>>> Update modulovenda.md
 
 > a\) caso o serviço prestado tenha valor diferente do inicialmente registrado, o usuário deve retificar no RVS o  *Valor da Operação*  de forma a corresponder ao valor do serviço efetivamente prestado.
 >
 > b\) caso o serviço tenha sido prestado e o faturamento tenha sido parcial ou inexistente, o usuário deve retificar o RVS para incluir em
 > **Informações Complementares** a justificativa para tanto.
 
-<<<<<<< HEAD
 O **Valor da Operação** pode ser retificado para 0,00 (zero) nos seguintes casos:
 
 
@@ -1775,15 +1762,6 @@ O **Valor da Operação** pode ser retificado para 0,00 (zero) nos seguintes cas
 >
 > f\) o pagamento tenha sido inexistente.
 
-=======
-
-<ol type="a">
-  <li> o usuário tenha registrado a operação para um vendedor incorreto;</li>
-  <li>a operação tenha sido informada em duplicidade;</li>
-  <li>a operação tenha sido informada no módulo Venda indevidamente; ou</li>
-  <li>o pagamento tenha sido inexistente.</li>
-</ol>
->>>>>>> Update modulovenda.md
 
 Nesses casos, o usuário deve obrigatoriamente justificar a referida retificação em **Informações Complementares**. No caso das alíneas a e b, deve-se indicar o número do RVS correto. No caso da alínea c, indique o número do RAS.
 
@@ -1797,10 +1775,7 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 Não pode ser incluída nova operação por meio de retificação. Para incluir uma nova operação em um RVS já incluído, utilize a função
 [**Inclusão de Aditivo ao RVS** ](#_4c5u7s8).
 
-<<<<<<< HEAD
 <a id=""></a>
-=======
->>>>>>> Update modulovenda.md
 
 **2.1.3. Retificação do Aditivo ao RVS**
 
@@ -2290,8 +2265,13 @@ Para mais informações sobre a NBS vide [item 9, do Capítulo 1 deste Manual.](
 Em 2019, todos os Registros de Presença Comercial no Exterior, relativos
 às operações realizadas em 2018, devem classificar os serviços²¹ de acordo com a NBS 1.1, publicada pela xxxxxx.
 
+<<<<<<< 8aa4c173bd5402d5076adfb0feda543f7637f304
 A partir de 1º de janeiro de 2020, todos os Registros de Presença Comercial no Exterior devem classificar os serviços²² de acordo com a NBS 2.0, publicada pela **Portaria Conjunta RFB / SCS nº**
 **1.429, de 2018**.
+=======
+A partir de 1º de janeiro de 2020, todos os Registros de Presença Comercial no Exterior devem classificar os serviços²² de acordo com a NBS 2.0, publicada pela [Portaria Conjunta RFB / SCS nº]{.underline}
+[1.429, de 2018]{.underline}.
+>>>>>>> Atualizando formatação dos numeros
 
 **Operações amparadas por mecanismo de apoio**
 
@@ -2312,8 +2292,13 @@ operação(ões) amparada(s) em mecanismo(s) de apoio.
 
 A partir de 1º de janeiro de 2019, as informações sobre operação(ões)
 amparada(s) por mecanismo(s) de apoio que serão incluídas no RPC devem classificar os serviços²³ de acordo com a NBS 2.0, publicada pela
+<<<<<<< 8aa4c173bd5402d5076adfb0feda543f7637f304
 [Portaria Conjunta RFB / SCS nº 1.429, de
 2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20).
+=======
+[[Portaria Conjunta RFB / SCS nº 1.429, de
+2018]{.underline}](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20).
+>>>>>>> Atualizando formatação dos numeros
 
 **Valor Faturado em Dolar(USD)**
 
@@ -2481,8 +2466,13 @@ e
 
 Cabe ressaltar a necessidade de avaliação sobre alterações necessárias nos registros realizados por meio de transmissão em lote a partir da publicação da nova edição da NBS e de suas notas explicativas.
 
+<<<<<<< 8aa4c173bd5402d5076adfb0feda543f7637f304
 A prestação de serviços²⁴ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de
 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
+=======
+A prestação de serviços²⁴ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [[Portaria Conjunta RFB / SCS nº 1.820, de
+2014]{.underline}](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
+>>>>>>> Atualizando formatação dos numeros
 
 A prestação de serviços^13^ iniciada a partir de 1º de janeiro de 2019
 devem ser registradas tendo por base a [Portaria Conjunta RFB / SCS nº
@@ -3319,7 +3309,11 @@ Importante ressaltar que esse cenário trata exclusivamente de situação em que
     patrimônio](#1jvko6v)".
 
 [¹⁴]: Neste caso, leia-se "prestação de serviços", como "prestação de
+<<<<<<< 8aa4c173bd5402d5076adfb0feda543f7637f304
     serviços, transferência de intangível e realização de [outras
+=======
+    serviços, transferência de intangível e realização de [[outras
+>>>>>>> Atualizando formatação dos numeros
     operações que produzam variações no
     patrimônio](#1jvko6v)".
 
