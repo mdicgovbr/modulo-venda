@@ -1777,7 +1777,7 @@ Não pode ser incluída nova operação por meio de retificação. Para incluir 
 
 <a id=""></a>
 
-**2.1.3. Retificação do Aditivo ao RVS**
+<a id="_3jd0qos"><strong>2.1.3. Retificação do Aditivo ao RVS</strong></a>
 
 O aditivo ao RVS não pode ser cancelado, cabendo apenas retificações.
 
@@ -1803,7 +1803,7 @@ do mais recente para o mais antigo. Acione o botão ![](https://github.com/Leona
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image64.png)
 
-Após selecionar o RVS cujo aditivo se deseja retificar, o Sistema mostra a tela **[Dados do Negócio](#2981zbj)** do RVS selecionado, indicando as [operações](#upglbi) cadastradas no registro original e todos os termos aditivos. Há dois tipos de
+Após selecionar o RVS cujo aditivo se deseja retificar, o Sistema mostra a tela [**Dados do Negócio**](#2981zbj) do RVS selecionado, indicando as [operações](#upglbi) cadastradas no registro original e todos os termos aditivos. Há dois tipos de
 ícones: Visualizar -
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image50.png) e Alterar -
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image58.png). O ícone para alterar aparece apenas ao lado do aditivo que se deseja retificar, informado na tela anterior.
@@ -1857,9 +1857,7 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
 
-<a id=""></a>
-
-**2.1.4. Consulta ao RVS ou ao Aditivo ao RVS**
+<a id="_1yib0wl"><strong>2.1.4. Consulta ao RVS ou ao Aditivo ao RVS</strong></a>
 
 Esta função permite efetuar consulta a dados dos RVS no Sistema.
 
