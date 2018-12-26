@@ -1677,9 +1677,7 @@ mecanismo(s) de apoio.
 > 
 
 Selecione o [[Mecanismo](#4kgg8ps) de apoio/fomento]{.underline}
-desejado, no campo Enquadramento, e acione o botão ![Descrição:
-Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image3.png)
+desejado, no campo Enquadramento, e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image3.png)
 para adicioná-lo ao RVS.
 
 No caso de mecanismo vinculado a Registro de Operação de Crédito, tais como BNDES-EXIM e PROEX, preencher campo **Número do RC** com o respectivo número e acionar o botão ![Descrição: Descrição:
@@ -2325,7 +2323,7 @@ Em seguida, é exibida a tela **Resumo do RF**.
 
 ### 2.3. Registro de Presença Comercial no Exterior (RPC)
 
-**2.3.1. Inclusão do RPC**
+<a id="_r2r73f"><strong>2.3.1. Inclusão do RPC</strong></a>
 
 Para incluir um **Registro de Presença Comercial no Exterior (RPC)** é
 preciso acessar o *menu* operações e escolher a opção **RPC** e em seguida a opção **Incluir**.
@@ -2335,15 +2333,14 @@ preciso acessar o *menu* operações e escolher a opção **RPC** e em seguida a
 O campo CPF do Usuário é preenchido automaticamente pelo Sistema com informação advinda de seu Certificado Digital.
 
 No campo **CNPJ da Domiciliada no Brasil**, o usuário representante legal deve informar o CNPJ da domiciliada no Brasil que possui filial,
-sucursal e controlada no exterior. Para atuar como representante legal de pessoa jurídica, o usuário deve possuir [[procuração eletrônica]{.underline}](#1s66p4f) da pessoa jurídica representada.
+sucursal e controlada no exterior. Para atuar como representante legal de pessoa jurídica, o usuário deve possui[procuração eletrônica](#1s66p4f) da pessoa jurídica representada.
 
 Para iniciar a inclusão do registro, há duas opções: **Criar Novo RPC**
 ou **Aproveitar Dados de RPC Incluído**.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image47.png)
 
-Na opção **Criar Novo RPC**, os campos a serem preenchidos estarão em branco. Para usar essa opção, selecione **Criar Novo RPC** e acione o botão ![Descrição: Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png).
+Na opção **Criar Novo RPC**, os campos a serem preenchidos estarão em branco. Para usar essa opção, selecione **Criar Novo RPC** e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png).
 
 Na opção **Aproveitar Dados de RPC Incluído** o Sistema permite a seleção de um RPC existente, cujos dados serão recuperados para a inclusão de um novo RPC.
 
@@ -2351,14 +2348,11 @@ Na opção **Aproveitar Dados de RPC Incluído** o Sistema permite a seleção d
 
 Para usar essa opção, selecione Aproveitar Dados de RPC Incluído. O Sistema apresenta as seguintes opções:
 
-a\) **Informar o Número do RPC:** selecionada esta opção, preencha o campo com número de RPC do qual se deseja aproveitar os dados e acione o botão ![Descrição: Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png).
-
-**b) Exibir Lista dos RPC Incluídos:** selecionada esta opção, acione o botão ![Descrição: Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png).O Sistema exibe lista de RPC incluídos,
-do mais recente para o mais antigo. Acione o botão ![Descrição:
-Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC desejado.
+<ol type="a">
+<li><strong>Informar o Número do RPC:</strong> selecionada esta opção, preencha o campo com número de RPC do qual se deseja aproveitar os dados e acione o botão <img src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png">.</li>
+<li> <strong>Exibir Lista dos RPC Incluídos:</strong> selecionada esta opção, acione o botão <img src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png">.O Sistema exibe lista de RPC incluídos,
+do mais recente para o mais antigo. Acione o botão <img src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png">, à direita do RPC desejado.</li>
+</ol>
 
 **Opção de Atendimento à Legislação**
 
@@ -2498,18 +2492,14 @@ Deve ser especificado o valor faturado da [operação](#upglbi) amparada em **me
 O Sistema exibirá lista de mecanismos de apoio/fomento disponíveis para seleção. Para maiores informações, inclusive sobre os mecanismos disponíveis, veja o [[item 10.2 no capítulo 1]{.underline}](#_2w5ecyt).
 
 Selecione o mecanismo de apoio/fomento utilizado e clique em
-![Descrição: Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png) para adicioná-lo ao RPC. Para adicionar outro mecanismo de apoio/fomento referente à mesma operação, selecione o mecanismo e clique em ![Descrição: Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png). Esse procedimento deve ser repetido para cada mecanismo a ser adicionado em uma mesma operação.
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png) para adicioná-lo ao RPC. Para adicionar outro mecanismo de apoio/fomento referente à mesma operação, selecione o mecanismo e clique em ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png). Esse procedimento deve ser repetido para cada mecanismo a ser adicionado em uma mesma operação.
 
 No caso de mecanismo vinculado a Registro de Operação de Crédito, tais como BNDES-EXIM e PROEX, preencha campo **Número do RC** com o respectivo número e acione o botão ![Descrição: Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png) para adicioná-lo ao RPC. Caso contrário,
 deve-se clicar diretamente em ![Descrição: Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png).
 
-Para excluir um enquadramento selecionado, acione o botão ![Descrição:
-Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png).
+Para excluir um enquadramento selecionado, acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png).
 
 Após incluir o(s) mecanismo(s) de apoio, clique em **Adicionar Operação**.
 
@@ -2558,9 +2548,7 @@ Descrição:
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![Descrição:
 ](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
-do mais recente para o mais antigo. Acione o botão ![Descrição:
-Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser retificado.
+do mais recente para o mais antigo. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser retificado.
 
 Selecionado o RPC a ser retificado, siga os passos descritos no tópico
 [**[2.3.1 -]{.underline}** [ **Inclusão do RPC.
@@ -2596,9 +2584,7 @@ Descrição:
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![Descrição:
 ](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
-do mais recente para o mais antigo. Acione o botão ![Descrição:
-Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser cancelado.
+do mais recente para o mais antigo. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser cancelado.
 
 Após selecionar o RPC que deseja cancelar, o Sistema apresenta a tela
 **Resumo do RPC**, que inclui todos os dados do RPC.
@@ -2628,9 +2614,7 @@ Descrição:
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![Descrição:
 ](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
-do mais recente para o mais antigo. Acione o botão ![Descrição:
-Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser consultado.
+do mais recente para o mais antigo. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser consultado.
 
 Após selecionar o RPC que deseja consultar, o Sistema apresenta a tela
 **Resumo do RPC**, que inclui todos os dados do RPC.
