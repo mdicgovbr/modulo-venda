@@ -1956,7 +1956,7 @@ Não pode ser incluída nova operação por meio de retificação. Para incluir 
 [**Inclusão de Aditivo ao RVS** ](#_4c5u7s8).
 
 
-**2.1.3. Retificação do Aditivo ao RVS**
+<a id="_3jd0qos"><strong>2.1.3. Retificação do Aditivo ao RVS</strong></a>
 
 O aditivo ao RVS não pode ser cancelado, cabendo apenas retificações.
 
@@ -1967,7 +1967,7 @@ e em seguida **Retificar**.
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda do Certificado Digital do usuário.
 
-No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do Vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [[procuração eletrônica]{.underline}](#1s66p4f) do representado.
+No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do Vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [procuração eletrônica](#1s66p4f) do representado.
 
 Para retificar um Aditivo ao RVS, o usuário tem como opções: **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
 
@@ -1987,7 +1987,7 @@ graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image64.png)
 
-Após selecionar o RVS cujo aditivo se deseja retificar, o Sistema mostra a tela **[Dados do Negócio](#2981zbj)** do RVS selecionado, indicando as [operações](#upglbi) cadastradas no registro original e todos os termos aditivos. Há dois tipos de
+Após selecionar o RVS cujo aditivo se deseja retificar, o Sistema mostra a tela [**Dados do Negócio**](#2981zbj) do RVS selecionado, indicando as [operações](#upglbi) cadastradas no registro original e todos os termos aditivos. Há dois tipos de
 ícones: Visualizar -
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image50.png) e Alterar -
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image58.png). O ícone para alterar aparece apenas ao lado do aditivo que se deseja retificar, informado na tela anterior.
@@ -1995,39 +1995,42 @@ Após selecionar o RVS cujo aditivo se deseja retificar, o Sistema mostra a tela
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image53.png)
 
 Ao clicar no ícone
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image58.png) o Sistema mostra a tela [**[Dados do Negócio]{.underline}**](#2981zbj) do aditivo que se deseja retificar. O usuário deve efetuar o preenchimento, seguindo os passos descritos no tópico **[[2.1.2 do Capítulo 2 deste Manual]{.underline}](#_4cmhg48) --
-Retificação do RVS.**
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image58.png) o Sistema mostra a tela [**Dados do Negócio**](#2981zbj) do aditivo que se deseja retificar. O usuário deve efetuar o preenchimento, seguindo os passos descritos no tópico [**2.1.2 do Capítulo 2 deste Manual**](#_4cmhg48) --
+** Retificação do RVS.**
 
 Após conferir os dados retificados na tela **Resumo do RVS**, acione o botão **Incluir** para retificar o aditivo ao RVS. O Sistema retornará
 mensagem de confirmação de retificação do aditivo.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image90.png)
 
-Os aditivos ao RVS podem ter todos os campos retificados antes da inclusão do **RF** da [operação](#upglbi). Após o faturamento da operação, não podem ser retificados os campos **Código NBS** e **Moeda**. Em caso de erro de preenchimento nestes campos para as operações já faturadas, proceder previamente ao cancelamento do RF conforme o [[item 2.2.2]{.underline}](#_2wwbldi).
+Os aditivos ao RVS podem ter todos os campos retificados antes da inclusão do **RF** da [operação](#upglbi). Após o faturamento da operação, não podem ser retificados os campos **Código NBS** e **Moeda**. Em caso de erro de preenchimento nestes campos para as operações já faturadas, proceder previamente ao cancelamento do RF conforme o [item 2.2.2](#_2wwbldi).
 
 A retificação do campo **Moeda** é feita apenas na primeira operação inserida em um RVS e altera automaticamente a moeda das demais operações, inclusive das operações de aditivos. Os valores previamente cadastrados são mantidos, ou seja, o Sistema não faz conversão de valores para a nova moeda selecionada, devendo o usuário efetuar os ajustes nos valores, caso necessário.
 
 A retificação do **Valor da Operação** só é possível se esse for maior ou igual aos valores já faturados.
 
-Após o término do [[prazo para inclusão do último R]{.underline}](#_49x2ik5)F[,]{.underline} o valor total pago deve coincidir com o **Valor da Operação**, ou seja, o valor do(s) RF(s)
+Após o término do [prazo para inclusão do último R](#_49x2ik5) o valor total pago deve coincidir com o **Valor da Operação**, ou seja, o valor do(s) RF(s)
 devem coincidir com o valor informado no RVS.
 
-Excepcionalmente, se, após o término do [[prazo para inclusão do último RF]{.underline}](#_49x2ik5), ocorrer de os valores do RVS e do(s) RF não serem coincidentes:
+Excepcionalmente, se, após o término do [prazo para inclusão do último RF](#_49x2ik5), ocorrer de os valores do RVS e do(s) RF não serem coincidentes:
 
-a\) caso o serviço prestado tenha valor diferente do inicialmente registrado, o usuário deve retificar o aditivo do RVS o **Valor da Operação** de forma a corresponder ao valor do serviço efetivamente prestado;
-
-b\) caso o serviço tenha sido prestado e o faturamento tenha sido parcial ou inexistente, o usuário deve retificar o RVS para incluir em
-**Informações Complementares** a justificativa para tanto.
+<ol type="a">
+<li> caso o serviço prestado tenha valor diferente do inicialmente registrado, o usuário deve retificar o aditivo do RVS o <strong>Valor da Operação</strong> de forma a corresponder ao valor do serviço efetivamente prestado;
+</li>
+<li>caso o serviço tenha sido prestado e o faturamento tenha sido parcial ou inexistente, o usuário deve retificar o RVS para incluir em
+<strong>Informações Complementares</strong> a justificativa para tanto.
+</li>
+</ol>
 
 O **Valor da Operação** pode ser retificado para 0,00 (zero) nos seguintes casos:
 
-> a\) o usuário houver registrado o aditivo para o RVS incorreto;
->
-> b\) a operação tenha sido informada em duplicidade;
-
-c\) a operação tenha sido informada no módulo Venda, quando, na realidade, deveria ter sido inclusa no módulo de Aquisição;
-
-d\) o faturamento tenha sido inexistente.
+<ol type="a">
+<li>o usuário houver registrado o aditivo para o RVS incorreto;</li>
+<li>a operação tenha sido informada em duplicidade;</li>
+<li>a operação tenha sido informada no módulo Venda, quando, na realidade, deveria ter sido inclusa no módulo de Aquisição;</li>
+<li>o faturamento tenha sido inexistente.
+</li>
+</ol>
 
 Nesses casos, o usuário deve obrigatoriamente justificar a referida retificação em **Informações Complementares** do RVS aditado incorretamente. No caso das alíneas a e b, deve-se indicar o número do aditivo e do RVS correto. No caso da alínea c, é necessário indicar o número do aditivo e do RAS.
 
@@ -2038,7 +2041,7 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
 
-**2.1.4. Consulta ao RVS ou ao Aditivo ao RVS**
+<a id="_1yib0wl"><strong>2.1.4. Consulta ao RVS ou ao Aditivo ao RVS</strong></a>
 
 Esta função permite efetuar consulta a dados dos RVS no Sistema.
 
@@ -2054,7 +2057,7 @@ e em seguida **Consultar**.
 
 Ao clicar o botão **Consultar**, o campo CPF do usuário é preenchido automaticamente pelo Sistema com informação advinda do Certificado Digital do usuário.
 
-No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do Vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [[procuração eletrônica]{.underline}](#1s66p4f) do representado.
+No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do Vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [procuração eletrônica](#1s66p4f) do representado.
 
 Para consultar um RVS ou um Aditivo ao RVS, o usuário tem como opções:
 **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
@@ -2082,8 +2085,6 @@ Após selecionar o RVS que deseja consultar, o Sistema apresenta a tela
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image136.jpg)
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image40.jpg)
-
-> []{#_3im3ia3 .anchor}
 
 ### 2.2. Inclusão do RF
 
