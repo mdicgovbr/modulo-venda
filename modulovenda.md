@@ -1949,6 +1949,26 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 >
 > clicar no ícone <img src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png">
 > à direita para corrigi-lo, procedendo
+> conforme descrito acima. Para excluí-lo, clicar no ícone <img src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png">
+> à esquerda do campo;
+></li>
+> <li> inserir o <strong>Número da NF de Serviço ou do Documento Equivalente</strong> e
+> acionar o botão <strong>Avançar.</strong> O usuário deve preencher o campo <strong>Número
+> da NF ou Documento Equivalente</strong> com o número da nota fiscal de serviço
+> referente à operação faturada ou, na sua ausência, com o número do
+> documento equivalente.</li>
+> </ol>
+Após a **Data de Conclusão** da operação, o valor total faturado deve coincidir com o **Valor da Operação**, na moeda do RVS. Caso os valores sejam divergentes, o usuário deve retificar o **Valor da Operação**
+utilizando os passos descritos no item [2.1.2 (Retificação do RVS)](#_4cmhg48) e [2.1.3 (Retificação do Aditivo ao RVS)](#_16ges7u), se for o caso.
+
+Todas as retificações de valor no RVS realizadas após o primeiro RF devem ser justificadas no campo **Informações Complementares**.
+
+No quadro **Selecione a Operação a Faturar** serão apresentados o
+**Valor da Operação** e o **Saldo a Faturar.**
+
+Quando a operação estiver totalmente faturada, o ícone ![Descrição:
+Descrição:
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png) à direita, no quadro **Selecione a Operação a Faturar**, deixa de aparecer **.**
 
 Na inclusão do RF, o Sistema calcula e exibe o **Valor Total do RF**.
 
