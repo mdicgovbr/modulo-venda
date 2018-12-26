@@ -8,6 +8,7 @@ a title](http://fsf.org "click here for a good time!").
 
 [Write me!](mailto:sam@green.eggs.ham)        
 
+[abc](my_label_4)
 
 
 [my label 1]: /foo/bar.html  "My title, optional"
@@ -23,12 +24,6 @@ a title](http://fsf.org "click here for a good time!").
   Here is [my link][FOO]
 
 [Foo]: /bar/baz
-
-
-See [my website][].
-
-[my website]: http://foo.bar.baz
-
 
 See the [Introduction](#introduction).
 
