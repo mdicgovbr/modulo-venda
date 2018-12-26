@@ -2249,8 +2249,6 @@ a retificação dos dados do RF.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image52.png)
 
-[]{#_2wwbldi .anchor}
-
 **2.2.2. Cancelamento do RF**
 
 Esta função permite ao usuário cancelar um RF.
