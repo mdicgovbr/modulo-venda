@@ -611,7 +611,7 @@ f\) o nono dígito é o subitem.
 
 A sistemática de classificação dos códigos da NBS obedece à seguinte estrutura:
 
-> ![Descrição: Descrição:
+> ![ Descrição:
 > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image162.png)
 
 Exemplo:
@@ -642,8 +642,7 @@ Dessa maneira, fica claro que nem sempre o código NBS se apresenta totalmente d
   1.0905.91.00   Serviços de consultoria financeira
   1.2206.19.10   Serviços de palestras e conferências
 
-O usuário pode informar diretamente o código, ou localizá-lo acionando a ferramenta de busca: ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png), situada ao lado do campo **Código NBS**.
+O usuário pode informar diretamente o código, ou localizá-lo acionando a ferramenta de busca: ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png), situada ao lado do campo **Código NBS**.
 
 Na informação do código NBS, a posição mais específica prevalece sobre a mais genérica, sendo que o código só pode ser informado em seu maior nível de detalhamento (nove dígitos).
 
@@ -679,7 +678,7 @@ Na informação do código NBS, a posição mais específica prevalece sobre a m
 
 Para utilizar a ferramenta de busca:
 
-> 1-   no campo **Código NBS**, acionar botão ![Descrição: Descrição:
+> 1-   no campo **Código NBS**, acionar botão ![ Descrição:
 > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png)
 >
 > 2-   é aberta a janela **Seleção de Código NBS** para realização da
@@ -1447,8 +1446,7 @@ No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pesso
 Para iniciar a inclusão do registro, há duas opções: **Criar Novo RVS**
 ou **Aproveitar Dados de RVS Incluído**.
 
-Na opção **Criar Novo RVS**, os campos a serem preenchidos estarão em branco. Para usar essa opção, selecione **Criar Novo RVS** e acione o botão ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png)
+Na opção **Criar Novo RVS**, os campos a serem preenchidos estarão em branco. Para usar essa opção, selecione **Criar Novo RVS** e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png)
 
 
 Cada RVS destina-se a apenas um contrato de prestação de serviços₁₂.
@@ -1462,7 +1460,7 @@ Para usar essa opção, selecione **Aproveitar Dados de RVS Incluído**. O Siste
 
 a)  **Informar o Número do RVS:** selecionada esta opção, preencha o
     > campo com número de RVS do qual se deseja aproveitar os dados e
-    > acione o botão ![Descrição: Descrição:
+    > acione o botão ![ Descrição:
     > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png)
     
 
@@ -1470,11 +1468,11 @@ a)  **Informar o Número do RVS:** selecionada esta opção, preencha o
 
 
 b)  **Exibir Lista dos RVS Incluídos:** selecionada esta opção, acione o
-    > botão ![Descrição: Descrição:
+    > botão ![ Descrição:
     > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png)
     > O Sistema exibe lista de RVS
     > incluídos, do mais recente para o mais antigo. Acione o botão
-    > ![Descrição: Descrição:
+    > ![ Descrição:
     > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png)
     > à direita do RVS desejado.
 
@@ -1611,8 +1609,7 @@ Caso o [negócio](#40ew0vw) registrado envolva mais de uma moeda de recebimento,
 
 Durante o preenchimento do registro, caso haja mais de uma
 [operação](#upglbi) inserida no RVS e o usuário deseje alterar a moeda, deve-se concluir a inclusão da operação e na próxima tela alterar a moeda na primeira operação registrada naquele RVS,
-acionando o botão ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image14.png)
+acionando o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image14.png)
 
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image4.png)
@@ -1680,18 +1677,15 @@ Selecione o [[Mecanismo](#4kgg8ps) de apoio/fomento]{.underline}
 desejado, no campo Enquadramento, e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image3.png)
 para adicioná-lo ao RVS.
 
-No caso de mecanismo vinculado a Registro de Operação de Crédito, tais como BNDES-EXIM e PROEX, preencher campo **Número do RC** com o respectivo número e acionar o botão ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png)
+No caso de mecanismo vinculado a Registro de Operação de Crédito, tais como BNDES-EXIM e PROEX, preencher campo **Número do RC** com o respectivo número e acionar o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png)
 para adicioná-lo ao RVS. Caso contrário,
-clique diretamente em ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png)
+clique diretamente em ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png)
 .
 
 > ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image46.jpg)
 > 
 
-Caso deseje excluir um enquadramento selecionado, o usuário deve acionar o botão ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png)
+Caso deseje excluir um enquadramento selecionado, o usuário deve acionar o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png)
 .
 
 Para maiores informações acerca da lista de enquadramentos disponíveis para seleção no Módulo Venda, veja o [[item 10.1 do capítulo
@@ -1708,13 +1702,11 @@ Se a operação estiver vinculada à movimentação temporária de bens,
 selecionar a opção **Sim**. Nesse caso, preencher os campos com o número da [[Declaração de Importação (DI)]{.underline}](#2zlqixl) e/ou com o número da Declaração Única de Exportação (DU-E) ou do [[Registro de Exportação (RE)](#3ep43zb) averbado, se o registro ainda tiver sido realizado no Siscomex.]{.underline}
 
 Para incluir mais de um número de DI ou de DU-E (ou RE), clique no ícone
-![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png)
 .
 
 Para excluir número de DI ou de DU-E (ou RE), clique no ícone
-![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png)
  à direita do número registrado.
 
 [Inclusão de Operação no RVS]{.underline}
@@ -1729,13 +1721,11 @@ Após preenchimento dos campos **Código NBS / Descrição da NBS, Código do Pa
 Caso deseje incluir outra operação no mesmo RVS, clique em **Adicionar Operação.**
 
 Caso deseje alterar uma operação adicionada ao RVS, acione o botão
-![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image14.png)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image14.png)
 .
 
 Caso deseje excluir uma operação adicionada ao RVS, acione o botão
-![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png)
 . A exclusão de uma operação só é possível antes da confirmação da inclusão do RVS.
 
 Após a confirmação da inclusão do RVS, os dados de uma operação somente poderão ser alterados por meio da função **[[Retificar RVS]{.underline}](#_4cmhg48).**
@@ -1830,7 +1820,7 @@ No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pesso
 Para incluir um aditivo a um registro, o usuário tem como opções:
 **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
 
-Selecionada a opção **Informar o Número do RVS,** preencha o campo com número de RVS que se deseja aditar e acione o botão ![Descrição:
+Selecionada a opção **Informar o Número do RVS,** preencha o campo com número de RVS que se deseja aditar e acione o botão ![
 Descrição:
 À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png)
 
@@ -1838,7 +1828,7 @@ Descrição:
 
 Selecionada a opção **Exibir Lista de RVS Incluídos,** acione o botão
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
-do mais recente para o mais antigo. Acione o botão ![Descrição:
+do mais recente para o mais antigo. Acione o botão ![
 Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RVS desejado.
 
@@ -1882,7 +1872,7 @@ No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pesso
 
 Para retificar um RVS, o usuário tem como opções: **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
 
-Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número de RVS que se deseja retificar e acione o botão ![Descrição:
+Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número de RVS que se deseja retificar e acione o botão ![
 Descrição:
 À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
@@ -1890,7 +1880,7 @@ Descrição:
 
 Selecionada a opção **Exibir Lista de RVS Incluídos,** acione o botão
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
-do mais recente para o mais antigo. Acione o botão ![Descrição:
+do mais recente para o mais antigo. Acione o botão ![
 Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RVS desejado.
 
@@ -1971,10 +1961,10 @@ Selecionada a opção **Informar o Número do RVS,** preencha o campo com o núm
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image63.png)
 
-Selecionada a opção **Exibir Lista de RVS Incluídos,** informe o número do aditivo que se deseja retificar e acione o botão ![Descrição:
+Selecionada a opção **Exibir Lista de RVS Incluídos,** informe o número do aditivo que se deseja retificar e acione o botão ![
 Descrição:
 À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
-do mais recente para o mais antigo. Acione o botão ![Descrição:
+do mais recente para o mais antigo. Acione o botão ![
 Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RVS desejado.
 
@@ -2057,7 +2047,7 @@ No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pesso
 Para consultar um RVS ou um Aditivo ao RVS, o usuário tem como opções:
 **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
 
-Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número do RVS que se deseja consultar e acione o botão ![Descrição:
+Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número do RVS que se deseja consultar e acione o botão ![
 Descrição:
 À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
@@ -2065,7 +2055,7 @@ Descrição:
 
 Selecionada a opção **Exibir Lista de RVS Incluídos,** acione o botão
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
-do mais recente para o mais antigo. Acione o botão ![Descrição:
+do mais recente para o mais antigo. Acione o botão ![
 Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RVS desejado.
 
@@ -2095,7 +2085,7 @@ Em seguida, o Sistema disponibiliza duas opções para registro do faturamento: 
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image114.png)
 
-Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número do RVS que se deseja incluir o RF e acione o botão ![Descrição:
+Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número do RVS que se deseja incluir o RF e acione o botão ![
 Descrição:
 À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
@@ -2152,7 +2142,7 @@ Todas as retificações de valor no RVS realizadas após o primeiro RF devem ser
 No quadro **Selecione a Operação a Faturar** serão apresentados o
 **Valor da Operação** e o **Saldo a Faturar.**
 
-Quando a operação estiver totalmente faturada, o ícone ![Descrição:
+Quando a operação estiver totalmente faturada, o ícone ![
 Descrição:
 À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png) à direita, no quadro **Selecione a Operação a Faturar**, deixa de aparecer **.**
 
@@ -2280,8 +2270,7 @@ do RF:
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image65.png)
 
 Caso o usuário acesse novamente o *menu* **RF \> Cancelar**, observará a
-**Data de Cancelamento** ao lado da **Data de Inclusão** e o desaparecimento do ícone ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png) para o RF cancelado.
+**Data de Cancelamento** ao lado da **Data de Inclusão** e o desaparecimento do ícone ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png) para o RF cancelado.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image43.png)
 
@@ -2362,7 +2351,7 @@ O usuário deve indicar que as informações objeto de registro serão prestadas
 
 O usuário deve escolher uma das opções de atendimento à legislação para seguir adiante. No caso da não indicação de que o registro será feito em atendimento concomitante à legislação supracitada, o usuário estará
 sujeito às sanções previstas no art. 7º ou no art.
-8º da Portaria Conjunta RFB/SCS n^[º]{.underline}^
+8º da Portaria Conjunta RFB/SCS nº
 1.908, de 19 de junho de 2012.
 
 É possível manter a opção de atendimento à legislação para os futuros RPC, selecionando o campo **Desejo manter essa decisão para os próximos registros**. Após marcar essa opção, a tela não será mostrada novamente em futuros preenchimentos, que assumirão a última opção marcada.
@@ -2428,20 +2417,20 @@ pessoa jurídica domiciliada no Brasil.
 ![Tela RPC
 11](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image39.png)
 
-**[Ano da apuração]{.underline}**
+**Ano da apuração**
 
 Indique o ano-calendário a que se refere à **Receita Total.**
 
-**[Receita Total]{.underline}**
+**Receita Total**
 
 Informe a receita total anual da presença comercial, em dólar dos Estados Unidos da América, com a venda de serviços, a transferência de
-[intangíveis](#haapch) e a realização de [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq)
+[intangíveis](#haapch) e a realização de [outras operações que produzam variações no patrimônio](#3tm4grq)
 no **Ano da apuração**.
 
 A conversão em dólar dos Estados Unidos da América deve ser efetuada tomando-se por base a taxa de câmbio para venda do dia 31 de dezembro do
 **Ano da apuração**, fixada pelo Banco Central do Brasil.
 
-**[Posição NBS / Descrição da posição da NBS]{.underline}**
+**Posição NBS / Descrição da posição da NBS**
 
 Informe o(s) código(s) da NBS, em nível de posição, mais representativo(s) em relação à **Receita Total** obtida da venda de serviços, transferência de [intangíveis](#haapch) e realização de [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq) pela presença comercial.
 
@@ -2453,15 +2442,15 @@ Exemplos de código da NBS em nível de posição:
 
 1.0105 - Serviços de construção de portos e sua infraestrutura
 
-Para mais informações sobre a NBS vide [[item 9, do Capítulo 1 deste Manual.]{.underline}](#_206ipza)
+Para mais informações sobre a NBS vide [item 9, do Capítulo 1 deste Manual](#_206ipza)
 
 Em 2019, todos os Registros de Presença Comercial no Exterior, relativos
 às operações realizadas em 2018, devem classificar os serviços²¹ de acordo com a NBS 1.1, publicada pela xxxxxx.
 
-A partir de 1º de janeiro de 2020, todos os Registros de Presença Comercial no Exterior devem classificar os serviços²² de acordo com a NBS 2.0, publicada pela [Portaria Conjunta RFB / SCS nº]{.underline}
-[1.429, de 2018]{.underline}.
+A partir de 1º de janeiro de 2020, todos os Registros de Presença Comercial no Exterior devem classificar os serviços²² de acordo com a NBS 2.0, publicada pela **Portaria Conjunta RFB / SCS nº**
+**1.429, de 2018**.
 
-**[Operações amparadas por mecanismo de apoio]{.underline}**
+**Operações amparadas por mecanismo de apoio**
 
 Caso a presença comercial tenha realizado, durante o ano de apuração,
 operação amparada em um ou mais mecanismos de apoio/fomento ao comércio exterior de serviços, intangíveis e outras operações que produzam variações no patrimônio, o usuário deve marcar "sim" à direita da pergunta: "Há operações amparadas por mecanismo de apoio/fomento ao comércio exterior nos termos do art. 26 da Lei 12.546/2011?". Todos os mecanismos de apoio que amparam a operação devem ser registrados neste campo em cumprimento ao previsto no art. 26 da Lei nº
@@ -2476,34 +2465,32 @@ A concessão ou o reconhecimento de cada mecanismo condiciona-se ao registro das
 O Sistema abrirá uma nova tela para inclusão dos dados da(s)
 operação(ões) amparada(s) em mecanismo(s) de apoio.
 
-**[Código NBS / Descrição da NBS]{.underline}:** Vide [[item 9, do Capítulo 1 deste Manual.]{.underline}](#_206ipza)
+**Código NBS / Descrição da NBS:** Vide [item 9, do Capítulo 1 deste Manual.](#_206ipza)
 
 A partir de 1º de janeiro de 2019, as informações sobre operação(ões)
 amparada(s) por mecanismo(s) de apoio que serão incluídas no RPC devem classificar os serviços²³ de acordo com a NBS 2.0, publicada pela
-[[Portaria Conjunta RFB / SCS nº 1.429, de
-2018]{.underline}](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20).
+[Portaria Conjunta RFB / SCS nº 1.429, de
+2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20).
 
-**[Valor Faturado em Dolar(USD)]{.underline}**
+**Valor Faturado em Dolar(USD)**
 
 Deve ser especificado o valor faturado da [operação](#upglbi) amparada em **mecanismo de apoio/fomento** no **Ano de Apuração**, em dólar dos Estados Unidos da América.
 
-**[Mecanismos de apoio/fomento]{.underline}**
+**Mecanismos de apoio/fomento**
 
-O Sistema exibirá lista de mecanismos de apoio/fomento disponíveis para seleção. Para maiores informações, inclusive sobre os mecanismos disponíveis, veja o [[item 10.2 no capítulo 1]{.underline}](#_2w5ecyt).
+O Sistema exibirá lista de mecanismos de apoio/fomento disponíveis para seleção. Para maiores informações, inclusive sobre os mecanismos disponíveis, veja o [item 10.2 no capítulo 1](#_2w5ecyt).
 
 Selecione o mecanismo de apoio/fomento utilizado e clique em
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png) para adicioná-lo ao RPC. Para adicionar outro mecanismo de apoio/fomento referente à mesma operação, selecione o mecanismo e clique em ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png). Esse procedimento deve ser repetido para cada mecanismo a ser adicionado em uma mesma operação.
 
-No caso de mecanismo vinculado a Registro de Operação de Crédito, tais como BNDES-EXIM e PROEX, preencha campo **Número do RC** com o respectivo número e acione o botão ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png) para adicioná-lo ao RPC. Caso contrário,
-deve-se clicar diretamente em ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png).
+No caso de mecanismo vinculado a Registro de Operação de Crédito, tais como BNDES-EXIM e PROEX, preencha campo **Número do RC** com o respectivo número e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png) para adicioná-lo ao RPC. Caso contrário,
+deve-se clicar diretamente em ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png).
 
 Para excluir um enquadramento selecionado, acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png).
 
 Após incluir o(s) mecanismo(s) de apoio, clique em **Adicionar Operação**.
 
-**[Informações Complementares]{.underline}**
+**Informações Complementares**
 
 Destina-se ao preenchimento de informações pertinentes ao RPC que não tenham campo específico no Sistema.
 
@@ -2511,7 +2498,7 @@ O preenchimento deste campo é opcional.
 
 Acione **Avançar** para seguir para o próximo passo.
 
-**[Resumo do RPC]{.underline}**
+**Resumo do RPC**
 
 O Sistema exibirá tela Resumo do RPC, que traz as informações preenchidas para incluir o RPC.
 
@@ -2526,7 +2513,7 @@ O Sistema retornará mensagem de confirmação da inclusão dos dados no Siscose
 
 Convém manter controle dos números de RPC incluídos no Siscoserv, para facilitar eventuais retificações posteriores.
 
-**2.3.2. Retificação do RPC**
+<a id="_3b2epr8"><strong>2.3.2. Retificação do RPC</strong></a>
 
 Para retificar um RPC é preciso acessar o *menu* **RPC** e em seguida
 **Retificar**.
@@ -2536,23 +2523,20 @@ Para retificar um RPC é preciso acessar o *menu* **RPC** e em seguida
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda de seu Certificado Digital.
 
 No campo **CNPJ da Domiciliada no Brasil**, o usuário representante legal deve informar o CNPJ da domiciliada no Brasil que possui filial,
-sucursal e controlada no exterior. Para atuar como representante legal de pessoa jurídica, o usuário deve possuir [[procuração eletrônica]{.underline}](#1s66p4f) da pessoa jurídica representada.
+sucursal e controlada no exterior. Para atuar como representante legal de pessoa jurídica, o usuário deve possuir [procuração eletrônica](#1s66p4f) da pessoa jurídica representada.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image7.png)
 
 Para retificar um RPC, o usuário tem como opções: **Informar o Número do RPC** ou **Exibir Lista de RPC Incluídos**.
 
-Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser retificado e acionado o botão ![Descrição: Descrição:
-Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
+Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser retificado e acionado o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
-Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![Descrição:
+Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![
 ](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser retificado.
 
 Selecionado o RPC a ser retificado, siga os passos descritos no tópico
-[**[2.3.1 -]{.underline}** [ **Inclusão do RPC.
-**]{.underline}](#_3qg2avn)
+[**2.3.1 - Inclusão do RPC.**](#_3qg2avn)
 
 Após conferir os dados retificados na tela **Resumo do RPC**, acione o botão **Retificar**. O Sistema retornará mensagem de confirmação de retificação dos dados no Siscoserv.
 
@@ -2578,11 +2562,9 @@ sucursal e controlada no exterior. Para atuar como representante legal de pessoa
 
 Para cancelar um RPC, o usuário tem como opções: **Informar o Número do RPC** ou **Exibir Lista de RPC Incluídos**.
 
-Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser cancelado e acionado o botão ![Descrição: Descrição:
-Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
+Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser cancelado e acionado o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
-Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![Descrição:
+Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![
 ](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser cancelado.
 
@@ -2608,11 +2590,9 @@ sucursal e controlada no exterior. Para atuar como representante legal de pessoa
 
 Para consultar um RPC, o usuário tem como opções: **Informar o Número do RPC** ou **Exibir Lista de RPC Incluídos**.
 
-Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser consultado e acionado o botão ![Descrição: Descrição:
-Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
+Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser consultado e acionado o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
-Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![Descrição:
+Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![
 ](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser consultado.
 
@@ -2795,7 +2775,7 @@ Após clicar em **Avançar** o sistema apresentará a seguinte tela:
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image128.png)
 
-O usuário, então, deve clicar em **Escolher arquivo**, localizar o arquivo de lote que deseja transmitir e clicar no botão ![Descrição:
+O usuário, então, deve clicar em **Escolher arquivo**, localizar o arquivo de lote que deseja transmitir e clicar no botão ![
 Descrição:
 À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image101.png).
 
@@ -3347,62 +3327,61 @@ Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_i
 
 **Cenário 2.1. Contratação de seguro com intermediação de corretora**
 
-[Descrição]{.underline}
+Descrição
 
-Empresa residente ou domiciliada no Brasil -- Emp~BR~, utiliza corretora de seguros, também residente ou domiciliada no Brasil, -- Cor~BR~ que intermedeia a contratação com a seguradora residente ou domiciliada no exterior -- Seg~EX~. Desta forma, mesmo intervindo o intermediário Cor~BR~, as partes do contrato do seguro continuam a ser Emp~BR~ e Seg~EX~ e cabe a Emp~BR~, a contratante no Brasil, o registro no Siscoserv.
+Empresa residente ou domiciliada no Brasil – EmpBR, utiliza corretora de seguros, também residente ou domiciliada no Brasil, – CorBR que intermedeia a contratação com a seguradora residente ou domiciliada no exterior – SegEx. Desta forma, mesmo intervindo o intermediário CorBR, as partes do contrato do seguro continuam a ser EmpBR e SegEx e cabe a EmpBR, a contratante no Brasil, o registro no Siscoserv.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image95.jpg)
 
-[Atores]{.underline}:
+Atores:
 
-> Emp~BR~: Empresa residente ou domiciliado no Brasil
+> EmpBR: Empresa residente ou domiciliado no Brasil
 >
-> Cor~BR~: Corretora de seguros residente ou domiciliado no Brasil
+> CorBR: Corretora de seguros residente ou domiciliado no Brasil
 >
-> Seg~EX~: Seguradora residente ou domiciliado no Exterior
+> SegEx: Seguradora residente ou domiciliado no Exterior
 
-[Relações entre os Atores:]{.underline}
+Relações entre os Atores:
 
-> Emp~BR~ -- Cor~BR~: Emp~BR~ contrata Cor~BR~ para que, em nome de
-> Emp~BR~, contrate o seguro.
+> EmpBR -- CorBR: EmpBR contrata CorBR para que, em nome de
+> EmpBR, contrate o seguro.
 >
-> Cor~BR~ -- Seg~EX~: Cor~BR~ contrata seguro de Seg~EX~, em nome de
-> Emp~BR~.
+> CorBR -- SegEx: CorBR contrata seguro de SegEx, em nome de
+> EmpBR.
 
-[Registros devidos]{.underline}:
+Registros devidos:
 
-> Emp~BR~: RAS pelo serviço de seguro tendo Seg~EX~ como vendedora.
+> EmpBR: RAS pelo serviço de seguro tendo SegEx como vendedora.
 >
 **Cenário 2.2. Contratação de seguro de estipulante domiciliada ou residente no Brasil**
 
-[Descrição]{.underline}
+Descrição
 
-Est~BR~, residente ou domiciliada no Brasil, é uma corretora que contrata e paga apólice coletiva de seguros, ficando investida dos poderes de representação dos segurados perante as seguradoras, fazendo papel de estipulante. Se Seg~EX~, seguradora residente ou domiciliada no exterior, for contratada e paga por Est~BR~ em favor de Emp~BR~,
-residente ou domiciliada no Brasil, Est~BR~ é considerado o contratante e, consequentemente, o responsável pelo registro no Siscoserv
+EstBR, residente ou domiciliada no Brasil, é uma corretora que contrata e paga apólice coletiva de seguros, ficando investida dos poderes de representação dos segurados perante as seguradoras, fazendo papel de estipulante. Se SegEx, seguradora residente ou domiciliada no exterior, for contratada e paga por EstBR em favor de EmpBR,
+residente ou domiciliada no Brasil, EstBR é considerado o contratante e, consequentemente, o responsável pelo registro no Siscoserv
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image96.jpg)
 
-[Atores]{.underline}:
+Atores:
 
-> Emp~BR~: Empresa residente ou domiciliado no Brasil
+> EmpBR: Empresa residente ou domiciliado no Brasil
 >
-> Est~BR~: Estipulante residente ou domiciliada no Brasil
+> EstBR: Estipulante residente ou domiciliada no Brasil
 >
-> Seg~EX~: Seguradora residente ou domiciliado no Exterior
+> SegEx: Seguradora residente ou domiciliado no Exterior
 
-[Relações entre os Atores:]{.underline}
+Relações entre os Atores:
 
-> Emp~BR~ -- Est~BR~: Emp~BR~ contrata seguro de Est~BR~.
+> EmpBR -- EstBR: EmpBR contrata seguro de EstBR.
 >
-> Est~BR~ -- Seg~EX~: Est~BR~ contrata apólice coletiva de seguros de
-> Seg~EX~ e paga por ela, ficando investida dos poderes de representação
-> dos segurados, inclusive Emp~EX~, perante Seg~EX~
+> EstBR -- SegEx: EstBR contrata apólice coletiva de seguros de
+> SegEx e paga por ela, ficando investida dos poderes de representação
+> dos segurados, inclusive Emp~EX~, perante SegEx
 
-[Registros devidos]{.underline}:
+Registros devidos:
 
-> Est~BR~: RAS pelo serviço de seguro tendo Seg~EX~ como vendedora.
+> EstBR: RAS pelo serviço de seguro tendo SegEx como vendedora.
 >
-> []{#_4gjguf0 .anchor}
 
 ## 3. Remessa Expressa
 
