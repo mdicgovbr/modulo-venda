@@ -1103,11 +1103,12 @@ intangível ou [outra operação que produza variação no patrimônio](#3tm4grq
 e [[Instrução Normativa no 726]{.underline}, de 28 de fevereiro de
 2007](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=15670).
 
-[]{#_meukdy .anchor}\
+<a id="_meukdy"></a>
 **Capítulo 2**![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png)
 
 **Operacionalização do Sistema**
 
+<a id="_3rnmrmc"></a>
 ## 1. Acesso ao Siscoserv
 
 O acesso ao Siscoserv está disponível no Centro Virtual de Atendimento ao Contribuinte (e-CAC) da RFB na internet no endereço:
@@ -1115,6 +1116,7 @@ O acesso ao Siscoserv está disponível no Centro Virtual de Atendimento ao Cont
 [http://www.siscoserv.mdic.gov.br](http://www.siscoserv.mdic.gov.br);
 exceto no horário de manutenção diária do Sistema (1h às 3h).
 
+<a id="_26sx1u5"></a>
 ### 1.1. Como acessar o Siscoserv
 
 O acesso ao Siscoserv é sempre feito por [certificado digital](#_zu0gcz) **e-CPF**. Quando a informação for prestada por pessoa jurídica ou representante legal de terceiros, além do e-CPF do representante legal, também se exige [procuração eletrônica](#_1yyy98l). Essa procuração deve ser emitida por estabelecimento.
@@ -1125,8 +1127,7 @@ O acesso ao Siscoserv é sempre feito por [certificado digital](#_zu0gcz) **e-CP
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image120.png)
 
-[]{#_zu0gcz .anchor}
-
+<a id="_ly7c1y"></a>
 ### 1.2. O que é e como obter o Certificado Digital (e-CPF)
 
 O Certificado Digital permite a identificação de uma pessoa no ambiente digital/eletrônico em transação na internet que necessite de validade legal e identificação inequívoca.
@@ -1136,6 +1137,8 @@ A lista de autoridades certificadoras, habilitadas pela Secretaria da Receita Fe
 []{#_1yyy98l
 .anchor}[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
 
+
+<a id="_35xuupr"></a>
 ### 1.3. O que é e como obter a Procuração Eletrônica
 
 A Procuração Eletrônica, emitida exclusivamente pela RFB, é o instrumento que permite que uma pessoa física represente outra pessoa
