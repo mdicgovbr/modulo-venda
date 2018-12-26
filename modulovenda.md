@@ -184,7 +184,7 @@ O Sistema Integrado de Comércio Exterior de Serviços,
 bem como para a orientação de estratégias empresariais de comércio exterior de serviços e intangíveis.
 
 O Siscoserv guarda conformidade com as diretrizes do Acordo Geral sobre Comércio de Serviços (GATS) da Organização Mundial do Comércio (OMC),
-aprovado pelo Decreto Legislativo n^[o]{.underline}^ 30, de 15 de dezembro de 1994, e promulgado pelo Decreto n^[o]{.underline}^ 1.355, de
+aprovado pelo Decreto Legislativo nº 30, de 15 de dezembro de 1994, e promulgado pelo Decreto nº 1.355, de
 30 de dezembro de 1994.
 
 <a id="_488uthg"></a>
@@ -704,12 +704,12 @@ acionar**.**
 Em caso de dúvidas sobre classificação da NBS, consulte as Regras de Interpretação da NBS, bem como suas [[Notas Explicativas]{.underline}](http://www.mdic.gov.br/arquivos/dwnl_1387454702.pdf)
 (NEBS).
 
-Caso persistam dúvidas, deve ser formalizado processo administrativo de consulta à Secretaria da Receita Federal do Brasil (RFB), nos termos do art. 48 da Lei n^[o]{.underline}^ 9.430, de 27 de dezembro de 1996 e do Decreto n^[o]{.underline}^ 7.708, de 02 de abril de 2012, que instituiu a NBS.
+Caso persistam dúvidas, deve ser formalizado processo administrativo de consulta à Secretaria da Receita Federal do Brasil (RFB), nos termos do art. 48 da Lei nº 9.430, de 27 de dezembro de 1996 e do Decreto nº 7.708, de 02 de abril de 2012, que instituiu a NBS.
 
 <a id="_4ddeoix"></a>
 ## 10 Mecanismos de apoio / fomento ao Comércio Exterior de Serviços e Intangíveis
 
-A informação sobre Mecanismo de apoio/fomento no Siscoserv tem a finalidade de contribuir para a gestão do fomento pelos órgãos e instituições responsáveis pela sua concessão. Esta informação deve ser registrada em cumprimento ao previsto no art. 26 da Lei n^[o]{.underline}^ 12.546, de 14 de dezembro de 2011.
+A informação sobre Mecanismo de apoio/fomento no Siscoserv tem a finalidade de contribuir para a gestão do fomento pelos órgãos e instituições responsáveis pela sua concessão. Esta informação deve ser registrada em cumprimento ao previsto no art. 26 da Lei nº 12.546, de 14 de dezembro de 2011.
 
 O campo enquadramento deve ser obrigatoriamente preenchido no caso de
 [[operação]{.underline}](about:blank) amparada em um ou mais mecanismos de apoio/fomento ao comércio exterior de serviços, intangíveis e às
@@ -929,7 +929,7 @@ Deve ser realizada consulta às Regras de Interpretação da Nomenclatura Brasil
 
 [[http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/nbs-nomenclatura-brasileira-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio]{.underline}](http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/nbs-nomenclatura-brasileira-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio)
 
-Caso persistam dúvidas, deve ser formalizado processo administrativo de consulta à Secretaria da Receita Federal do Brasil (RFB), nos termos do art. 48 da Lei n^[o]{.underline}^ 9.430, de 27 de dezembro de 1996 e do Decreto n^[o]{.underline}^ 7.708, de 02 de abril de 2012, que instituiu a NBS.
+Caso persistam dúvidas, deve ser formalizado processo administrativo de consulta à Secretaria da Receita Federal do Brasil (RFB), nos termos do art. 48 da Lei nº 9.430, de 27 de dezembro de 1996 e do Decreto nº 7.708, de 02 de abril de 2012, que instituiu a NBS.
 
 -   **[Dúvidas sobre registro no Siscoserv:]{.underline}**
 
@@ -1001,7 +1001,7 @@ ser representados em juízo, ativa e passivamente. São entes despersonalizados:
 <a id="haapch"></a>
 **Intangível:** Serão considerados os seguintes intangíveis para fins do registro no SISCOSERV:
 
-I - o licenciamento (autorização para usar ou explorar comercialmente direito patrimonial) e a cessão, temporária ou definitiva, dos direitos de propriedade intelectual objeto das Seções 1 a 7 da Parte II do Acordo sobre os Aspectos dos Direitos de Propriedade Intelectual Relacionados ao Comércio, conforme o Anexo 1C do Acordo Constitutivo da Organização Mundial do Comércio constante da Ata Final que incorpora os Resultados das Negociações Comerciais Multilaterais da Rodada Uruguai, aprovada pelo Decreto n^[o]{.underline}^ 1.355, de 31 de dezembro de 1994;
+I - o licenciamento (autorização para usar ou explorar comercialmente direito patrimonial) e a cessão, temporária ou definitiva, dos direitos de propriedade intelectual objeto das Seções 1 a 7 da Parte II do Acordo sobre os Aspectos dos Direitos de Propriedade Intelectual Relacionados ao Comércio, conforme o Anexo 1C do Acordo Constitutivo da Organização Mundial do Comércio constante da Ata Final que incorpora os Resultados das Negociações Comerciais Multilaterais da Rodada Uruguai, aprovada pelo Decreto nº 1.355, de 31 de dezembro de 1994;
 
 II - os contratos de transferência de tecnologia envolvendo a prestação de serviços de assistência técnica e científica, combinadamente ou não,
 e o fornecimento da tecnologia -- *know how*;
@@ -1053,9 +1053,9 @@ São exemplos:
 **Registro de Exportação (RE):** no Sistema Integrado de Comércio Exterior - Siscomex é o conjunto de informações de natureza comercial,
 financeira, cambial e fiscal que caracterizam a operação de exportação de uma mercadoria e definem o seu enquadramento.
 
-**Residente no Brasil:** Considera-se residente no Brasil a pessoa física (Lei n^[o]{.underline}^ 9.718, de 27 de novembro de 1998, art.
-12; Instrução Normativa SRF n^[o]{.underline}^ 208, de 27 de setembro de
-2002, art. 2^[o]{.underline}^, com a alteração dada pela Instrução Normativa RFB n^[o]{.underline}^ 1.008, de 9 de fevereiro de 2010) :
+**Residente no Brasil:** Considera-se residente no Brasil a pessoa física (Lei nº 9.718, de 27 de novembro de 1998, art.
+12; Instrução Normativa SRF nº 208, de 27 de setembro de
+2002, art. 2º, com a alteração dada pela Instrução Normativa RFB nº 1.008, de 9 de fevereiro de 2010) :
 
 > I - que resida no Brasil em caráter permanente;
 >
@@ -1491,13 +1491,13 @@ Em seguida, o Siscoserv apresenta a seguinte tela:
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image13.png)
 
 
-O usuário deve indicar que as informações objeto de registro serão prestadas em atendimento aos arts. 25 e 26 da Lei n^[o]{.underline}^
-12.546, de 14 de dezembro de 2011, à Portaria MDIC n^[o]{.underline}^
-113, de 17 de maio de 2012, e à Instrução Normativa RFB n^[o]{.underline}^ 1.277 de 28 de junho de 2012.
+O usuário deve indicar que as informações objeto de registro serão prestadas em atendimento aos arts. 25 e 26 da Lei nº
+12.546, de 14 de dezembro de 2011, à Portaria MDIC nº
+113, de 17 de maio de 2012, e à Instrução Normativa RFB nº 1.277 de 28 de junho de 2012.
 
 Escolha uma das opções de atendimento à legislação para seguir adiante.
-No caso da não indicação de que o registro será feito em atendimento concomitante à legislação supracitada, o vendedor estará sujeito às sanções previstas no art. 7^[o]{.underline}^ ou no art.
-8^[o]{.underline}^ da Portaria Conjunta RFB/SCS n^[o]{.underline}^
+No caso da não indicação de que o registro será feito em atendimento concomitante à legislação supracitada, o vendedor estará sujeito às sanções previstas no art. 7º ou no art.
+8º da Portaria Conjunta RFB/SCS nº
 1.908, de 19 de junho de 2012.
 
 É possível manter a opção de atendimento à legislação para os futuros RVS, selecionando o campo **Desejo manter essa decisão**. Após marcar essa opção, a tela não será mostrada novamente em futuros preenchimentos que assumirão a última opção marcada.
@@ -2388,13 +2388,13 @@ graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image
 
 **Opção de Atendimento à Legislação**
 
-O usuário deve indicar que as informações objeto de registro serão prestadas em atendimento aos arts. 25 e 26 da Lei n^[o]{.underline}^
-12.546, de 14 de dezembro de 2011, à Portaria MDIC n^[o]{.underline}^
-113, de 17 de maio de 2012, e à Instrução Normativa RFB n^[o]{.underline}^ 1.277 de 28 de junho de 2012.
+O usuário deve indicar que as informações objeto de registro serão prestadas em atendimento aos arts. 25 e 26 da Lei nº
+12.546, de 14 de dezembro de 2011, à Portaria MDIC nº
+113, de 17 de maio de 2012, e à Instrução Normativa RFB nº 1.277 de 28 de junho de 2012.
 
 O usuário deve escolher uma das opções de atendimento à legislação para seguir adiante. No caso da não indicação de que o registro será feito em atendimento concomitante à legislação supracitada, o usuário estará
-sujeito às sanções previstas no art. 7^[o]{.underline}^ ou no art.
-8^[o]{.underline}^ da Portaria Conjunta RFB/SCS n^[º]{.underline}^
+sujeito às sanções previstas no art. 7º ou no art.
+8º da Portaria Conjunta RFB/SCS n^[º]{.underline}^
 1.908, de 19 de junho de 2012.
 
 É possível manter a opção de atendimento à legislação para os futuros RPC, selecionando o campo **Desejo manter essa decisão para os próximos registros**. Após marcar essa opção, a tela não será mostrada novamente em futuros preenchimentos, que assumirão a última opção marcada.
@@ -2496,7 +2496,7 @@ A partir de 1º de janeiro de 2020, todos os Registros de Presença Comercial no
 **[Operações amparadas por mecanismo de apoio]{.underline}**
 
 Caso a presença comercial tenha realizado, durante o ano de apuração,
-operação amparada em um ou mais mecanismos de apoio/fomento ao comércio exterior de serviços, intangíveis e outras operações que produzam variações no patrimônio, o usuário deve marcar "sim" à direita da pergunta: "Há operações amparadas por mecanismo de apoio/fomento ao comércio exterior nos termos do art. 26 da Lei 12.546/2011?". Todos os mecanismos de apoio que amparam a operação devem ser registrados neste campo em cumprimento ao previsto no art. 26 da Lei n^[o]{.underline}^
+operação amparada em um ou mais mecanismos de apoio/fomento ao comércio exterior de serviços, intangíveis e outras operações que produzam variações no patrimônio, o usuário deve marcar "sim" à direita da pergunta: "Há operações amparadas por mecanismo de apoio/fomento ao comércio exterior nos termos do art. 26 da Lei 12.546/2011?". Todos os mecanismos de apoio que amparam a operação devem ser registrados neste campo em cumprimento ao previsto no art. 26 da Lei nº
 12.546, de 14 de dezembro de 2011.
 
 O órgão ou a entidade da administração pública que tenha atribuição legal de regulação, normatização, controle ou fiscalização de mecanismo de apoio/fomento, sem prejuízo de legislação específica, utilizará as informações da operação, relacionadas à sua área de competência, para verificação do adimplemento das condições necessárias à fruição daquele mecanismo sob sua gestão.
