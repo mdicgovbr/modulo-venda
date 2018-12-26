@@ -1686,7 +1686,7 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
 
-<a id="_4cmhg48"><strong>2.1.2. Retificação do RVS</strong></a>
+<strong id="_4cmhg48">2.1.2. Retificação do RVS</strong>
 
 O RVS ou o Aditivo ao RVS não podem ser cancelados, cabendo apenas retificações.
 
@@ -1766,7 +1766,7 @@ Não pode ser incluída nova operação por meio de retificação. Para incluir 
 
 <a id=""></a>
 
-<a id="_3jd0qos"><strong>2.1.3. Retificação do Aditivo ao RVS</strong></a>
+<strong id="_3jd0qos">2.1.3. Retificação do Aditivo ao RVS</strong>
 
 O aditivo ao RVS não pode ser cancelado, cabendo apenas retificações.
 
@@ -1846,7 +1846,7 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
 
-<a id="_1yib0wl"><strong>2.1.4. Consulta ao RVS ou ao Aditivo ao RVS</strong></a>
+<strong id="_1yib0wl">2.1.4. Consulta ao RVS ou ao Aditivo ao RVS</strong>
 
 Esta função permite efetuar consulta a dados dos RVS no Sistema.
 
@@ -1955,9 +1955,7 @@ Todas as retificações de valor no RVS realizadas após o primeiro RF devem ser
 No quadro **Selecione a Operação a Faturar** serão apresentados o
 **Valor da Operação** e o **Saldo a Faturar.**
 
-Quando a operação estiver totalmente faturada, o ícone ![
-Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png) à direita, no quadro **Selecione a Operação a Faturar**, deixa de aparecer **.**
+Quando a operação estiver totalmente faturada, o ícone ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png) à direita, no quadro **Selecione a Operação a Faturar**, deixa de aparecer **.**
 
 Na inclusão do RF, o Sistema calcula e exibe o **Valor Total do RF**.
 
@@ -2923,9 +2921,8 @@ Podem ser selecionadas as seguintes opções:
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [Relatórios Gerenciais RVS](#1e03kqp) (atentar que no 2º caso as informações do CPF do vendedor serão disponibilizadas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e [Relatórios Gerenciais RF](#3xzr3ei).
 
-<a id="_3c9z6hx"></a>
+<h3><strong id="_3c9z6hx">4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor</h3></strong>
 
-### 4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor
 
 
 Passo 1: Usuário/Responsável pelo Registro, que neste caso é o próprio vendedor, acessa o Siscoserv e clica em Relatório Gerencial;
