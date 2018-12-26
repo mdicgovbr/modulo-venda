@@ -1287,10 +1287,6 @@ No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pesso
 Na opção **Criar Novo RVS**, os campos a serem preenchidos estarão em branco. Para usar essa opção, selecione **Criar Novo RVS** e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png)
 
 
-<<<<<<< 8aa4c173bd5402d5076adfb0feda543f7637f304
-=======
-
->>>>>>> Atualizando formatação dos numeros
 Cada RVS destina-se a apenas um contrato de prestação de serviços₁₂.
 Cada contrato pode conter uma ou mais
 [operações](#2m6kmyk) em um mesmo RVS, desde que todas as operações sejam cursadas com o mesmo adquirente.
@@ -2377,9 +2373,17 @@ Para retificar um RPC, o usuário tem como opções: **Informar o Número do RPC
 
 Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser retificado e acionado o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
+<<<<<<< c4ef8ca258b73e41fd459233d8ed6393c0f52625
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![
 ](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser retificado.
+=======
+Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![Descrição:
+](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
+do mais recente para o mais antigo. Acione o botão ![Descrição:
+Descrição: Descrição:
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser retificado.
+>>>>>>> 2.2.3
 
 Selecionado o RPC a ser retificado, siga os passos descritos no tópico
 [**2.3.1 - Inclusão do RPC.**](#_3qg2avn)
@@ -2410,9 +2414,17 @@ Para cancelar um RPC, o usuário tem como opções: **Informar o Número do RPC*
 
 Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser cancelado e acionado o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
+<<<<<<< c4ef8ca258b73e41fd459233d8ed6393c0f52625
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![
 ](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser cancelado.
+=======
+Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![Descrição:
+](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
+do mais recente para o mais antigo. Acione o botão ![Descrição:
+Descrição: Descrição:
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser cancelado.
+>>>>>>> 2.2.3
 
 Após selecionar o RPC que deseja cancelar, o Sistema apresenta a tela
 **Resumo do RPC**, que inclui todos os dados do RPC.
@@ -2438,9 +2450,17 @@ Para consultar um RPC, o usuário tem como opções: **Informar o Número do RPC
 
 Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser consultado e acionado o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
+<<<<<<< c4ef8ca258b73e41fd459233d8ed6393c0f52625
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![
 ](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser consultado.
+=======
+Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![Descrição:
+](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
+do mais recente para o mais antigo. Acione o botão ![Descrição:
+Descrição: Descrição:
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser consultado.
+>>>>>>> 2.2.3
 
 Após selecionar o RPC que deseja consultar, o Sistema apresenta a tela
 **Resumo do RPC**, que inclui todos os dados do RPC.
