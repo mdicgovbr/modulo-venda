@@ -1451,7 +1451,7 @@ Na opção **Criar Novo RVS**, os campos a serem preenchidos estarão em branco.
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png)
 
 
-Cada RVS destina-se a apenas um contrato de prestação de serviços[^12].
+Cada RVS destina-se a apenas um contrato de prestação de serviços₁₂.
 Cada contrato pode conter uma ou mais
 [operações](#2m6kmyk) em um mesmo RVS, desde que todas as operações sejam cursadas com o mesmo adquirente.
 
@@ -1549,8 +1549,7 @@ Acione **Avançar** para validar os dados e seguir para a próxima tela
 
 **[Dados do Negócio]{.underline}**
 
-Em **Dados do [Negócio](#40ew0vw)** são incluídos os dados das [operações](#upglbi) de venda de serviços[^13] por
-[residentes](#1tuee74) ou domiciliados no País a residentes ou domiciliados no exterior.
+Em **Dados do [Negócio](#40ew0vw)** são incluídos os dados das [operações](#upglbi) de venda de serviços₁₃ por [residentes](#1tuee74) ou domiciliados no País a residentes ou domiciliados no exterior.
 
 Pode ser incluída uma ou mais [operações](#upglbi) em cada RVS. Por exemplo, nos casos em que o [negócio](#40ew0vw)
 comercial envolva mais de uma NBS, mais de uma etapa, mais de um país de destino, ou mais de um modo de prestação, desde que tal(is)
@@ -1569,10 +1568,10 @@ Campos a serem preenchidos em Dados do
 
 **Código NBS / Descrição da NBS:** Vide [[item 9, do Capítulo 1 deste Manual.]{.underline}](#_206ipza)
 
-A prestação de serviços[^14] iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [[Portaria Conjunta RFB / SCS nº 1.820, de
+A prestação de serviços₁₄ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [[Portaria Conjunta RFB / SCS nº 1.820, de
 2014]{.underline}](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
 
-A prestação de serviços[^15] iniciada a partir de 1º de janeiro de 2019
+A prestação de serviços¹⁵ iniciada a partir de 1º de janeiro de 2019
 deve ser registrada tendo por base a [[Portaria Conjunta RFB / SCS nº
 1.429, de
 2018]{.underline}](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20),
@@ -1603,7 +1602,7 @@ O usuário pode informar diretamente o código do país, ou localizá-lo na list
 
 Identifica a moeda da transação comercial. O usuário pode informar diretamente o código da moeda, ou localizá-lo na lista **Descrição da Moeda**.
 
-Nos casos em que não é possível registrar a moeda da transação comercial por ausência do código da moeda na tabela disponível no Sistema ou por ausência da taxa de conversão disponível, o valor comercial deverá ser convertido em dólar dos Estados Unidos da América, com base em taxa de conversão fixada por autoridade monetária do país da moeda em questão na data de início da prestação do serviço[^16]. Neste caso, a moeda a ser indicada será o dólar dos Estados Unidos da América, e obrigatoriamente,
+Nos casos em que não é possível registrar a moeda da transação comercial por ausência do código da moeda na tabela disponível no Sistema ou por ausência da taxa de conversão disponível, o valor comercial deverá ser convertido em dólar dos Estados Unidos da América, com base em taxa de conversão fixada por autoridade monetária do país da moeda em questão na data de início da prestação do serviço¹⁶. Neste caso, a moeda a ser indicada será o dólar dos Estados Unidos da América, e obrigatoriamente,
 deve ser informado em **Informações Complementares** o valor na moeda da transação comercial, bem como a taxa de conversão utilizada, e a respectiva fonte e data.
 
 Todas as [operações](#upglbi) registradas em um RVS devem ser informadas em uma única **Moeda,** na primeira operação daquele registro. Da segunda operação daquele registro em diante, o campo fica bloqueado para edição.
@@ -1807,9 +1806,9 @@ O aditivo ao RVS deve ser usado para a inclusão de nova
 
 Na inclusão de Aditivo, não é possível realizar alterações nos **Dados do Adquirente**, tendo em vista tratar-se de dados do registro como um todo e que só podem ser alterados pela função [**[Retificar RVS]{.underline}**](#_4cmhg48).
 
-Devido à publicação da NBS 2.0[^17], novos serviços[^18] derivados de complemento ou aditamento em termo de contrato, que envolva operação iniciada a partir de 1º de janeiro de 2019, não poderão ser registrados por meio de Aditivo em um RAS incluído até o dia 31 de dezembro de 2018.
+Devido à publicação da NBS 2.0¹⁷, novos serviços¹⁸ derivados de complemento ou aditamento em termo de contrato, que envolva operação iniciada a partir de 1º de janeiro de 2019, não poderão ser registrados por meio de Aditivo em um RAS incluído até o dia 31 de dezembro de 2018.
 
-Neste caso, o usuário deverá incluir um novo RAS, classificando o serviço prestado[^19] de acordo com a NBS 2.0.
+Neste caso, o usuário deverá incluir um novo RAS, classificando o serviço prestado¹⁹ de acordo com a NBS 2.0.
 
 A inclusão de nova operação é realizada em [**[Dados do Negócio]{.underline}**](#2981zbj) e deve obedecer aos prazos descritos no [[item 4.1.1](#_3d0wewm), do Capítulo 1 deste Manual.]{.underline}
 
@@ -2117,7 +2116,7 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 
 > **[Operações](#upglbi) a Faturar**
 >
-> Para incluir os dados do faturamento de um serviço[^20] no campo
+> Para incluir os dados do faturamento de um serviço²⁰ no campo
 > **Operações** **a Faturar**, o usuário deve:
 >
 > a\) selecionar a operação a ser faturada, acionando o botão ![Descrição:
@@ -2489,9 +2488,9 @@ Exemplos de código da NBS em nível de posição:
 Para mais informações sobre a NBS vide [[item 9, do Capítulo 1 deste Manual.]{.underline}](#_206ipza)
 
 Em 2019, todos os Registros de Presença Comercial no Exterior, relativos
-às operações realizadas em 2018, devem classificar os serviços[^21] de acordo com a NBS 1.1, publicada pela xxxxxx.
+às operações realizadas em 2018, devem classificar os serviços²¹ de acordo com a NBS 1.1, publicada pela xxxxxx.
 
-A partir de 1º de janeiro de 2020, todos os Registros de Presença Comercial no Exterior devem classificar os serviços[^22] de acordo com a NBS 2.0, publicada pela [Portaria Conjunta RFB / SCS nº]{.underline}
+A partir de 1º de janeiro de 2020, todos os Registros de Presença Comercial no Exterior devem classificar os serviços²² de acordo com a NBS 2.0, publicada pela [Portaria Conjunta RFB / SCS nº]{.underline}
 [1.429, de 2018]{.underline}.
 
 **[Operações amparadas por mecanismo de apoio]{.underline}**
@@ -2512,7 +2511,7 @@ operação(ões) amparada(s) em mecanismo(s) de apoio.
 **[Código NBS / Descrição da NBS]{.underline}:** Vide [[item 9, do Capítulo 1 deste Manual.]{.underline}](#_206ipza)
 
 A partir de 1º de janeiro de 2019, as informações sobre operação(ões)
-amparada(s) por mecanismo(s) de apoio que serão incluídas no RPC devem classificar os serviços[^23] de acordo com a NBS 2.0, publicada pela
+amparada(s) por mecanismo(s) de apoio que serão incluídas no RPC devem classificar os serviços²³ de acordo com a NBS 2.0, publicada pela
 [[Portaria Conjunta RFB / SCS nº 1.429, de
 2018]{.underline}](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20).
 
@@ -2704,7 +2703,7 @@ e
 
 Cabe ressaltar a necessidade de avaliação sobre alterações necessárias nos registros realizados por meio de transmissão em lote a partir da publicação da nova edição da NBS e de suas notas explicativas.
 
-A prestação de serviços[^24] iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [[Portaria Conjunta RFB / SCS nº 1.820, de
+A prestação de serviços²⁴ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [[Portaria Conjunta RFB / SCS nº 1.820, de
 2014]{.underline}](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
 
 A prestação de serviços^13^ iniciada a partir de 1º de janeiro de 2019
@@ -3565,12 +3564,12 @@ Importante ressaltar que esse cenário trata exclusivamente de situação em que
     intangíveis e [[outras operações que produzam variações no
     patrimônio]{.underline}](#1jvko6v)".
 
-[₁₄]: Neste caso, leia-se "prestação de serviços", como "prestação de
+[¹⁴]: Neste caso, leia-se "prestação de serviços", como "prestação de
     serviços, transferência de intangível e realização de [[outras
     operações que produzam variações no
     patrimônio]{.underline}](#1jvko6v)".
 
-[₁₅]: Idem Nota 15
+[¹⁵]: Idem Nota 15
 
 [¹⁶]: Neste caso, leia-se "prestação de serviços", como "prestação de
     serviços, transferência de intangível e realização de [[outras
