@@ -1401,13 +1401,6 @@ Campos a serem preenchidos em Dados do
 
 **Código NBS / Descrição da NBS:** Vide [item 9, do Capítulo 1 deste Manual.](#_206ipza)
 
-<<<<<<< 5481241f507ca4844a76829e705c0fbdb4814bd3
-A prestação de serviços₁₄ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jspdata=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
-
-A prestação de serviços¹⁵ iniciada a partir de 1º de janeiro de 2019
-deve ser registrada tendo por base a [Portaria Conjunta RFB / SCS nº
-1.429, de 2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20),
-=======
 A prestação de serviços¹⁴ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de
 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
 
@@ -1415,7 +1408,6 @@ A prestação de serviços¹⁵ iniciada a partir de 1º de janeiro de 2019
 deve ser registrada tendo por base a [Portaria Conjunta RFB / SCS nº
 1.429, de
 2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20),
->>>>>>> ate pag 60
 que produz efeitos a partir de 1º de janeiro de 2019.
 
 **Código do País / País de Destino:**
@@ -1475,28 +1467,16 @@ Modo 4 -- Movimento Temporário de Pessoas Físicas
 
 O registro no Módulo Venda deve indicar, sempre que possível, o valor da operação correspondente ao Modo de Prestação. Assim, caso uma operação de prestação de um serviço envolva mais de um modo de prestação, estes devem ser informados no RVS. Caso isso não seja possível, deve ser indicado o modo de prestação predominante para a prestação daquele serviço associado ao valor total da operação.
 
-<<<<<<< 5481241f507ca4844a76829e705c0fbdb4814bd3
 O registro de [operação](#upglbi) no Modo 3 - Presença Comercial no Exterior -- não é feito por meio de RVS. Nesse caso, o usuário deve fazer o RPC no *menu* [RPC](#_3lbifu6).
-=======
-O registro de [operação](#upglbi) no Modo 3 - Presença Comercial no Exterior -- não é feito por meio de RVS. Nesse caso, o usuário deve fazer o RPC no *menu* [**RPC**](#_3lbifu6).
->>>>>>> ate pag 60
 
 **Data de Início:**
 
 Data em que se [iniciou a prestação do serviço](#48pi1tg)
-<<<<<<< 5481241f507ca4844a76829e705c0fbdb4814bd3
-vendido, a transferência do [intangível](#haapch),]{.underline} ou a realização de [outra operação que produza variações no patrimônio](#3tm4grq). A data informada não pode ser posterior à data em que a operação estiver sendo registrada no Sistema.
-
-**Data de Conclusão:**
-
-Data em que foi ou será concluída a prestação do serviço, a transferência do [intangível](#haapch), ou a realização de
-=======
 vendido, a transferência do [intangível,](#haapch) ou a realização de [outra operação que produza variações no patrimônio](#3tm4grq). A data informada não pode ser posterior à data em que a operação estiver sendo registrada no Sistema.
 
 **Data de Conclusão:**
 
 Data em que foi ou será concluída a prestação do serviço, a transferência do [[intangível,](#haapch) ou a realização de
->>>>>>> ate pag 60
 [outra operação que produza variação no patrimônio](#3tm4grq).
 
 **Valor:**
@@ -1527,12 +1507,8 @@ mecanismo(s) de apoio.
 > ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image12.png)
 > 
 
-<<<<<<< 5481241f507ca4844a76829e705c0fbdb4814bd3
-Selecione o [Mecanismo](#4kgg8ps) de apoio/fomento desejado, no campo Enquadramento, e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image3.png)
-=======
 Selecione o [Mecanismo de apoio/fomento](#4kgg8ps)
 desejado, no campo Enquadramento, e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image3.png)
->>>>>>> ate pag 60
 para adicioná-lo ao RVS.
 
 No caso de mecanismo vinculado a Registro de Operação de Crédito, tais como BNDES-EXIM e PROEX, preencher campo **Número do RC** com o respectivo número e acionar o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png)
@@ -1557,11 +1533,7 @@ Deve ser indicado se a operação está vinculada à [movimentação temporária
 
 
 Se a operação estiver vinculada à movimentação temporária de bens,
-<<<<<<< 5481241f507ca4844a76829e705c0fbdb4814bd3
-selecionar a opção **Sim**. Nesse caso, preencher os campos com o número da [Declaração de Importação (DI)](#2zlqixl) e/ou com o número da Declaração Única de Exportação (DU-E) ou do [[Registro de Exportação (RE)](#3ep43zb) averbado, se o registro ainda tiver sido realizado no Siscomex.]{.underline}
-=======
 selecionar a opção **Sim**. Nesse caso, preencher os campos com o número da [Declaração de Importação (DI)](#2zlqixl) e/ou com o número da Declaração Única de Exportação (DU-E) ou do [Registro de Exportação (RE)  averbado, se o registro ainda tiver sido realizado no Siscomex.](#3ep43zb)
->>>>>>> ate pag 60
 
 Para incluir mais de um número de DI ou de DU-E (ou RE), clique no ícone
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png)
@@ -1571,11 +1543,7 @@ Para excluir número de DI ou de DU-E (ou RE), clique no ícone
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png)
  à direita do número registrado.
 
-<<<<<<< 5481241f507ca4844a76829e705c0fbdb4814bd3
 **Inclusão de Operação no RVS**
-=======
-__Inclusão de Operação no RVS__
->>>>>>> ate pag 60
 
 Após preenchimento dos campos **Código NBS / Descrição da NBS, Código do País / País de Destino**, **Código da Moeda / Descrição da Moeda**,
 **Modo de Prestação**, **Data de Início**, **Data de Conclusão**,
@@ -1648,11 +1616,7 @@ Após a disponibilização do Número de Confirmação da inclusão do RVS, o re
 
 Convém manter controle dos números dos RVS incluídos no Siscoserv, para facilitar os registros e/ou retificações posteriores relativos ao RVS.
 
-<<<<<<< 5481241f507ca4844a76829e705c0fbdb4814bd3
-<a id="_thw4kt"></a>**Após a inclusão de um RVS, não é possível o seu cancelamento, admitindo-se apenas
-=======
 **Após a inclusão de um RVS, não é possível o seu cancelamento, admitindo-se apenas
->>>>>>> ate pag 60
 [retificações](#_4cmhg48).**
 
 **2.1.1 Inclusão de Aditivo ao RVS**
@@ -1661,13 +1625,13 @@ O aditivo ao RVS deve ser usado para a inclusão de nova
 [operação](#upglbi) em um RVS previamente incluído quando houver complementação ou aditamento nos termos do contrato
 ([negócio](#40ew0vw)), que envolva execução de outra operação classificada em [NBS diferente](#t18w8t), outra etapa do negócio, ou ainda executada em outro modo de prestação, período ou mesmo em outro país.
 
-Na inclusão de Aditivo, não é possível realizar alterações nos **Dados do Adquirente**, tendo em vista tratar-se de dados do registro como um todo e que só podem ser alterados pela função [Retificar RVS](#_4cmhg48).
+Na inclusão de Aditivo, não é possível realizar alterações nos **Dados do Adquirente**, tendo em vista tratar-se de dados do registro como um todo e que só podem ser alterados pela função [**Retificar RVS**](#_4cmhg48).
 
 Devido à publicação da NBS 2.0¹⁷, novos serviços¹⁸ derivados de complemento ou aditamento em termo de contrato, que envolva operação iniciada a partir de 1º de janeiro de 2019, não poderão ser registrados por meio de Aditivo em um RAS incluído até o dia 31 de dezembro de 2018.
 
 Neste caso, o usuário deverá incluir um novo RAS, classificando o serviço prestado¹⁹ de acordo com a NBS 2.0.
 
-A inclusão de nova operação é realizada em [Dados do Negócio](#2981zbj) e deve obedecer aos prazos descritos no [[item 4.1.1](#_3d0wewm), do Capítulo 1 deste Manual.
+A inclusão de nova operação é realizada em [**Dados do Negócio**](#2981zbj) e deve obedecer aos prazos descritos no [item 4.1.1, do Capítulo 1 deste Manual.](#_3d0wewm), do Capítulo 1 deste Manual.
 
 Se for o caso, o usuário deve preencher os campos de **Vinculação à
 Exportação de Bens** e **Informações Complementares**, com os respectivos dados adicionais relativos às operações incluídas.
@@ -1693,9 +1657,7 @@ Selecionada a opção **Informar o Número do RVS,** preencha o campo com númer
 
 Selecionada a opção **Exibir Lista de RVS Incluídos,** acione o botão
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
-do mais recente para o mais antigo. Acione o botão ![
-Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RVS desejado.
+do mais recente para o mais antigo. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RVS desejado.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image33.png)
 
@@ -1743,9 +1705,7 @@ Selecionada a opção **Informar o Número do RVS,** preencha o campo com o núm
 
 Selecionada a opção **Exibir Lista de RVS Incluídos,** acione o botão
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
-do mais recente para o mais antigo. Acione o botão ![
-Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RVS desejado.
+do mais recente para o mais antigo. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RVS desejado.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image79.png)
 
