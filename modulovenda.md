@@ -874,7 +874,6 @@ Informações adicionais podem ser obtidas nas Notas Explicativas dos Capítulos
 [NBS](http://www.mdic.gov.br/arquivos/dwnl_1387454702.pdf)<a id="1gf8i83
 "></a>.
 
-
 **Movimentação Temporária de Bens:** A movimentação temporária de bens ocorre tanto na importa<a id="40ew0vw"></a>ção (Admissão Temporária)
 quanto na exportação (Exportação Temporária).
 
@@ -1626,7 +1625,7 @@ Após a disponibilização do Número de Confirmação da inclusão do RVS, o re
 
 Convém manter controle dos números dos RVS incluídos no Siscoserv, para facilitar os registros e/ou retificações posteriores relativos ao RVS.
 
-**Após a inclusão de um RVS, não é possível o seu cancelamento, admitindo-se apenas
+<a id="_thw4kt"></a>**Após a inclusão de um RVS, não é possível o seu cancelamento, admitindo-se apenas
 [retificações](#_4cmhg48).**
 
 <a id=""></a>
