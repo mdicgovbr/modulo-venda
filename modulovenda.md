@@ -1475,11 +1475,11 @@ O registro de [operação](#upglbi) no Modo 3 - Presença Comercial no Exterior 
 **Data de Início:**
 
 Data em que se [iniciou a prestação do serviço](#48pi1tg)
-vendido, a transferência do [intangível](#haapch),]{.underline} ou a realização de [outra operação que produza variações no patrimônio](#3tm4grq). A data informada não pode ser posterior à data em que a operação estiver sendo registrada no Sistema.
+vendido, a transferência do [intangível,](#haapch) ou a realização de [outra operação que produza variações no patrimônio](#3tm4grq). A data informada não pode ser posterior à data em que a operação estiver sendo registrada no Sistema.
 
 **Data de Conclusão:**
 
-Data em que foi ou será concluída a prestação do serviço, a transferência do [intangível](#haapch), ou a realização de
+Data em que foi ou será concluída a prestação do serviço, a transferência do [[intangível,](#haapch) ou a realização de
 [outra operação que produza variação no patrimônio](#3tm4grq).
 
 **Valor:**
@@ -1510,8 +1510,10 @@ mecanismo(s) de apoio.
 > ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image12.png)
 > 
 
+
 Selecione o [Mecanismo de apoio/fomento](#4kgg8ps)
 desejado, no campo Enquadramento, e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image3.png)
+
 para adicioná-lo ao RVS.
 
 No caso de mecanismo vinculado a Registro de Operação de Crédito, tais como BNDES-EXIM e PROEX, preencher campo **Número do RC** com o respectivo número e acionar o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png)
