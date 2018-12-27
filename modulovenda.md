@@ -389,7 +389,7 @@ transferência de intangível e realização de outra operação que produza var
 Caso a pessoa jurídica domiciliada no Brasil mantenha, no exterior, mais de uma filial, sucursal ou [controlada](#2nusc19) no mesmo país, a receita anual total com venda de serviços, transferência de intangível e realização de outra operação que produza variação no patrimônio, será discriminada mediante um RPC para cada filial, sucursal e controlada.
 
 <a id="_2grqrue"></a>
-
+s
 **4.4.1. Prazo para o RPC**
 
 A prestação das informações no RPC deve ser realizada anualmente, a partir de 2014, em relação ao ano-calendário anterior, até o último dia     útil do mês de junho do ano subsequente à realização de operações por meio de presença comercial no exterior relacionada à pessoa jurídica domiciliada no Brasil.
@@ -1619,7 +1619,7 @@ Convém manter controle dos números dos RVS incluídos no Siscoserv, para facil
 **Após a inclusão de um RVS, não é possível o seu cancelamento, admitindo-se apenas
 [retificações](#_4cmhg48).**
 
-**2.1.1 Inclusão de Aditivo ao RVS**
+<strong id="">2.1.1 Inclusão de Aditivo ao RVS</strong>
 
 O aditivo ao RVS deve ser usado para a inclusão de nova
 [operação](#upglbi) em um RVS previamente incluído quando houver complementação ou aditamento nos termos do contrato
@@ -1681,7 +1681,8 @@ Cabe ressaltar ainda que os registros inseridos a partir de um arquivo de lote n
 manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apresentará a seguinte tela:
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
-**
+
+
 <strong id="_4cmhg48">2.1.2. Retificação do RVS</strong>
 
 O RVS ou o Aditivo ao RVS não podem ser cancelados, cabendo apenas retificações.
@@ -1736,21 +1737,21 @@ Após o término do [prazo para inclusão do último RF](#_49x2ik5), o valor tot
 
 Excepcionalmente, se, após o término do [prazo para inclusão do último RF](#_49x2ik5), ocorrer de os valores do RVS e do(s) RF não serem coincidentes:
 
-<ol type="a">
-  <li>caso o serviço prestado tenha valor diferente do inicialmente registrado, o usuário deve retificar no RVS o <strong> Valor da Operação</strong>  de forma a corresponder ao valor do serviço efetivamente prestado.</li>
-  <li>caso o serviço tenha sido prestado e o faturamento tenha sido parcial ou inexistente, o usuário deve retificar o RVS para incluir em
-<strong> Informações Complementares</strong>  a justificativa para tanto.</li>
-</ol>
+><ol type="a">
+>  <li>caso o serviço prestado tenha valor diferente do inicialmente registrado, o usuário deve retificar no RVS o <strong> Valor da Operação</strong>  de forma a corresponder ao valor do serviço efetivamente prestado.</li>
+>  <li>caso o serviço tenha sido prestado e o faturamento tenha sido parcial ou inexistente, o usuário deve retificar o RVS para incluir em
+><strong> Informações Complementares</strong>  a justificativa para tanto.</li>
+></ol>
 
 O **Valor da Operação** pode ser retificado para 0,00 (zero) nos seguintes casos:
 
 
-<ol type="a">
-  <li> o usuário tenha registrado a operação para um vendedor incorreto;</li>
-  <li>a operação tenha sido informada em duplicidade;</li>
-  <li>a operação tenha sido informada no módulo Venda indevidamente; ou</li>
-  <li>o pagamento tenha sido inexistente.</li>
-</ol>
+> <ol type="a">
+>  <li> o usuário tenha registrado a operação para um vendedor incorreto;</li>
+>  <li>a operação tenha sido informada em duplicidade;</li>
+>  <li>a operação tenha sido informada no módulo Venda indevidamente; ou</li>
+>  <li>o pagamento tenha sido inexistente.</li>
+> </ol>
 
 Nesses casos, o usuário deve obrigatoriamente justificar a referida retificação em **Informações Complementares**. No caso das alíneas a e b, deve-se indicar o número do RVS correto. No caso da alínea c, indique o número do RAS.
 
@@ -1764,8 +1765,7 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 Não pode ser incluída nova operação por meio de retificação. Para incluir uma nova operação em um RVS já incluído, utilize a função
 [**Inclusão de Aditivo ao RVS** ](#_4c5u7s8).
 
-
-<strong id="_3jd0qos">2.1.3. Retificação do Aditivo ao RVS</strong>
+<strong id="">2.1.3. Retificação do Aditivo ao RVS</strong>
 
 O aditivo ao RVS não pode ser cancelado, cabendo apenas retificações.
 
@@ -1845,7 +1845,7 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
 
-<strong id="_1yib0wl">2.1.4. Consulta ao RVS ou ao Aditivo ao RVS</strong>
+<strong id="">2.1.4. Consulta ao RVS ou ao Aditivo ao RVS</strong>
 
 Esta função permite efetuar consulta a dados dos RVS no Sistema.
 
@@ -1885,7 +1885,7 @@ Após selecionar o RVS que deseja consultar, o Sistema apresenta a tela
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image40.jpg)
 
-### 2.2. Inclusão do RF
+<h3 id="">2.2. Inclusão do RF</h3>
 
 A partir do **Módulo Venda**, no *menu* **RF**, há 3 funções:
 **Incluir**, **Cancelar** e **Consultar**.
@@ -1954,7 +1954,7 @@ O Sistema confirmará o recebimento dos dados e gerará um número próprio para
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image99.png)
 
-**2.2.1. Retificação do RF**
+<strong id="">2.2.1. Retificação do RF</strong>
 
 Esta função permite ao usuário retificar um RF.
 
@@ -2019,7 +2019,11 @@ a retificação dos dados do RF.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image52.png)
 
+<<<<<<< 383ba190133075fd7fdd95b70465e03d9459f87c
 **2.2.2. Cancelamento do RF**
+=======
+<strong id="">2.2.2. Cancelamento do RF</strong>
+>>>>>>> adicionando id vazio aos titulos
 
 Esta função permite ao usuário cancelar um RF.
 
@@ -2066,7 +2070,7 @@ Caso o usuário acesse novamente o *menu* **RF \> Cancelar**, observará a
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image43.png)
 
-**2.2.3. Consulta ao RF**
+<strong id="">2.2.3. Consulta ao RF</strong>
 
 Esta função permite efetuar consulta a dados dos RFs no Sistema.
 
