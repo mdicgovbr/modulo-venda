@@ -1852,7 +1852,7 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
 
-<strong id="_1yib0wl">2.1.4. Consulta ao RVS ou ao Aditivo ao RVS</strong>
+<strong id="">2.1.4. Consulta ao RVS ou ao Aditivo ao RVS</strong>
 
 Esta função permite efetuar consulta a dados dos RVS no Sistema.
 
