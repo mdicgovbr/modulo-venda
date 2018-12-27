@@ -1632,12 +1632,7 @@ O aditivo ao RVS deve ser usado para a inclusão de nova
 [operação](#upglbi) em um RVS previamente incluído quando houver complementação ou aditamento nos termos do contrato
 ([negócio](#40ew0vw)), que envolva execução de outra operação classificada em [NBS diferente](#t18w8t), outra etapa do negócio, ou ainda executada em outro modo de prestação, período ou mesmo em outro país.
 
-Na inclusão de Aditivo, não é possível realizar alterações nos **Dados do Adquirente**, tendo em vista tratar-se de dados do registro como um todo e que só podem ser alterados pela função [**Retificar RVS**](#_4cmhg48)
 Devido à publicação da NBS 2.0¹⁷, novos serviços¹⁸ derivados de complemento ou aditamento em termo de contrato, que envolva operação iniciada a partir de 1º de janeiro de 2019, não poderão ser registrados por meio de Aditivo em um RAS incluído até o dia 31 de dezembro de 2018.
-
-Neste caso, o usuário deverá incluir um novo RAS, classificando o serviço prestado¹⁹ de acordo com a NBS 2.0.
-
-A inclusão de nova operação é realizada em [**Dados do Negócio**](#2981zbj) e deve obedecer aos prazos descritos no [item 4.1.1, do Capítulo 1 deste Manual.](#_3d0wewm), do Capítulo 1 deste Manual.
 
 Se for o caso, o usuário deve preencher os campos de **Vinculação à
 Exportação de Bens** e **Informações Complementares**, com os respectivos dados adicionais relativos às operações incluídas.
