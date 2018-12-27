@@ -987,8 +987,7 @@ Esse glossário foi desenvolvido para facilitar o entendimento dos conceitos pre
 
 **Data de início da prestação de serviço:** é a data acordada entre residente e domiciliado no Brasil, e residente e domiciliado no exterior em contrato (formal ou não) para o início da prestação do serviço; para a transferência de intangível; e para a realização de operação que produza variação no patrimônio.
 
-**Declaração de Importação (DI):** é um documento eletrônico[]{#2nusc19
-.anchor} exigido na importação de bens, cujo processamento ocorre através do Sistema Integrado de Comércio Exterior --
+**Declaração de Importação (DI):** é um documento eletrônico <a id="2nusc19"></a> exigido na importação de bens, cujo processamento ocorre através do Sistema Integrado de Comércio Exterior --
 Siscomex--Importação. A DI consolida as informações cambiais,
 tributárias, fiscais, comerciais e estatísticas da operação. 
 
