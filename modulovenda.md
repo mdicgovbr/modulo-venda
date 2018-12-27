@@ -1020,7 +1020,7 @@ Informações adicionais podem ser obtidas nas Notas Explicativas dos Capítulos
 [NBS](http://www.mdic.gov.br/arquivos/dwnl_1387454702.pdf)[]{#1gf8i83
 .anchor}.
 
-**Movimentação Temporária de Bens:** A movimentação temporária de bens ocorre tanto na importa[]{#40ew0vw .anchor}ção (Admissão Temporária)
+**Movimentação Temporária de Bens:** A movimentação temporária de bens ocorre tanto na importa<a id="40ew0vw"></a>ção (Admissão Temporária)
 quanto na exportação (Exportação Temporária).
 
 **Negócio:** operação ou conjunto de operações integrantes do contrato de prestação de serviços; da transferência ou da aquisição do intangível; e da realização de operação(ões) que produza(m)
