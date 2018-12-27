@@ -1356,7 +1356,9 @@ realizada com pessoa física, pessoa jurídica ou [ente despersonalizado](#2250f
 [negócio](#40ew0vw) na lista disponível de países em
 **País do Adquirente**, ou informe manualmente o código do país no campo numérico.
 
+
 **[NIF -- Número de Identificação Fiscal](#2fk6b3p)** --
+
 Preencha com número de Identificação Fiscal do adquirente do
 [negócio](#40ew0vw). O fornecimento dessa informação é
 obrigatório nos casos de países que adotam códigos de identificação fiscal.
@@ -2124,7 +2126,7 @@ Em seguida, é exibida a tela **Resumo do RF**.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image59.jpg)
 
-
+-------------------------------------------------------------------------------------------------------------------------------
 ### 2.3. Registro de Presença Comercial no Exterior (RPC)
 
 <strong id="_r2r73f">2.3.1. Inclusão do RPC</strong>
@@ -2152,11 +2154,11 @@ Na opção **Aproveitar Dados de RPC Incluído** o Sistema permite a seleção d
 
 Para usar essa opção, selecione Aproveitar Dados de RPC Incluído. O Sistema apresenta as seguintes opções:
 
-<ol type="a">
-<li><strong>Informar o Número do RPC:</strong> selecionada esta opção, preencha o campo com número de RPC do qual se deseja aproveitar os dados e acione o botão <img src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png">.</li>
-<li> <strong>Exibir Lista dos RPC Incluídos:</strong> selecionada esta opção, acione o botão <img src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png">.O Sistema exibe lista de RPC incluídos,
-do mais recente para o mais antigo. Acione o botão <img src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png">, à direita do RPC desejado.</li>
-</ol>
+a\) **Informar o Número do RPC:** selecionada esta opção, preencha o campo com número de RPC do qual se deseja aproveitar os dados e acione o botão ![Descrição: Descrição: Descrição:
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png).
+
+**b) Exibir Lista dos RPC Incluídos:** selecionada esta opção, acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png).O Sistema exibe lista de RPC incluídos,
+do mais recente para o mais antigo. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC desejado.
 
 **Opção de Atendimento à Legislação**
 
