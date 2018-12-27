@@ -1784,9 +1784,8 @@ Selecionada a opção **Informar o Número do RVS,** preencha o campo com o núm
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image63.png)
 
-do mais recente para o mais antigo. Acione o botão ![
-Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RVS desejado.
+Selecionada a opção **Exibir Lista de RVS Incluídos,** informe o número do aditivo que se deseja retificar e acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
+do mais recente para o mais antigo. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RVS desejado.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image61.png)
 
@@ -1800,7 +1799,7 @@ Após selecionar o RVS cujo aditivo se deseja retificar, o Sistema mostra a tela
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image53.png)
 
 Ao clicar no ícone
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image58.png) o Sistema mostra a tela [**[Dados do Negócio]{.underline}**](#2981zbj) do aditivo que se deseja retificar. O usuário deve efetuar o preenchimento, seguindo os passos descritos no tópico **[2.1.2 do Capítulo 2 deste Manual](#_4cmhg48) --
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image58.png) o Sistema mostra a tela [**Dados do Negócio**](#2981zbj) do aditivo que se deseja retificar. O usuário deve efetuar o preenchimento, seguindo os passos descritos no tópico **[2.1.2 do Capítulo 2 deste Manual](#_4cmhg48) --
 Retificação do RVS.**
 
 Após conferir os dados retificados na tela **Resumo do RVS**, acione o botão **Incluir** para retificar o aditivo ao RVS. O Sistema retornará
@@ -1829,13 +1828,13 @@ Excepcionalmente, se, após o término do [prazo para inclusão do último RF](#
 
 O **Valor da Operação** pode ser retificado para 0,00 (zero) nos seguintes casos:
 
-<ol type="a">
-<li>o usuário houver registrado o aditivo para o RVS incorreto;</li>
-<li>a operação tenha sido informada em duplicidade;</li>
-<li>a operação tenha sido informada no módulo Venda, quando, na realidade, deveria ter sido inclusa no módulo de Aquisição;</li>
-<li>o faturamento tenha sido inexistente.
-</li>
-</ol>
+> a\) o usuário houver registrado o aditivo para o RVS incorreto;
+>
+> b\) a operação tenha sido informada em duplicidade;
+>
+> c\) a operação tenha sido informada no módulo Venda, quando, na ;realidade, deveria ter sido inclusa no módulo de Aquisição;
+>
+>d\) o faturamento tenha sido inexistente.
 
 Nesses casos, o usuário deve obrigatoriamente justificar a referida retificação em **Informações Complementares** do RVS aditado incorretamente. No caso das alíneas a e b, deve-se indicar o número do aditivo e do RVS correto. No caso da alínea c, é necessário indicar o número do aditivo e do RAS.
 
@@ -1873,9 +1872,7 @@ Selecionada a opção **Informar o Número do RVS,** preencha o campo com o núm
 
 Selecionada a opção **Exibir Lista de RVS Incluídos,** acione o botão
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
-do mais recente para o mais antigo. Acione o botão ![
-Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RVS desejado.
+do mais recente para o mais antigo. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RVS desejado.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image124.png)
 
@@ -1938,27 +1935,8 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 >
 >![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image83.png)
 >
-> <li> antes da inclusão do RF, caso seja detectado erro de preenchimento,
 > clicar no ícone <img src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png">
 > à direita para corrigi-lo, procedendo
-> conforme descrito acima. Para excluí-lo, clicar no ícone <img src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png">
-> à esquerda do campo;
-></li>
-> <li> inserir o <strong>Número da NF de Serviço ou do Documento Equivalente</strong> e
-> acionar o botão <strong>Avançar.</strong> O usuário deve preencher o campo <strong>Número
-> da NF ou Documento Equivalente</strong> com o número da nota fiscal de serviço
-> referente à operação faturada ou, na sua ausência, com o número do
-> documento equivalente.</li>
-> </ol>
-Após a **Data de Conclusão** da operação, o valor total faturado deve coincidir com o **Valor da Operação**, na moeda do RVS. Caso os valores sejam divergentes, o usuário deve retificar o **Valor da Operação**
-utilizando os passos descritos no item [2.1.2 (Retificação do RVS)](#_4cmhg48) e [2.1.3 (Retificação do Aditivo ao RVS)](#_16ges7u), se for o caso.
-
-Todas as retificações de valor no RVS realizadas após o primeiro RF devem ser justificadas no campo **Informações Complementares**.
-
-No quadro **Selecione a Operação a Faturar** serão apresentados o
-**Valor da Operação** e o **Saldo a Faturar.**
-
-Quando a operação estiver totalmente faturada, o ícone ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png) à direita, no quadro **Selecione a Operação a Faturar**, deixa de aparecer **.**
 
 Na inclusão do RF, o Sistema calcula e exibe o **Valor Total do RF**.
 
