@@ -16,7 +16,7 @@
 [4.1. Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS)](#_3mj2wkv)
 
 [4.1.1. Prazo para o RVS](#4.1.1)
-
+git a
 [4.2. Registro de Faturamento (RF)](#_gtnh0h)
 
 [4.2.1. Prazos para o RF](#4.2.1)
@@ -1004,7 +1004,7 @@ O Certificado Digital permite a identificação de uma pessoa no ambiente digita
 
 A lista de autoridades certificadoras, habilitadas pela Secretaria da Receita Federal do Brasil (RFB) para emissão de Certificados Digitais e-CPF, está disponível em:
 
-[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
+<a id="_1yyy98l"></a>[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
 
 
 <a id="1.3"></a>
