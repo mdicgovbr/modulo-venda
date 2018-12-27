@@ -991,8 +991,7 @@ Esse glossário foi desenvolvido para facilitar o entendimento dos conceitos pre
 Siscomex--Importação. A DI consolida as informações cambiais,
 tributárias, fiscais, comerciais e estatísticas da operação. 
 
-**Empresa Controlada**: Considera-se controlada a sociedade na qual a controladora, diretamente ou através de outras controladas, é titular de direitos de sócio que lhe assegurem, de modo permanen[]{#1302m92
-.anchor}te, preponderância nas deliberações sociais e o poder de eleger a maioria dos administradores.
+**Empresa Controlada**: Considera-se controlada a sociedade na qual a controladora, diretamente ou através de outras controladas, é titular de direitos de sócio que lhe assegurem, de modo permanen<a id="1302m92"></a>te, preponderância nas deliberações sociais e o poder de eleger a maioria dos administradores.
 
 **Mecanismo de Apoio/Fomento:** Mecanismos de apoio ou fomento de diversas naturezas (promocional, tributária, creditícia e financeira) a operações de comércio exterior de serviços, intangíveis e [outras operações que produzam variações no patrimônio](#3tm4grq)[]{#2250f4o .anchor}.
 
