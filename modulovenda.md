@@ -1132,8 +1132,7 @@ O Certificado Digital permite a identificação de uma pessoa no ambiente digita
 
 A lista de autoridades certificadoras, habilitadas pela Secretaria da Receita Federal do Brasil (RFB) para emissão de Certificados Digitais e-CPF, está disponível em:
 
-<a id="_1yyy98l
-"></a>[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
+<a id="_1yyy98l"></a>[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
 
 
 <a id="_35xuupr"></a>
