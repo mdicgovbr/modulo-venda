@@ -2025,9 +2025,9 @@ Esta função permite ao usuário cancelar um RF.
 
 O RF pode ser cancelado nas seguintes hipóteses:
 
-1 -- cancelamento da nota fiscal de serviço ou documento equivalente; ou
-
-2 -- erro no preenchimento dos campos **Código NBS** ou **Moeda** do RVS **.**
+>1 -- cancelamento da nota fiscal de serviço ou documento equivalente; ou
+>
+>2 -- erro no preenchimento dos campos **Código NBS** ou **Moeda** do RVS**.**
 
 Para cancelar um RF é preciso acessar o *menu* **RF** e em seguida
 **Cancelar**.
