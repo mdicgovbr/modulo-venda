@@ -2523,8 +2523,7 @@ Este erro pode ocorrer por dois motivos:
     > selecionada. Por exemplo, o arquivo de dados refere-se a **Incluir
     > RF**, mas o usuário selecionou **Incluir RVS** no *menu*. Neste
     > caso, basta reenviar o lote após selecionar a operação correta
-    > (veja [Procedimentos para envio do arquivo de
-    > lote](#_280hiku)); ou
+    > (veja [Procedimentos para envio do arquivo de lote](#_280hiku)); ou
 > 2)  O arquivo de dados enviado não está de acordo com as especificações
     > descritas nas [Orientações
     > Técnicas](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf).
