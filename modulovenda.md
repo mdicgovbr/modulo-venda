@@ -2226,26 +2226,21 @@ legislação** no *menu* lateral esquerdo na tela de **Resumo**.
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image41.png)
 
-**Dados da Presença Comercial no Exterior**
-
+**Dados da Presença Comercial no Exterior**  
 Em Dados da Presença Comercial no Exterior, devem ser incluídos os dados da filial, sucursal ou controlada domiciliada no exterior, relacionada à
 pessoa jurídica domiciliada no Brasil.
 
-**Nome da Presença Comercial**
-
+**Nome da Presença Comercial**  
 Identifique a razão social ou equivalente da presença comercial relacionada à pessoa jurídica domiciliada no Brasil.
 
-**Endereço da Presença Comercial**
-
+**Endereço da Presença Comercial**  
 Informe o endereço da presença comercial.
 
-**País da Presença Comercial**
-
+**País da Presença Comercial**  
 Selecione p país da presença comercial na lista disponível de países em
 **País da Presença Comercial**, ou informe manualmente o código do país no campo numérico.
 
-**Número de Identificação Fiscal -- NIF**
-
+**Número de Identificação Fiscal -- NIF**  
 Informe o número de identificação fiscal da presença comercial no país em que se localiza.
 
 O fornecimento dessa informação é obrigatório nos casos de países cuja administração tributária adota número de identificação fiscal de seus contribuintes.
