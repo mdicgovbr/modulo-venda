@@ -1685,7 +1685,10 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
 
-<strong id="_4cmhg48">2.1.2. Retificação do RVS</strong>
+
+<a id="_4cmhg48"></a>
+
+**2.1.2. Retificação do RVS**
 
 O RVS ou o Aditivo ao RVS não podem ser cancelados, cabendo apenas retificações.
 
@@ -1772,7 +1775,7 @@ Não pode ser incluída nova operação por meio de retificação. Para incluir 
 
 <a id=""></a>
 
-<strong id="_3jd0qos">2.1.3. Retificação do Aditivo ao RVS</strong>
+**2.1.3. Retificação do Aditivo ao RVS**
 
 O aditivo ao RVS não pode ser cancelado, cabendo apenas retificações.
 
@@ -1852,7 +1855,9 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
 
-<strong id="">2.1.4. Consulta ao RVS ou ao Aditivo ao RVS</strong>
+<a id=""></a>
+
+**2.1.4. Consulta ao RVS ou ao Aditivo ao RVS**
 
 Esta função permite efetuar consulta a dados dos RVS no Sistema.
 
@@ -2131,7 +2136,7 @@ Em seguida, é exibida a tela **Resumo do RF**.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image59.jpg)
 
--------------------------------------------------------------------------------------------------------------------------------
+
 ### 2.3. Registro de Presença Comercial no Exterior (RPC)
 
 <strong id="_r2r73f">2.3.1. Inclusão do RPC</strong>
