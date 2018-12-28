@@ -2725,13 +2725,12 @@ A funcionalidade **Relatório Gerencial** visa a atender uma solicitação dos u
 O sistema permite a geração dos Relatórios Gerenciais cujas informações abranjam um período máximo de um (1) ano, retroativo ao início de operação do Siscoserv.
 
 O Siscoserv permite que o Usuário/Responsável pelo Registro gere os Relatórios Gerenciais em três situações distintas, a saber:
-<ol type="a">
-<li>Usuário/Responsável pelo Registro representa uma Pessoa Jurídica;</li>
 
-<li>Usuário/Responsável pelo Registro representa Pessoa Física; e</li>
+1) Usuário/Responsável pelo Registro representa uma Pessoa Jurídica;
 
-<li> Usuário/Responsável pelo Registro é o Próprio Vendedor. </li>
-</ol>
+2) Usuário/Responsável pelo Registro representa Pessoa Física; e
+
+3) Usuário/Responsável pelo Registro é o Próprio Vendedor.
 
 O **Usuário/Responsável pelo Registro** é que detém o e-CPF e/ou a procuração eletrônica da Pessoa Jurídica ou da Pessoa Física e é o responsável pela inserção dos dados no Sistema.
 
@@ -2749,17 +2748,17 @@ Passo 3: Usuário/Responsável pelo Registro seleciona dentre as diversas opçõ
 
 Podem ser selecionadas as seguintes opções:
 
-[Agrupamento:
+**Agrupamento**:
 
 \- CNPJ de 14 posições: para gerar o relatório de apenas uma empresa do Grupo; ou
 
 \- CNPJ de 8 posições: para gerar relatório contendo todas as empresas do mesmo Grupo. Este tipo de consulta está disponível apenas para CNPJ de natureza matriz, que terá acesso aos registros da própria matriz e de suas filiais.
 
-[Opção de registros efetuados no Sistema:
+**Opção de registros efetuados no Sistema:**
 
 \- RVS ou RF: serão disponibilizados todos os registros efetuados no período de 1 ano. As informações sobre os RVS aparecem em uma planilha e as informações sobre os RF em outra.
 
-[Período para geração do relatório:
+**Período para geração do relatório:**
 
 \- Selecionar o período das informações desejadas, que não deve ser superior a 1 ano.
 
@@ -2769,7 +2768,7 @@ Podem ser selecionadas as seguintes opções:
 
 \- Consulta disponível para **filial**:
 
-![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image69.jpg)![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image69.jpg)
+![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image69.jpg)
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado.
 
