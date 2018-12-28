@@ -551,15 +551,7 @@ Não deverão registrar operações em Modo 4 no Siscoserv as Pessoas Jurídicas
 <a id="_1tdr5v4"></a>
 ## 9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS)]
 
-O registro de [operações](about:blank) no Siscoserv será
-realizado de acordo com a [[Nomenclatura Brasileira de Serviços,
-Intangíveis e Outras Operações que Produzam Variações no Patrimônio
-(NBS)]{.underline}](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13)
-e pelas respectivas [[Notas Explicativas
-(NEBS)]{.underline}](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13),
-aprovadas pelo [[Decreto nº]{.underline} [7.708, de 2 de abril de
-2012]{.underline}](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm),
-e suas alterações posteriores.
+O registro de [operações](about:blank) no Siscoserv será realizado de acordo com a [Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio(NBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13) e pelas respectivas [Notas Explicativas(NEBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13), aprovadas pelo [[Decreto nº]{.underline} [7.708, de 2 de abril de 2012](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm), e suas alterações posteriores.
 
 A prestação de serviços¹⁰ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jspdata=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
 
@@ -732,9 +724,10 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 ### 10.1. Mecanismos de Apoio / Fomento (Enquadramento) no RVS do Módulo Venda:
 
 
-| **Mecanismos de Apoio/Fomento**           | **Medida Legal**           |
-|-------------------------------------------|----------------------------|
-|**ACC - Adiantamento sobre Contrato de Câmbio – Redução a Zero do IR e do IOF.** Antecipação parcial ou total em reais relativa ao preço da moeda estrangeira vendida ao banco autorizado a operar no mercado de câmbio, pelo exportador, para entrega futura. O ACC é concedido antes da prestação do serviço a residente ou domiciliado no exterior.|Decreto no 6.306, de 14 de dezembro de 2007, art. 8º Circular BCB nº 3.691, de 16 de dezembro de 2013, arts. 65 a 68 Portaria MDIC nº 210, de 31 de agosto de 2012|
+| **Mecanismos de Apoio/Fomento**   | **Medida Legal**                  |
+|-----------------------------------|-----------------------------------|
+|**ACC - Adiantamento sobre Contrato de Câmbio – Redução a Zero do IR e do IOF.** Antecipação parcial ou total em reais relativa ao preço da moeda estrangeira vendida ao banco autorizado a operar no mercado de câmbio, pelo exportador, para entrega futura. O ACC é concedido antes da prestação do serviço a residente ou domiciliado no exterior.|Decreto no 6.306, de 14 de dezembro de 2007, art. 8º
+Circular BCB nº 3.691, de 16 de dezembro de 2013, arts. 65 a 68 Portaria MDIC nº 210, de 31 de agosto de 2012|
 |**ACE – Adiantamento sobre Cambiais Entregues - Redução a Zero do IR e do IOF.** Antecipação parcial ou total em reais relativa ao preço da moeda estrangeira vendida ao banco autorizado a operar no mercado de câmbio, pelo exportador, para entrega futura. O ACE é concedido após a prestação de serviço a residente ou domiciliado no exterior e geralmente sucede uma  operação prévia de ACC.|Decreto no 6.306, de 14 de dezembro de 2007, art. 8º Circular BCB nº 3.691 de 16 de dezembro de 201, arts. 65 a 68 Portaria MDIC no 210, de 31 de agosto de 2012|
 |**BNDES-Exim Pós-Embarque – Serviços** Financiamento à comercialização de serviços nacionais no exterior, através da modalidade supllier’s credit (refinanciamento ao exportador) ou através da modalidade buyer’s credit (financiamento direto ao importador).|CIRCULAR AEX nº 8/2015, de 27 de julho de 2015 http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/posemb.html|
 |**BNDES-Exim Pré-Embarque - Serviços** Financiamento à produção nacional de serviços a serem exportados.|CIRCULAR AEX nº 11/2015, de 23 de outubro de 2015
@@ -986,7 +979,7 @@ O Certificado Digital permite a identificação de uma pessoa no ambiente digita
 
 A lista de autoridades certificadoras, habilitadas pela Secretaria da Receita Federal do Brasil (RFB) para emissão de Certificados Digitais e-CPF, está disponível em:
 
-<a id="_1yyy98l"></a>[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
+[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
 
 <a id="_35xuupr"></a>
 # 1.3. O que é e como obter a Procuração Eletrônica
