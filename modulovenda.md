@@ -724,10 +724,9 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 ### 10.1. Mecanismos de Apoio / Fomento (Enquadramento) no RVS do Módulo Venda:
 
 
-| **Mecanismos de Apoio/Fomento**   | **Medida Legal**                  |
-|-----------------------------------|-----------------------------------|
-|**ACC - Adiantamento sobre Contrato de Câmbio – Redução a Zero do IR e do IOF.** Antecipação parcial ou total em reais relativa ao preço da moeda estrangeira vendida ao banco autorizado a operar no mercado de câmbio, pelo exportador, para entrega futura. O ACC é concedido antes da prestação do serviço a residente ou domiciliado no exterior.|Decreto no 6.306, de 14 de dezembro de 2007, art. 8º
-Circular BCB nº 3.691, de 16 de dezembro de 2013, arts. 65 a 68 Portaria MDIC nº 210, de 31 de agosto de 2012|
+| **Mecanismos de Apoio/Fomento**           | **Medida Legal**           |
+|-------------------------------------------|----------------------------|
+|**ACC - Adiantamento sobre Contrato de Câmbio – Redução a Zero do IR e do IOF.** Antecipação parcial ou total em reais relativa ao preço da moeda estrangeira vendida ao banco autorizado a operar no mercado de câmbio, pelo exportador, para entrega futura. O ACC é concedido antes da prestação do serviço a residente ou domiciliado no exterior.|Decreto no 6.306, de 14 de dezembro de 2007, art. 8º Circular BCB nº 3.691, de 16 de dezembro de 2013, arts. 65 a 68 Portaria MDIC nº 210, de 31 de agosto de 2012|
 |**ACE – Adiantamento sobre Cambiais Entregues - Redução a Zero do IR e do IOF.** Antecipação parcial ou total em reais relativa ao preço da moeda estrangeira vendida ao banco autorizado a operar no mercado de câmbio, pelo exportador, para entrega futura. O ACE é concedido após a prestação de serviço a residente ou domiciliado no exterior e geralmente sucede uma  operação prévia de ACC.|Decreto no 6.306, de 14 de dezembro de 2007, art. 8º Circular BCB nº 3.691 de 16 de dezembro de 201, arts. 65 a 68 Portaria MDIC no 210, de 31 de agosto de 2012|
 |**BNDES-Exim Pós-Embarque – Serviços** Financiamento à comercialização de serviços nacionais no exterior, através da modalidade supllier’s credit (refinanciamento ao exportador) ou através da modalidade buyer’s credit (financiamento direto ao importador).|CIRCULAR AEX nº 8/2015, de 27 de julho de 2015 http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/posemb.html|
 |**BNDES-Exim Pré-Embarque - Serviços** Financiamento à produção nacional de serviços a serem exportados.|CIRCULAR AEX nº 11/2015, de 23 de outubro de 2015
@@ -1004,7 +1003,6 @@ o órgão responsável pelos aspectos técnico-operacionais do sistema. Os canai
 [http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior](http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior)
 
 \- Fone: 0800-978-2331
-
 \- Email: css.serpro\@serpro.gov.
 
 # 1.5. Informações Cadastrais
@@ -1050,7 +1048,7 @@ Passo 2: Preenche o CNPJ da empresa e clica em avançar;
 
 Passo 3: O Sistema apresenta uma tela para a inserção dos dados cadastrais.
 
-[Fluxo de Registro Inicial]{.underline}
+**Fluxo de Registro Inicial**
 
 O Sistema apresenta os dados do Usuário/Responsável pelo Registro (nome e CPF) bem como o CNPJ e Razão Social da Empresa Adquirente, oriundos do e-CPF e da Procuração eletrônica em fundo cinza, e os demais campos a serem preenchidos em branco.
 
@@ -1092,7 +1090,7 @@ Existem outros Campos de preenchimento opcional:
 >
 > \- Endereço do Canal do *Youtube* da Empresa Vendedora.
 
-[Fluxo de Manutenção de Informações]{.underline}
+**Fluxo de Manutenção de Informações**
 
 Após 1 ano, ou sempre que houver alguma alteração nas informações incluídas no cadastro do Siscoserv, o Usuário/Responsável pelo Registro poderá acessar o campo **Informações Cadastrais** e atualizar ou confirmar as informações previamente inseridas.
 
@@ -1115,7 +1113,7 @@ acessa o Siscoserv e clica em Informações cadastrais;
 
 [Obs: No primeiro acesso do usuário ao Sistema, o usuário será
 direcionado diretamente para a ficha de Informações Cadastrais. Não será
-possível efetuar novo registro antes de preencher os dados solicitados.]{.underline}
+possível efetuar novo registro antes de preencher os dados solicitados.]
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image138.jpg)
 
@@ -1125,7 +1123,7 @@ Passo 2: Preenche o CPF da Pessoa Física que está representando e clica em ava
 
 Passo 3: O Sistema apresenta uma tela para a inserção dos dados cadastrais.
 
-[Fluxo de Registro Inicial]{.underline}
+**Fluxo de Registro Inicial**
 
 O Sistema apresenta os dados do Usuário/Responsável pelo Registro bem como o Nome e CPF da Pessoa Física Adquirente, oriundos do e-CPF e da Procuração eletrônica, que se apresentam em fundo cinza, e os demais campos a serem preenchidos em branco.
 
@@ -1176,9 +1174,9 @@ Passo 4: Após a atualização das informações, o Usuário/Responsável clica 
 
 Passo 1: Responsável pelo Registro acessa o Siscoserv e clica em Informações cadastrais;
 
-[Obs: No primeiro acesso do usuário ao Sistema, o usuário será
+**Obs: No primeiro acesso do usuário ao Sistema, o usuário será
 direcionado diretamente para a ficha de Informações Cadastrais. Não será
-possível efetuar novo registro antes de preencher os dados solicitados.]{.underline}
+possível efetuar novo registro antes de preencher os dados solicitados.**
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image138.jpg)
 
@@ -1187,8 +1185,7 @@ Passo 2: Seleciona a Opção "O usuário é o próprio Vendedor" e clica em Avan
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image165.jpg)
 
 Passo 3: O Sistema apresenta uma tela para a inserção dos Dados cadastrais.
-
-[Fluxo de Registro Inicial]{.underline}
+**[Fluxo de Registro Inicial**
 
 O Sistema apresenta os dados do Usuário/Responsável pelo Registro,
 oriundos do e-CPF e da Procuração eletrônica, que se apresentam em fundo cinza, e os demais campos a serem preenchidos em branco. Neste caso, os dados do Usuário/Responsável pelo Registro são os mesmos da Pessoa Física vendedora que apenas deverá complementar as demais informações exigidas pelo Sistema.
@@ -1215,7 +1212,7 @@ Existem outros campos de preenchimento opcional:
 >
 > \- Endereço do Canal do Youtube da Empresa Vendedora.
 
-[Fluxo de Manutenção de Informações]{.underline}
+**Fluxo de Manutenção de Informações**
 
 Após um (1) ano, ou sempre que houver alguma alteração nas informações incluídas no cadastro do Siscoserv, o Usuário/Responsável pelo Registro poderá acessar o campo **Informações Cadastrais** e atualizar ou confirmar as informações previamente inseridas.
 
@@ -1249,8 +1246,7 @@ Os registros no Siscoserv podem ser feitos de forma individualizada ou por Trans
 
 \
 Os registros individualizados no Siscoserv devem seguir as etapas de preenchimento descritas nos [2.1](#_1n1mu2y),
-[2.2](#_3im3ia3) e [[2.3 do Capítulo
-2]{.underline}](#_qbtyoq) deste Manual.
+[2.2](#_3im3ia3) e [2.3 do Capítulo2](#_qbtyoq) deste Manual.
 
 A transmissão em lote permite a inclusão de uma grande quantidade de registros ao mesmo tempo e deve seguir os passos descritos [[no item 3
 deste capítulo]{.underline}](#_471acqr). A transmissão em lote é feita por meio do envio de um ou mais arquivos do tipo XML, compactados no formato ZIP.
@@ -1342,7 +1338,7 @@ No caso da não indicação de que o registro será feito em atendimento concomi
 A decisão pode ser revista pelo usuário, clicando em **Atendimento à
 legislação** no *menu* lateral esquerdo na tela de **Resumo**.
 
-**[Dados do Adquirente]{.underline}**
+**Dados do Adquirente**
 
 Em **Dados do Adquirente**, devem ser incluídos os dados do residente ou domiciliado no exterior adquirente da [operação](#upglbi)
 realizada com pessoa física, pessoa jurídica ou [ente despersonalizado](#2250f4o)
@@ -1360,7 +1356,7 @@ realizada com pessoa física, pessoa jurídica ou [ente despersonalizado](#2250f
 [negócio](#40ew0vw) na lista disponível de países em
 **País do Adquirente**, ou informe manualmente o código do país no campo numérico.
 
-**[[NIF -- Número de Identificação Fiscal](#2fk6b3p)]{.underline}** --
+**[NIF -- Número de Identificação Fiscal](#2fk6b3p)** --
 Preencha com número de Identificação Fiscal do adquirente do
 [negócio](#40ew0vw). O fornecimento dessa informação é
 obrigatório nos casos de países que adotam códigos de identificação fiscal.
@@ -1370,8 +1366,8 @@ Caso não seja informado o **NIF**, deve-se selecionar uma das opções de
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image16.png)
 
-Deve-se indicar se o adquirente é pessoa vinculada ao vendedor nos termos do [[art. 23 da Lei 9.430 de dezembro de
-1996]{.underline}](http://www.planalto.gov.br/ccivil_03/LEIS/L9430.htm#art23).
+Deve-se indicar se o adquirente é pessoa vinculada ao vendedor nos termos do [art. 23 da Lei 9.430 de dezembro de
+1996](http://www.planalto.gov.br/ccivil_03/LEIS/L9430.htm#art23).
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image5.png)
 
@@ -1382,7 +1378,7 @@ Caso o adquirente seja pessoa vinculada ao vendedor, selecione o tipo de vincula
 Acione **Avançar** para validar os dados e seguir para a próxima tela
 (**Dados do [Negócio](#40ew0vw)**).
 
-**[Dados do Negócio]{.underline}**
+**Dados do Negócio**
 
 Em **Dados do [Negócio](#40ew0vw)** são incluídos os dados das [operações](#upglbi) de venda de serviços₁₃ por [residentes](#1tuee74) ou domiciliados no País a residentes ou domiciliados no exterior.
 
