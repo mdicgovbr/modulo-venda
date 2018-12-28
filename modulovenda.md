@@ -2237,7 +2237,7 @@ Identifique a razão social ou equivalente da presença comercial relacionada à
 Informe o endereço da presença comercial.
 
 **País da Presença Comercial**  
-Selecione p país da presença comercial na lista disponível de países em
+Selecione o país da presença comercial na lista disponível de países em
 **País da Presença Comercial**, ou informe manualmente o código do país no campo numérico.
 
 **Número de Identificação Fiscal -- NIF**  
@@ -2248,8 +2248,7 @@ O fornecimento dessa informação é obrigatório nos casos de países cuja admi
 Caso não seja informado o **NIF**, deve-se selecionar uma das opções de
 **Motivo do não preenchimento**: **Dispensado do NIF** ou **País não exige NIF**.
 
-**Tipo de Empresa**
-
+**Tipo de Empresa**  
 Selecione o tipo de relação da presença comercial com a pessoa jurídica domiciliada no Brasil, conforme a seguir:
 
 \- filial;
@@ -2274,12 +2273,10 @@ pessoa jurídica domiciliada no Brasil.
 
 ![Tela RPC11](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image39.png)
 
-**Ano da apuração**
-
+__**Ano da apuração**__  
 Indique o ano-calendário a que se refere à **Receita Total.**
 
-**Receita Total**
-
+__**Receita Total**__  
 Informe a receita total anual da presença comercial, em dólar dos Estados Unidos da América, com a venda de serviços, a transferência de
 [intangíveis](#intangivel) e a realização de [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio)
 no **Ano da apuração**.
