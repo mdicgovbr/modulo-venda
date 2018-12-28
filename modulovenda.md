@@ -2290,10 +2290,8 @@ Informe o(s) código(s) da NBS, em nível de posição, mais representativo(s) e
 
 A partir de 2019, caso a empresa indique mais de uma **NBS mais representativa**, o Sistema abrirá um campo para que seja indicado o percentual de cada uma dessas NBS em relação à **Receita Total** aferida pela presença comercial no ano anterior.
 
-Exemplos de código da NBS em nível de posição:
-
-1.0102 - Serviços de construção de edificações não residenciais
-
+Exemplos de código da NBS em nível de posição:  
+1.0102 - Serviços de construção de edificações não residenciais  
 1.0105 - Serviços de construção de portos e sua infraestrutura
 
 Para mais informações sobre a NBS vide [item 9, do Capítulo 1 deste Manual.](#9)
@@ -2304,7 +2302,7 @@ Em 2019, todos os Registros de Presença Comercial no Exterior, relativos
 A partir de 1º de janeiro de 2020, todos os Registros de Presença Comercial no Exterior devem classificar os serviços²² de acordo com a NBS 2.0, publicada pela **Portaria Conjunta RFB / SCS nº**
 **1.429, de 2018**.
 
-**Operações amparadas por mecanismo de apoio**
+__**Operações amparadas por mecanismo de apoio**__
 
 Caso a presença comercial tenha realizado, durante o ano de apuração,
 operação amparada em um ou mais mecanismos de apoio/fomento ao comércio exterior de serviços, intangíveis e outras operações que produzam variações no patrimônio, o usuário deve marcar "sim" à direita da pergunta: "Há operações amparadas por mecanismo de apoio/fomento ao comércio exterior nos termos do art. 26 da Lei 12.546/2011?". Todos os mecanismos de apoio que amparam a operação devem ser registrados neste campo em cumprimento ao previsto no art. 26 da Lei nº
@@ -2322,7 +2320,7 @@ operação(ões) amparada(s) em mecanismo(s) de apoio.
 **Código NBS / Descrição da NBS:** Vide [item 9, do Capítulo 1 deste Manual.](#9)
 
 A partir de 1º de janeiro de 2019, as informações sobre operação(ões)
-amparada(s) por mecanismo(s) de apoio que serão incluídas no RPC devem classificar os serviços²³ de acordo com a NBS 2.0, publicada pela
+amparada(s) por mecanismo(s) de apoio que serão incluídas no RPC devem classificar os serviços²⁴ de acordo com a NBS 2.0, publicada pela
 [Portaria Conjunta RFB / SCS nº 1.429, de
 2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20).
 
@@ -2344,7 +2342,7 @@ Para excluir um enquadramento selecionado, acione o botão ![](https://github.co
 
 Após incluir o(s) mecanismo(s) de apoio, clique em **Adicionar Operação**.
 
-**Informações Complementares**
+__**Informações Complementares**__
 
 Destina-se ao preenchimento de informações pertinentes ao RPC que não tenham campo específico no Sistema.
 
@@ -2352,7 +2350,7 @@ O preenchimento deste campo é opcional.
 
 Acione **Avançar** para seguir para o próximo passo.
 
-**Resumo do RPC**
+__**Resumo do RPC**__
 
 O Sistema exibirá tela Resumo do RPC, que traz as informações preenchidas para incluir o RPC.
 
@@ -2400,11 +2398,13 @@ Após conferir os dados retificados na tela **Resumo do RPC**, acione o botão *
 
 Esta função permite ao usuário cancelar um RPC.
 
-O RPC pode ser cancelado nas seguintes hipóteses:
+O RPC pode ser cancelado nas seguintes hipóteses:  
+  
+<blockquote>
+a) caso o usuário tenha registrado a presença comercial de uma domiciliada no Brasil incorretamente; ou
 
-a\) caso o usuário tenha registrado a presença comercial de uma domiciliada no Brasil incorretamente; ou
-
-b\) caso a presença comercial tenha sido informada em duplicidade.
+b) caso a presença comercial tenha sido informada em duplicidade.
+</blockquote>
 
 Para cancelar um RPC é preciso acessar o *menu* **RPC** e em seguida
 **Cancelar**.
@@ -2467,21 +2467,15 @@ Por meio da transmissão em lote busca-se uma interoperabilidade entre o Siscose
 Os arquivos de lote são compostos por arquivos contendo dados de registro que representam cada qual uma operação distinta no Siscoserv.
 As operações realizadas por meio da transmissão em lote são, no Módulo Venda:
 
-+------------------------+--+
-| 1)  Incluir RVS;       |  |
-|                        |  |
-| 2)  Retificar RVS;     |  |
-|                        |  |
-| 3)  Incluir Aditivo;   |  |
-|                        |  |
-| 4)  Retificar Aditivo; |  |
-|                        |  |
-| 5)  Incluir RF;        |  |
-|                        |  |
-| 6)  Retificar RF; e    |  |
-|                        |  |
-| 7)  Cancelar RF        |  |
-+------------------------+--+
+
+ 1.  Incluir RVS;        
+ 2.  Retificar RVS;   
+ 3.  Incluir Aditivo;  
+ 4.  Retificar Aditivo;  
+ 5.  Incluir RF;        
+ 6.  Retificar RF; e               
+ 7.  Cancelar RF 
+
 
 Este Manual trata apenas da transmissão dos arquivos após sua criação,
 bem como do Retorno do Lote, detalhado na sessão 3.2 -- Consultar Lote.
