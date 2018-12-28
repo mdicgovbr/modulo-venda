@@ -2839,35 +2839,23 @@ As seguintes informações são disponibilizadas na planilha Excel dos **Relató
 
 -   Nº do RVS
 
--   ID/RVS (Essa informação se refere ao identificador do registro no
-    > banco do Siscoserv. O usuário poderá vincular uma operação ou
-    > fatura ao registro.)
+-   ID/RVS (Essa informação se refere ao identificador do registro no banco do Siscoserv. O usuário poderá vincular uma operação ou fatura ao registro.)
 
 -   Nº do RF
 
--   ID\_Fatura (Essa informação se refere ao identificador da fatura no
-    > banco do Siscoserv. O usuário poderá vincular uma fatura ao
-    > registro.)
+-   ID\_Fatura (Essa informação se refere ao identificador da fatura no banco do Siscoserv. O usuário poderá vincular uma fatura ao registro.)
 
--   NF\_Fatura (Este é o número indicado pelo usuário para identificar a
-    > nota fiscal ou documento equivalente)
+-   NF\_Fatura (Este é o número indicado pelo usuário para identificar a nota fiscal ou documento equivalente)
 
 -   CPF do Usuário
 
--   Info \_Portaria (Essa informação se refere à opção de atendimento a
-    > legislação. Os valores possíveis são: 1 -- Ministério da
-    > Indústria, Comércio e Serviços; 2 -- RFB; 3 -- Ambos)
+-   Info \_Portaria (Essa informação se refere à opção de atendimento a legislação. Os valores possíveis são: 1 -- Ministério da Indústria, Comércio e Serviços; 2 -- RFB; 3 -- Ambos)
 
--   ID\_OPERAÇÃO (Essa informação se refere ao identificador da operação
-    > no banco do Siscoserv. O usuário poderá vincular uma operação a um
-    > item de fatura.)
+-   ID\_OPERAÇÃO (Essa informação se refere ao identificador da operação no banco do Siscoserv. O usuário poderá vincular uma operação a um item de fatura.)
 
--   ID\_FATURA\_OP (Essa informação se refere ao identificador da fatura
-    > no banco do Siscoserv. O usuário poderá vincular faturas às
-    > operações.)
+-   ID\_FATURA\_OP (Essa informação se refere ao identificador da fatura no banco do Siscoserv. O usuário poderá vincular faturas às operações.)
 
--   Data\_In\_Faturamento (Data da nota fiscal ou do documento
-    > equivalente, indicada no RF)
+-   Data\_In\_Faturamento (Data da nota fiscal ou do documento equivalente, indicada no RF)
 
 -   Valor Faturado
 
@@ -2921,12 +2909,10 @@ Passo 3: Usuário/Responsável pelo Registro seleciona dentre as diversas opçõ
 
 Podem ser selecionadas as seguintes opções:
 
-Opção de registros efetuados no Sistema:
-
+**Opção de registros efetuados no Sistema:**  
 \- RVS ou RF: serão disponibilizados todos os registros efetuados no período de 1 ano. As informações sobre os RVS aparecem em uma planilha e as informações sobre os RF em outra.
 
-Data para geração do relatório:
-
+**Data para geração do relatório:**  
 \- Selecionar o período das informações desejadas, que não deve ser superior a 1 ano.
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image80.jpg)
@@ -2937,7 +2923,7 @@ O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados par
 **Capítulo 3**
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image22.png)
 
-**Cenários Exemplificativos de Registro no Siscoserv**
+# Cenários Exemplificativos de Registro no Siscoserv
 
 
 ## 1. Registro de Transporte Internacional de Cargas (Frete)
@@ -2948,13 +2934,12 @@ executando diferentes "papéis". Nos exemplos a seguir, são mostradas, em algun
 O conjunto de cenários abaixo apresentado não pretende ser exaustivo.
 Entretanto, a lógica aplicada em cada uma das situações pode se estender aos casos que não foram aqui descritos.
 
-**Cenário 1.1. Transporte internacional de cargas intermediado por agente de cargas.**
-
+**Cenário 1.1. Transporte internacional de cargas intermediado por agente de cargas.**  
 **Exportação brasileira com a obrigação de transportar da empresa brasileira.**
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image113.jpg)
 
-Atores:
+**Atores:**
 
 > Eᴮᴿ: Exportador residente ou domiciliado no Brasil
 >
@@ -2964,7 +2949,7 @@ Atores:
 >
 > Iₑₓ: Importador residente ou domiciliado no Exterior
 
-Relações entre os Atores:
+**Relações entre os Atores:**
 
 > Eᴮᴿ -- Iₑₓ: Exportador Brasileiro se compromete a transportar
 > mercadorias até o local indicado pelo Importador residente ou
@@ -2973,7 +2958,7 @@ Relações entre os Atores:
 > Eᴮᴿ -- AgCᴮᴿ: Exportador brasileira contrata Agente de Cargas
 > residente ou domiciliado no Brasil para que, **em nome de Exportador
 > brasileiro**, contrate o transporte marítimo das mercadorias até o
-> local indicado pelo Importador residente ou domiciliado no Exterior~.~
+> local indicado pelo Importador residente ou domiciliado no Exterior.
 >
 > AgCᴮᴿ -- Tₑₓ: Agente de Cargas residente ou domiciliado no Brasil
 > contrata Transportador residente ou domiciliado no Exterior, **em
@@ -2986,7 +2971,7 @@ Relações entre os Atores:
 > revela-se por meio da existência de contrato, escrito ou não, e
 > faturamento correspondente.
 
-[Registros devidos:
+**Registros devidos:**
 
 > Eᴮᴿ: RAS pelo serviço de transporte tendo Tₑₓ como vendedor.
 >
@@ -2994,13 +2979,12 @@ Relações entre os Atores:
 > Venda do Siscoserv os serviços de transporte internacional de carga
 > adquiridos de Tₑₓ, cujo custo seja por ele repassado a Iₑₓ.
 >
-**Cenário 1.2. Transporte internacional de cargas intermediado por agente de cargas.**
-
+**Cenário 1.2. Transporte internacional de cargas intermediado por agente de cargas.**  
 **Importação brasileira com a obrigação de transportar da empresa brasileira**
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image153.png)
 
-Atores:
+**Atores:**
 
 > Iᴮᴿ: Importador residente ou domiciliado no Brasil
 >
@@ -3012,7 +2996,7 @@ Atores:
 >
 > Tₑₓ: Transportador residente ou domiciliado no Exterior
 
-Relações entre os Atores:
+**Relações entre os Atores:**
 
 > Iᴮᴿ -- Eₑₓ: Iᴮᴿ assume o ônus de transportar a mercadoria
 > importada
@@ -3025,7 +3009,7 @@ Relações entre os Atores:
 > transportar as mercadorias até o local indicado por Iᴮᴿ, sendo que
 > Tₑₓ de fato fará o transporte.
 
-Registros devidos:
+**Registros devidos:**
 
 > Iᴮᴿ: RAS pelo serviço de transporte tendo Tₑₓ como vendedor.
 >
@@ -3034,13 +3018,12 @@ Registros devidos:
 > deve ser feito um RAS por Iᴮᴿ tendo AgCgₑₓ como vendedor do
 > serviço.
 >
-**Cenário 1.3. Transporte internacional de cargas com consolidação e desconsolidação de cargas.**
-
+**Cenário 1.3. Transporte internacional de cargas com consolidação e desconsolidação de cargas.**  
 **Importação brasileira com a obrigação de transportar da empresa estrangeira**
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image97.png)
 
-Atores:
+**Atores:**
 
 > Eₑₓ: Exportador residente ou domiciliado no Exterior
 >
@@ -3052,7 +3035,7 @@ Atores:
 >
 > Tₑₓ: Transportador residente ou domiciliado no Exterior
 
-[Relações entre os Atores:
+**Relações entre os Atores:**
 
 > Eₑₓ -- Iᴮᴿ: Eₑₓ compromete-se com o Iᴮᴿ a transportar a
 > mercadoria até local indicado por Iᴮᴿ em solo brasileiro.
@@ -3066,21 +3049,20 @@ Atores:
 > Cₑₓ -- Tₑₓ: Cₑₓ contrata em seu próprio nome Tₑₓ para
 > transportar a mercadoria.
 
-[Registros devidos:
+**Registros devidos:**
 
 > Dᴮᴿ: RVS pelo serviço de desconsolidação tendo Cₑₓ como
 > adquirente.
 >
 > **Não há registro no Siscoserv** pelo serviço de transporte de cargas
-> neste caso, pois ambos, Cₑₓ e T~EX,~ são domiciliados no exterior.
+> neste caso, pois ambos, Cₑₓ e Tₑₓ são domiciliados no exterior.
 >
-**Cenário 1.4. Transporte internacional de cargas com consolidação e desconsolidação de cargas.**
-
+**Cenário 1.4. Transporte internacional de cargas com consolidação e desconsolidação de cargas.**  
 **Exportação brasileira com a obrigação de transportar da empresa brasileira**
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image102.png)
 
-Atores:
+**Atores:**
 
 > Eᴮᴿ: Exportador residente ou domiciliado no Brasil
 >
@@ -3093,7 +3075,7 @@ Atores:
 > Tₑₓ: Transportador, operador de veículo, residente ou domiciliado no
 > Exterior.
 
-Relações entre os Atores:
+**Relações entre os Atores:**
 
 > Eᴮᴿ -- Iₑₓ: Eᴮᴿ compromete-se com o Iₑₓ a transportar a
 > mercadoria até local indicado por Iₑₓ.
@@ -3107,7 +3089,7 @@ Relações entre os Atores:
 > Cᴮᴿ -- Dₑₓ: Cᴮᴿ contrata Dₑₓ para fazer a desconsolidação da
 > mercadoria.
 
-Registros devidos:
+**Registros devidos:**
 
 > Cᴮᴿ: RAS pelo serviço de transporte tendo Tₑₓ como vendedor e RAS
 > pelo serviço de desconsolidação, tendo Dₑₓ como vendedor.
@@ -3117,8 +3099,13 @@ Registros devidos:
 
 **Cenário 2.1. Contratação de seguro com intermediação de corretora**
 
-Descrição
+**Descrição**
 
+Empresa residente ou domiciliada no Brasil -- Empᴮᴿ, utiliza corretora de seguros, também residente ou domiciliada no Brasil, -- Corᴮᴿ que intermedeia a contratação com a seguradora residente ou domiciliada no exterior -- Segₑₓ. Desta forma, mesmo intervindo o intermediário Corᴮᴿ, as partes do contrato do seguro continuam a ser Empᴮᴿ e Segₑₓ e cabe a Empᴮᴿ, a contratante no Brasil, o registro no Siscoserv.
+
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image95.jpg)
+
+**Atores:**
 
 > Empᴮᴿ: Empresa residente ou domiciliado no Brasil
 >
@@ -3126,7 +3113,7 @@ Descrição
 >
 > Segₑₓ: Seguradora residente ou domiciliado no Exterior
 
-Relações entre os Atores:
+**Relações entre os Atores:**
 
 > Empᴮᴿ -- Corᴮᴿ: Empᴮᴿ contrata Corᴮᴿ para que, em nome de
 > Empᴮᴿ, contrate o seguro.
@@ -3134,20 +3121,19 @@ Relações entre os Atores:
 > Corᴮᴿ -- Segₑₓ: Corᴮᴿ contrata seguro de Segₑₓ, em nome de
 > Empᴮᴿ.
 
-Registros devidos:
+**Registros devidos:**
 
 > Empᴮᴿ: RAS pelo serviço de seguro tendo Segₑₓ como vendedora.
 >
 **Cenário 2.2. Contratação de seguro de estipulante domiciliada ou residente no Brasil**
 
-Descrição
-
+**Descrição**  
 Estᴮᴿ, residente ou domiciliada no Brasil, é uma corretora que contrata e paga apólice coletiva de seguros, ficando investida dos poderes de representação dos segurados perante as seguradoras, fazendo papel de estipulante. Se Segₑₓ, seguradora residente ou domiciliada no exterior, for contratada e paga por Estᴮᴿ em favor de Empᴮᴿ,
 residente ou domiciliada no Brasil, Estᴮᴿ é considerado o contratante e, consequentemente, o responsável pelo registro no Siscoserv
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image96.jpg)
 
-Atores:
+**Atores:**
 
 > Empᴮᴿ: Empresa residente ou domiciliado no Brasil
 >
@@ -3155,7 +3141,7 @@ Atores:
 >
 > Segₑₓ: Seguradora residente ou domiciliado no Exterior
 
-Relações entre os Atores:
+**Relações entre os Atores:**
 
 > Empᴮᴿ -- Estᴮᴿ: Empᴮᴿ contrata seguro de Estᴮᴿ.
 >
@@ -3163,7 +3149,7 @@ Relações entre os Atores:
 > Segₑₓ e paga por ela, ficando investida dos poderes de representação
 > dos segurados, inclusive Empₑₓ, perante Segₑₓ
 
-Registros devidos:
+**Registros devidos:**
 
 > Estᴮᴿ: RAS pelo serviço de seguro tendo Segₑₓ como vendedora.
 >
