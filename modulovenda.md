@@ -551,19 +551,11 @@ Não deverão registrar operações em Modo 4 no Siscoserv as Pessoas Jurídicas
 <a id="_1tdr5v4"></a>
 ## 9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS)]
 
-O registro de [operações](about:blank) no Siscoserv será
-realizado de acordo com a [[Nomenclatura Brasileira de Serviços,
-Intangíveis e Outras Operações que Produzam Variações no Patrimônio
-(NBS)]{.underline}](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13)
-e pelas respectivas [[Notas Explicativas
-(NEBS)]{.underline}](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13),
-aprovadas pelo [[Decreto nº]{.underline} [7.708, de 2 de abril de
-2012]{.underline}](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm),
-e suas alterações posteriores.
+O registro de [operações](about:blank) no Siscoserv será realizado de acordo com a [Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio(NBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13) e pelas respectivas [Notas Explicativas(NEBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13), aprovadas pelo [[Decreto nº]{.underline} [7.708, de 2 de abril de 2012](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm), e suas alterações posteriores.
 
-A prestação de serviços¹⁰ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [[Portaria Conjunta RFB / SCS nº 1.820, de 2014]{.underline}](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
+A prestação de serviços¹⁰ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jspdata=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
 
-A prestação de serviços¹¹ iniciada a partir de 1º de janeiro de 2019 devem ser registradas tendo por base a [[Portaria Conjunta RFB / SCS nº 1.429, de 2018]{.underline}](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20),
+A prestação de serviços¹¹ iniciada a partir de 1º de janeiro de 2019 devem ser registradas tendo por base a [Portaria Conjunta RFB / SCS nº 1.429, de 2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20),
 que produz efeitos a partir de 1º de janeiro de 2019.
 
 Esse registro deverá observar as seguintes regras gerais para interpretação da NBS:
@@ -731,172 +723,29 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 <a id="_2sioyqq"></a>
 ### 10.1. Mecanismos de Apoio / Fomento (Enquadramento) no RVS do Módulo Venda:
 
-+-----------------------------------+-----------------------------------+
+
 | **Mecanismos de Apoio/Fomento**   | **Medida Legal**                  |
-+===================================+===================================+
-| **ACC - Adiantamento sobre        | [[Decreto nº]{.underline}         |
-| Contrato de Câmbio -- Redução a   | [6.306, de 14 de dezembro de      |
-| Zero do IR e do IOF. **           | 2007, art.                        |
-|                                   | 8º]{.underline}](http://www.plana |
-| Antecipação parcial ou total em   | lto.gov.br/ccivil_03/_Ato2007-201 |
-| reais relativa ao preço da moeda  | 0/2007/Decreto/D6306.htm)         |
-| estrangeira vendida ao banco      |                                   |
-| autorizado a operar no mercado de | [[Circular BCB nº 3.691, de 16 de |
-| câmbio, pelo exportador, para     | dezembro de 2013, arts. 65 a      |
-| entrega futura. O ACC é concedido | 68]{.underline}](http://www.bcb.g |
-| **antes** da prestação do serviço | ov.br/?CAMBIOREGULA)\             |
-| a residente ou domiciliado no     | [[Portaria MDIC nº 210, de 31 de  |
-| exterior.                         | agosto de                         |
-|                                   | 2012]{.underline}](http://pesquis |
-|                                   | a.in.gov.br/imprensa/jsp/visualiz |
-|                                   | a/index.jsp?data=03/09/2012&jorna |
-|                                   | l=1&pagina=143&totalArquivos=232) |
-+-----------------------------------+-----------------------------------+
-| **ACE -- Adiantamento sobre       | [[Decreto                         |
-| Cambiais Entregues - Redução a    | nº](http://www.planalto.gov.br/   |
-| Zero do IR e do IOF. **           | ccivil_03/_Ato2007-2010/2007/Decr |
-|                                   | eto/D6306.htm)                    |
-| Antecipação parcial ou total em   | 6.306, de 14 de dezembro de 2007, |
-| reais relativa ao preço da moeda  | art. 8º]{.underline}              |
-| estrangeira vendida ao banco      |                                   |
-| autorizado a operar no mercado de |  [[Circular BCB nº 3.691 de 16 de |
-| câmbio, pelo exportador, para     | dezembro de 201, arts. 65 a       |
-| entrega futura. O ACE é concedido | 68]{.underline}](http://www.bcb.g |
-| **após** a prestação de serviço a | ov.br/?CAMBIOREGULA)              |
-| residente ou domiciliado no       |                                   |
-| exterior e geralmente sucede uma  | [[Portaria MDIC nº]{.underline}   |
-| operação prévia de ACC.           | [210, de 31 de agosto de          |
-|                                   | 2012]{.underline}](http://pesquis |
-|                                   | a.in.gov.br/imprensa/jsp/visualiz |
-|                                   | a/index.jsp?data=03/09/2012&jorna |
-|                                   | l=1&pagina=143&totalArquivos=232) |
-+-----------------------------------+-----------------------------------+
-| **BNDES-Exim Pós-Embarque --      | CIRCULAR AEX nº 8/2015, de 27 de  |
-| Serviços**                        | julho de 2015                     |
-|                                   |                                   |
-| Financiamento à comercialização   | [http://www.bndes.gov.br/SiteBNDE |
-| de serviços nacionais no          | S/bndes/bndes\_pt/Institucional/A |
-| exterior, através da modalidade   | poio\_Financeiro/Produtos/BNDES\_ |
-| *supllier's credit*               | Exim/posemb.html\                 |
-| (refinanciamento ao exportador)   | ]{.underline}                     |
-| ou através da modalidade *buyer's |                                   |
-| credit* (financiamento direto ao  |                                   |
-| importador).                      |                                   |
-+-----------------------------------+-----------------------------------+
-| **BNDES-Exim Pré-Embarque -       | CIRCULAR AEX nº 11/2015, de 23 de |
-| Serviços**                        | outubro de 2015                   |
-|                                   |                                   |
-| Financiamento à produção nacional | [[http://www.bndes.gov.br/SiteBND |
-| de serviços a serem exportados.   | ES/bndes/bndes\_pt/Institucional/ |
-|                                   | Apoio\_Financeiro/Produtos/BNDES\ |
-|                                   | _Exim/preemb.html]{.underline}](h |
-|                                   | ttp://www.bndes.gov.br/SiteBNDES/ |
-|                                   | bndes/bndes_pt/Institucional/Apoi |
-|                                   | o_Financeiro/Produtos/BNDES_Exim/ |
-|                                   | preemb.html)                      |
-+-----------------------------------+-----------------------------------+
-| **FGE - Fundo de Garantia à       | [[Lei nº 6.704, de 26 de outubro  |
-| Exportação **                     | de                                |
-|                                   | 1979]{.underline}](http://www.pla |
-| Garantia prestada pela União nas  | nalto.gov.br/ccivil_03/LEIS/L6704 |
-| operações de Seguro de Crédito à  | .htm)                             |
-| Exportação (SCE), que objetiva    |                                   |
-| segurar as exportações            | [[Lei nº]{.underline} [9.818,     |
-| brasileiras contra os riscos      | de 23 de agosto de                |
-| comerciais, políticos e           | 1999]{.underline}](http://www.pla |
-| extraordinários que possam afetar | nalto.gov.br/ccivil_03/leis/L9818 |
-| as transações econômicas e        | .htm)                             |
-| financeiras vinculadas a          |                                   |
-| operações de crédito à            | Maiores informações em            |
-| exportação.                       | [[FGE]{.underline}](http://www.bn |
-|                                   | des.gov.br/SiteBNDES/bndes/bndes_ |
-|                                   | pt/Institucional/BNDES_Transparen |
-|                                   | te/Fundos/Fge/).                  |
-+-----------------------------------+-----------------------------------+
-| **PROEX - EQUALIZAÇÃO **          | [[Lei nº]{.underline} [10.184,    |
-|                                   | de 12 de fevereiro de             |
-| Cobertura de parte dos encargos   | 2001]{.underline}](http://www.pla |
-| financeiros incidentes, de forma  | nalto.gov.br/ccivil_03/Leis/LEIS_ |
-| a tornar as taxas de juros        | 2001/L10184.htm)                  |
-| equivalentes às praticadas        |                                   |
-| internacionalmente.               | [[Portaria MDIC nº]{.underline}   |
-|                                   | [208, de 20 de outubro de         |
-|                                   | 2010]{.underline}](http://www.mdi |
-|                                   | c.gov.br/arquivos/dwnl_1287751168 |
-|                                   | .pdf)                             |
-+-----------------------------------+-----------------------------------+
-| **PROEX - Financiamento **        | [[Lei nº]{.underline} [10.184,    |
-|                                   | de 12 de fevereiro de             |
-| Financiamento direto ao           | 2001]{.underline}](http://www.pla |
-| exportador brasileiro ou          | nalto.gov.br/ccivil_03/Leis/LEIS_ |
-| importador, com recursos          | 2001/L10184.htm)                  |
-| financeiros obtidos junto ao      |                                   |
-| Tesouro Nacional, para conceder   | [[Portaria MDIC                   |
-| às exportações brasileiras        | nº](http://www.desenvolvimento.   |
-| condições equivalentes às do      | gov.br/arquivos/dwnl_1307111964.p |
-| mercado internacional.            | df)                               |
-|                                   | 208, de 20 de outubro de 2010\    |
-|                                   | ]{.underline}                     |
-+-----------------------------------+-----------------------------------+
+|-----------------------------------|-----------------------------------|
+|**ACC - Adiantamento sobre Contrato de Câmbio – Redução a Zero do IR e do IOF.** Antecipação parcial ou total em reais relativa ao preço da moeda estrangeira vendida ao banco autorizado a operar no mercado de câmbio, pelo exportador, para entrega futura. O ACC é concedido antes da prestação do serviço a residente ou domiciliado no exterior.|Decreto no 6.306, de 14 de dezembro de 2007, art. 8º
+Circular BCB nº 3.691, de 16 de dezembro de 2013, arts. 65 a 68 Portaria MDIC nº 210, de 31 de agosto de 2012|
+|**ACE – Adiantamento sobre Cambiais Entregues - Redução a Zero do IR e do IOF.** Antecipação parcial ou total em reais relativa ao preço da moeda estrangeira vendida ao banco autorizado a operar no mercado de câmbio, pelo exportador, para entrega futura. O ACE é concedido após a prestação de serviço a residente ou domiciliado no exterior e geralmente sucede uma  operação prévia de ACC.|Decreto no 6.306, de 14 de dezembro de 2007, art. 8º Circular BCB nº 3.691 de 16 de dezembro de 201, arts. 65 a 68 Portaria MDIC no 210, de 31 de agosto de 2012|
+|**BNDES-Exim Pós-Embarque – Serviços** Financiamento à comercialização de serviços nacionais no exterior, através da modalidade supllier’s credit (refinanciamento ao exportador) ou através da modalidade buyer’s credit (financiamento direto ao importador).|CIRCULAR AEX nº 8/2015, de 27 de julho de 2015 http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/posemb.html|
+|**BNDES-Exim Pré-Embarque - Serviços** Financiamento à produção nacional de serviços a serem exportados.|CIRCULAR AEX nº 11/2015, de 23 de outubro de 2015
+http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/preemb.html|
+|**FGE - Fundo de Garantia** à Exportação Garantia prestada pela União nas operações de Seguro de Crédito à Exportação (SCE), que objetiva segurar as exportações brasileiras contra os riscos comerciais, políticos e extraordinários que possam afetar as transações econômicas e financeiras vinculadas a operações de crédito à exportação.|Lei nº 6.704, de 26 de outubro de 1979 Lei no 9.818, de 23 de agosto de 1999 Maiores informações em FGE.|
+|**PROEX - EQUALIZAÇÃO** Cobertura de parte dos encargos financeiros incidentes, de forma a tornar as taxas de juros equivalentes às praticadas internacionalmente.|Lei no 10.184, de 12 de fevereiro de 2001 Portaria MDIC no 208, de 20 de outubro de 2010|
 
 <a id="_2w5ecyt"></a>
 <a id="_17nz8yj"></a>
-### 10.2. Mecanismos de Apoio / Fomento (Enquadramento) no RPC do Módulo Venda:
+### 10.2. Mecanismos de Apoio / Fomento (Enquadramento) no RPC do Módulo Venda: 
 
-+-----------------------------------+-----------------------------------+
-| **MECANISMO**                     | **Medida Legal**                  |
-+===================================+===================================+
-| **BNDES-Exim Pós-Embarque --      | CIRCULAR AEX nº 8/2015, de 27 de  |
-| Serviços**                        | julho de 2015.                    |
-|                                   |                                   |
-| Financiamento à comercialização   | [http://www.bndes.gov.br/SiteBNDE |
-| de serviços nacionais no          | S/bndes/bndes\_pt/Institucional/A |
-| exterior, através da modalidade   | poio\_Financeiro/Produtos/BNDES\_ |
-| *supllier's credit*               | Exim/posemb.html]{.underline}     |
-| (refinanciamento ao exportador)   |                                   |
-| ou através da modalidade *buyer's |                                   |
-| credit* (financiamento direto ao  |                                   |
-| importador).                      |                                   |
-+-----------------------------------+-----------------------------------+
-| **FGE - Fundo de Garantia à       | [[Lei nº]{.underline} [9.818,   |
-| Exportação **                     | de 23 de agosto de                |
-|                                   | 1999]{.underline}](http://www.pla |
-| Garantia prestada pela União nas  | nalto.gov.br/ccivil_03/leis/L9818 |
-| operações de Seguro de Crédito à  | .htm)                             |
-| Exportação (SCE), que objetiva    |                                   |
-| segurar as exportações            | Maiores informações em            |
-| brasileiras contra os riscos      | [[FGE]{.underline}](http://www.bn |
-| comerciais, políticos e           | des.gov.br/SiteBNDES/bndes/bndes_ |
-| extraordinários que possam afetar | pt/Institucional/BNDES_Transparen |
-| as transações econômicas e        | te/Fundos/Fge/).                  |
-| financeiras vinculadas a          |                                   |
-| operações de crédito à            |                                   |
-| exportação.                       |                                   |
-+-----------------------------------+-----------------------------------+
-| **PROEX - EQUALIZAÇÃO **          | [[Lei nº]{.underline} [10.184,  |
-|                                   | de 12 de fevereiro de             |
-| Cobertura de parte dos encargos   | 2001]{.underline}](http://www.pla |
-| financeiros incidentes, de forma  | nalto.gov.br/ccivil_03/Leis/LEIS_ |
-| a tornar as taxas de juros        | 2001/L10184.htm)                  |
-| equivalentes às praticadas        |                                   |
-| internacionalmente.               | [[Portaria MDIC nº]{.underline} |
-|                                   | [208, de 20 de outubro de         |
-|                                   | 2010]{.underline}](http://www.mdi |
-|                                   | c.gov.br/arquivos/dwnl_1287751168 |
-|                                   | .pdf)                             |
-+-----------------------------------+-----------------------------------+
-| **PROEX - Financiamento **        | [[Lei nº]{.underline} [10.184,    |
-|                                   | de 12 de fevereiro de             |
-| Financiamento direto ao           | 2001]{.underline}](http://www.pla |
-| exportador brasileiro ou          | nalto.gov.br/ccivil_03/Leis/LEIS_ |
-| importador, com recursos          | 2001/L10184.htm)                  |
-| financeiros obtidos junto ao      |                                   |
-| Tesouro Nacional, para conceder   | [[Portaria MDIC nº]{.underline}   |
-| às exportações brasileiras        | [208, de 20 de outubro de         |
-| condições equivalentes às do      | 2010]{.underline}](http://www.des |
-| mercado internacional.            | envolvimento.gov.br/arquivos/dwnl |
-|                                   | _1307111964.pdf)                  |
-+-----------------------------------+-----------------------------------+
+
+|MECANISMO                          | **Medida Legal**                  |
+|-----------------------------------|-----------------------------------|
+|**BNDES-Exim Pós-Embarque – Serviços** Financiamento à comercialização de serviços nacionais no exterior, através da modalidade supllier’s credit (refinanciamento ao exportador) ou através da modalidade buyer’s credit (financiamento direto ao importador).|CIRCULAR AEX nº 8/2015, de 27 de julho de 2015. http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/posemb.html|
+|**FGE - Fundo de Garantia à Exportação** Garantia prestada pela União nas operações de Seguro de Crédito à Exportação (SCE), que objetiva segurar as exportações brasileiras contra os riscos comerciais, políticos e extraordinários que possam afetar as transações econômicas e financeiras vinculadas a operações de crédito à exportação.|Lei no 9.818, de 23 de agosto de 1999 Maiores informações em FGE.|
+|**PROEX - EQUALIZAÇÃO** Cobertura de parte dos encargos financeiros incidentes, de forma a tornar as taxas de juros equivalentes às praticadas internacionalmente.|Lei no 10.184, de 12 de fevereiro de 2001 Portaria MDIC no 208, de 20 de outubro de 2010 |
+|**PROEX - Financiamento** Financiamento direto ao exportador brasileiro ou importador, com recursos financeiros obtidos junto ao Tesouro Nacional, para conceder às exportações brasileiras condições equivalentes às do mercado internacional |Lei no 10.184, de 12 de fevereiro de 2001 Portaria MDIC no 208, de 20 de outubro de 2010|
 
 <a id="_39kk8xu"></a>
 
@@ -906,15 +755,13 @@ Os Manuais são publicados pela Comissão do Siscoserv para contribuir com a ori
 
 Para dúvidas adicionais, estão disponíveis os seguintes canais de atendimento:
 
--   **[Dúvidas gerais sobre registros:]{.underline}**
+-   **Dúvidas gerais sobre registros:**
 
 O canal para dirimir dúvidas gerais referentes ao Siscoserv, e que não estejam contempladas neste Manual, é o COMEX Responde:
 [http://www.comexresponde.gov.br/](http://www.comexresponde.gov.br/).
 Ao acessar o site, o usuário deve buscar no menu de Assuntos Gerais o tema "Sistemas e Ferramentas de Apoio". Em seguida, no menu de Assuntos Específicos, o usuário deve escolher \"Siscoserv\". Após digitar sua mensagem no campo de Mensagem, basta inserir o Código de Verificação e clicar em Enviar.
 
--   **[Dúvidas sobre o Acesso e Aspectos Técnicos do
-    Siscoserv]{.underline}:\
-    **
+-   **Dúvidas sobre o Acesso e Aspectos Técnicos do Siscoserv:**
 
 Em caso de erros ou falhas apresentados pelo Sistema, estão disponíveis os canais do SERPRO para diagnóstico e correção:
 
@@ -1018,9 +865,7 @@ IV - a exploração dos recursos naturais e o licenciamento dos direitos sobre c
 
 V - o licenciamento dos direitos relativos ao acesso a recursos genéticos.
 
-Informações adicionais podem ser obtidas nas Notas Explicativas dos Capítulos 11 e 27 da Nomenclatura Brasileira de Serviços, Intangíveis e outras Operações que Produzam Variações no Patrimônio --
-[NBS](http://www.mdic.gov.br/arquivos/dwnl_1387454702.pdf)[]{#1gf8i83
-.anchor}.
+Informações adicionais podem ser obtidas nas Notas Explicativas dos Capítulos 11 e 27 da Nomenclatura Brasileira de Serviços, Intangíveis e outras Operações que Produzam Variações no Patrimônio -- [NBS](http://www.mdic.gov.br/arquivos/dwnl_1387454702.pdf)[]
 
 **Movimentação Temporária de Bens:** A movimentação temporária de bens ocorre tanto na importa[]{#40ew0vw .anchor}ção (Admissão Temporária)
 quanto na exportação (Exportação Temporária).
@@ -1109,7 +954,7 @@ e [[Instrução Normativa no 726]{.underline}, de 28 de fevereiro de
 **Operacionalização do Sistema**
 
 <a id="_3rnmrmc"></a>
-## 1. Acesso ao Siscoserv
+# 1. Acesso ao Siscoserv
 
 O acesso ao Siscoserv está disponível no Centro Virtual de Atendimento ao Contribuinte (e-CAC) da RFB na internet no endereço:
 <http://www.receita.fazenda.gov.br>, e no sítio da Secretaria de Comércio e Serviços (SCS) na internet, no endereço:
@@ -1117,7 +962,7 @@ O acesso ao Siscoserv está disponível no Centro Virtual de Atendimento ao Cont
 exceto no horário de manutenção diária do Sistema (1h às 3h).
 
 <a id="_26sx1u5"></a>
-### 1.1. Como acessar o Siscoserv
+# 1.1. Como acessar o Siscoserv
 
 O acesso ao Siscoserv é sempre feito por [certificado digital](#_zu0gcz) **e-CPF**. Quando a informação for prestada por pessoa jurídica ou representante legal de terceiros, além do e-CPF do representante legal, também se exige [procuração eletrônica](#_1yyy98l). Essa procuração deve ser emitida por estabelecimento.
 
@@ -1128,18 +973,17 @@ O acesso ao Siscoserv é sempre feito por [certificado digital](#_zu0gcz) **e-CP
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image120.png)
 
 <a id="_ly7c1y"></a>
-### 1.2. O que é e como obter o Certificado Digital (e-CPF)
+# 1.2. O que é e como obter o Certificado Digital (e-CPF)
 
 O Certificado Digital permite a identificação de uma pessoa no ambiente digital/eletrônico em transação na internet que necessite de validade legal e identificação inequívoca.
 
 A lista de autoridades certificadoras, habilitadas pela Secretaria da Receita Federal do Brasil (RFB) para emissão de Certificados Digitais e-CPF, está disponível em:
 
-[]{#_1yyy98l
-.anchor}[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
+[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
 
 
 <a id="_35xuupr"></a>
-### 1.3. O que é e como obter a Procuração Eletrônica
+# 1.3. O que é e como obter a Procuração Eletrônica
 
 A Procuração Eletrônica, emitida exclusivamente pela RFB, é o instrumento que permite que uma pessoa física represente outra pessoa
 (física ou jurídica) no Siscoserv. As orientações para obtenção da procuração estão disponíveis em:
@@ -1147,7 +991,7 @@ A Procuração Eletrônica, emitida exclusivamente pela RFB, é o instrumento qu
 [http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/procuracoes/orientacoes-gerais-procuracoes-rfb](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/procuracoes/orientacoes-gerais-procuracoes-rfb)
 
 <a id="_aads9"></a>
-### 1.4. Problemas de acesso
+# 1.4. Problemas de acesso
 
 Em caso de dificuldades para acessar o sistema, recomenda-se a limpeza de cache do navegador ou mesmo o uso de outro navegador. É possível ainda que o problema esteja relacionado com a procuração eletrônica.
 Como informado, a procuração eletrônica é emitida pela RFB, a qual possui o seguinte link para verificação:
@@ -1163,9 +1007,7 @@ o órgão responsável pelos aspectos técnico-operacionais do sistema. Os canai
 
 \- Email: css.serpro\@serpro.gov.
 
-[]{#_4iylrwe .anchor}
-
-### 1.5. Informações Cadastrais
+# 1.5. Informações Cadastrais
 
 A funcionalidade **Informações Cadastrais** permite por um lado a correta identificação do responsável pelo registro do RAS, por exemplo,
 para questões relacionadas à depuração estatística, e por outro a disponibilização de informações sobre a empresa e seu "Diretor de Relações Governamentais ou Equivalente". Assim será facilitado o contato do Ministério da Indústria, Comércio Exterior e Serviços (MDIC) com a empresa com vistas à realização de consultas sobre temas comerciais,
@@ -1198,9 +1040,7 @@ c)  Usuário/Responsável pelo Registro é o Próprio Vendedor.
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Informações cadastrais;
 
-[Obs: No primeiro acesso do usuário ao Sistema, o usuário será
-direcionado diretamente para a ficha de Informações Cadastrais. Não será
-possível efetuar novo registro antes de preencher os dados solicitados.]{.underline}
+**Obs: No primeiro acesso do usuário ao Sistema, o usuário será direcionado diretamente para a ficha de Informações Cadastrais. Não será possível efetuar novo registro antes de preencher os dados solicitados.**
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image138.jpg)
 
