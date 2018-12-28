@@ -309,8 +309,7 @@ Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previ
 **4.3.1. Operação com data de conclusão indeterminada:**
 
 
-A operação cuja data de conclusão não seja conhecida por ocasião do seu registro em razão de não ter sido pactuada entre as partes pode ser objeto de registros periódicos, conforme itens 2.1 (Inclusão do RVS) ou
-2.1.1 (Inclusão de Aditivo ao RVS) do capítulo 2 deste Manual. Nesse caso, a data de início e a data de conclusão devem ser indicadas dentro do mesmo ano-calendário. Posteriormente, a data de conclusão poderá ser ajustada, mediante retificação, conforme descrito nos itens 2.1.2
+A operação cuja data de conclusão não seja conhecida por ocasião do seu registro em razão de não ter sido pactuada entre as partes pode ser objeto de registros periódicos, conforme itens 2.1 (Inclusão do RVS) ou 2.1.1 (Inclusão de Aditivo ao RVS) do capítulo 2 deste Manual. Nesse caso, a data de início e a data de conclusão devem ser indicadas dentro do mesmo ano-calendário. Posteriormente, a data de conclusão poderá ser ajustada, mediante retificação, conforme descrito nos itens 2.1.2
 (Retificação do RVS) ou 2.1.3 (Retificação do Aditivo ao RVS) do capítulo 2 deste Manual.
 
 <a id="4.3.2"></a>
@@ -356,29 +355,22 @@ Nesse caso, a data de início será o primeiro dia do mês e a data de conclusã
 A inclusão do RVS será feita observadas as seguintes instruções específicas para preenchimento:
 
 I - Nome do Adquirente, Endereço do Adquirente, e NIF - inserir a expressão: "DIVERSOS";
-
 II - País do Adquirente: indicar o país de residência dos passageiros;
-
 III - País de Destino: indicar o mesmo país inserido no campo **País do Adquirente**.
-
 IV - Valor da Operação: informar o somatório dos valores relacionados às operações cuja realização ocorreu no mês de referência;
-
 V - Data de Início e Data de Conclusão: informar o primeiro e o último dia do mês de referência.
 
 A inclusão do RF será feita observadas adicionalmente as seguintes instruções específicas para preenchimento:
 
 I - Data da Fatura: informar o último dia do mês;
-
 II - Valor da Fatura: informar o somatório do valor faturado no mês;
-
 III - Número da NF de Serviço ou documento equivalente: inserir a expressão: "DIVERSOS".
 
 <a id="4.4"></a>
 
 ### 4.4. Registro de Presença Comercial no Exterior (RPC)
 
-Devem ser registradas no Siscoserv as operações realizadas por meio de presença comercial no exterior, modo 3, relacionada a pessoa jurídica domiciliada no Brasil, conforme alínea "d" do Artigo XXVIII do GATS
-(Acordo Geral sobre o Comércio de Serviços), aprovado pelo Decreto Legislativo nº 30, de 15 de dezembro de 1994, e promulgado pelo Decreto nº 1.355, de 30 de dezembro de
+Devem ser registradas no Siscoserv as operações realizadas por meio de presença comercial no exterior, modo 3, relacionada a pessoa jurídica domiciliada no Brasil, conforme alínea "d" do Artigo XXVIII do GATS(Acordo Geral sobre o Comércio de Serviços), aprovado pelo Decreto Legislativo nº 30, de 15 de dezembro de 1994, e promulgado pelo Decreto nº 1.355, de 30 de dezembro de
 1994.
 
 A responsabilidade de efetuar o Registro de Presença Comercial no Exterior (RPC) no Módulo Venda do Siscoserv é da pessoa jurídica domiciliada no Brasil que mantenha filial, sucursal ou
@@ -388,13 +380,12 @@ A responsabilidade de efetuar o Registro de Presença Comercial no Exterior (RPC
 No RPC deve ser registrada a receita anual total de venda de serviço, de transferência de intangível e de realização de outra operação que produza variação no patrimônio, obtida por meio do estabelecimento de presença comercial no exterior de filial, sucursal ou
 [controlada](#2nusc19) relacionada à pessoa jurídica domiciliada no Brasil.
 
-Deve(m) ser informada(s) no RPC a(s) posição(ões) da NBS mais representativas da receita anual total com venda de serviço,
-transferência de intangível e realização de outra operação que produza variação no patrimônio.
+Deve(m) ser informada(s) no RPC a(s) posição(ões) da NBS mais representativas da receita anual total com venda de serviço, transferência de intangível e realização de outra operação que produza variação no patrimônio.
 
 Caso a pessoa jurídica domiciliada no Brasil mantenha, no exterior, mais de uma filial, sucursal ou [controlada](#2nusc19) no mesmo país, a receita anual total com venda de serviços, transferência de intangível e realização de outra operação que produza variação no patrimônio, será discriminada mediante um RPC para cada filial, sucursal e controlada.
 
 <a id="4.4.1"></a>
-s
+
 **4.4.1. Prazo para o RPC**
 
 A prestação das informações no RPC deve ser realizada anualmente, a partir de 2014, em relação ao ano-calendário anterior, até o último dia     útil do mês de junho do ano subsequente à realização de operações por meio de presença comercial no exterior relacionada à pessoa jurídica domiciliada no Brasil.
@@ -471,8 +462,7 @@ mediante movimentação temporária de profissionais e contra esta fatura a pres
 
 ## 6. Quem está dispensado de efetuar registro no Siscoserv -- Módulo Venda
 
-Estão dispensadas do registro no Siscoserv, **nas operações que não tenham utilizado mecanismos de apoio** ao comércio exterior de serviços,
-de intangíveis e demais operações de que trata o art. 26 da Lei nº 12.546, de 14 de dezembro de 2011:
+Estão dispensadas do registro no Siscoserv, **nas operações que não tenham utilizado mecanismos de apoio** ao comércio exterior de serviços, de intangíveis e demais operações de que trata o art. 26 da Lei nº 12.546, de 14 de dezembro de 2011:
 
 I - Empresas cadastradas no SIMPLES NACIONAL e MEI - as pessoas jurídicas optantes pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte -- Simples Nacional e os Microempreendedores Individuais
 (MEI) de que trata o §1º do artigo 18-A da Lei Complementar nº 123, de 14 de dezembro de 2006; e
