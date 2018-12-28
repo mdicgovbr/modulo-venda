@@ -2780,22 +2780,17 @@ As seguintes informações são disponibilizadas na planilha Excel dos **Relató
 
 -   Nº do RVS
 
--   ID/RVS (Essa informação se refere ao identificador do registro no
-    > banco do Siscoserv. O usuário poderá vincular uma operação ou
-    > fatura ao registro.)
+-   ID/RVS (Essa informação se refere ao identificador do registro no banco do Siscoserv. O usuário poderá vincular uma operação ou fatura ao registro.)
 
 -   CPF do Usuário
 
 -   Data da Inclusão do Registro
 
--   CPF do Vendedor (que neste caso vem preenchido com N/A -- não se
-    > aplica)
+-   CPF do Vendedor (que neste caso vem preenchido com N/A -- não se aplica)
 
 -   CNPJ do Vendedor
 
--   Info-Portaria (Essa informação se refere à opção de atendimento a
-    > legislação. Os valores possíveis são: 1 -- Ministério da
-    > Indústria, Comércio e Serviços; 2 -- RFB; 3 -- Ambos)
+-   Info-Portaria (Essa informação se refere à opção de atendimento a legislação. Os valores possíveis são: 1 -- Ministério da Indústria, Comércio e Serviços; 2 -- RFB; 3 -- Ambos)
 
 -   Nome do Adquirente
 
@@ -2807,9 +2802,7 @@ As seguintes informações são disponibilizadas na planilha Excel dos **Relató
 
 -   Motivo do não preenchimento do NIF
 
--   ID-operação (Essa informação se refere ao identificador da operação
-    > no banco do Siscoserv. O usuário poderá vincular uma operação a um
-    > item de fatura.)
+-   ID-operação (Essa informação se refere ao identificador da operação no banco do Siscoserv. O usuário poderá vincular uma operação a um item de fatura.)
 
 -   País de Destino
 
@@ -2821,26 +2814,19 @@ As seguintes informações são disponibilizadas na planilha Excel dos **Relató
 
 -   Modo de Prestação
 
--   Código da NBS (serviço, intangível ou outra operação que produz
-    > variação no patrimônio vendido pela empresa)
+-   Código da NBS (serviço, intangível ou outra operação que produz variação no patrimônio vendido pela empresa)
 
 -   Descrição da NBS
 
--   Valor da operação (valor da operação na moeda do contrato, conforme
-    > registrado pelo usuário).
+-   Valor da operação (valor da operação na moeda do contrato, conforme registrado pelo usuário).
 
 -   Valor da operação em dólar (valor calculado pelo Sistema)
 
--   Descrição do Mecanismo de apoio/fomento (Inclui informação caso o
-    > usuário tenha indicado mecanismo de apoio ao comércio exterior.
-    > Caso o campo não tenha sido preenchido, o sistema informará a
-    > sigla N/A -- Não se aplica.)
+-   Descrição do Mecanismo de apoio/fomento (Inclui informação caso o usuário tenha indicado mecanismo de apoio ao comércio exterior. Caso o campo não tenha sido preenchido, o sistema informará a sigla N/A -- Não se aplica.)
 
 -   NR\_RC\_Mecanismo de apoio/fomento
 
--   Informações Complementares (Caso o campo não tenha sido preenchido,
-    > o sistema informará a sigla N/A -- Não se aplica. Caso tenha sido
-    > preenchido, indicará os comentários incluídos).
+-   Informações Complementares (Caso o campo não tenha sido preenchido, o sistema informará a sigla N/A -- Não se aplica. Caso tenha sido preenchido, indicará os comentários incluídos).
 
 *\* As informações acima servem para criar os vínculos entre registro,
 operação e fatura. Esses dados não têm nenhuma utilidade para operações transmitidas por lote.*
