@@ -724,10 +724,9 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 ### 10.1. Mecanismos de Apoio / Fomento (Enquadramento) no RVS do Módulo Venda:
 
 
-| **Mecanismos de Apoio/Fomento**   | **Medida Legal**                  |
-|-----------------------------------|-----------------------------------|
-|**ACC - Adiantamento sobre Contrato de Câmbio – Redução a Zero do IR e do IOF.** Antecipação parcial ou total em reais relativa ao preço da moeda estrangeira vendida ao banco autorizado a operar no mercado de câmbio, pelo exportador, para entrega futura. O ACC é concedido antes da prestação do serviço a residente ou domiciliado no exterior.|Decreto no 6.306, de 14 de dezembro de 2007, art. 8º
-Circular BCB nº 3.691, de 16 de dezembro de 2013, arts. 65 a 68 Portaria MDIC nº 210, de 31 de agosto de 2012|
+| **Mecanismos de Apoio/Fomento**           | **Medida Legal**           |
+|-------------------------------------------|----------------------------|
+|**ACC - Adiantamento sobre Contrato de Câmbio – Redução a Zero do IR e do IOF.** Antecipação parcial ou total em reais relativa ao preço da moeda estrangeira vendida ao banco autorizado a operar no mercado de câmbio, pelo exportador, para entrega futura. O ACC é concedido antes da prestação do serviço a residente ou domiciliado no exterior.|Decreto no 6.306, de 14 de dezembro de 2007, art. 8º Circular BCB nº 3.691, de 16 de dezembro de 2013, arts. 65 a 68 Portaria MDIC nº 210, de 31 de agosto de 2012|
 |**ACE – Adiantamento sobre Cambiais Entregues - Redução a Zero do IR e do IOF.** Antecipação parcial ou total em reais relativa ao preço da moeda estrangeira vendida ao banco autorizado a operar no mercado de câmbio, pelo exportador, para entrega futura. O ACE é concedido após a prestação de serviço a residente ou domiciliado no exterior e geralmente sucede uma  operação prévia de ACC.|Decreto no 6.306, de 14 de dezembro de 2007, art. 8º Circular BCB nº 3.691 de 16 de dezembro de 201, arts. 65 a 68 Portaria MDIC no 210, de 31 de agosto de 2012|
 |**BNDES-Exim Pós-Embarque – Serviços** Financiamento à comercialização de serviços nacionais no exterior, através da modalidade supllier’s credit (refinanciamento ao exportador) ou através da modalidade buyer’s credit (financiamento direto ao importador).|CIRCULAR AEX nº 8/2015, de 27 de julho de 2015 http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/posemb.html|
 |**BNDES-Exim Pré-Embarque - Serviços** Financiamento à produção nacional de serviços a serem exportados.|CIRCULAR AEX nº 11/2015, de 23 de outubro de 2015
