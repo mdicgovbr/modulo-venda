@@ -534,8 +534,7 @@ Exemplos:
 
 Devem registrar [operações](#operacao) em Modo 4 no Módulo Venda do Siscoserv:
 
-> a)  as pessoas físicas [residentes no Brasil](#1tuee74),
-sem vínculo empregatício com pessoa física ou jurídica residente ou domiciliada no Brasil, quando se desloquem temporariamente a um país estrangeiro com vistas a prestar um serviço a um residente ou domiciliado no exterior (por exemplo, os profissionais independentes);
+> a)  as pessoas físicas [residentes no Brasil](#1tuee74),sem vínculo empregatício com pessoa física ou jurídica residente ou domiciliada no Brasil, quando se desloquem temporariamente a um país estrangeiro com vistas a prestar um serviço a um residente ou domiciliado no exterior (por exemplo, os profissionais independentes);
 
 > b)  as pessoas jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física [residente no Brasil](#1tuee74), com vínculo empregatício ou por meio de terceirização, para a prestação de serviço a residentes ou domiciliados no exterior (por exemplo, prestadores de serviços por contrato ou visitantes de negócios).
 
@@ -603,12 +602,8 @@ f\) o nono dígito é o subitem.
 
 A sistemática de classificação dos códigos da NBS obedece à seguinte estrutura:
 
-> ![ Descrição:
 > graphic](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image162.png)
 
-Exemplo:
-
-O código 1.1403.21.10, onde se classificam os "serviços de engenharia de projetos de construção residencial" deve ser entendido, da esquerda para a direita, da forma que se segue:
 
 a\) o algarismo 1, da esquerda para a direita, sinaliza que se trata de código que se aloja na NBS;
 
@@ -628,17 +623,18 @@ então o algarismo deveria ser diferente de zero).
 
 Dessa maneira, fica claro que nem sempre o código NBS se apresenta totalmente desdobrado, isto é, um algarismo diferente de zero para subitem como, por exemplo:
 
-  1.0119.10.00   Serviços de construção de estruturas de prédios
-  -------------- ---------------------------------------------------------------
-  1.0606.10.00   Serviços de operação de aeroportos, exceto manuseio de cargas
-  1.0905.91.00   Serviços de consultoria financeira
-  1.2206.19.10   Serviços de palestras e conferências
+ |Código NBS  |   Descrição                                                   |
+ |------------|---------------------------------------------------------------|
+ |1.0119.10.00|   Serviços de construção de estruturas de prédios             |
+ |1.0606.10.00|  Serviços de operação de aeroportos, exceto manuseio de cargas|
+ |1.0905.91.00|  Serviços de consultoria financeira|
+ |1.2206.19.10|  Serviços de palestras e conferências|
 
 O usuário pode informar diretamente o código, ou localizá-lo acionando a ferramenta de busca: ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image21.png), situada ao lado do campo **Código NBS**.
 
 Na informação do código NBS, a posição mais específica prevalece sobre a mais genérica, sendo que o código só pode ser informado em seu maior nível de detalhamento (nove dígitos).
 
-> *[Exemplo 1:]*
+> *Exemplo 1:*
 >
 > Código NBS
 >
@@ -656,7 +652,7 @@ Na informação do código NBS, a posição mais específica prevalece sobre a m
 >
 > **Código a ser informado**: 1.0105.11.00
 >
-> *[Exemplo 2:]*
+> *Exemplo 2:*
 >
 > **Capítulo 1:** 1.07
 >
