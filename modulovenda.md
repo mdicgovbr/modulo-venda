@@ -2537,41 +2537,24 @@ Um arquivo de lote pode receber seis *status* diferentes:
 
 ![tela consulta lote EP](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image164.png)
 
-2)  **PS** -- **Processado com Sucesso**: o lote foi recebido e
-    > processado. Todas as operações representadas pelos arquivos de
-    > dados são efetivadas. Os arquivos de dados que estavam com
-    > *status* EP passam para o *status* PS. O Sistema apresenta o
-    > número do RVS incluído, retificado, aditado, etc.
+>2)  **PS** -- **Processado com Sucesso**: o lote foi recebido e processado. Todas as operações representadas pelos arquivos de dados são efetivadas. Os arquivos de dados que estavam com *status* EP passam para o *status* PS. O Sistema apresenta o número do RVS incluído, retificado, aditado, etc.
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image152.png)
 
-3)  **PR** -- **Processado com Ressalva**: o lote foi recebido e
-    > processado, mas há pelo menos um arquivo do lote que apresentou um
-    > ou mais erros em relação às regras do Siscoserv. O registro do
-    > arquivo que apresentar erro não será efetivado, podendo apresentar
-    > *status* NR ou FA, devido a erro de formato ou de regra de
-    > negócio, respectivamente.
+>3)  **PR** -- **Processado com Ressalva**: o lote foi recebido e processado, mas há pelo menos um arquivo do lote que apresentou um ou mais erros em relação às regras do Siscoserv. O registro do arquivo que apresentar erro não será efetivado, podendo apresentar
+ *status* NR ou FA, devido a erro de formato ou de regra de negócio, respectivamente.
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image139.png)
 
-4)  **FA** -- **Falha**: o lote foi recebido e processado, porém todos
-    > os arquivos de dados que o compõem apresentaram pelo menos um erro
-    > em relação às regras de negócio do Siscoserv. As operações
-    > representadas pelos arquivos de dados não são efetivadas e todos
-    > os arquivos de dados deste lote que estavam com *status* EP passam
-    > para o *status* FA.
+>4)  **FA** -- **Falha**: o lote foi recebido e processado, porém todos os arquivos de dados que o compõem apresentaram pelo menos um erro em relação às regras de negócio do Siscoserv. As operações representadas pelos arquivos de dados não são efetivadas e todos os arquivos de dados deste lote que estavam com *status* EP passam para o *status* FA.
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image167.png)
 
-5)  **NR** -- **Não Recebido**: todos os arquivos de dados enviados no
-    > lote apresentaram erros de formato e *status* NR.
+>5)  **NR** -- **Não Recebido**: todos os arquivos de dados enviados no lote apresentaram erros de formato e *status* NR.
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image144.png)
 
-6)  **EX** -- **Excluído**: o lote foi recebido pelo Sistema e pelo
-    > menos um dos arquivos de dados apresentou *status* EP, porém o
-    > usuário optou por cancelar o seu processamento. Todos os arquivos
-    > de dados que estavam com *status* EP passarão para o *status* EX.
+>6)  **EX** -- **Excluído**: o lote foi recebido pelo Sistema e pelo menos um dos arquivos de dados apresentou *status* EP, porém o usuário optou por cancelar o seu processamento. Todos os arquivos de dados que estavam com *status* EP passarão para o *status* EX.
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image134.png)
 
