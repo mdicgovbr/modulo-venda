@@ -2533,12 +2533,7 @@ Um arquivo de lote pode receber seis *status* diferentes:
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image18.png)
 
-1)  **EP** -- **Em Processamento**: o lote foi recebido pelo Sistema e
-    > pelo menos um dos arquivos de dados que o compõem passou pela
-    > validação de formato (veja Processamento dos Arquivos de
-    > Lote](#1ulbmlt)). Os arquivos de dados serão
-    > processados pelo Siscoserv que verificará se as informações estão
-    > de acordo com suas regras de negócio.
+>1)  **EP** -- **Em Processamento**: o lote foi recebido pelo Sistema e pelo menos um dos arquivos de dados que o compõem passou pela validação de formato (veja [Processamento dos Arquivos de Lote](#1ulbmlt)). Os arquivos de dados serão processados pelo Siscoserv que verificará se as informações estão de acordo com suas regras de negócio.
 
 ![tela consulta lote EP](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image164.png)
 
