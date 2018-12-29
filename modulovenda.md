@@ -231,7 +231,7 @@ por [residente](#residente) ou domiciliado no País, de serviços, [intangíveis
 
 \- Registro de Faturamento (RF): contém dados referentes ao faturamento decorrente de venda objeto de prévio RVS; e
 
-\- Registro de Presença Comercial (RPC): contém dados referentes às operações realizadas por meio de [[Presença Comercial no Exterior](#28reqzj) relacionada à pessoa jurídica domiciliada no Brasil.]{.underline}
+\- Registro de Presença Comercial (RPC): contém dados referentes às operações realizadas por meio de [Presença Comercial no Exterior](#28reqzj) relacionada à pessoa jurídica domiciliada no Brasil.
 
 <a id="_3mj2wkv"></a>
 ### 4.1. Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS)
@@ -263,7 +263,7 @@ O prazo para incluir o RVS é até o último dia útil do 3º
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image155.png)
 
 Até 31 de dezembro de 2013, o prazo para o RVS foi, excepcionalmente,
-até o último dia útil do 6^[º]{.underline}^ (sexto) mês subsequente à
+até o último dia útil do 6º (sexto) mês subsequente à
 data de início da prestação de serviço, da comercialização de intangível ou da realização de operação que produza variação no patrimônio.
 
 **4.2. Registro de Faturamento (RF)**
@@ -295,9 +295,9 @@ Para o registro de faturamento, há dois prazos possíveis, dependendo da data d
     > Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#_nwp17c).
 
 2)  quando a nota fiscal ou documento equivalente forem emitidos
-    > **antes** [[da](#data_inicio_prestacao) inclusão do RVS]{.underline}, o usuário
+    > **antes** [da](#data_inicio_prestacao) inclusão do RVS, o usuário
     > deve efetuar o RF até [o último dia útil do mês subsequente ao de
-    > inclusão desse RVS.]{.underline}
+    > inclusão desse RVS.
 
 Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#4.1.1).
 
@@ -430,7 +430,7 @@ Também devem ser registradas as [operações](#operacao) de venda de serviços�
 [operações](#operacao), deve ser registrada como data de início aquela indicada no retrocitado Anexo Único, por capítulo da NBS.
 Caso haja saldo a faturar, deve ser indicado como valor da operação o saldo remanescente a faturar. Nos casos em que o faturamento tenha ocorrido integralmente antes da data indicada no anexo, deve ser registrado o valor proporcional da operação correspondente ao período remanescente da prestação do serviço⁶, justificando o valor registrado no campo **Informações Complementares.**
 
-Caso tenha ocorrido o faturamento integral antes das datas constantes do Anexo Único da Portaria Conjunta RFB/SCS n^[o]{.underline}^ 1.908, de 19
+Caso tenha ocorrido o faturamento integral antes das datas constantes do Anexo Único da Portaria Conjunta RFB/SCS nº 1.908, de 19
 de julho de 2012, e não tenha sido iniciada a prestação do serviço[^7],
 o registro de faturamento obedecerá ao [item 2.2 do Capítulo 2 deste Manual](#2.2).
 
@@ -448,15 +448,13 @@ do residente ou domiciliado no País que mantenha relação contratual com resid
 Exemplos:
 
 \(1) Empresa (A), domiciliada no Brasil, mantém relação contratual, em que é prestadora de serviço, com empresa (B), domiciliada no exterior, e contra esta fatura a prestação de serviço. A empresa (A) subcontrata empresa (C), domiciliada no Brasil, para prestação parcial ou integral de serviço pertinente à relação contratual de (A) com (B). A empresa (A)
-deve proceder aos registros RVS e RF no Módulo Venda do Siscoserv, no modo de prestação em que o serviço for prestado a (B) ([[Modo 1 --
-Comércio Transfronteiriço]{.underline}](#37m2jsg), [Modo 2 -- Consumo no Brasil](#1mrcu09) ou [Modo 4 -- Movimento Temporário de Pessoas Físicas](#111kx3o)). A empresa (C) não deve proceder aos registros no Módulo Venda do Siscoserv em relação a sua relação contratual com (A), pois ambas são domiciliadas no Brasil. Além disso, como não há relação contratual entre (B) e (C), não há registros no Siscoserv adicionais a serem feitos.
+deve proceder aos registros RVS e RF no Módulo Venda do Siscoserv, no modo de prestação em que o serviço for prestado a (B) ([Modo 1 -- Comércio Transfronteiriço](#37m2jsg), [Modo 2 -- Consumo no Brasil](#1mrcu09) ou [Modo 4 -- Movimento Temporário de Pessoas Físicas](#111kx3o)). A empresa (C) não deve proceder aos registros no Módulo Venda do Siscoserv em relação a sua relação contratual com (A), pois ambas são domiciliadas no Brasil. Além disso, como não há relação contratual entre (B) e (C), não há registros no Siscoserv adicionais a serem feitos.
 
 \(2) Empresa (A), domiciliada no Brasil, mantém relação contratual, em que é prestadora de serviço, com empresa também domiciliada no Brasil
 (B), e contra esta fatura a prestação de serviço. A empresa (A)
 subcontrata empresa (C), domiciliada no exterior, para prestação parcial ou integral de serviço pertinente à relação contratual de (A) com (B).
 Empresa (A) deve proceder aos registros RAS e RP no Módulo Aquisição do Siscoserv, no modo de prestação em que o serviço for prestado por (C)
-([Modo 1 -- Comércio Transfronteiriço](#37m2jsg), [[Modo 2
--- Consumo no Exterior]{.underline}](#1mrcu09) ou [Modo 4 -- Movimento Temporário de Pessoas Físicas](#111kx3o)). A empresa (A)
+([Modo 1 -- Comércio Transfronteiriço](#37m2jsg), [Modo 2 -- Consumo no Exterior](#1mrcu09) ou [Modo 4 -- Movimento Temporário de Pessoas Físicas](#111kx3o)). A empresa (A)
 não deve proceder aos registros no Módulo Venda do Siscoserv quanto à
 sua relação contratual com (B), pois ambas são domiciliadas no Brasil.
 Além disso, como não há relação contratual entre (B) e (C), não há
@@ -481,12 +479,11 @@ II - Pessoas Físicas - as pessoas físicas residentes no País que, em nome ind
 <a id="_u8tczi"></a>
 ## 7. Cronograma de registro das informações
 
-O Registro de Venda de Serviços, [[Intangíveis](#intangivel)]{.underline} e
+O Registro de Venda de Serviços, [Intangíveis](#intangivel) e
 [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio) (RVS) e o Registro de Faturamento
 (RF) obedeceram, no momento da implantação do Siscoserv, ao cronograma,
 que tem por base a Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio -- NBS, conforme previsto no § 5º do art. 6º da
-[[Portaria Conjunta RFB/SCS nº]{.underline} [1.908, de 19 de julho de
-2012]{.underline}](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012).
+[Portaria Conjunta RFB/SCS nº 1.908, de 19 de julho de2012](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012).
 
 <a id="8"></a>
 ## 8. Modos de Prestação de Serviços -- Módulo Venda
@@ -546,14 +543,14 @@ Devem registrar [operações](#operacao) em Modo 4 no Módulo Venda do Siscoserv
 > a)  as pessoas físicas [residentes no Brasil](#1tuee74),
 sem vínculo empregatício com pessoa física ou jurídica residente ou domiciliada no Brasil, quando se desloquem temporariamente a um país estrangeiro com vistas a prestar um serviço a um residente ou domiciliado no exterior (por exemplo, os profissionais independentes);
 
-> b)  as pessoas jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física [[residente no Brasil]{.underline}](#1tuee74), com vínculo empregatício ou por meio de terceirização, para a prestação de serviço a residentes ou domiciliados no exterior (por exemplo, prestadores de serviços por contrato ou visitantes de negócios).
+> b)  as pessoas jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física [residente no Brasil](#1tuee74), com vínculo empregatício ou por meio de terceirização, para a prestação de serviço a residentes ou domiciliados no exterior (por exemplo, prestadores de serviços por contrato ou visitantes de negócios).
 
 Não deverão registrar operações em Modo 4 no Siscoserv as Pessoas Jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física para exercer vínculo empregatício com Pessoa Jurídica no exterior a ela relacionada (por exemplo, transferido intracorporação).
 
 <a id="9"></a>
 ## 9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS)]
 
-O registro de [operações](about:blank) no Siscoserv será realizado de acordo com a [Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio(NBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13) e pelas respectivas [Notas Explicativas(NEBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13), aprovadas pelo [[Decreto nº]{.underline} [7.708, de 2 de abril de 2012](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm), e suas alterações posteriores.
+O registro de [operações](about:blank) no Siscoserv será realizado de acordo com a [Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio(NBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13) e pelas respectivas [Notas Explicativas(NEBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13), aprovadas pelo [Decreto nº 7.708, de 2 de abril de 2012](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm), e suas alterações posteriores.
 
 A prestação de serviços¹⁰ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jspdata=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
 
@@ -647,7 +644,7 @@ O usuário pode informar diretamente o código, ou localizá-lo acionando a ferr
 
 Na informação do código NBS, a posição mais específica prevalece sobre a mais genérica, sendo que o código só pode ser informado em seu maior nível de detalhamento (nove dígitos).
 
-> *[Exemplo 1:]{.underline}*
+> *[Exemplo 1:]*
 >
 > Código NBS
 >
@@ -665,7 +662,7 @@ Na informação do código NBS, a posição mais específica prevalece sobre a m
 >
 > **Código a ser informado**: 1.0105.11.00
 >
-> *[Exemplo 2:]{.underline}*
+> *[Exemplo 2:]*
 >
 > **Capítulo 1:** 1.07
 >
@@ -775,21 +772,21 @@ Em caso de erros ou falhas apresentados pelo Sistema, estão disponíveis os can
 > - *Fone: 0800-978-2331.*
 
 -   **[Dúvidas sobre classificação de serviços, intangíveis e outras
-    operações que produzam variações no patrimônio:]{.underline}**
+    operações que produzam variações no patrimônio:]**
 
 Deve ser realizada consulta às Regras de Interpretação da Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio -- NBS, bem como às suas Notas Explicativas
 (NEBS), disponíveis nos seguintes endereços eletrônicos:
 
-[http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13]{.underline}
+[http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13]
 
 [http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/nbs-nomenclatura-brasileira-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio](http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/nbs-nomenclatura-brasileira-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio)
 
 Caso persistam dúvidas, deve ser formalizado processo administrativo de consulta à Secretaria da Receita Federal do Brasil (RFB), nos termos do art. 48 da Lei nº 9.430, de 27 de dezembro de 1996 e do Decreto nº 7.708, de 02 de abril de 2012, que instituiu a NBS.
 
--   **[Dúvidas sobre registro no Siscoserv:]{.underline}**
+-   **[Dúvidas sobre registro no Siscoserv:]**
 
 Deverão ser consultados os Manuais Informatizados dos Módulos Venda e Aquisição do Siscoserv no sítio da Secretaria da Receita Federal do Brasil (RFB) na Internet, no endereço
-[\<[http://www.receita.fazenda.gov.br](http://www.receita.fazenda.gov.br/)]{.underline}\>
+[\<[http://www.receita.fazenda.gov.br](http://www.receita.fazenda.gov.br/)]\>
 e no sítio da Secretaria de Comércio e Serviços (SCS) na Internet, no endereço
 [http://www.mdic.gov.br](http://www.mdic.gov.br/), bem como disponibilizados no Sistema.
 
@@ -798,11 +795,9 @@ Também está disponível no sítio da Secretaria de Comércio e Serviços
 [http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-6](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-6)
 
 -   **[Dúvidas sobre casos concretos -- Consultas à Secretaria da
-    Receita Federal do Brasil ]{.underline}**
+    Receita Federal do Brasil ]**
 
-A consulta é o instrumento previsto na [[Instrução Normativa RFB n º
-1.396, de 16 de setembro de
-2013]{.underline}](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=46030)
+A consulta é o instrumento previsto na [Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=46030)
 que o contribuinte possui para esclarecer dúvidas quanto à interpretação de determinado dispositivo da legislação tributária e aduaneira relativo aos tributos administrados pela Secretaria da Receita Federal do Brasil
 (RFB) e sobre a classificação de serviços, intangíveis e outras operações que produzam variações no patrimônio.
 
@@ -815,11 +810,11 @@ Maiores informações sobre as Consultas estão disponíveis em:
 
 [http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/consulta-sobre-interpretacao-da-legislacao-tributaria](http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/consulta-sobre-interpretacao-da-legislacao-tributaria).
 
--   **[Dúvidas sobre a legislação relativa ao Siscoserv:]{.underline}**
+-   **[Dúvidas sobre a legislação relativa ao Siscoserv:]**
 
 A legislação relativa ao Siscoserv encontra-se disponível nos endereços:
 
-[http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4]{.underline}
+[http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4]
 
 [http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/siscoserv-sist-integrado-de-com-exterior-int-e-outras-operacoes-prod-var-patrim/siscoserv-sistema-integrado-de-comercio-exterior-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio](http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/siscoserv-sist-integrado-de-com-exterior-int-e-outras-operacoes-prod-var-patrim/siscoserv-sistema-integrado-de-comercio-exterior-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio)
 
@@ -954,10 +949,10 @@ financeira, cambial e fiscal que caracterizam a operação de exportação de um
 > retorne ao País com ânimo definitivo, na data da chegada;
 >
 > V - que se ausente do Brasil em caráter temporário, ou se retire em
-> caráter permanente do território nacional sem entregar a [[Comunicação
+> caráter permanente do território nacional sem entregar a [Comunicação
 > de Saída Definitiva do
-> País]{.underline}](http://www.receita.fazenda.gov.br/PessoaFisica/IRPF/2011/glossario.html#5939266742eb5e38f545ffbcfaa734e986a45f13),
-> durante os primeiros doze meses consecutivos de ausência.  
+> País](http://www.receita.fazenda.gov.br/PessoaFisica/IRPF/2011/glossario.html#5939266742eb5e38f545ffbcfaa734e986a45f13),
+> durante os primeiros doze meses consecutivos de ausência. 
 >
 
 <a id="valor_faturado"></a>
@@ -968,9 +963,9 @@ intangível ou [outra operação que produza variação no patrimônio](#outras_
 <a id="valor_mantido_no_exterior"></a>
 
 **Valor Mantido no Exterior:** refere-se aos recursos em moeda estrangeira, relativos aos recebimentos de serviços, intangíveis ou
-[outras operações que produzam variações](#outras_operacoes_que_produzam_variacoes_de_patrimonio) no patrimônio, mantidos no exterior, nos termos da [[Lei nº]{.underline}
-[11.371/2006]{.underline}](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11371.htm)
-e [[Instrução Normativa no 726]{.underline}, de 28 de fevereiro de
+[outras operações que produzam variações](#outras_operacoes_que_produzam_variacoes_de_patrimonio) no patrimônio, mantidos no exterior, nos termos da [[Lei nº]
+[11.371/2006](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11371.htm)
+e [Instrução Normativa no 726], de 28 de fevereiro de
 2007](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=15670).
 
 <a id="_meukdy"></a>
@@ -1083,7 +1078,7 @@ O Sistema apresenta os dados do Usuário/Responsável pelo Registro (nome e CPF)
 No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco, não apresentam nenhum dado e devem ser preenchidos. São campos obrigatórios:
 
 > \- Telefone do [[Usuário/Responsável pelo
-> Registro]{.underline}](#2y3w247);
+> Registro](#2y3w247);
 >
 > \- E-mail do Usuário/Responsável pelo Registro;
 >
@@ -1096,7 +1091,7 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco,
 > \- Endereço da Empresa Vendedora;
 >
 > \- Nome do [[Diretor de Relações Governamentais ou
-> Equivalente]{.underline}](#1d96cc0) da Empresa Vendedora;
+> Equivalente](#1d96cc0) da Empresa Vendedora;
 >
 > \- Telefone do Diretor de Relações Governamentais ou Equivalente da
 > Empresa Vendedora;
@@ -1158,7 +1153,7 @@ O Sistema apresenta os dados do Usuário/Responsável pelo Registro bem como o N
 No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco, não apresentam nenhum dado e precisam ser preenchidos. São campos obrigatórios:
 
 > \- Telefone do [[Usuário/Responsável pelo
-> Registro]{.underline}](#2y3w247);
+> Registro](#2y3w247);
 >
 > \- E-mail do Usuário/Responsável pelo Registro;
 >
@@ -1182,7 +1177,7 @@ Existem outros Campos de preenchimento opcional. São campos de preenchimento op
 >
 > \- Endereço do Canal do *Youtube* da Empresa Vendedora.
 
-[Fluxo de Manutenção de Informações]{.underline}
+[Fluxo de Manutenção de Informações]
 
 Após um (1) ano, ou sempre que houver alguma alteração nas informações incluídas no cadastro do Siscoserv, o usuário / Responsável pelo Registro poderá acessar o campo **Informações Cadastrais** e atualizar ou confirmar as informações previamente inseridas.
 
@@ -1277,7 +1272,7 @@ Os registros individualizados no Siscoserv devem seguir as etapas de preenchimen
 [2.2](#2.2) e [2.3 do Capítulo2](#2.3) deste Manual.
 
 A transmissão em lote permite a inclusão de uma grande quantidade de registros ao mesmo tempo e deve seguir os passos descritos [[no item 3
-deste capítulo]{.underline}](#_471acqr). A transmissão em lote é feita por meio do envio de um ou mais arquivos do tipo XML, compactados no formato ZIP.
+deste capítulo](#_471acqr). A transmissão em lote é feita por meio do envio de um ou mais arquivos do tipo XML, compactados no formato ZIP.
 
 Para a criação dos arquivos que devem ser transmitidos, estão disponibilizados os seguintes documentos:
 
