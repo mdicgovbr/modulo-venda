@@ -963,9 +963,14 @@ intangível ou [outra operação que produza variação no patrimônio](#outras_
 <a id="valor_mantido_no_exterior"></a>
 
 **Valor Mantido no Exterior:** refere-se aos recursos em moeda estrangeira, relativos aos recebimentos de serviços, intangíveis ou
+<<<<<<< HEAD
 [outras operações que produzam variações](#outras_operacoes_que_produzam_variacoes_de_patrimonio) no patrimônio, mantidos no exterior, nos termos da [[Lei nº]
 [11.371/2006](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11371.htm)
 e [Instrução Normativa no 726], de 28 de fevereiro de
+=======
+[outras operações que produzam variações](#3tm4grq) no patrimônio, mantidos no exterior, nos termos da [Lei nº 11.371/2006](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11371.htm)
+e [Instrução Normativa no 726, de 28 de fevereiro de
+>>>>>>> removendo todos links com 2 '['
 2007](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=15670).
 
 <a id="_meukdy"></a>
@@ -1077,7 +1082,7 @@ O Sistema apresenta os dados do Usuário/Responsável pelo Registro (nome e CPF)
 
 No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco, não apresentam nenhum dado e devem ser preenchidos. São campos obrigatórios:
 
-> \- Telefone do [[Usuário/Responsável pelo
+> \- Telefone do [Usuário/Responsável pelo
 > Registro](#2y3w247);
 >
 > \- E-mail do Usuário/Responsável pelo Registro;
@@ -1090,7 +1095,7 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco,
 >
 > \- Endereço da Empresa Vendedora;
 >
-> \- Nome do [[Diretor de Relações Governamentais ou
+> \- Nome do [Diretor de Relações Governamentais ou
 > Equivalente](#1d96cc0) da Empresa Vendedora;
 >
 > \- Telefone do Diretor de Relações Governamentais ou Equivalente da
@@ -1152,7 +1157,7 @@ O Sistema apresenta os dados do Usuário/Responsável pelo Registro bem como o N
 
 No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco, não apresentam nenhum dado e precisam ser preenchidos. São campos obrigatórios:
 
-> \- Telefone do [[Usuário/Responsável pelo
+> \- Telefone do [Usuário/Responsável pelo
 > Registro](#2y3w247);
 >
 > \- E-mail do Usuário/Responsável pelo Registro;
@@ -1271,8 +1276,7 @@ Os registros no Siscoserv podem ser feitos de forma individualizada ou por Trans
 Os registros individualizados no Siscoserv devem seguir as etapas de preenchimento descritas nos [2.1](#2.1),
 [2.2](#2.2) e [2.3 do Capítulo2](#2.3) deste Manual.
 
-A transmissão em lote permite a inclusão de uma grande quantidade de registros ao mesmo tempo e deve seguir os passos descritos [[no item 3
-deste capítulo](#_471acqr). A transmissão em lote é feita por meio do envio de um ou mais arquivos do tipo XML, compactados no formato ZIP.
+A transmissão em lote permite a inclusão de uma grande quantidade de registros ao mesmo tempo e deve seguir os passos descritos [no item 3 deste capítulo](#_471acqr). A transmissão em lote é feita por meio do envio de um ou mais arquivos do tipo XML, compactados no formato ZIP.
 
 Para a criação dos arquivos que devem ser transmitidos, estão disponibilizados os seguintes documentos:
 
@@ -1544,8 +1548,12 @@ clique diretamente em ![](https://github.com/mdicgovbr/pagina-manuais/blob/maste
 Caso deseje excluir um enquadramento selecionado, o usuário deve acionar o botão ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image6.png)
 .
 
+<<<<<<< HEAD
 Para maiores informações acerca da lista de enquadramentos disponíveis para seleção no Módulo Venda, veja o [item 10.1 do capítulo
 1](#10.1).
+=======
+Para maiores informações acerca da lista de enquadramentos disponíveis para seleção no Módulo Venda, veja o [item 10.1 do capítulo 1](#_1rvwp1q).
+>>>>>>> removendo todos links com 2 '['
 
 **Vinculação à Movimentação Temporária de Bens:**
 
@@ -1555,7 +1563,11 @@ Deve ser indicado se a operação está vinculada à [movimentação temporária
 
 
 Se a operação estiver vinculada à movimentação temporária de bens,
+<<<<<<< HEAD
 selecionar a opção **Sim**. Nesse caso, preencher os campos com o número da [Declaração de Importação (DI)](#declaracao_de_importacao) e/ou com o número da Declaração Única de Exportação (DU-E) ou do [Registro de Exportação (RE)  averbado, se o registro ainda tiver sido realizado no Siscomex.](#registro_de_exportacao)
+=======
+selecionar a opção **Sim**. Nesse caso, preencher os campos com o número da [Declaração de Importação (DI)](#2zlqixl) e/ou com o número da Declaração Única de Exportação (DU-E) ou do [Registro de Exportação (RE)](#3ep43zb) averbado, se o registro ainda tiver sido realizado no Siscomex.]
+>>>>>>> removendo todos links com 2 '['
 
 Para incluir mais de um número de DI ou de DU-E (ou RE), clique no ícone
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image10.png)
@@ -1657,8 +1669,12 @@ Devido à publicação da [NBS 2.0](http://www.mdic.gov.br/images/REPOSITORIO/sc
 Neste caso, o usuário deverá incluir um novo RVS, classificando o serviço prestado¹⁹ de acordo com a
 [NBS 2.0](http://www.mdic.gov.br/images/REPOSITORIO/scs/decos/NBS/Anexo_I_NBS_2.0_com_altera%C3%A7%C3%B5es_6.12.18.pdf).
 
+<<<<<<< HEAD
 A inclusão de nova operação é realizada em [Dados do Negócio](#dados_negocio) e deve obedecer aos prazos descritos
 no item [4.1.1, do Capítulo 1 deste Manual](#4.1.1).
+=======
+A inclusão de nova operação é realizada em [Dados do Negócio](#2981zbj) e deve obedecer aos prazos descritos no [item 4.1.1](#_3d0wewm), do Capítulo 1 deste Manual.
+>>>>>>> removendo todos links com 2 '['
 
 Se for o caso, o usuário deve preencher os campos de **Vinculação à
 Exportação de Bens** e **Informações Complementares**, com os respectivos dados adicionais relativos às operações incluídas.
