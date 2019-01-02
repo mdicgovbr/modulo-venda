@@ -763,8 +763,8 @@ Em caso de erros ou falhas apresentados pelo Sistema, estão disponíveis os can
 > ou*\
 > - *Fone: 0800-978-2331.*
 
--   **[Dúvidas sobre classificação de serviços, intangíveis e outras
-    operações que produzam variações no patrimônio:]**
+-   **Dúvidas sobre classificação de serviços, intangíveis e outras
+    operações que produzam variações no patrimônio:**
 
 Deve ser realizada consulta às Regras de Interpretação da Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio -- NBS, bem como às suas Notas Explicativas
 (NEBS), disponíveis nos seguintes endereços eletrônicos:
@@ -880,8 +880,7 @@ variação(ões) no patrimônio.
 
 **Operação:** conjunto de dados que caracterizam a prestação de um serviço, a transferência ou aquisição de intangível e a realização de operação que produza variação no patrimônio.
 
-No RVS, são dados de uma operação: Código da NBS, Descrição da NBS,
-Código e País de Destino; Código e Descrição da Moeda; Modo de Prestação; Data de Início; Data de Conclusão; Valor e, se for o caso,
+No RVS, são dados de uma operação: Código da NBS, Descrição da NBS, Código e País de Destino; Código e Descrição da Moeda; Modo de Prestação; Data de Início; Data de Conclusão; Valor e, se for o caso,
 Mecanismo de apoio/fomento.
 
 No RPC são dados de uma operação: Código da NBS, Descrição da NBS e Valor Faturado. Os dados de uma operação no RPC só devem ser preenchidos quando a operação for amparada por mecanismo de fomento ao comércio exterior de serviços, ou seja, quando for preenchido o campo Mecanismo de apoio/fomento.
@@ -940,11 +939,8 @@ financeira, cambial e fiscal que caracterizam a operação de exportação de um
 > retorne ao País com ânimo definitivo, na data da chegada;
 >
 > V - que se ausente do Brasil em caráter temporário, ou se retire em
-> caráter permanente do território nacional sem entregar a [Comunicação
-> de Saída Definitiva do
-> País](http://www.receita.fazenda.gov.br/PessoaFisica/IRPF/2011/glossario.html#5939266742eb5e38f545ffbcfaa734e986a45f13),
-> durante os primeiros doze meses consecutivos de ausência. 
->
+> caráter permanente do território nacional sem entregar a [Comunicação de Saída Definitiva do país](http://www.receita.fazenda.gov.br/PessoaFisica/IRPF/2011/glossario.html#5939266742eb5e38f545ffbcfaa734e986a45f13),
+> durante os primeiros doze meses consecutivos de ausência.
 
 <a id="valor_faturado"></a>
 
