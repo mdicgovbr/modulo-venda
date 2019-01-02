@@ -2429,6 +2429,7 @@ Após selecionar o RPC que deseja cancelar, o Sistema apresenta a tela
 Após conferir os dados do RPC a ser cancelado na tela **Resumo do RPC**,
 acione o botão **Cancelar.** O Sistema então solicita a confirmação do cancelamento. No caso de confirmação do cancelamento, o Sistema retornará mensagem indicando a efetivação do cancelamento do RPC em questão.
 
+<a id="_4a7cimu"></a>
 **2.3.4. Consulta ao RPC**
 
 Esta função permite efetuar consulta a dados dos RPC no Sistema.
@@ -2456,6 +2457,7 @@ do mais recente para o mais antigo. Acione o botão ![](https://github.com/mdicg
 Após selecionar o RPC que deseja consultar, o Sistema apresenta a tela
 **Resumo do RPC**, que inclui todos os dados do RPC.
 
+<a id="_2pcmsun"></a>
 ## 3. Transmissão em Lote
 
 A transmissão em lote foi implementada para atender os residentes e domiciliados no Brasil que realizam um grande número de transações de venda ou aquisição de serviços com residentes ou domiciliados no exterior e têm a obrigação legal de efetuar os registros correspondentes no Siscoserv.
@@ -2555,6 +2557,7 @@ Um arquivo de lote pode receber seis *status* diferentes:
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image134.png)
 
+<a id="_n5rssn"></a>
 ### 3.1. Procedimentos para envio do arquivo de lote
 
 Para efetuar a transmissão em lote o usuário deve [acessar o Siscoserv](#_25lcl3g) e clicar na aba **Transmissão em Lote**.
@@ -2645,7 +2648,7 @@ Um arquivo de retorno contendo mais detalhes sobre os erros encontrados pode ser
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image109.png)
 
 <a id="_2lfnejv"></a>
-
+<a id="_14hx32g"></a>
 ### 3.2. Consultar Lote
 
 Para consultar o lote, o usuário deve clicar na aba **Transmissão em Lote** e em seguida selecionar o item de *menu* **Consultar Lote.**
@@ -2922,7 +2925,7 @@ O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados par
 
 # Cenários Exemplificativos de Registro no Siscoserv
 
-
+<a id="_23muvy2"></a>
 ## 1. Registro de Transporte Internacional de Cargas (Frete)
 
 A contratação de serviços de transporte de carga envolve vários "atores"
@@ -2931,7 +2934,9 @@ executando diferentes "papéis". Nos exemplos a seguir, são mostradas, em algun
 O conjunto de cenários abaixo apresentado não pretende ser exaustivo.
 Entretanto, a lógica aplicada em cada uma das situações pode se estender aos casos que não foram aqui descritos.
 
+<a id="_is565v"></a>
 **Cenário 1.1. Transporte internacional de cargas intermediado por agente de cargas.**  
+<a id="_32rsoto"></a>
 **Exportação brasileira com a obrigação de transportar da empresa brasileira.**
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image113.jpg)
@@ -2975,8 +2980,12 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 > Observação: Neste cenário Eᴮᴿ não se sujeita a registrar no Módulo
 > Venda do Siscoserv os serviços de transporte internacional de carga
 > adquiridos de Tₑₓ, cujo custo seja por ele repassado a Iₑₓ.
->
-**Cenário 1.2. Transporte internacional de cargas intermediado por agente de cargas.**  
+>  
+  
+<a id="_1hx2z1h"></a>
+**Cenário 1.2. Transporte internacional de cargas intermediado por agente de cargas.** 
+  
+<a id="_41wqhpa"></a>
 **Importação brasileira com a obrigação de transportar da empresa brasileira**
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image153.png)
@@ -3014,8 +3023,12 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 > importador brasileiro, a contratação do agente de cargas estrangeiro,
 > deve ser feito um RAS por Iᴮᴿ tendo AgCgₑₓ como vendedor do
 > serviço.
->
+>  
+  
+<a id="_2h20rx3"></a>
 **Cenário 1.3. Transporte internacional de cargas com consolidação e desconsolidação de cargas.**  
+  
+<a id="_w7b24w"></a>
 **Importação brasileira com a obrigação de transportar da empresa estrangeira**
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image97.png)
@@ -3053,8 +3066,12 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 >
 > **Não há registro no Siscoserv** pelo serviço de transporte de cargas
 > neste caso, pois ambos, Cₑₓ e Tₑₓ são domiciliados no exterior.
->
-**Cenário 1.4. Transporte internacional de cargas com consolidação e desconsolidação de cargas.**  
+>  
+  
+<a id="_3g6yksp"></a>
+**Cenário 1.4. Transporte internacional de cargas com consolidação e desconsolidação de cargas.**    
+  
+<a id="_1vc8v0i"></a>
 **Exportação brasileira com a obrigação de transportar da empresa brasileira**
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image102.png)
@@ -3091,9 +3108,11 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 > Cᴮᴿ: RAS pelo serviço de transporte tendo Tₑₓ como vendedor e RAS
 > pelo serviço de desconsolidação, tendo Dₑₓ como vendedor.
 >
-
+  
+<a id="_4fbwdob"></a>
 ## 2. Seguros
-
+  
+<a id="_2uh6nw4"></a>
 **Cenário 2.1. Contratação de seguro com intermediação de corretora**
 
 **Descrição**
@@ -3121,7 +3140,9 @@ Empresa residente ou domiciliada no Brasil -- Empᴮᴿ, utiliza corretora de se
 **Registros devidos:**
 
 > Empᴮᴿ: RAS pelo serviço de seguro tendo Segₑₓ como vendedora.
->
+>  
+  
+<a id="_19mgy3x"></a>
 **Cenário 2.2. Contratação de seguro de estipulante domiciliada ou residente no Brasil**
 
 **Descrição**  
@@ -3150,12 +3171,14 @@ residente ou domiciliada no Brasil, Estᴮᴿ é considerado o contratante e, co
 
 > Estᴮᴿ: RAS pelo serviço de seguro tendo Segₑₓ como vendedora.
 >
-
+  
+<a id="_4gjguf0"></a>
 ## 3. Remessa Expressa
 
 O serviço de remessa expressa (courier) apresenta, de forma genérica,
 dois possíveis cenários.
-
+  
+<a id="_2vor4mt"></a>
 **Cenário 3.1. Empresa brasileira exportadora (ou importadora) faturada por empresa estrangeira prestadora do serviço de remessa expressa**
 
 O registro é de responsabilidade do exportador/importador residente ou domiciliado no Brasil sempre que a relação contratual relativa aos serviços de remessa expressa seja entre esse exportador/importador e a empresa prestadora desses serviços domiciliada no exterior.
@@ -3163,7 +3186,8 @@ O registro é de responsabilidade do exportador/importador residente ou domicili
 Quando não houver clareza sobre essa relação contratual, o exportador/importador residente ou domiciliado no Brasil deve se amparar nos documentos de faturamento pelos serviços prestados.
 
 Quando o exportador/importador residente ou domiciliado no Brasil receber um documento de fatura de uma empresa de remessa expressa domiciliada no exterior, mesmo que o fluxo de pagamento ocorra com a filial desta empresa domiciliada no Brasil, caberá ao exportador/importador o registro.
-
+  
+<a id="_1au1eum"></a>
 **Cenário 3.2. Empresa brasileira faturada pela filial residente ou domiciliada no Brasil de empresa estrangeira**
 
 O registro é de responsabilidade empresa de remessa expressa domiciliada no Brasil sempre que a relação contratual relativa aos serviços de remessa expressa seja entre essa empresa domiciliada no Brasil e a empresa prestadora de serviços de remessa expressa domiciliada no exterior, mesmo quando houver uma relação *intercompany*.
@@ -3179,7 +3203,7 @@ Neste caso, caberá à empresa de remessa expressa domiciliada no Brasil verific
 Cabe ainda ressaltar que as empresas domiciliadas no Brasil, ainda que relacionadas a empresas estrangeiras (ou seja, mesmo quando são uma presença comercial de uma empresa estrangeira no Brasil), são consideradas pela legislação brasileira, para todos os fins, empresas brasileiras. Sendo assim, essas empresas consideradas presença comercial de uma empresa estrangeira no Brasil, por estarem domiciliadas no país e estarem regidas pela legislação comercial e tributária que afeta a todas as empresas brasileiras, devem efetuar seus registros em Módulo Venda e Aquisição do Siscoserv sempre que realizarem operações de venda ou aquisição de serviços com residentes ou domiciliados no exterior,
 inclusive operações *intercompany*, de acordo com o previsto na legislação pertinente ao Siscoserv e neste Manual.
 
-
+<a id="_3utoxif"></a>
 ## 4. Expatriados
 
 A movimentação temporária de pessoas físicas para prestação de serviços enseja o registro no Siscoserv, sempre que cumpridos os pilares previstos na legislação relativa ao Sistema. Conforme explicitado neste Manual, deve-se registrar [operações](#kqmvb9) em Modo 4
@@ -3195,11 +3219,13 @@ considera-se **residente** no Brasil, a pessoa física que resida no Brasil em c
 
 Já segundo o Art. 3º, considera-se
 **não-residente** no Brasil (**expatriado**), a pessoa física que não resida no Brasil em caráter permanente e não se enquadre nas hipóteses previstas no art. 2º supracitado, a que se retire em caráter permanente do território nacional, na data da saída, desde que apresentada a Comunicação de Saída Definitiva do País, e a que se ausente do Brasil em caráter temporário, a partir do dia seguinte àquele em que complete doze meses consecutivos de ausência.
-
+  
+<a id="_29yz7q8"></a>
 **Cenário 1**
 
 Empresa residente ou domiciliada no Brasil que envia empregado para trabalhar em empresa residente ou domiciliada no exterior e que continua remunerando esse empregado pelos serviços prestados fora do país, em virtude de manutenção do vínculo empregatício. O reembolso feito pela empresa estrangeira referente ao salário do empregado deve ser registrado no Siscoserv, pois tal situação configura prestação de serviço em modo 4. Também deve ser registrado no Siscoserv a remuneração do empregado caso ele torne-se não residente, mantendo vínculo empregatício no Brasil.
-
+  
+<a id="_p49hy1"></a>
 **Cenário 2**
 
 Empresa residente e domiciliada no Brasil que efetua apenas o pagamento de contribuições previdenciárias, referente a segurado facultativo, de trabalhador residente no exterior e com vínculo empregatício estabelecido junto a uma empresa residente e domiciliada no exterior, em país que não possua tratado previdenciário com o Brasil, pagamento esse reembolsado pela empresa estrangeira, não deve prestar essa informação no Siscoserv. Tal situação não configura prestação de serviço em modo 4.
