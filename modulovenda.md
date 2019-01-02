@@ -790,8 +790,7 @@ Também está disponível no sítio da Secretaria de Comércio e Serviços
     Receita Federal do Brasil ]**
 
 A consulta é o instrumento previsto na [Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=46030)
-que o contribuinte possui para esclarecer dúvidas quanto à interpretação de determinado dispositivo da legislação tributária e aduaneira relativo aos tributos administrados pela Secretaria da Receita Federal do Brasil
-(RFB) e sobre a classificação de serviços, intangíveis e outras operações que produzam variações no patrimônio.
+que o contribuinte possui para esclarecer dúvidas quanto à interpretação de determinado dispositivo da legislação tributária e aduaneira relativo aos tributos administrados pela Secretaria da Receita Federal do Brasil(RFB) e sobre a classificação de serviços, intangíveis e outras operações que produzam variações no patrimônio.
 
 Devido às possíveis implicações tributárias, as dúvidas concretas referentes às necessidades de registro, à responsabilidade pelo registro, à classificação NBS, às multas e aos prazos, entre outras,
 deverão ser formalizadas mediante consulta à RFB, a qual dará origem a uma Solução de Consulta ou a uma Solução de Divergência. Importante destacar a necessidade de expor com detalhes a circunstância, examinando a questão face ao preceito legal que lhe é pertinente.
@@ -1071,8 +1070,7 @@ O Sistema apresenta os dados do Usuário/Responsável pelo Registro (nome e CPF)
 
 No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco, não apresentam nenhum dado e devem ser preenchidos. São campos obrigatórios:
 
-> \- Telefone do [Usuário/Responsável pelo
-> Registro](#2y3w247);
+> \- Telefone do [Usuário/Responsável pelo Registro](#2y3w247);
 >
 > \- E-mail do Usuário/Responsável pelo Registro;
 >
@@ -1084,8 +1082,7 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco,
 >
 > \- Endereço da Empresa Vendedora;
 >
-> \- Nome do [Diretor de Relações Governamentais ou
-> Equivalente](#1d96cc0) da Empresa Vendedora;
+> \- Nome do [Diretor de Relações Governamentais ou Equivalente](#1d96cc0) da Empresa Vendedora;
 >
 > \- Telefone do Diretor de Relações Governamentais ou Equivalente da
 > Empresa Vendedora;
@@ -1146,8 +1143,7 @@ O Sistema apresenta os dados do Usuário/Responsável pelo Registro bem como o N
 
 No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco, não apresentam nenhum dado e precisam ser preenchidos. São campos obrigatórios:
 
-> \- Telefone do [Usuário/Responsável pelo
-> Registro](#2y3w247);
+> \- Telefone do [Usuário/Responsável pelo Registro](#2y3w247);
 >
 > \- E-mail do Usuário/Responsável pelo Registro;
 >
@@ -1414,13 +1410,11 @@ Campos a serem preenchidos em Dados do
 
 **Código NBS / Descrição da NBS:** Vide [item 9, do Capítulo 1 deste Manual.](#9)
 
-A prestação de serviços¹⁴ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de
-2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
+A prestação de serviços₁₄ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jspdata=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
 
 A prestação de serviços¹⁵ iniciada a partir de 1º de janeiro de 2019
 deve ser registrada tendo por base a [Portaria Conjunta RFB / SCS nº
-1.429, de
-2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20),
+1.429, de 2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20),
 que produz efeitos a partir de 1º de janeiro de 2019.
 
 **Código do País / País de Destino:**
