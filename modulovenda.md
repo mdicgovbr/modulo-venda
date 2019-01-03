@@ -1929,11 +1929,14 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 >
 >    
 >    a\) selecionar a operação a ser faturada, acionando o botão <img alt=""  src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png"> ;
+>
 >    b\) na tela seguinte <strong>Incluir Dados do RF</strong>, verificar o <strong>Valor da
 >    Operação</strong> e <strong>Saldo a Faturar</strong> da operação selecionada, bem como
 >    outros dados, no campo <strong>Dados da Operação</strong>;
+>
 >    c\)preencher a data da nota fiscal ou do documento equivalente ou
 >    selecioná-la, clicando no ícone <strong>Calendário</strong>
+>
 >    d\)inserir o <a href="#2szc72q"> valor faturado </a>, o <a href="3s49zyc">valor mantido
 >    no exterior</a>, se for o caso, e clicar no botão
 >    <strong>Adicionar Dado</strong>. Caso haja outra operação a faturar no mesmo RVS, com
@@ -1951,6 +1954,7 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 > à direita para corrigi-lo, procedendo
 > conforme descrito acima. Para excluí-lo, clicar no ícone <img src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png">
 > à esquerda do campo;
+>
 > f\) inserir o <strong>Número da NF de Serviço ou do Documento Equivalente</strong> e
 > acionar o botão <strong>Avançar.</strong> O usuário deve preencher o campo <strong>Número
 > da NF ou Documento Equivalente</strong> com o número da nota fiscal de serviço
