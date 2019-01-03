@@ -1927,37 +1927,36 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 > Para incluir os dados do faturamento de um serviço²⁰ no campo
 > **Operações** **a Faturar**, o usuário deve:
 >
->    <ol type="a">
->    <li> selecionar a operação a ser faturada, acionando o botão <img alt=""  src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png"> 
->    <strong>;</strong></li>
->    <li>na tela seguinte <strong>Incluir Dados do RF</strong>, verificar o <strong>Valor da
+>    
+>    a\) selecionar a operação a ser faturada, acionando o botão <img alt=""  src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png"> ;
+>    b\) na tela seguinte <strong>Incluir Dados do RF</strong>, verificar o <strong>Valor da
 >    Operação</strong> e <strong>Saldo a Faturar</strong> da operação selecionada, bem como
->    outros dados, no campo <strong>Dados da Operação</strong>;</li>
->    <li>preencher a data da nota fiscal ou do documento equivalente ou
->    selecioná-la, clicando no ícone <strong>Calendário</strong>;</li>
->    <li>inserir o <a href="#2szc72q"> valor faturado </a>, o <a href="3s49zyc">valor mantido
+>    outros dados, no campo <strong>Dados da Operação</strong>;
+>    c\)preencher a data da nota fiscal ou do documento equivalente ou
+>    selecioná-la, clicando no ícone <strong>Calendário</strong>
+>    d\)inserir o <a href="#2szc72q"> valor faturado </a>, o <a href="3s49zyc">valor mantido
 >    no exterior</a>, se for o caso, e clicar no botão
 >    <strong>Adicionar Dado</strong>. Caso haja outra operação a faturar no mesmo RVS, com
 >    a mesma data e referente à mesma nota fiscal de serviço ou documento
 >    equivalente, acionar o botão <img src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png"> 
 >    ao lado da operação desejada para incluir
->    novos dados;</li>
-> 
->![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image87.png)
->
->![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image83.png)
->
-> clicar no ícone <img src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png">
+>    novos dados;
+
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image87.png)
+
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image83.png)
+
+> e\) antes da inclusão do RF, caso seja detectado erro de preenchimento,
+> clicar no ícone ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png)
 > à direita para corrigi-lo, procedendo
 > conforme descrito acima. Para excluí-lo, clicar no ícone <img src="https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png">
 > à esquerda do campo;
-></li>
-> <li> inserir o <strong>Número da NF de Serviço ou do Documento Equivalente</strong> e
+> f\) inserir o <strong>Número da NF de Serviço ou do Documento Equivalente</strong> e
 > acionar o botão <strong>Avançar.</strong> O usuário deve preencher o campo <strong>Número
 > da NF ou Documento Equivalente</strong> com o número da nota fiscal de serviço
 > referente à operação faturada ou, na sua ausência, com o número do
-> documento equivalente.</li>
-> </ol>
+> documento equivalente.
+
 Após a **Data de Conclusão** da operação, o valor total faturado deve coincidir com o **Valor da Operação**, na moeda do RVS. Caso os valores sejam divergentes, o usuário deve retificar o **Valor da Operação**
 utilizando os passos descritos no item [2.1.2 (Retificação do RVS)](#_4cmhg48) e [2.1.3 (Retificação do Aditivo ao RVS)](#_16ges7u), se for o caso.
 
