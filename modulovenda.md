@@ -833,15 +833,13 @@ Esse glossário foi desenvolvido para facilitar o entendimento dos conceitos pre
 
 **Data de início da prestação de serviço:** é a data acordada entre residente e domiciliado no Brasil, e residente e domiciliado no exterior em contrato (formal ou não) para o início da prestação do serviço; para a transferência de intangível; e para a realização de operação que produza variação no patrimônio.
 
-**Declaração de Importação (DI):** é um documento eletrônico[]{#2nusc19
-.anchor} exigido na importação de bens, cujo processamento ocorre através do Sistema Integrado de Comércio Exterior --
+**Declaração de Importação (DI):** é um documento eletrônico <a id="2nusc19"></a> exigido na importação de bens, cujo processamento ocorre através do Sistema Integrado de Comércio Exterior --
 Siscomex--Importação. A DI consolida as informações cambiais,
 tributárias, fiscais, comerciais e estatísticas da operação. 
 
-**Empresa Controlada**: Considera-se controlada a sociedade na qual a controladora, diretamente ou através de outras controladas, é titular de direitos de sócio que lhe assegurem, de modo permanen[]{#1302m92
-.anchor}te, preponderância nas deliberações sociais e o poder de eleger a maioria dos administradores.
+**Empresa Controlada**: Considera-se controlada a sociedade na qual a controladora, diretamente ou através de outras controladas, é titular de direitos de sócio que lhe assegurem, de modo permanen<a id="1302m92"></a>te, preponderância nas deliberações sociais e o poder de eleger a maioria dos administradores.
 
-**Mecanismo de Apoio/Fomento:** Mecanismos de apoio ou fomento de diversas naturezas (promocional, tributária, creditícia e financeira) a operações de comércio exterior de serviços, intangíveis e [outras operações que produzam variações no patrimônio](#3tm4grq)[]{#2250f4o .anchor}.
+**Mecanismo de Apoio/Fomento:** Mecanismos de apoio ou fomento de diversas naturezas (promocional, tributária, creditícia e financeira) a operações de comércio exterior de serviços, intangíveis e [outras operações que produzam variações no patrimônio](#3tm4grq)<a id="2250f4o"></a>.
 
 **Ente Despersonalizado:** trata-se um termo da doutrina jurídica para se referir aos entes que não possuem denominação legal específica, mas que podem, nos termos do art. 12 do Código de Processo Civil Brasileiro,
 ser representados em juízo, ativa e passivamente. São entes despersonalizados: a massa falida, a herança jacente ou vacante, o espólio, as sociedades sem personalidade jurídica e o condomínio.
@@ -864,9 +862,12 @@ IV - a exploração dos recursos naturais e o licenciamento dos direitos sobre c
 
 V - o licenciamento dos direitos relativos ao acesso a recursos genéticos.
 
-Informações adicionais podem ser obtidas nas Notas Explicativas dos Capítulos 11 e 27 da Nomenclatura Brasileira de Serviços, Intangíveis e outras Operações que Produzam Variações no Patrimônio -- [NBS](http://www.mdic.gov.br/arquivos/dwnl_1387454702.pdf)[]
+Informações adicionais podem ser obtidas nas Notas Explicativas dos Capítulos 11 e 27 da Nomenclatura Brasileira de Serviços, Intangíveis e outras Operações que Produzam Variações no Patrimônio --
+[NBS](http://www.mdic.gov.br/arquivos/dwnl_1387454702.pdf)<a id="1gf8i83
+"></a>.
 
-**Movimentação Temporária de Bens:** A movimentação temporária de bens ocorre tanto na importa[]{#40ew0vw .anchor}ção (Admissão Temporária)
+
+**Movimentação Temporária de Bens:** A movimentação temporária de bens ocorre tanto na importa<a id="40ew0vw"></a>ção (Admissão Temporária)
 quanto na exportação (Exportação Temporária).
 
 **Negócio:** operação ou conjunto de operações integrantes do contrato de prestação de serviços; da transferência ou da aquisição do intangível; e da realização de operação(ões) que produza(m)
@@ -935,8 +936,8 @@ financeira, cambial e fiscal que caracterizam a operação de exportação de um
 > caráter permanente do território nacional sem entregar a [[Comunicação
 > de Saída Definitiva do
 > País]{.underline}](http://www.receita.fazenda.gov.br/PessoaFisica/IRPF/2011/glossario.html#5939266742eb5e38f545ffbcfaa734e986a45f13),
-> durante os primeiros doze meses consecutivos de ausência.[]{#2szc72q
-> .anchor}
+> durante os primeiros doze meses consecutivos de ausência.<a id="2szc72q"></a>  
+>
 
 **Valor Faturado:** É o valor parcial ou total da operação objeto de registro de faturamento (nota fiscal de serviço, fatura comercial ou documento equivalente) ou do registro de presença comercial. Deverá ser registrado na moeda vigente do contrato (RVS) da prestação do serviço,
 intangível ou [outra operação que produza variação no patrimônio](#3tm4grq) ou em dólar dos Estados Unidos da América no caso de presença comercial relacionada à pessoa jurídica domiciliada no Brasil (RPC).
@@ -978,8 +979,7 @@ O Certificado Digital permite a identificação de uma pessoa no ambiente digita
 
 A lista de autoridades certificadoras, habilitadas pela Secretaria da Receita Federal do Brasil (RFB) para emissão de Certificados Digitais e-CPF, está disponível em:
 
-[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
-
+<a id="_1yyy98l"></a>[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
 
 <a id="_35xuupr"></a>
 # 1.3. O que é e como obter a Procuração Eletrônica
@@ -1005,7 +1005,9 @@ o órgão responsável pelos aspectos técnico-operacionais do sistema. Os canai
 \- Fone: 0800-978-2331
 \- Email: css.serpro\@serpro.gov.
 
-# 1.5. Informações Cadastrais
+<a id="_4iylrwe"></a>
+
+### 1.5. Informações Cadastrais
 
 A funcionalidade **Informações Cadastrais** permite por um lado a correta identificação do responsável pelo registro do RAS, por exemplo,
 para questões relacionadas à depuração estatística, e por outro a disponibilização de informações sobre a empresa e seu "Diretor de Relações Governamentais ou Equivalente". Assim será facilitado o contato do Ministério da Indústria, Comércio Exterior e Serviços (MDIC) com a empresa com vistas à realização de consultas sobre temas comerciais,
@@ -1104,7 +1106,7 @@ Passo 4: Após o preenchimento das informações, o Usuário/Responsável clica 
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image166.jpg)
 
-[]{#_1qoc8b1 .anchor}
+<a id="_1qoc8b1"></a>
 
 **1.5.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física**
 
@@ -1168,7 +1170,7 @@ Passo 4: Após a atualização das informações, o Usuário/Responsável clica 
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image146.jpg)
 
-[]{#_3oy7u29 .anchor}
+<a id="_3oy7u29"></a>
 
 **1.5.3. Caso 3 -- Usuário/Responsável pelo Registro é o próprio Vendedor**
 
@@ -1266,7 +1268,7 @@ Inclusão de RVS, Aditivo ao RVS, Retificação do RVS, Retificação do Aditivo
 
 O Registro de Presença Comercial (RPC) não possui mecanismo de transmissão em lote.
 
-[]{#_3gnlt4p .anchor}
+<a id="_3gnlt4p"></a>
 
 ### 2.1. Inclusão do RVS
 
@@ -1381,7 +1383,7 @@ Acione **Avançar** para validar os dados e seguir para a próxima tela
 **Dados do Negócio**
 
 Em **Dados do [Negócio](#40ew0vw)** são incluídos os dados das [operações](#upglbi) de venda de serviços₁₃ por [residentes](#1tuee74) ou domiciliados no País a residentes ou domiciliados no exterior.
-
+e
 Pode ser incluída uma ou mais [operações](#upglbi) em cada RVS. Por exemplo, nos casos em que o [negócio](#40ew0vw)
 comercial envolva mais de uma NBS, mais de uma etapa, mais de um país de destino, ou mais de um modo de prestação, desde que tal(is)
 operação(ões) esteja(m) relacionada(s) ao mesmo adquirente.
@@ -1611,7 +1613,7 @@ Após a disponibilização do Número de Confirmação da inclusão do RVS, o re
 
 Convém manter controle dos números dos RVS incluídos no Siscoserv, para facilitar os registros e/ou retificações posteriores relativos ao RVS.
 
-[]{#_thw4kt .anchor}**Após a inclusão de um RVS, não é possível o seu cancelamento, admitindo-se apenas
+<a id="_thw4kt"></a>**Após a inclusão de um RVS, não é possível o seu cancelamento, admitindo-se apenas
 [retificações](#_4cmhg48).**
 
 **2.1.1 Inclusão de Aditivo ao RVS**
@@ -2440,8 +2442,8 @@ bem como do Retorno do Lote, detalhado na sessão 3.2 -- Consultar Lote.
 
 Os seguintes documentos trazem as orientações técnicas necessárias para a correta criação dos arquivos a serem transmitidos:
 
-\- [Orientações Técnicas para o desenvolvimento da funcionalidade Transmissão em Lote do SISCOSERV Módulos Venda e Aquisição](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf)[]{#1ulbmlt
-.anchor};
+\- [Orientações Técnicas para o desenvolvimento da funcionalidade Transmissão em Lote do SISCOSERV Módulos Venda e Aquisição](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf)<a id="1ulbmlt
+"></a>;
 
 \- [Modelos dos Arquivos XML e XSD para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Modelos_dos_Arquivos_XML_e_XSD_para_Transmiss%C3%A3o_em_Lote_-_V_2.0.zip);
 e
@@ -2640,7 +2642,7 @@ Um arquivo de retorno contendo mais detalhes sobre os erros encontrados pode ser
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image109.png)
 
-[]{#_2lfnejv .anchor}
+<a id="_2lfnejv"></a>
 
 ### 3.2. Consultar Lote
 
