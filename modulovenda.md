@@ -15,11 +15,11 @@
 
 [4.1. Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS)](#_3mj2wkv)
 
-[4.1.1. Prazo para o RVS](#_21od6so)
+[4.1.1. Prazo para o RVS](#4.1.1)
 
 [4.2. Registro de Faturamento (RF)](#_gtnh0h)
 
-[4.2.1. Prazos para o RF](#_30tazoa)
+[4.2.1. Prazos para o RF](#4.2.1)
 
 [4.3. Situações especiais de registro](#_1fyl9w3)
 
@@ -35,7 +35,7 @@
 
 [4.4.1. Prazo para o RPC](#_2grqrue)
 
-[**5. Quem deve efetuar registro no Siscoserv -- Módulo Venda**](#_3zy8sjw)
+[**5. Quem deve efetuar registro no Siscoserv -- Módulo Venda**](#5)
 
 [**6. Quem está dispensado de efetuar registro no Siscoserv -- Módulo Venda**](#_2f3j2rp)
 
@@ -65,7 +65,7 @@
 
 [1.2. O que é e como obter o Certificado Digital (e-CPF)](#_ly7c1y)
 
-[1.3. O que é e como obter a Procuração Eletrônica](#_35xuupr)
+[1.3. O que é e como obter a Procuração Eletrônica](#1.3)
 
 [1.4. Problemas de acesso](#_aads9)
 
@@ -79,27 +79,27 @@
 
 [**2. Procedimentos relativos ao registro no Módulo Venda**](#_1l354xk)
 
-[2.1. Inclusão do RVS](#_452snld)
+[2.1. Inclusão do RVS](#2.1)
 
 [2.1.1 Inclusão de Aditivo ao RVS](#2.1.1)
 
-[2.1.2. Retificação do RVS](#_zdd80z)
+[2.1.2. Retificação do RVS](#2.1.2)
 
-[2.1.3. Retificação do Aditivo ao RVS](#_3jd0qos)
+[2.1.3. Retificação do Aditivo ao RVS](#2.1.3)
 
-[2.1.4. Consulta ao RVS ou ao Aditivo ao RVS](#_1yib0wl)
+[2.1.4. Consulta ao RVS ou ao Aditivo ao RVS](#2.1.4)
 
-[2.2 Inclusão do RF](#_4ihyjke)
+[2.2 Inclusão do RF](#2.2)
 
-[2.2.1. Retificação do RF](#_2xn8ts7)
+[2.2.1. Retificação do RF](#2.2.1)
 
-[2.2.2. Cancelamento do RF](#_1csj400)
+[2.2.2. Cancelamento do RF](#2.2.2)
 
-[2.2.3. Consulta ao RF](#_3ws6mnt)
+[2.2.3. Consulta ao RF](#2.2.3)
 
-[2.3. Registro de Presença Comercial no Exterior (RPC)](#_2bxgwvm)
+[2.3. Registro de Presença Comercial no Exterior (RPC)](#2.3)
 
-[2.3.1. Inclusão do RPC](#_r2r73f)
+[2.3.1. Inclusão do RPC](#2.3.1)
 
 [2.3.2. Retificação do RPC](#_3b2epr8)
 
@@ -238,7 +238,7 @@ por [residente](#residente) ou domiciliado no País, de serviços, [intangíveis
 O Registro de Venda de Serviços, [Intangíveis](#intangivel) e
 [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que produzam_variacoes_de_patrimonio) (RVS) serve para informar a venda realizada por [residentes](#residente) ou domiciliados no País a residentes ou domiciliados no exterior.
 
-Estão obrigados a registrar as informações no Sistema aqueles relacionados no [item](#_vx1227) 5 e dispensados de registro aqueles relacionados no item 6.
+Estão obrigados a registrar as informações no Sistema aqueles relacionados no [item](#5) 5 e dispensados de registro aqueles relacionados no item 6.
 
 A obrigação de registro não se estende às transações envolvendo serviços e [intangíveis](#intangivel) incorporados aos bens e mercadorias exportados, registrados no Sistema Integrado de Comércio Exterior - Siscomex.
 
@@ -252,7 +252,8 @@ Caso o contrato envolva mais de um adquirente deve ser registrado um RVS por adq
 
 As operações de prestação de serviços previstas em contratos de garantia decorrentes da venda de bens ou serviços² realizadas a residentes e domiciliados no exterior devem ser registradas quando ensejarem faturamento.
 
-<a id="_21od6so"></a>
+<a id="4.1.1"></a>
+
 **4.1.1. Prazo para o RVS**
 
 O prazo para incluir o RVS é até o último dia útil do 3º
@@ -266,8 +267,8 @@ data de início da prestação de serviço, da comercialização de intangível 
 
 **4.2. Registro de Faturamento (RF)**
 
-O RF do Siscoserv complementa o RVS com informações relativas ao faturamento a residentes ou domiciliados no exterior, pela venda de serviços[^4], bem como os demais custos e despesas incorridos para a efetiva prestação desses serviços. Neste registro são solicitados os seguintes dados: a data de emissão e o número da nota fiscal ou documento equivalente (inclusive nota de despesa), o [valor faturado](#2szc72q) (valor parcial ou total do contrato,
-expresso na moeda informada no RVS), o [valor mantido no exterior](#3s49zyc), bem como outros elementos pertinentes.
+O RF do Siscoserv complementa o RVS com informações relativas ao faturamento a residentes ou domiciliados no exterior, pela venda de serviços[^4], bem como os demais custos e despesas incorridos para a efetiva prestação desses serviços. Neste registro são solicitados os seguintes dados: a data de emissão e o número da nota fiscal ou documento equivalente (inclusive nota de despesa), o [valor faturado](#valor_faturado) (valor parcial ou total do contrato,
+expresso na moeda informada no RVS), o [valor mantido no exterior](#valor_mantido_no_exterior), bem como outros elementos pertinentes.
 
 Para cada RVS deve ser registrado um RF, ainda que a nota fiscal tenha sido emitida em relação a mais de um negócio, ou seja, a mais de um RVS.
 Neste caso, o número da nota fiscal será repetido em cada RF.
@@ -277,13 +278,14 @@ Neste caso, o número da nota fiscal será repetido em cada RF.
 <a id="_gtnh0h"></a>
 ### 4.2. Registro de Faturamento (RF)
 
-O RF do Siscoserv complementa o RVS com informações relativas ao faturamento a residentes ou domiciliados no exterior, pela venda de serviços⁴, bem como os demais custos e despesas incorridos para a efetiva prestação desses serviços. Neste registro são solicitados os seguintes dados: a data de emissão e o número da nota fiscal ou documento equivalente (inclusive nota de despesa), o [valor faturado](#2szc72q) (valor parcial ou total do contrato,
-expresso na moeda informada no RVS), o [valor mantido no exterior](#3s49zyc), bem como outros elementos pertinentes.
+O RF do Siscoserv complementa o RVS com informações relativas ao faturamento a residentes ou domiciliados no exterior, pela venda de serviços⁴, bem como os demais custos e despesas incorridos para a efetiva prestação desses serviços. Neste registro são solicitados os seguintes dados: a data de emissão e o número da nota fiscal ou documento equivalente (inclusive nota de despesa), o [valor faturado](#valor_faturado) (valor parcial ou total do contrato,
+expresso na moeda informada no RVS), o [valor mantido no exterior](#valor_mantido_no_exterior), bem como outros elementos pertinentes.
 
 Para cada RVS deve ser registrado um RF, ainda que a nota fiscal tenha sido emitida em relação a mais de um negócio, ou seja, a mais de um RVS.
 Neste caso, o número da nota fiscal será repetido em cada RF.
 
-<a id="_30tazoa"></a>
+<a id="4.2.1"></a>
+
 **4.2.1. Prazos para o RF**
 
 Para o registro de faturamento, há dois prazos possíveis, dependendo da data de emissão da nota fiscal ou documento equivalente:
@@ -296,7 +298,7 @@ Para o registro de faturamento, há dois prazos possíveis, dependendo da data d
     > deve efetuar o RF até [o último dia útil do mês subsequente ao de
     > inclusão desse RVS.]{.underline}
 
-Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#_nwp17c).
+Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#4.1.1).
 
 <a id="_1fyl9w3"></a>
 ### 4.3. Situações especiais de registro
@@ -396,8 +398,8 @@ A prestação das informações no RPC deve ser realizada anualmente, a partir d
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image149.png)
 
-<a id="_vx1227"></a>
-<a id="_3zy8sjw"></a>
+<a id="5"></a>
+
 ## 5. Quem deve efetuar registro no Siscoserv -- Módulo Venda
 
 Estão obrigados a registrar as informações no Sistema -- Módulo Venda,
@@ -429,7 +431,7 @@ Caso haja saldo a faturar, deve ser indicado como valor da operação o saldo re
 
 Caso tenha ocorrido o faturamento integral antes das datas constantes do Anexo Único da Portaria Conjunta RFB/SCS n^[o]{.underline}^ 1.908, de 19
 de julho de 2012, e não tenha sido iniciada a prestação do serviço[^7],
-o registro de faturamento obedecerá ao [item 2.2 do Capítulo 2 deste Manual](#_3im3ia3).
+o registro de faturamento obedecerá ao [item 2.2 do Capítulo 2 deste Manual](#2.2).
 
 Em qualquer dos casos, a **Data** constante dos **Dados do RF** deve ser aquela constante da nota fiscal ou documento equivalente.
 
@@ -952,11 +954,15 @@ financeira, cambial e fiscal que caracterizam a operação de exportação de um
 > caráter permanente do território nacional sem entregar a [[Comunicação
 > de Saída Definitiva do
 > País]{.underline}](http://www.receita.fazenda.gov.br/PessoaFisica/IRPF/2011/glossario.html#5939266742eb5e38f545ffbcfaa734e986a45f13),
-> durante os primeiros doze meses consecutivos de ausência.<a id="2szc72q"></a>  
+> durante os primeiros doze meses consecutivos de ausência.  
 >
+
+<a id="valor_faturado"></a>
 
 **Valor Faturado:** É o valor parcial ou total da operação objeto de registro de faturamento (nota fiscal de serviço, fatura comercial ou documento equivalente) ou do registro de presença comercial. Deverá ser registrado na moeda vigente do contrato (RVS) da prestação do serviço,
 intangível ou [outra operação que produza variação no patrimônio](#outras_operacoes_que produzam_variacoes_de_patrimonio) ou em dólar dos Estados Unidos da América no caso de presença comercial relacionada à pessoa jurídica domiciliada no Brasil (RPC).
+
+<a id="valor_mantido_no_exterior"></a>
 
 **Valor Mantido no Exterior:** refere-se aos recursos em moeda estrangeira, relativos aos recebimentos de serviços, intangíveis ou
 [outras operações que produzam variações](#outras_operacoes_que produzam_variacoes_de_patrimonio) no patrimônio, mantidos no exterior, nos termos da [[Lei nº]{.underline}
@@ -997,7 +1003,8 @@ A lista de autoridades certificadoras, habilitadas pela Secretaria da Receita Fe
 
 [http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
 
-<a id="_35xuupr"></a>
+
+<a id="1.3"></a>
 # 1.3. O que é e como obter a Procuração Eletrônica
 
 A Procuração Eletrônica, emitida exclusivamente pela RFB, é o instrumento que permite que uma pessoa física represente outra pessoa
@@ -1263,8 +1270,8 @@ Em seguida, o usuário clica no símbolo do **Certificado Digital @** e o Sistem
 Os registros no Siscoserv podem ser feitos de forma individualizada ou por Transmissão em Lote.
 
 \
-Os registros individualizados no Siscoserv devem seguir as etapas de preenchimento descritas nos [2.1](#_1n1mu2y),
-[2.2](#_3im3ia3) e [2.3 do Capítulo2](#_qbtyoq) deste Manual.
+Os registros individualizados no Siscoserv devem seguir as etapas de preenchimento descritas nos [2.1](#2.1),
+[2.2](#2.2) e [2.3 do Capítulo2](#2.3) deste Manual.
 
 A transmissão em lote permite a inclusão de uma grande quantidade de registros ao mesmo tempo e deve seguir os passos descritos [[no item 3
 deste capítulo]{.underline}](#_471acqr). A transmissão em lote é feita por meio do envio de um ou mais arquivos do tipo XML, compactados no formato ZIP.
@@ -1284,7 +1291,7 @@ Inclusão de RVS, Aditivo ao RVS, Retificação do RVS, Retificação do Aditivo
 
 O Registro de Presença Comercial (RPC) não possui mecanismo de transmissão em lote.
 
-<a id="_3gnlt4p"></a>
+<a id="2.1"></a>
 
 ### 2.1. Inclusão do RVS
 
@@ -1396,6 +1403,8 @@ Caso o adquirente seja pessoa vinculada ao vendedor, selecione o tipo de vincula
 
 Acione **Avançar** para validar os dados e seguir para a próxima tela
 (**Dados do [Negócio](#negocio)**).
+
+<a id="dados_negocio"></a>
 
 **Dados do Negócio**
 
@@ -1587,19 +1596,19 @@ Destina-se ao preenchimento de informações pertinentes ao RVS que não tenham 
 
 Os casos de obrigatoriedade de preenchimento deste campo estão indicados nos seguintes itens:
 
-[5. Quem deve efetuar registro no Siscoserv -- Módulo Venda](#_vx1227) (Capítulo 1)
+[5. Quem deve efetuar registro no Siscoserv -- Módulo Venda](#5) (Capítulo 1)
 
-[3.1 Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS)](#_3gnlt4p)
+[3.1 Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS)](#2.1)
 
-[2.1 Inclusão do RVS](#_1er0t5e) (Capítulo 2)
+[2.1 Inclusão do RVS](#2.1) (Capítulo 2)
 
  [2.1.1 Inclusão de Aditivo ao RVS](#2.1.1)
 
  [2.1.2 Retificação do RVS](#2.1.2)
 
- [2.1.3 Retificação do Aditivo ao RVS](#_3yqobt7)
+ [2.1.3 Retificação do Aditivo ao RVS](#2.1.3)
 
-[2.2 Inclusão do RF](#_2dvym10) (Capítulo 2)
+[2.2 Inclusão do RF](#2.2) (Capítulo 2)
 
 Acione **Avançar** para seguir para o próximo passo.
 
@@ -1640,9 +1649,18 @@ Convém manter controle dos números dos RVS incluídos no Siscoserv, para facil
 
 O aditivo ao RVS deve ser usado para a inclusão de nova
 [operação](#operacao) em um RVS previamente incluído quando houver complementação ou aditamento nos termos do contrato
-([negócio](#negocio)), que envolva execução de outra operação classificada em [NBS diferente](#t18w8t), outra etapa do negócio, ou ainda executada em outro modo de prestação, período ou mesmo em outro país.
+([negócio](#negocio)), que envolva execução de outra operação classificada em [NBS diferente](), outra etapa do negócio, ou ainda executada em outro modo de prestação, período ou mesmo em outro país.
 
-Devido à publicação da NBS 2.0¹⁷, novos serviços¹⁸ derivados de complemento ou aditamento em termo de contrato, que envolva operação iniciada a partir de 1º de janeiro de 2019, não poderão ser registrados por meio de Aditivo em um RAS incluído até o dia 31 de dezembro de 2018.
+Na inclusão de Aditivo, não é possível realizar alterações nos **Dados do Adquirente**, tendo em vista
+tratar-se de dados do registro como um todo e que só podem ser alterados pela função [**Retificar RVS**](#2.1.2).
+
+Devido à publicação da [NBS 2.0](http://www.mdic.gov.br/images/REPOSITORIO/scs/decos/NBS/Anexo_I_NBS_2.0_com_altera%C3%A7%C3%B5es_6.12.18.pdf)¹⁷, novos serviços¹⁸ derivados de complemento ou aditamento em termo de contrato, que envolva operação iniciada a partir de 1º de janeiro de 2019, não poderão ser registrados por meio de Aditivo em um RAS incluído até o dia 31 de dezembro de 2018.
+
+Neste caso, o usuário deverá incluir um novo RVS, classificando o serviço prestado¹⁹ de acordo com a
+[NBS 2.0](http://www.mdic.gov.br/images/REPOSITORIO/scs/decos/NBS/Anexo_I_NBS_2.0_com_altera%C3%A7%C3%B5es_6.12.18.pdf).
+
+A inclusão de nova operação é realizada em [Dados do Negócio](#dados_negocio) e deve obedecer aos prazos descritos
+no item [4.1.1, do Capítulo 1 deste Manual](#4.1.1).
 
 Se for o caso, o usuário deve preencher os campos de **Vinculação à
 Exportação de Bens** e **Informações Complementares**, com os respectivos dados adicionais relativos às operações incluídas.
@@ -1655,7 +1673,7 @@ Para incluir um Aditivo ao RVS, é preciso acessar o *menu* **Aditivo** e em seg
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda do Certificado Digital do usuário.
 
-No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do Vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [procuração eletrônica](#1s66p4f) do representado.
+No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do Vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [procuração eletrônica](#1.3) do representado.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image29.png)
 
@@ -1703,7 +1721,7 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 O RVS ou o Aditivo ao RVS não podem ser cancelados, cabendo apenas retificações.
 
 Não pode ser incluída nova [operação](#operacao) por meio de retificação. Para incluir uma nova operação em um RVS já incluído,
-utilize a função [Inclusão de Aditivo](#_4c5u7s8) ao RVS.
+utilize a função [Inclusão de Aditivo](#2.1.1) ao RVS.
 Para retificar um RVS é preciso acessar o *menu* **RVS** e em seguida
 **Retificar**.
 
@@ -1711,7 +1729,7 @@ Para retificar um RVS é preciso acessar o *menu* **RVS** e em seguida
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda do Certificado Digital do usuário.
 
-No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do Vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [procuração eletrônica](#1s66p4f) do representado.
+No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do Vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [procuração eletrônica](#1.3) do representado.
 
 Para retificar um RVS, o usuário tem como opções: **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
 
@@ -1727,7 +1745,7 @@ do mais recente para o mais antigo. Acione o botão ![](https://github.com/Leona
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image67.png)
 
-Após selecionar o RVS que deseja retificar, siga os passos descritos no tópico [**2.1 - Inclusão do RVS**](#_2rb4i01).
+Após selecionar o RVS que deseja retificar, siga os passos descritos no tópico [**2.1 - Inclusão do RVS**](#2.1).
 
 Após conferir os dados retificados na tela **Resumo do RVS**, acione o botão **Incluir** para retificar o RVS. O Sistema retornará mensagem de confirmação de retificação dos dados no Siscoserv.
 
@@ -1736,7 +1754,7 @@ Após conferir os dados retificados na tela **Resumo do RVS**, acione o botão *
 Os RVS podem ter todos os campos retificados antes da inclusão de
 **Faturamento** da [operação](#operacao). Após o faturamento da operação não podem ser retificados os campos **Código NBS** e
 **Moeda**. Em caso de erro de preenchimento nestes campos para as
-[operações](#operacao) já faturadas, proceda previamente conforme o [item 2.2.2 deste capítulo -- Cancelamento do RF.](#_2wwbldi)
+[operações](#operacao) já faturadas, proceda previamente conforme o [item 2.2.2 deste capítulo -- Cancelamento do RF.](#2.2.2)
 
 Caso, devido à necessidade de cancelamento do RF para retificar o RVS, o usuário perca o prazo de inclusão de RF, devem ser incluídos em
 **Informações Complementares** o número do RF cancelado e o número do RF que o substituiu após a retificação do RVS.
@@ -1747,10 +1765,10 @@ inclusive das operações de aditivos. Os valores previamente cadastrados são m
 A retificação do **Valor da [Operação](#operacao)** só é
 possível se esse for maior ou igual aos valores já faturados.
 
-Após o término do [prazo para inclusão do último RF](#_49x2ik5), o valor total faturado deve coincidir com o
+Após o término do [prazo para inclusão do último RF](#4.2.1), o valor total faturado deve coincidir com o
 **Valor da Operação**, ou seja, o valor do(s) RF(s) devem coincidir com o valor informado no RVS.
 
-Excepcionalmente, se, após o término do [prazo para inclusão do último RF](#_49x2ik5), ocorrer de os valores do RVS e do(s) RF não serem coincidentes:
+Excepcionalmente, se, após o término do [prazo para inclusão do último RF](#4.2.1), ocorrer de os valores do RVS e do(s) RF não serem coincidentes:
 
 
 
@@ -1781,9 +1799,9 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
 
 Não pode ser incluída nova operação por meio de retificação. Para incluir uma nova operação em um RVS já incluído, utilize a função
-[**Inclusão de Aditivo ao RVS** ](#_4c5u7s8).
+[**Inclusão de Aditivo ao RVS** ](#2.1.1).
 
-<a id=""></a>
+<a id="2.1.3"></a>
 
 **2.1.3. Retificação do Aditivo ao RVS**
 
@@ -1796,7 +1814,7 @@ e em seguida **Retificar**.
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda do Certificado Digital do usuário.
 
-No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do Vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [procuração eletrônica](#1s66p4f) do representado.
+No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do Vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [procuração eletrônica](#1.3) do representado.
 
 Para retificar um Aditivo ao RVS, o usuário tem como opções: **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
 
@@ -1811,7 +1829,7 @@ do mais recente para o mais antigo. Acione o botão ![](https://github.com/Leona
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image64.png)
 
-Após selecionar o RVS cujo aditivo se deseja retificar, o Sistema mostra a tela [**Dados do Negócio**](#2981zbj) do RVS selecionado, indicando as [operações](#operacao) cadastradas no registro original e todos os termos aditivos. Há dois tipos de
+Após selecionar o RVS cujo aditivo se deseja retificar, o Sistema mostra a tela [**Dados do Negócio**](#dados_negocio) do RVS selecionado, indicando as [operações](#operacao) cadastradas no registro original e todos os termos aditivos. Há dois tipos de
 ícones: Visualizar -
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image50.png) e Alterar -
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image58.png). O ícone para alterar aparece apenas ao lado do aditivo que se deseja retificar, informado na tela anterior.
@@ -1819,7 +1837,7 @@ Após selecionar o RVS cujo aditivo se deseja retificar, o Sistema mostra a tela
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image53.png)
 
 Ao clicar no ícone
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image58.png) o Sistema mostra a tela [**Dados do Negócio**](#2981zbj) do aditivo que se deseja retificar. O usuário deve efetuar o preenchimento, seguindo os passos descritos no tópico **[2.1.2 do Capítulo 2 deste Manual](#2.1.2) --
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image58.png) o Sistema mostra a tela [**Dados do Negócio**](#dados_negocio) do aditivo que se deseja retificar. O usuário deve efetuar o preenchimento, seguindo os passos descritos no tópico **[2.1.2 do Capítulo 2 deste Manual](#2.1.2) --
 Retificação do RVS.**
 
 Após conferir os dados retificados na tela **Resumo do RVS**, acione o botão **Incluir** para retificar o aditivo ao RVS. O Sistema retornará
@@ -1827,16 +1845,16 @@ mensagem de confirmação de retificação do aditivo.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image90.png)
 
-Os aditivos ao RVS podem ter todos os campos retificados antes da inclusão do **RF** da [operação](#operacao). Após o faturamento da operação, não podem ser retificados os campos **Código NBS** e **Moeda**. Em caso de erro de preenchimento nestes campos para as operações já faturadas, proceder previamente ao cancelamento do RF conforme o [item 2.2.2](#_2wwbldi).
+Os aditivos ao RVS podem ter todos os campos retificados antes da inclusão do **RF** da [operação](#operacao). Após o faturamento da operação, não podem ser retificados os campos **Código NBS** e **Moeda**. Em caso de erro de preenchimento nestes campos para as operações já faturadas, proceder previamente ao cancelamento do RF conforme o [item 2.2.2](#2.2.2).
 
 A retificação do campo **Moeda** é feita apenas na primeira operação inserida em um RVS e altera automaticamente a moeda das demais operações, inclusive das operações de aditivos. Os valores previamente cadastrados são mantidos, ou seja, o Sistema não faz conversão de valores para a nova moeda selecionada, devendo o usuário efetuar os ajustes nos valores, caso necessário.
 
 A retificação do **Valor da Operação** só é possível se esse for maior ou igual aos valores já faturados.
 
-Após o término do [prazo para inclusão do último R](#_49x2ik5) o valor total pago deve coincidir com o **Valor da Operação**, ou seja, o valor do(s) RF(s)
+Após o término do [prazo para inclusão do último R](#4.2.1) o valor total pago deve coincidir com o **Valor da Operação**, ou seja, o valor do(s) RF(s)
 devem coincidir com o valor informado no RVS.
 
-Excepcionalmente, se, após o término do [prazo para inclusão do último RF](#_49x2ik5), ocorrer de os valores do RVS e do(s) RF não serem coincidentes:
+Excepcionalmente, se, após o término do [prazo para inclusão do último RF](#4.2.1), ocorrer de os valores do RVS e do(s) RF não serem coincidentes:
 
 <ol type="a">
 <li> caso o serviço prestado tenha valor diferente do inicialmente registrado, o usuário deve retificar o aditivo do RVS o <strong>Valor da Operação</strong> de forma a corresponder ao valor do serviço efetivamente prestado;
@@ -1865,7 +1883,7 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
 
-<a id=""></a>
+<a id="2.1.4"></a>
 
 **2.1.4. Consulta ao RVS ou ao Aditivo ao RVS**
 
@@ -1883,7 +1901,7 @@ e em seguida **Consultar**.
 
 Ao clicar o botão **Consultar**, o campo CPF do usuário é preenchido automaticamente pelo Sistema com informação advinda do Certificado Digital do usuário.
 
-No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do Vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [procuração eletrônica](#1s66p4f) do representado.
+No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do Vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [procuração eletrônica](#1.3) do representado.
 
 Para consultar um RVS ou um Aditivo ao RVS, o usuário tem como opções:
 **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
@@ -1907,7 +1925,7 @@ Após selecionar o RVS que deseja consultar, o Sistema apresenta a tela
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image40.jpg)
 
-<h3 id="">2.2. Inclusão do RF</h3>
+<h3 id="2.2">2.2. Inclusão do RF</h3>
 
 A partir do **Módulo Venda**, no *menu* **RF**, há 3 funções:
 **Incluir**, **Cancelar** e **Consultar**.
@@ -1947,7 +1965,7 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 >    c\)preencher a data da nota fiscal ou do documento equivalente ou
 >    selecioná-la, clicando no ícone <strong>Calendário</strong>
 >
->    d\)inserir o <a href="#2szc72q"> valor faturado </a>, o <a href="3s49zyc">valor mantido
+>    d\)inserir o <a href="#valor_faturado"> valor faturado </a>, o <a href="valor_mantido_no_exterior">valor mantido
 >    no exterior</a>, se for o caso, e clicar no botão
 >    <strong>Adicionar Dado</strong>. Caso haja outra operação a faturar no mesmo RVS, com
 >    a mesma data e referente à mesma nota fiscal de serviço ou documento
@@ -1972,7 +1990,7 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 > documento equivalente.
 
 Após a **Data de Conclusão** da operação, o valor total faturado deve coincidir com o **Valor da Operação**, na moeda do RVS. Caso os valores sejam divergentes, o usuário deve retificar o **Valor da Operação**
-utilizando os passos descritos no item [2.1.2 (Retificação do RVS)](#2.1.2) e [2.1.3 (Retificação do Aditivo ao RVS)](#_16ges7u), se for o caso.
+utilizando os passos descritos no item [2.1.2 (Retificação do RVS)](#2.1.2) e [2.1.3 (Retificação do Aditivo ao RVS)](#2.1.3), se for o caso.
 
 Todas as retificações de valor no RVS realizadas após o primeiro RF devem ser justificadas no campo **Informações Complementares**.
 
@@ -1997,7 +2015,8 @@ O Sistema confirmará o recebimento dos dados e gerará um número próprio para
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image99.png)
 
-<a id=""></a>
+<a id="2.2.1"></a>
+
 **2.2.1. Retificação do RF**
 
 Esta função permite ao usuário retificar um RF.
@@ -2063,7 +2082,7 @@ a retificação dos dados do RF.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image52.png)
 
-<a id=""></a>
+<a id="2.2.2"></a>
 
 **2.2.2. Cancelamento do RF**
 
@@ -2112,7 +2131,7 @@ Caso o usuário acesse novamente o *menu* **RF \> Cancelar**, observará a
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image43.png)
 
-<a id=""></a>
+<a id="2.2.3"></a>
 
 **2.2.3. Consulta ao RF**
 
@@ -2153,7 +2172,7 @@ Em seguida, é exibida a tela **Resumo do RF**.
 
 ### 2.3. Registro de Presença Comercial no Exterior (RPC)
 
-<strong id="_r2r73f">2.3.1. Inclusão do RPC</strong>
+<strong id="2.3.1">2.3.1. Inclusão do RPC</strong>
 
 Para incluir um **Registro de Presença Comercial no Exterior (RPC)** é
 preciso acessar o *menu* operações e escolher a opção **RPC** e em seguida a opção **Incluir**.
@@ -2163,7 +2182,7 @@ preciso acessar o *menu* operações e escolher a opção **RPC** e em seguida a
 O campo CPF do Usuário é preenchido automaticamente pelo Sistema com informação advinda de seu Certificado Digital.
 
 No campo **CNPJ da Domiciliada no Brasil**, o usuário representante legal deve informar o CNPJ da domiciliada no Brasil que possui filial,
-sucursal e controlada no exterior. Para atuar como representante legal de pessoa jurídica, o usuário deve possuir [procuração eletrônica](#1s66p4f) da pessoa jurídica representada.
+sucursal e controlada no exterior. Para atuar como representante legal de pessoa jurídica, o usuário deve possuir [procuração eletrônica](#1.3) da pessoa jurídica representada.
 
 Para iniciar a inclusão do registro, há duas opções: **Criar Novo RPC**
 ou **Aproveitar Dados de RPC Incluído**.
@@ -2363,7 +2382,7 @@ Para retificar um RPC é preciso acessar o *menu* **RPC** e em seguida
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda de seu Certificado Digital.
 
 No campo **CNPJ da Domiciliada no Brasil**, o usuário representante legal deve informar o CNPJ da domiciliada no Brasil que possui filial,
-sucursal e controlada no exterior. Para atuar como representante legal de pessoa jurídica, o usuário deve possuir [procuração eletrônica](#1s66p4f) da pessoa jurídica representada.
+sucursal e controlada no exterior. Para atuar como representante legal de pessoa jurídica, o usuário deve possuir [procuração eletrônica](#1.3) da pessoa jurídica representada.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image7.png)
 
@@ -2400,7 +2419,7 @@ Para cancelar um RPC é preciso acessar o *menu* **RPC** e em seguida
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda de seu Certificado Digital.
 
 No campo **CNPJ da Domiciliada no Brasil,** o usuário representante legal deve informar o CNPJ da domiciliada no Brasil que possui filial,
-sucursal e controlada no exterior. Para atuar como representante legal de pessoa jurídica, o usuário deve possuir [procuração eletrônica](#1s66p4f) da pessoa jurídica representada.
+sucursal e controlada no exterior. Para atuar como representante legal de pessoa jurídica, o usuário deve possuir [procuração eletrônica](#1.3) da pessoa jurídica representada.
 
 Para cancelar um RPC, o usuário tem como opções: **Informar o Número do RPC** ou **Exibir Lista de RPC Incluídos**.
 
@@ -2430,7 +2449,7 @@ Para consultar um RPC é preciso acessar o *menu* **RPC** e em seguida
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda de seu Certificado Digital.
 
 No campo **CNPJ da Domiciliada no Brasil,** o usuário representante legal deve informar o CNPJ da domiciliada no Brasil que possui filial,
-sucursal e controlada no exterior. Para atuar como representante legal de pessoa jurídica, o usuário deve possuir [procuração eletrônica](#1s66p4f) da pessoa jurídica representada.
+sucursal e controlada no exterior. Para atuar como representante legal de pessoa jurídica, o usuário deve possuir [procuração eletrônica](#1.3) da pessoa jurídica representada.
 
 Para consultar um RPC, o usuário tem como opções: **Informar o Número do RPC** ou **Exibir Lista de RPC Incluídos**.
 
