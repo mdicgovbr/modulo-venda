@@ -49,7 +49,7 @@
 
 [10.1 - Mecanismos de Apoio / Fomento (Enquadramento) no RVS do Módulo Venda:](#10.1)
 
-[10.2 - Mecanismos de Apoio / Fomento (Enquadramento) no RPC do Módulo Venda:](#_17nz8yj)
+[10.2 - Mecanismos de Apoio / Fomento (Enquadramento) no RPC do Módulo Venda:](#10.2)
 
 [**11. Informações e canais de atendimento** ](#_39kk8xu)
 
@@ -101,9 +101,9 @@
 
 [2.3.1. Inclusão do RPC](#2.3.1)
 
-[2.3.2. Retificação do RPC](#_3b2epr8)
+[2.3.2. Retificação do RPC](#2.3.2)
 
-[2.3.3. Cancelamento do RPC](#_1q7ozz1)
+[2.3.3. Cancelamento do RPC](#2.3.3)
 
 [2.3.4. Consulta ao RPC](#_4a7cimu)
 
@@ -736,8 +736,8 @@ http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/
 |**FGE - Fundo de Garantia** à Exportação Garantia prestada pela União nas operações de Seguro de Crédito à Exportação (SCE), que objetiva segurar as exportações brasileiras contra os riscos comerciais, políticos e extraordinários que possam afetar as transações econômicas e financeiras vinculadas a operações de crédito à exportação.|Lei nº 6.704, de 26 de outubro de 1979 Lei no 9.818, de 23 de agosto de 1999 Maiores informações em FGE.|
 |**PROEX - EQUALIZAÇÃO** Cobertura de parte dos encargos financeiros incidentes, de forma a tornar as taxas de juros equivalentes às praticadas internacionalmente.|Lei no 10.184, de 12 de fevereiro de 2001 Portaria MDIC no 208, de 20 de outubro de 2010|
 
-<a id="_2w5ecyt"></a>
-<a id="_17nz8yj"></a>
+<a id="10.2"></a>
+<a id="10.2"></a>
 ### 10.2. Mecanismos de Apoio / Fomento (Enquadramento) no RPC do Módulo Venda: 
 
 
@@ -2337,7 +2337,7 @@ Deve ser especificado o valor faturado da [operação](#operacao) amparada em **
 
 **Mecanismos de apoio/fomento**
 
-O Sistema exibirá lista de mecanismos de apoio/fomento disponíveis para seleção. Para maiores informações, inclusive sobre os mecanismos disponíveis, veja o [item 10.2 no capítulo 1](#_2w5ecyt).
+O Sistema exibirá lista de mecanismos de apoio/fomento disponíveis para seleção. Para maiores informações, inclusive sobre os mecanismos disponíveis, veja o [item 10.2 no capítulo 1](#10.2).
 
 Selecione o mecanismo de apoio/fomento utilizado e clique em
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png) para adicioná-lo ao RPC. Para adicionar outro mecanismo de apoio/fomento referente à mesma operação, selecione o mecanismo e clique em ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png). Esse procedimento deve ser repetido para cada mecanismo a ser adicionado em uma mesma operação.
@@ -2372,7 +2372,7 @@ O Sistema retornará mensagem de confirmação da inclusão dos dados no Siscose
 
 Convém manter controle dos números de RPC incluídos no Siscoserv, para facilitar eventuais retificações posteriores.
 
-<strong id="_3b2epr8">2.3.2. Retificação do RPC</strong>
+<strong id="2.3.2">2.3.2. Retificação do RPC</strong>
 
 Para retificar um RPC é preciso acessar o *menu* **RPC** e em seguida
 **Retificar**.
@@ -2397,11 +2397,11 @@ do mais recente para o mais antigo. Acione o botão ![](https://github.com/Leona
 do mais recente para o mais antigo. Acione o botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser retificado.
 
 Selecionado o RPC a ser retificado, siga os passos descritos no tópico
-[**2.3.1 - Inclusão do RPC.**](#_3qg2avn)
+[**2.3.1 - Inclusão do RPC.**](#2.3.1)
 
 Após conferir os dados retificados na tela **Resumo do RPC**, acione o botão **Retificar**. O Sistema retornará mensagem de confirmação de retificação dos dados no Siscoserv.
 
-<strong id="_1q7ozz1">2.3.3. Cancelamento do RPC</strong>
+<strong id="2.3.3">2.3.3. Cancelamento do RPC</strong>
 
 Esta função permite ao usuário cancelar um RPC.
 
