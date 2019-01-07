@@ -1652,7 +1652,7 @@ Convém manter controle dos números dos RVS incluídos no Siscoserv, para facil
 
 O aditivo ao RVS deve ser usado para a inclusão de nova
 [operação](#operacao) em um RVS previamente incluído quando houver complementação ou aditamento nos termos do contrato
-([negócio](#negocio)), que envolva execução de outra operação classificada em [NBS diferente](#), outra etapa do negócio, ou ainda executada em outro modo de prestação, período ou mesmo em outro país.
+([negócio](#negocio)), que envolva execução de outra operação classificada em [NBS diferente](#2.1.1), outra etapa do negócio, ou ainda executada em outro modo de prestação, período ou mesmo em outro país.
 
 Na inclusão de Aditivo, não é possível realizar alterações nos **Dados do Adquirente**, tendo em vista
 tratar-se de dados do registro como um todo e que só podem ser alterados pela função [**Retificar RVS**](#2.1.2).
