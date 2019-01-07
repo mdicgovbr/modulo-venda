@@ -187,6 +187,7 @@ aprovado pelo Decreto Legislativo nº 30, de 15 de dezembro de 1994, e promulgad
 30 de dezembro de 1994.
 
 <a id="_488uthg"></a>
+
 ## 2. Base Legal do Siscoserv
 
 [Lei nº 12.546, de 14 de dezembro de 2011, artigos 24 a 27.](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12546.htm)
@@ -209,11 +210,11 @@ A prestação de informação no Siscoserv observa as normas complementares esta
 O Siscoserv conta com dois Módulos: **Venda e Aquisição**.
 
 No **Módulo Venda** devem ser registrados os serviços,
-[intangíveis](#intangivel) e [outras operações que produzam variações no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio), vendidos por
+[intangíveis](#intangivel) e [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio), vendidos por
 [residentes](#residente) ou domiciliados no País a residentes ou domiciliados no exterior. Este módulo abrange também o registro das operações realizadas por meio de presença comercial no exterior.
 
 No **Módulo Aquisição** devem ser registrados os serviços,
-[intangíveis](#intangivel) e [outras operações que produzam variações no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio), adquiridos por
+[intangíveis](#intangivel) e [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio), adquiridos por
 [residentes](#residente) ou domiciliados no País, de residentes ou domiciliados no exterior.
 
 Para maiores informações sobre o Modulo Aquisição acesse:
@@ -226,7 +227,7 @@ Para maiores informações sobre o Modulo Aquisição acesse:
 No Módulo Venda do Siscoserv estão previstos os seguintes registros:
 
 \- Registro de Venda de Serviços (RVS): contém dados referentes à venda,
-por [residente](#residente) ou domiciliado no País, de serviços, [intangíveis](#intangivel) e [outras operações que produzam variações no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio), a residente ou domiciliado no exterior;
+por [residente](#residente) ou domiciliado no País, de serviços, [intangíveis](#intangivel) e [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio), a residente ou domiciliado no exterior;
 
 \- Registro de Faturamento (RF): contém dados referentes ao faturamento decorrente de venda objeto de prévio RVS; e
 
@@ -321,7 +322,7 @@ A operação cujo valor não seja conhecido por ocasião do seu registro em fun�
 
 **4.3.3. Operação com pessoas físicas residentes no exterior mediante consumo no Brasil:**
 
-As vendas de serviços, [intangíveis](#intangivel) e [outras operações que produzam variações no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio),
+As vendas de serviços, [intangíveis](#intangivel) e [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio),
 em [modo de prestação 2](#1mrcu09) (consumo no Brasil),
 realizadas com pessoas físicas residentes no exterior, poderão ser registradas pelos seus montantes acumulados mensalmente, por NBS e por País do Adquirente. Nesse caso, a data de início será o primeiro dia do mês e a data de conclusão será o último dia do mês para as operações ocorridas nesse período. Exemplo: venda no Brasil de serviços de hospedagem para funcionário de empresa domiciliada no exterior.
 
@@ -380,7 +381,7 @@ Devem ser registradas no Siscoserv as operações realizadas por meio de presen�
 
 A responsabilidade de efetuar o Registro de Presença Comercial no Exterior (RPC) no Módulo Venda do Siscoserv é da pessoa jurídica domiciliada no Brasil que mantenha filial, sucursal ou
 [controlada](#2nusc19) domiciliada no exterior para a prestação de serviços, transferência de
-[intangíveis](#intangivel) ou realização de [outras operações que produzam variações no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio).
+[intangíveis](#intangivel) ou realização de [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio).
 
 No RPC deve ser registrada a receita anual total de venda de serviço, de transferência de intangível e de realização de outra operação que produza variação no patrimônio, obtida por meio do estabelecimento de presença comercial no exterior de filial, sucursal ou
 [controlada](#2nusc19) relacionada à pessoa jurídica domiciliada no Brasil.
@@ -405,7 +406,7 @@ A prestação das informações no RPC deve ser realizada anualmente, a partir d
 Estão obrigados a registrar as informações no Sistema -- Módulo Venda,
 os [residentes](#residente) ou domiciliados no Brasil que realizem, com residentes ou domiciliados no exterior,
 [operações](#operacao) de venda de serviços,
-[intangíveis](#intangivel) e [outras operações que produzam variações no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio) das pessoas físicas, das pessoas jurídicas ou dos entes despersonalizados, inclusive operações de exportação de serviços.
+[intangíveis](#intangivel) e [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio) das pessoas físicas, das pessoas jurídicas ou dos entes despersonalizados, inclusive operações de exportação de serviços.
 
 Estão obrigados a efetuar registro no Módulo Venda do Siscoserv:
 
@@ -415,7 +416,7 @@ II - a pessoa física ou jurídica, residente ou domiciliada no Brasil,
 que transfere o intangível, inclusive os direitos de propriedade intelectual, por meio de cessão, concessão, licenciamento ou por quaisquer outros meios admitidos em direito; e
 
 III - a pessoa física ou jurídica ou o responsável legal do ente despersonalizado, residente ou domiciliado no Brasil, que realize
-[outras operações que produzam variações no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio).
+[Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio).
 
 Para fins do Módulo Venda do Siscoserv, são considerados prestadores de serviço os residentes ou domiciliados no Brasil que faturam os residentes ou domiciliados no exterior.
 
@@ -569,12 +570,12 @@ desde que não sejam contrárias aos textos das referidas posições e Notas, pe
 [intangível](#intangivel) ou [outra operação que produza variações](#outras_operacoes_que_produzam_variacoes_de_patrimonio) no patrimônio pode ser classificado em duas ou mais posições, a classificação efetuar-se-á da seguinte forma:
 
 2a) A posição mais específica prevalece sobre a mais genérica. Todavia,
-quando duas ou mais posições se referirem, cada uma delas, a apenas um dos serviços, [intangíveis](#intangivel) ou [outras operações que produzam variações no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio) que constituam o objeto a ser classificado, tais posições devem ser consideradas como igualmente específicas, ainda que uma dessas posições apresente uma descrição mais precisa ou completa desse objeto.
+quando duas ou mais posições se referirem, cada uma delas, a apenas um dos serviços, [intangíveis](#intangivel) ou [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio) que constituam o objeto a ser classificado, tais posições devem ser consideradas como igualmente específicas, ainda que uma dessas posições apresente uma descrição mais precisa ou completa desse objeto.
 
 2b) Quando a Regra 2a) não permitir efetuar a classificação, o serviço,
 intangível ou [outra operação que produza variações no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio) classificar-se-á na posição situada em último lugar na ordem numérica, dentre as suscetíveis de serem consideradas válidas.
 
-**Regra 3.** A classificação de serviços, intangíveis e [outras operações que produzam variações no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio)
+**Regra 3.** A classificação de serviços, intangíveis e [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio)
 nas subposições de uma mesma posição é determinada, para efeitos legais,
 pelos textos dessas subposições e, quando houver, das Notas de Subposição respectivas, assim como, \"*mutatis mutandis*\", pelas Regras precedentes, entendendo-se que apenas são comparáveis subposições do mesmo nível. Para os fins da presente Regra, as Notas de Seção e de Capítulo são também aplicáveis, salvo disposições em contrário.
 
@@ -847,7 +848,7 @@ tributárias, fiscais, comerciais e estatísticas da operação. 
 
 <a id="mecanismo_de_apoio_fomento"></a>
 
-**Mecanismo de Apoio/Fomento:** Mecanismos de apoio ou fomento de diversas naturezas (promocional, tributária, creditícia e financeira) a operações de comércio exterior de serviços, intangíveis e [outras operações que produzam variações no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio).
+**Mecanismo de Apoio/Fomento:** Mecanismos de apoio ou fomento de diversas naturezas (promocional, tributária, creditícia e financeira) a operações de comércio exterior de serviços, intangíveis e [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio).
 
 <a id="ente_despersonalizado"></a>
 
@@ -2273,7 +2274,7 @@ Acione **Avançar** para validar os dados e seguir para a próxima tela
 
 **2. Dados do Negócio**
 
-Em dados do negócio, são incluídas informações relativas à venda de serviços, transferência de [intangíveis](#intangivel) e realização de [outras operações que produzam variação no patrimônio](#outras_operacoes_que_ produzam_variacoes_de_patrimonio) pela presença comercial relacionada à
+Em dados do negócio, são incluídas informações relativas à venda de serviços, transferência de [intangíveis](#intangivel) e realização de [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio) pela presença comercial relacionada à
 pessoa jurídica domiciliada no Brasil.
 
 ![Tela RPC11](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image39.png)
@@ -2285,7 +2286,7 @@ Indique o ano-calendário a que se refere à **Receita Total.**
 **Receita Total**
 
 Informe a receita total anual da presença comercial, em dólar dos Estados Unidos da América, com a venda de serviços, a transferência de
-[intangíveis](#intangivel) e a realização de [outras operações que produzam variações no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio)
+[intangíveis](#intangivel) e a realização de [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio)
 no **Ano da apuração**.
 
 A conversão em dólar dos Estados Unidos da América deve ser efetuada tomando-se por base a taxa de câmbio para venda do dia 31 de dezembro do
@@ -2293,7 +2294,7 @@ A conversão em dólar dos Estados Unidos da América deve ser efetuada tomando-
 
 **Posição NBS / Descrição da posição da NBS**
 
-Informe o(s) código(s) da NBS, em nível de posição, mais representativo(s) em relação à **Receita Total** obtida da venda de serviços, transferência de [intangíveis](#intangivel) e realização de [outras operações que produzam variações no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio) pela presença comercial.
+Informe o(s) código(s) da NBS, em nível de posição, mais representativo(s) em relação à **Receita Total** obtida da venda de serviços, transferência de [intangíveis](#intangivel) e realização de [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio) pela presença comercial.
 
 A partir de 2019, caso a empresa indique mais de uma **NBS mais representativa**, o Sistema abrirá um campo para que seja indicado o percentual de cada uma dessas NBS em relação à **Receita Total** aferida pela presença comercial no ano anterior.
 
