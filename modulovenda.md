@@ -239,6 +239,7 @@ por [residente](#residente) ou domiciliado no País, de serviços, [intangíveis
 
 <a id="4.1cap1"></a>
 
+<a id="_3mj2wkv"></a>
 ### 4.1. Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS)
 
 O Registro de Venda de Serviços, [Intangíveis](#intangivel) e
@@ -302,14 +303,12 @@ Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previ
 
 <a id="4.3cap1"></a>
 
+<a id="_1fyl9w3"></a>
 ### 4.3. Situações especiais de registro
 
-<a id="4.3.1"></a>
 
 **4.3.1. Operação com data de conclusão indeterminada:**
-
-
-A operação cuja data de conclusão não seja conhecida por ocasião do seu registro em razão de não ter sido pactuada entre as partes pode ser objeto de registros periódicos, conforme itens 2.1 (Inclusão do RVS) ou 2.1.1 (Inclusão de Aditivo ao RVS) do capítulo 2 deste Manual. Nesse caso, a data de início e a data de conclusão devem ser indicadas dentro do mesmo ano-calendário. Posteriormente, a data de conclusão poderá ser ajustada, mediante retificação, conforme descrito nos itens 2.1.2
+2.1.1 (Inclusão de Aditivo ao RVS) do capítulo 2 deste Manual. Nesse caso, a data de início e a data de conclusão devem ser indicadas dentro do mesmo ano-calendário. Posteriormente, a data de conclusão poderá ser ajustada, mediante retificação, conforme descrito nos itens 2.1.2
 (Retificação do RVS) ou 2.1.3 (Retificação do Aditivo ao RVS) do capítulo 2 deste Manual.
 
 <a id="4.3.2"></a>
@@ -355,22 +354,29 @@ Nesse caso, a data de início será o primeiro dia do mês e a data de conclusã
 A inclusão do RVS será feita observadas as seguintes instruções específicas para preenchimento:
 
 I - Nome do Adquirente, Endereço do Adquirente, e NIF - inserir a expressão: "DIVERSOS";
+
 II - País do Adquirente: indicar o país de residência dos passageiros;
+
 III - País de Destino: indicar o mesmo país inserido no campo **País do Adquirente**.
+
 IV - Valor da Operação: informar o somatório dos valores relacionados às operações cuja realização ocorreu no mês de referência;
+
 V - Data de Início e Data de Conclusão: informar o primeiro e o último dia do mês de referência.
 
 A inclusão do RF será feita observadas adicionalmente as seguintes instruções específicas para preenchimento:
 
 I - Data da Fatura: informar o último dia do mês;
+
 II - Valor da Fatura: informar o somatório do valor faturado no mês;
+
 III - Número da NF de Serviço ou documento equivalente: inserir a expressão: "DIVERSOS".
 
 <a id="4.4"></a>
 
 ### 4.4. Registro de Presença Comercial no Exterior (RPC)
 
-Devem ser registradas no Siscoserv as operações realizadas por meio de presença comercial no exterior, modo 3, relacionada a pessoa jurídica domiciliada no Brasil, conforme alínea "d" do Artigo XXVIII do GATS(Acordo Geral sobre o Comércio de Serviços), aprovado pelo Decreto Legislativo nº 30, de 15 de dezembro de 1994, e promulgado pelo Decreto nº 1.355, de 30 de dezembro de
+Devem ser registradas no Siscoserv as operações realizadas por meio de presença comercial no exterior, modo 3, relacionada a pessoa jurídica domiciliada no Brasil, conforme alínea "d" do Artigo XXVIII do GATS
+(Acordo Geral sobre o Comércio de Serviços), aprovado pelo Decreto Legislativo nº 30, de 15 de dezembro de 1994, e promulgado pelo Decreto nº 1.355, de 30 de dezembro de
 1994.
 
 A responsabilidade de efetuar o Registro de Presença Comercial no Exterior (RPC) no Módulo Venda do Siscoserv é da pessoa jurídica domiciliada no Brasil que mantenha filial, sucursal ou
@@ -380,7 +386,8 @@ A responsabilidade de efetuar o Registro de Presença Comercial no Exterior (RPC
 No RPC deve ser registrada a receita anual total de venda de serviço, de transferência de intangível e de realização de outra operação que produza variação no patrimônio, obtida por meio do estabelecimento de presença comercial no exterior de filial, sucursal ou
 [controlada](#2nusc19) relacionada à pessoa jurídica domiciliada no Brasil.
 
-Deve(m) ser informada(s) no RPC a(s) posição(ões) da NBS mais representativas da receita anual total com venda de serviço, transferência de intangível e realização de outra operação que produza variação no patrimônio.
+Deve(m) ser informada(s) no RPC a(s) posição(ões) da NBS mais representativas da receita anual total com venda de serviço,
+transferência de intangível e realização de outra operação que produza variação no patrimônio.
 
 Caso a pessoa jurídica domiciliada no Brasil mantenha, no exterior, mais de uma filial, sucursal ou [controlada](#2nusc19) no mesmo país, a receita anual total com venda de serviços, transferência de intangível e realização de outra operação que produza variação no patrimônio, será discriminada mediante um RPC para cada filial, sucursal e controlada.
 
@@ -394,6 +401,8 @@ A prestação das informações no RPC deve ser realizada anualmente, a partir d
 
 <a id="5"></a>
 
+<a id="_vx1227"></a>
+<a id="_3zy8sjw"></a>
 ## 5. Quem deve efetuar registro no Siscoserv -- Módulo Venda
 
 Estão obrigados a registrar as informações no Sistema -- Módulo Venda,
@@ -462,7 +471,8 @@ mediante movimentação temporária de profissionais e contra esta fatura a pres
 
 ## 6. Quem está dispensado de efetuar registro no Siscoserv -- Módulo Venda
 
-Estão dispensadas do registro no Siscoserv, **nas operações que não tenham utilizado mecanismos de apoio** ao comércio exterior de serviços, de intangíveis e demais operações de que trata o art. 26 da Lei nº 12.546, de 14 de dezembro de 2011:
+Estão dispensadas do registro no Siscoserv, **nas operações que não tenham utilizado mecanismos de apoio** ao comércio exterior de serviços,
+de intangíveis e demais operações de que trata o art. 26 da Lei nº 12.546, de 14 de dezembro de 2011:
 
 I - Empresas cadastradas no SIMPLES NACIONAL e MEI - as pessoas jurídicas optantes pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte -- Simples Nacional e os Microempreendedores Individuais
 (MEI) de que trata o §1º do artigo 18-A da Lei Complementar nº 123, de 14 de dezembro de 2006; e
@@ -534,9 +544,10 @@ Exemplos:
 
 Devem registrar [operações](#operacao) em Modo 4 no Módulo Venda do Siscoserv:
 
-> a)  as pessoas físicas [residentes no Brasil](#1tuee74),sem vínculo empregatício com pessoa física ou jurídica residente ou domiciliada no Brasil, quando se desloquem temporariamente a um país estrangeiro com vistas a prestar um serviço a um residente ou domiciliado no exterior (por exemplo, os profissionais independentes);
+> a)  as pessoas físicas [residentes no Brasil](#1tuee74),
+sem vínculo empregatício com pessoa física ou jurídica residente ou domiciliada no Brasil, quando se desloquem temporariamente a um país estrangeiro com vistas a prestar um serviço a um residente ou domiciliado no exterior (por exemplo, os profissionais independentes);
 
-> b)  as pessoas jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física [residente no Brasil](#1tuee74), com vínculo empregatício ou por meio de terceirização, para a prestação de serviço a residentes ou domiciliados no exterior (por exemplo, prestadores de serviços por contrato ou visitantes de negócios).
+> b)  as pessoas jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física [[residente no Brasil]{.underline}](#1tuee74), com vínculo empregatício ou por meio de terceirização, para a prestação de serviço a residentes ou domiciliados no exterior (por exemplo, prestadores de serviços por contrato ou visitantes de negócios).
 
 Não deverão registrar operações em Modo 4 no Siscoserv as Pessoas Jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física para exercer vínculo empregatício com Pessoa Jurídica no exterior a ela relacionada (por exemplo, transferido intracorporação).
 
@@ -602,7 +613,7 @@ f\) o nono dígito é o subitem.
 
 A sistemática de classificação dos códigos da NBS obedece à seguinte estrutura:
 
-> graphic](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image162.png)
+![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image162.png)
 
 
 a\) o algarismo 1, da esquerda para a direita, sinaliza que se trata de código que se aloja na NBS;
@@ -623,18 +634,17 @@ então o algarismo deveria ser diferente de zero).
 
 Dessa maneira, fica claro que nem sempre o código NBS se apresenta totalmente desdobrado, isto é, um algarismo diferente de zero para subitem como, por exemplo:
 
- |Código NBS  |   Descrição                                                   |
- |------------|---------------------------------------------------------------|
- |1.0119.10.00|   Serviços de construção de estruturas de prédios             |
- |1.0606.10.00|  Serviços de operação de aeroportos, exceto manuseio de cargas|
- |1.0905.91.00|  Serviços de consultoria financeira|
- |1.2206.19.10|  Serviços de palestras e conferências|
+  1.0119.10.00   Serviços de construção de estruturas de prédios
+  -------------- ---------------------------------------------------------------
+  1.0606.10.00   Serviços de operação de aeroportos, exceto manuseio de cargas
+  1.0905.91.00   Serviços de consultoria financeira
+  1.2206.19.10   Serviços de palestras e conferências
 
 O usuário pode informar diretamente o código, ou localizá-lo acionando a ferramenta de busca: ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image21.png), situada ao lado do campo **Código NBS**.
 
 Na informação do código NBS, a posição mais específica prevalece sobre a mais genérica, sendo que o código só pode ser informado em seu maior nível de detalhamento (nove dígitos).
 
-> *Exemplo 1:*
+> *[Exemplo 1:]{.underline}*
 >
 > Código NBS
 >
@@ -652,7 +662,7 @@ Na informação do código NBS, a posição mais específica prevalece sobre a m
 >
 > **Código a ser informado**: 1.0105.11.00
 >
-> *Exemplo 2:*
+> *[Exemplo 2:]{.underline}*
 >
 > **Capítulo 1:** 1.07
 >
@@ -763,8 +773,8 @@ Em caso de erros ou falhas apresentados pelo Sistema, estão disponíveis os can
 > ou*\
 > - *Fone: 0800-978-2331.*
 
--   **Dúvidas sobre classificação de serviços, intangíveis e outras
-    operações que produzam variações no patrimônio:**
+-   **[Dúvidas sobre classificação de serviços, intangíveis e outras
+    operações que produzam variações no patrimônio:]{.underline}**
 
 Deve ser realizada consulta às Regras de Interpretação da Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio -- NBS, bem como às suas Notas Explicativas
 (NEBS), disponíveis nos seguintes endereços eletrônicos:
@@ -789,8 +799,11 @@ Também está disponível no sítio da Secretaria de Comércio e Serviços
 -   **[Dúvidas sobre casos concretos -- Consultas à Secretaria da
     Receita Federal do Brasil ]**
 
-A consulta é o instrumento previsto na [Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=46030)
-que o contribuinte possui para esclarecer dúvidas quanto à interpretação de determinado dispositivo da legislação tributária e aduaneira relativo aos tributos administrados pela Secretaria da Receita Federal do Brasil(RFB) e sobre a classificação de serviços, intangíveis e outras operações que produzam variações no patrimônio.
+A consulta é o instrumento previsto na [[Instrução Normativa RFB n º
+1.396, de 16 de setembro de
+2013]{.underline}](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=46030)
+que o contribuinte possui para esclarecer dúvidas quanto à interpretação de determinado dispositivo da legislação tributária e aduaneira relativo aos tributos administrados pela Secretaria da Receita Federal do Brasil
+(RFB) e sobre a classificação de serviços, intangíveis e outras operações que produzam variações no patrimônio.
 
 Devido às possíveis implicações tributárias, as dúvidas concretas referentes às necessidades de registro, à responsabilidade pelo registro, à classificação NBS, às multas e aos prazos, entre outras,
 deverão ser formalizadas mediante consulta à RFB, a qual dará origem a uma Solução de Consulta ou a uma Solução de Divergência. Importante destacar a necessidade de expor com detalhes a circunstância, examinando a questão face ao preceito legal que lhe é pertinente.
@@ -880,7 +893,8 @@ variação(ões) no patrimônio.
 
 **Operação:** conjunto de dados que caracterizam a prestação de um serviço, a transferência ou aquisição de intangível e a realização de operação que produza variação no patrimônio.
 
-No RVS, são dados de uma operação: Código da NBS, Descrição da NBS, Código e País de Destino; Código e Descrição da Moeda; Modo de Prestação; Data de Início; Data de Conclusão; Valor e, se for o caso,
+No RVS, são dados de uma operação: Código da NBS, Descrição da NBS,
+Código e País de Destino; Código e Descrição da Moeda; Modo de Prestação; Data de Início; Data de Conclusão; Valor e, se for o caso,
 Mecanismo de apoio/fomento.
 
 No RPC são dados de uma operação: Código da NBS, Descrição da NBS e Valor Faturado. Os dados de uma operação no RPC só devem ser preenchidos quando a operação for amparada por mecanismo de fomento ao comércio exterior de serviços, ou seja, quando for preenchido o campo Mecanismo de apoio/fomento.
@@ -939,8 +953,11 @@ financeira, cambial e fiscal que caracterizam a operação de exportação de um
 > retorne ao País com ânimo definitivo, na data da chegada;
 >
 > V - que se ausente do Brasil em caráter temporário, ou se retire em
-> caráter permanente do território nacional sem entregar a [Comunicação de Saída Definitiva do país](http://www.receita.fazenda.gov.br/PessoaFisica/IRPF/2011/glossario.html#5939266742eb5e38f545ffbcfaa734e986a45f13),
-> durante os primeiros doze meses consecutivos de ausência.
+> caráter permanente do território nacional sem entregar a [[Comunicação
+> de Saída Definitiva do
+> País]{.underline}](http://www.receita.fazenda.gov.br/PessoaFisica/IRPF/2011/glossario.html#5939266742eb5e38f545ffbcfaa734e986a45f13),
+> durante os primeiros doze meses consecutivos de ausência.<a id="2szc72q"></a>  
+>
 
 <a id="valor_faturado"></a>
 
@@ -989,7 +1006,6 @@ O Certificado Digital permite a identificação de uma pessoa no ambiente digita
 A lista de autoridades certificadoras, habilitadas pela Secretaria da Receita Federal do Brasil (RFB) para emissão de Certificados Digitais e-CPF, está disponível em:
 
 <a id="_1yyy98l"></a>[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
-
 
 <a id="1.3"></a>
 # 1.3. O que é e como obter a Procuração Eletrônica
@@ -1066,7 +1082,8 @@ O Sistema apresenta os dados do Usuário/Responsável pelo Registro (nome e CPF)
 
 No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco, não apresentam nenhum dado e devem ser preenchidos. São campos obrigatórios:
 
-> \- Telefone do [Usuário/Responsável pelo Registro](#2y3w247);
+> \- Telefone do [[Usuário/Responsável pelo
+> Registro]{.underline}](#2y3w247);
 >
 > \- E-mail do Usuário/Responsável pelo Registro;
 >
@@ -1078,7 +1095,8 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco,
 >
 > \- Endereço da Empresa Vendedora;
 >
-> \- Nome do [Diretor de Relações Governamentais ou Equivalente](#1d96cc0) da Empresa Vendedora;
+> \- Nome do [[Diretor de Relações Governamentais ou
+> Equivalente]{.underline}](#1d96cc0) da Empresa Vendedora;
 >
 > \- Telefone do Diretor de Relações Governamentais ou Equivalente da
 > Empresa Vendedora;
@@ -1139,7 +1157,8 @@ O Sistema apresenta os dados do Usuário/Responsável pelo Registro bem como o N
 
 No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco, não apresentam nenhum dado e precisam ser preenchidos. São campos obrigatórios:
 
-> \- Telefone do [Usuário/Responsável pelo Registro](#2y3w247);
+> \- Telefone do [[Usuário/Responsável pelo
+> Registro]{.underline}](#2y3w247);
 >
 > \- E-mail do Usuário/Responsável pelo Registro;
 >
@@ -1163,7 +1182,7 @@ Existem outros Campos de preenchimento opcional. São campos de preenchimento op
 >
 > \- Endereço do Canal do *Youtube* da Empresa Vendedora.
 
-[Fluxo de Manutenção de Informações]
+[Fluxo de Manutenção de Informações]{.underline}
 
 Após um (1) ano, ou sempre que houver alguma alteração nas informações incluídas no cadastro do Siscoserv, o usuário / Responsável pelo Registro poderá acessar o campo **Informações Cadastrais** e atualizar ou confirmar as informações previamente inseridas.
 
@@ -1258,7 +1277,8 @@ Os registros no Siscoserv podem ser feitos de forma individualizada ou por Trans
 Os registros individualizados no Siscoserv devem seguir as etapas de preenchimento descritas nos [2.1](#2.1),
 [2.2](#2.2) e [2.3 do Capítulo2](#2.3) deste Manual.
 
-A transmissão em lote permite a inclusão de uma grande quantidade de registros ao mesmo tempo e deve seguir os passos descritos [no item 3 deste capítulo](#_471acqr). A transmissão em lote é feita por meio do envio de um ou mais arquivos do tipo XML, compactados no formato ZIP.
+A transmissão em lote permite a inclusão de uma grande quantidade de registros ao mesmo tempo e deve seguir os passos descritos [[no item 3
+deste capítulo]{.underline}](#_471acqr). A transmissão em lote é feita por meio do envio de um ou mais arquivos do tipo XML, compactados no formato ZIP.
 
 Para a criação dos arquivos que devem ser transmitidos, estão disponibilizados os seguintes documentos:
 
@@ -1317,8 +1337,7 @@ b)  **Exibir Lista dos RVS Incluídos:** selecionada esta opção, acione o
     > graphic](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image21.png)
     > O Sistema exibe lista de RVS
     > incluídos, do mais recente para o mais antigo. Acione o botão
-    > ![ Descrição:
-    > graphic](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image24.png)
+    > ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image24.png)
     > à direita do RVS desejado.
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image26.png)
