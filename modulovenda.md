@@ -292,7 +292,7 @@ Neste caso, o número da nota fiscal será repetido em cada RF.
 Para o registro de faturamento, há dois prazos possíveis, dependendo da data de emissão da nota fiscal ou documento equivalente:
 
 1)  quando a nota fiscal ou documento equivalente forem emitidos **depois** [da inclusão do RVS](#), o usuário deve efetuar o RF até o último dia útil do mês subsequente ao da emissão da NF ou documento equivalente.
-    > Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#_nwp17c).
+    > Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#4.1.1).
 
 2)  quando a nota fiscal ou documento equivalente forem emitidos
     > **antes** [da](#data_inicio_prestacao) inclusão do RVS, o usuário
@@ -322,7 +322,7 @@ A operação cujo valor não seja conhecido por ocasião do seu registro em fun�
 **4.3.3. Operação com pessoas físicas residentes no exterior mediante consumo no Brasil:**
 
 As vendas de serviços, [intangíveis](#intangivel) e [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio),
-em [modo de prestação 2](#1mrcu09) (consumo no Brasil),
+em [modo de prestação 2](8) (consumo no Brasil),
 realizadas com pessoas físicas residentes no exterior, poderão ser registradas pelos seus montantes acumulados mensalmente, por NBS e por País do Adquirente. Nesse caso, a data de início será o primeiro dia do mês e a data de conclusão será o último dia do mês para as operações ocorridas nesse período. Exemplo: venda no Brasil de serviços de hospedagem para funcionário de empresa domiciliada no exterior.
 
 A inclusão do RVS será feita observadas as seguintes instruções específicas para preenchimento:
@@ -401,8 +401,6 @@ A prestação das informações no RPC deve ser realizada anualmente, a partir d
 
 <a id="5"></a>
 
-<a id="_vx1227"></a>
-<a id="_3zy8sjw"></a>
 ## 5. Quem deve efetuar registro no Siscoserv -- Módulo Venda
 
 Estão obrigados a registrar as informações no Sistema -- Módulo Venda,
@@ -433,7 +431,7 @@ Também devem ser registradas as [operações](#operacao) de venda de serviços�
 Caso haja saldo a faturar, deve ser indicado como valor da operação o saldo remanescente a faturar. Nos casos em que o faturamento tenha ocorrido integralmente antes da data indicada no anexo, deve ser registrado o valor proporcional da operação correspondente ao período remanescente da prestação do serviço⁶, justificando o valor registrado no campo **Informações Complementares.**
 
 Caso tenha ocorrido o faturamento integral antes das datas constantes do Anexo Único da Portaria Conjunta RFB/SCS nº 1.908, de 19
-de julho de 2012, e não tenha sido iniciada a prestação do serviço[^7],
+de julho de 2012, e não tenha sido iniciada a prestação do serviço[⁷],
 o registro de faturamento obedecerá ao [item 2.2 do Capítulo 2 deste Manual](#2.2).
 
 Em qualquer dos casos, a **Data** constante dos **Dados do RF** deve ser aquela constante da nota fiscal ou documento equivalente.
@@ -986,7 +984,7 @@ exceto no horário de manutenção diária do Sistema (1h às 3h).
 
 # 1.1. Como acessar o Siscoserv
 
-O acesso ao Siscoserv é sempre feito por [certificado digital](#_zu0gcz) **e-CPF**. Quando a informação for prestada por pessoa jurídica ou representante legal de terceiros, além do e-CPF do representante legal, também se exige [procuração eletrônica](#1.3). Essa procuração deve ser emitida por estabelecimento.
+O acesso ao Siscoserv é sempre feito por [certificado digital](#1.2) **e-CPF**. Quando a informação for prestada por pessoa jurídica ou representante legal de terceiros, além do e-CPF do representante legal, também se exige [procuração eletrônica](#1.3). Essa procuração deve ser emitida por estabelecimento.
 
 **Não** é possível o acesso via certificado digital **e-CNPJ**.
 
@@ -1273,8 +1271,8 @@ Os registros no Siscoserv podem ser feitos de forma individualizada ou por Trans
 Os registros individualizados no Siscoserv devem seguir as etapas de preenchimento descritas nos [2.1](#2.1),
 [2.2](#2.2) e [2.3 do Capítulo2](#2.3) deste Manual.
 
-A transmissão em lote permite a inclusão de uma grande quantidade de registros ao mesmo tempo e deve seguir os passos descritos [[no item 3
-deste capítulo]{.underline}](#_471acqr). A transmissão em lote é feita por meio do envio de um ou mais arquivos do tipo XML, compactados no formato ZIP.
+A transmissão em lote permite a inclusão de uma grande quantidade de registros ao mesmo tempo e deve seguir os passos descritos [no item 3
+deste capítulo](#3cap1). A transmissão em lote é feita por meio do envio de um ou mais arquivos do tipo XML, compactados no formato ZIP.
 
 Para a criação dos arquivos que devem ser transmitidos, estão disponibilizados os seguintes documentos:
 
