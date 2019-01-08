@@ -61,7 +61,7 @@ git a
 
 [**1. Acesso ao Siscoserv** ](#_3rnmrmc)
 
-[1.1. Como acessar o Siscoserv](#_26sx1u5)
+[1.1. Como acessar o Siscoserv](#1.1)
 
 [1.2. O que é e como obter o Certificado Digital (e-CPF)](#_ly7c1y)
 
@@ -105,33 +105,33 @@ git a
 
 [2.3.3. Cancelamento do RPC](#2.3.3)
 
-[2.3.4. Consulta ao RPC](#_4a7cimu)
+[2.3.4. Consulta ao RPC](#2.3.4)
 
-[**3. Transmissão em Lote** ](#_2pcmsun)
+[**3. Transmissão em Lote** ](#3)
 
-[3.1. Procedimentos para envio do arquivo de lote](#_n5rssn)
+[3.1. Procedimentos para envio do arquivo de lote](#3.1)
 
-[3.2. Consultar Lote](#_14hx32g)
+[3.2. Consultar Lote](#3.2)
 
-[3.2.1. Arquivo de Retorno do Lote](#_10kxoro)
+[3.2.1. Arquivo de Retorno do Lote](#3.2.1)
 
-[3.3. Excluir Lote](#_3kkl7fh)
+[3.3. Excluir Lote](#3.3)
 
-[3.4. Cumprimento de Prazos na Transferência em Lote](#_3ohklq9)
+[3.4. Cumprimento de Prazos na Transferência em Lote](#3.4)
 
-[**4. Relatório Gerencial** ](#_4jpj0b3)
+[**4. Relatório Gerencial** ](#4)
 
-[4.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica](#_2yutaiw)
+[4.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica](#4.1)
 
-[4.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física](#_2d51dmb)
+[4.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física](#4.2)
 
-[4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor](#_3c9z6hx)
+[4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor](#4.3)
 
 [**Capítulo 3** ](#_1rf9gpq)
 
 [**Cenários Exemplificativos de Registro no Siscoserv**](#_1rf9gpq)
 
-[**1. Registro de Transporte Internacional de Cargas (Frete)**](#_23muvy2)
+[**1. Registro de Transporte Internacional de Cargas (Frete)**](#1cap3)
 
 [Cenário 1.1. Transporte internacional de cargas intermediado por agente de cargas.](#_is565v)
 
@@ -980,7 +980,8 @@ O acesso ao Siscoserv está disponível no Centro Virtual de Atendimento ao Cont
 [http://www.siscoserv.mdic.gov.br](http://www.siscoserv.mdic.gov.br);
 exceto no horário de manutenção diária do Sistema (1h às 3h).
 
-<a id="_26sx1u5"></a>
+<a id="1.1"></a>
+
 # 1.1. Como acessar o Siscoserv
 
 O acesso ao Siscoserv é sempre feito por [certificado digital](#_zu0gcz) **e-CPF**. Quando a informação for prestada por pessoa jurídica ou representante legal de terceiros, além do e-CPF do representante legal, também se exige [procuração eletrônica](#1.3). Essa procuração deve ser emitida por estabelecimento.
@@ -1641,7 +1642,6 @@ Convém manter controle dos números dos RVS incluídos no Siscoserv, para facil
 
 <a id="2.1.1"></a>
 
-<a id="_2k82xt6"></a>
 **2.1.1 Inclusão de Aditivo ao RVS**
 
 O aditivo ao RVS deve ser usado para a inclusão de nova
@@ -2014,7 +2014,6 @@ O Sistema confirmará o recebimento dos dados e gerará um número próprio para
 
 <a id="2.2.1"></a>
 
-<a id="_2xn8ts7"></a>
 **2.2.1. Retificação do RF**
 
 Esta função permite ao usuário retificar um RF.
@@ -2082,7 +2081,6 @@ a retificação dos dados do RF.
 
 <a id="2.2.2"></a>
 
-<a id="_1csj400"></a>
 **2.2.2. Cancelamento do RF**
 
 Esta função permite ao usuário cancelar um RF.
@@ -2132,7 +2130,6 @@ Caso o usuário acesse novamente o *menu* **RF \> Cancelar**, observará a
 
 <a id="2.2.3"></a>
 
-<a id="_3ws6mnt"></a>
 **2.2.3. Consulta ao RF**
 
 Esta função permite efetuar consulta a dados dos RFs no Sistema.
@@ -2247,7 +2244,7 @@ Caso não seja informado o **NIF**, deve-se selecionar uma das opções de
 
 **Tipo de Empresa**  
 Selecione o tipo de relação da presença comercial com a pessoa jurídica domiciliada no Brasil, conforme a seguir:
-
+outras_operacoes_que_produzam_variacoes_de_patrimonio
 \- filial;
 
 \- sucursal; ou
@@ -2429,7 +2426,8 @@ Após selecionar o RPC que deseja cancelar, o Sistema apresenta a tela
 Após conferir os dados do RPC a ser cancelado na tela **Resumo do RPC**,
 acione o botão **Cancelar.** O Sistema então solicita a confirmação do cancelamento. No caso de confirmação do cancelamento, o Sistema retornará mensagem indicando a efetivação do cancelamento do RPC em questão.
 
-<a id="_4a7cimu"></a>
+<a id="2.3.4"></a>
+
 **2.3.4. Consulta ao RPC**
 
 Esta função permite efetuar consulta a dados dos RPC no Sistema.
@@ -2457,7 +2455,8 @@ do mais recente para o mais antigo. Acione o botão ![](https://github.com/mdicg
 Após selecionar o RPC que deseja consultar, o Sistema apresenta a tela
 **Resumo do RPC**, que inclui todos os dados do RPC.
 
-<a id="_2pcmsun"></a>
+<a id="3"></a>
+
 ## 3. Transmissão em Lote
 
 A transmissão em lote foi implementada para atender os residentes e domiciliados no Brasil que realizam um grande número de transações de venda ou aquisição de serviços com residentes ou domiciliados no exterior e têm a obrigação legal de efetuar os registros correspondentes no Siscoserv.
@@ -2467,13 +2466,13 @@ Os arquivos de lote são compostos por arquivos contendo dados de registro que r
 As operações realizadas por meio da transmissão em lote são, no Módulo Venda:
 
 
- 1.  Incluir RVS;        
- 2.  Retificar RVS;   
- 3.  Incluir Aditivo;  
- 4.  Retificar Aditivo;  
- 5.  Incluir RF;        
- 6.  Retificar RF; e               
- 7.  Cancelar RF 
+ 1\)  Incluir RVS;        
+ 2\)  Retificar RVS;   
+ 3\)  Incluir Aditivo;  
+ 4\)  Retificar Aditivo;  
+ 5\)  Incluir RF;        
+ 6\)  Retificar RF; e               
+ 7\)  Cancelar RF 
 
 
 Este Manual trata apenas da transmissão dos arquivos após sua criação,
@@ -2497,6 +2496,11 @@ devem ser registradas tendo por base a [Portaria Conjunta RFB / SCS nº
 nº 1.429, de 2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20),
 que produz efeitos a partir de 1º de janeiro de 2019.
 
+Cabe ressaltar que todos os usuários que efetuam registro por meio de transmissão em lote devem
+verificar na [versão 2.0 da NBS](#http://www.mdic.gov.br/images/REPOSITORIO/scs/decos/NBS/Anexo_I_NBS_2.0_com_altera%C3%A7%C3%B5es_6.12.18.pdf) se houve alteração nos códigos em que classificam os serviços
+registrados no Siscoserv, visto que houve reaproveitamento de códigos previamente existentes na
+nova versão da Nomenclatura.
+
 **Processamento dos Arquivos de Lote**
 
 O processamento dos arquivos de lote divide-se em 4 etapas:
@@ -2509,7 +2513,7 @@ O processamento dos arquivos de lote divide-se em 4 etapas:
 
 4)  Efetivação das operações contidas no lote.
 
-As duas primeiras etapas ocorrem no momento do envio do arquivo de lote enquanto que as duas etapas finais ocorrem durante o processamento noturno dos lotes (o Sistema processa os lotes no período de menor utilização do Sistema de forma a não impactar a seu desempenho durante os períodos de maior acesso). Desta forma, o Sistema apresentará ao usuário o resultado das duas primeiras etapas do processamento imediatamente após o envio do lote. Quanto às demais etapas, o usuário deverá consultar o seu resultado a partir do dia seguinte ao envio do lote (veja [Consultar Lote](#_2lfnejv)). A data que será
+As duas primeiras etapas ocorrem no momento do envio do arquivo de lote enquanto que as duas etapas finais ocorrem durante o processamento noturno dos lotes (o Sistema processa os lotes no período de menor utilização do Sistema de forma a não impactar a seu desempenho durante os períodos de maior acesso). Desta forma, o Sistema apresentará ao usuário o resultado das duas primeiras etapas do processamento imediatamente após o envio do lote. Quanto às demais etapas, o usuário deverá consultar o seu resultado a partir do dia seguinte ao envio do lote (veja [Consultar Lote](#3.2)). A data que será
 considerada como de inclusão de registro será a de envio do arquivo de lote, desde que o arquivo esteja em conformidade com as especificações pertinentes contidas nas [Orientações Técnicas](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf).
 
 Durante a validação do arquivo de lote o Sistema verificará se as regras referentes aos nomes de arquivo e ao formato de compactação do arquivo de lote estão sendo respeitadas. Caso elas sejam violadas, o envio do lote não se efetivará.
@@ -2518,13 +2522,15 @@ A validação do formato dos arquivos de dados ocorre logo após o envio bem- su
 
 Este erro pode ocorrer por dois motivos:
 
-> 1)  O usuário está enviando um tipo de informação diferente da selecionada. Por exemplo, o arquivo de dados refere-se a **Incluir RF**, mas o usuário selecionou **Incluir RVS** no *menu*. Neste caso, basta reenviar o lote após selecionar a operação correta (veja [Procedimentos para envio do arquivo de lote](#_280hiku)); ou
+> 1)  O usuário está enviando um tipo de informação diferente da selecionada. Por exemplo, o arquivo de dados refere-se a **Incluir RF**, mas o usuário selecionou **Incluir RVS** no *menu*. Neste caso, basta reenviar o lote após selecionar a operação correta (veja [Procedimentos para envio do arquivo de lote](#3.1)); ou
 > 2)  O arquivo de dados enviado não está de acordo com as especificações descritas nas [Orientações Técnicas](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf). Neste caso, o sistema responsável pela geração dos arquivos de lote e de dados deve sofrer correções.
 
 Neste momento, o Sistema atribuirá ao lote um *status* de acordo com o *status* dos arquivos de dados que o compõem.
 
 Durante o processamento noturno dos lotes, o Sistema analisará os dados enviados de forma a garantir a sua coerência e aderência às regras de negócio definidas no corpo deste manual. Como exemplo de uma das regras de negócio verificadas, o Siscoserv não permitirá que o Brasil seja indicado como o país de residência ou domicílio do adquirente. Em seguida, o Sistema efetivará as operações contidas nos arquivos de dados aprovados e atribuirá aos arquivos de lote e de dados os
 *status* decorrentes deste processamento.
+
+<a id="status_dos_arquivo_de_lote"></a>
 
 ***Status* dos Arquivos de Lote**
 
@@ -2557,17 +2563,16 @@ Um arquivo de lote pode receber seis *status* diferentes:
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image134.png)
 
-<a id="_n5rssn"></a>
+<a id="3.1"></a>
+
 ### 3.1. Procedimentos para envio do arquivo de lote
 
-Para efetuar a transmissão em lote o usuário deve [acessar o Siscoserv](#_25lcl3g) e clicar na aba **Transmissão em Lote**.
+Para efetuar a transmissão em lote o usuário deve [acessar o Siscoserv](#1.1) e clicar na aba **Transmissão em Lote**.
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image135.png)
 
 Em seguida, selecionar o tipo de informação que será prestada: **Incluir RVS, Retificar RVS, Incluir Aditivo, Retificar Aditivo, Incluir RF,
 Retificar RF ou Cancelar RF**.
-
-![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image142.png)
 
 Após selecionar uma das opções do *menu* **Transmissão em Lote**, o Sistema apresentará a tela para que se informe o CPF/CNPJ do Vendedor ou se o usuário é o próprio vendedor. Na parte superior o sistema informa a opção selecionada.
 
@@ -2632,7 +2637,7 @@ apresentada.
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image126.png)
 
 Após a transmissão bem sucedida do arquivo de lote, o Siscoserv valida o formato dos arquivos de dados e atribui ao lote e aos arquivos de dados que o compõem um *status* de acordo com o resultado da validação (veja
-[*Status* dos Arquivos de Lote](#3sv78d1))
+[*Status* dos Arquivos de Lote](#status_dos_arquivos_de_lote))
 
 Para maior detalhamento sobre o *status* ou o tipo de erro associados aos arquivos de dados, ao deixar o cursor do *mouse* sobre a coluna
 **Status** e **Código Erro**, o Sistema exibirá o significado dos códigos apresentados:
@@ -2647,8 +2652,8 @@ Um arquivo de retorno contendo mais detalhes sobre os erros encontrados pode ser
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image109.png)
 
-<a id="_2lfnejv"></a>
-<a id="_14hx32g"></a>
+<a id="3.2"></a>
+
 ### 3.2. Consultar Lote
 
 Para consultar o lote, o usuário deve clicar na aba **Transmissão em Lote** e em seguida selecionar o item de *menu* **Consultar Lote.**
@@ -2683,7 +2688,7 @@ Os erros de formatação ou de regra de negócio indicados podem ser inspecionad
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image133.png)
 
-<strong id="_10kxoro">3.2.1. Arquivo de Retorno do Lote</strong>
+<strong id="3.2.1">3.2.1. Arquivo de Retorno do Lote</strong>
 
 Um arquivo de retorno contendo o resultado do processamento do lote, bem como mais detalhes sobre os erros encontrados, pode ser gerado ao clicar o botão **Gerar Arquivo de Retorno**.
 
@@ -2699,25 +2704,28 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image86.png)
 
-<a id="_3kkl7fh"></a>
+<a id="3.3"></a>
+
 ### 3.3. Excluir Lote
 
 Caso o usuário detecte, antes do processamento noturno dos lotes, que enviou um lote indevidamente, ele poderá exclui-lo. Para tal, é
 necessário que o *status* do lote ainda seja EP -- Em Processamento.
 Logo, a operação estará disponível apenas no mesmo dia do envio do lote.
 
-A partir da tela de listagem dos lotes enviados (veja [Consultar Lote](#_2lfnejv)), ao clicar o botão
+A partir da tela de listagem dos lotes enviados (veja [Consultar Lote](#3.2)), ao clicar o botão
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image116.png) ao lado do lote que se deseja excluir, o Sistema removerá definitivamente o lote da fila de processamento.
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image110.png)
 
-<a id="_3ohklq9"></a>
+<a id="3.4"></a>
+
 ### 3.4. Cumprimento de Prazos na Transferência em Lote
 
 Para fins de cumprimento dos prazos legais, o sistema adota a data e o horário informados na coluna **Data de Geração do Protocolo**, ou seja,
 a data em que os arquivos foram enviados para processamento. Vale ressaltar que a obrigação só é tempestivamente cumprida se os arquivos forem processados com sucesso (*status* PS), dentro dos prazos legais estabelecidos para os registros.
 
-<a id="_4jpj0b3"></a>
+<a id="4"></a>
+
 ## 4. Relatório Gerencial    
 
 A funcionalidade **Relatório Gerencial** visa a atender uma solicitação dos usuários do Siscoserv com vistas a gerar um relatório sobre todas as operações registradas no sistema e, ainda, o *status* dessas informações.
@@ -2734,7 +2742,7 @@ O Siscoserv permite que o Usuário/Responsável pelo Registro gere os Relatório
 
 O **Usuário/Responsável pelo Registro** é que detém o e-CPF e/ou a procuração eletrônica da Pessoa Jurídica ou da Pessoa Física e é o responsável pela inserção dos dados no Sistema.
 
-<h3 id="_2yutaiw"><strong>4.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica</strong></h3>
+<h3 id="4.1"><strong>4.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica</strong></h3>
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Relatório Gerencial;
 
@@ -2771,6 +2779,8 @@ Podem ser selecionadas as seguintes opções:
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image69.jpg)
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado.
+
+<a id="relatorios_gerenciais_rvs"></a>
 
 As seguintes informações são disponibilizadas na planilha Excel dos **Relatórios Gerenciais relativos aos RVS**:
 
@@ -2831,6 +2841,8 @@ As seguintes informações são disponibilizadas na planilha Excel dos **Relató
 *\* As informações acima servem para criar os vínculos entre registro,
 operação e fatura. Esses dados não têm nenhuma utilidade para operações transmitidas por lote.*
 
+<a id="relatorios_gerenciais_rf"></a>
+
 As seguintes informações são disponibilizadas na planilha Excel dos **Relatórios Gerenciais relativos aos RF**:
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image82.png)
@@ -2864,7 +2876,7 @@ As seguintes informações são disponibilizadas na planilha Excel dos **Relató
 *\* As informações acima servem para criar os vínculos entre registro,
 operação e fatura. Esses dados não têm nenhuma utilidade para operações transmitidas por lote.*
 
-<a id="_2d51dmb"></a>
+<a id="4.2"></a>
 
 ### 4.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física
 
@@ -2890,9 +2902,9 @@ Podem ser selecionadas as seguintes opções:
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image117.jpg)
 
-O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [Relatórios Gerenciais RVS](#1e03kqp) (atentar que no 2º caso as informações do CPF do vendedor serão disponibilizadas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e [Relatórios Gerenciais RF](#3xzr3ei).
+O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [Relatórios Gerenciais RVS](#relatorios_gerenciais_rvs) (atentar que no 2º caso as informações do CPF do vendedor serão disponibilizadas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e [Relatórios Gerenciais RF](#relatorios_gerenciais_rf).
 
-<h3><strong id="_3c9z6hx">4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor</h3></strong>
+<h3><strong id="4.3">4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor</h3></strong>
 
 
 
@@ -2917,15 +2929,16 @@ Podem ser selecionadas as seguintes opções:
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image80.jpg)
 
-O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [Relatórios Gerenciais RVS](#1e03kqp) (observar que no 3º caso as informações do CPF do usuário e do CPF do vendedor são as mesmas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e
-[Relatórios Gerenciais RF](#3xzr3ei).
+O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [Relatórios Gerenciais RVS](#relatorios_gerenciais_rvs) (observar que no 3º caso as informações do CPF do usuário e do CPF do vendedor são as mesmas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e
+[Relatórios Gerenciais RF](#relatorios_gerenciais_rf).
 
 **Capítulo 3**
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image22.png)
 
 # Cenários Exemplificativos de Registro no Siscoserv
 
-<a id="_23muvy2"></a>
+<a id="1cap3"></a>
+
 ## 1. Registro de Transporte Internacional de Cargas (Frete)
 
 A contratação de serviços de transporte de carga envolve vários "atores"
@@ -2935,8 +2948,10 @@ O conjunto de cenários abaixo apresentado não pretende ser exaustivo.
 Entretanto, a lógica aplicada em cada uma das situações pode se estender aos casos que não foram aqui descritos.
 
 <a id="_is565v"></a>
+
 **Cenário 1.1. Transporte internacional de cargas intermediado por agente de cargas.**  
 <a id="_32rsoto"></a>
+
 **Exportação brasileira com a obrigação de transportar da empresa brasileira.**
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image113.jpg)
@@ -2983,9 +2998,11 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 >  
   
 <a id="_1hx2z1h"></a>
+
 **Cenário 1.2. Transporte internacional de cargas intermediado por agente de cargas.** 
   
 <a id="_41wqhpa"></a>
+
 **Importação brasileira com a obrigação de transportar da empresa brasileira**
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image153.png)
@@ -3026,9 +3043,11 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 >  
   
 <a id="_2h20rx3"></a>
+
 **Cenário 1.3. Transporte internacional de cargas com consolidação e desconsolidação de cargas.**  
   
 <a id="_w7b24w"></a>
+
 **Importação brasileira com a obrigação de transportar da empresa estrangeira**
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image97.png)
@@ -3069,9 +3088,11 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 >  
   
 <a id="_3g6yksp"></a>
+
 **Cenário 1.4. Transporte internacional de cargas com consolidação e desconsolidação de cargas.**    
   
 <a id="_1vc8v0i"></a>
+
 **Exportação brasileira com a obrigação de transportar da empresa brasileira**
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image102.png)
@@ -3110,9 +3131,11 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 >
   
 <a id="_4fbwdob"></a>
+
 ## 2. Seguros
   
 <a id="_2uh6nw4"></a>
+
 **Cenário 2.1. Contratação de seguro com intermediação de corretora**
 
 **Descrição**
@@ -3143,6 +3166,7 @@ Empresa residente ou domiciliada no Brasil -- Empᴮᴿ, utiliza corretora de se
 >  
   
 <a id="_19mgy3x"></a>
+
 **Cenário 2.2. Contratação de seguro de estipulante domiciliada ou residente no Brasil**
 
 **Descrição**  
@@ -3173,12 +3197,14 @@ residente ou domiciliada no Brasil, Estᴮᴿ é considerado o contratante e, co
 >
   
 <a id="_4gjguf0"></a>
+
 ## 3. Remessa Expressa
 
 O serviço de remessa expressa (courier) apresenta, de forma genérica,
 dois possíveis cenários.
   
 <a id="_2vor4mt"></a>
+
 **Cenário 3.1. Empresa brasileira exportadora (ou importadora) faturada por empresa estrangeira prestadora do serviço de remessa expressa**
 
 O registro é de responsabilidade do exportador/importador residente ou domiciliado no Brasil sempre que a relação contratual relativa aos serviços de remessa expressa seja entre esse exportador/importador e a empresa prestadora desses serviços domiciliada no exterior.
@@ -3188,6 +3214,7 @@ Quando não houver clareza sobre essa relação contratual, o exportador/importa
 Quando o exportador/importador residente ou domiciliado no Brasil receber um documento de fatura de uma empresa de remessa expressa domiciliada no exterior, mesmo que o fluxo de pagamento ocorra com a filial desta empresa domiciliada no Brasil, caberá ao exportador/importador o registro.
   
 <a id="_1au1eum"></a>
+
 **Cenário 3.2. Empresa brasileira faturada pela filial residente ou domiciliada no Brasil de empresa estrangeira**
 
 O registro é de responsabilidade empresa de remessa expressa domiciliada no Brasil sempre que a relação contratual relativa aos serviços de remessa expressa seja entre essa empresa domiciliada no Brasil e a empresa prestadora de serviços de remessa expressa domiciliada no exterior, mesmo quando houver uma relação *intercompany*.
@@ -3204,11 +3231,12 @@ Cabe ainda ressaltar que as empresas domiciliadas no Brasil, ainda que relaciona
 inclusive operações *intercompany*, de acordo com o previsto na legislação pertinente ao Siscoserv e neste Manual.
 
 <a id="_3utoxif"></a>
+
 ## 4. Expatriados
 
-A movimentação temporária de pessoas físicas para prestação de serviços enseja o registro no Siscoserv, sempre que cumpridos os pilares previstos na legislação relativa ao Sistema. Conforme explicitado neste Manual, deve-se registrar [operações](#kqmvb9) em Modo 4
+A movimentação temporária de pessoas físicas para prestação de serviços enseja o registro no Siscoserv, sempre que cumpridos os pilares previstos na legislação relativa ao Sistema. Conforme explicitado neste Manual, deve-se registrar [operações](#operacao) em Modo 4
 no Módulo Aquisição do Siscoserv as pessoas físicas ou jurídicas
-[residentes](#34qadz2) ou domiciliadas no Brasil, quando a aquisição de serviço ensejar o deslocamento temporário de pessoa(s)
+[residentes](#residente) ou domiciliadas no Brasil, quando a aquisição de serviço ensejar o deslocamento temporário de pessoa(s)
 física(s) residente(s) no exterior com vistas a prestar um serviço no Brasil, **exceto quando se estabelecer vínculo empregatício no Brasil**.
 
 Além disto, a situação de residência ou não residência no país pode interferir na necessidade ou não de registro.
@@ -3221,11 +3249,13 @@ Já segundo o Art. 3º, considera-se
 **não-residente** no Brasil (**expatriado**), a pessoa física que não resida no Brasil em caráter permanente e não se enquadre nas hipóteses previstas no art. 2º supracitado, a que se retire em caráter permanente do território nacional, na data da saída, desde que apresentada a Comunicação de Saída Definitiva do País, e a que se ausente do Brasil em caráter temporário, a partir do dia seguinte àquele em que complete doze meses consecutivos de ausência.
   
 <a id="_29yz7q8"></a>
+
 **Cenário 1**
 
 Empresa residente ou domiciliada no Brasil que envia empregado para trabalhar em empresa residente ou domiciliada no exterior e que continua remunerando esse empregado pelos serviços prestados fora do país, em virtude de manutenção do vínculo empregatício. O reembolso feito pela empresa estrangeira referente ao salário do empregado deve ser registrado no Siscoserv, pois tal situação configura prestação de serviço em modo 4. Também deve ser registrado no Siscoserv a remuneração do empregado caso ele torne-se não residente, mantendo vínculo empregatício no Brasil.
   
 <a id="_p49hy1"></a>
+
 **Cenário 2**
 
 Empresa residente e domiciliada no Brasil que efetua apenas o pagamento de contribuições previdenciárias, referente a segurado facultativo, de trabalhador residente no exterior e com vínculo empregatício estabelecido junto a uma empresa residente e domiciliada no exterior, em país que não possua tratado previdenciário com o Brasil, pagamento esse reembolsado pela empresa estrangeira, não deve prestar essa informação no Siscoserv. Tal situação não configura prestação de serviço em modo 4.
@@ -3310,7 +3340,7 @@ Importante ressaltar que esse cenário trata exclusivamente de situação em que
 
 [₂₁]: Neste caso, leia-se "serviços", como "serviços, intangíveis e
     [outras operações que produzam variações no
-    patrimônio](#1jvko6v)".
+    patrimônio](#outras_operacoes_que produzam_variacoes_de_patrimonio)".
 
 [₂₂]: Neste caso, leia-se "serviços", como "serviços, intangíveis e
     [outras operações que produzam variações no
@@ -3318,9 +3348,9 @@ Importante ressaltar que esse cenário trata exclusivamente de situação em que
 
 [₂₃]: Neste caso, leia-se "serviços", como "serviços, intangíveis e
     [outras operações que produzam variações no
-    patrimônio](#1jvko6v)"
+    patrimônio](#outras_operacoes_que produzam_variacoes_de_patrimonio)"
 
 [₂₄]: Neste caso, leia-se "prestação de serviços", como "prestação de
     serviços, transferência de intangível e realização de [outras
     operações que produzam variações no
-    patrimônio](#1jvko6v)".
+    patrimônio](#outras_operacoes_que produzam_variacoes_de_patrimonio)".
