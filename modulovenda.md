@@ -460,7 +460,7 @@ mediante movimentação temporária de profissionais e contra esta fatura a pres
 
 \(4) Empresa (B), que é filial, sucursal ou controlada domiciliada no exterior de Empresa (A) domiciliada no Brasil, presta serviço a empresa domiciliada no exterior. Empresa (A) deve proceder aos registros no Módulo Venda do Siscoserv em [Modo 3 -- Presença Comercial](#modo3) no Exterior.
 
-<a id="dispensado_registro"></a>
+<a id="6"></a>
 
 
 ## 6. Quem está dispensado de efetuar registro no Siscoserv -- Módulo Venda
