@@ -380,16 +380,16 @@ Devem ser registradas no Siscoserv as operações realizadas por meio de presen�
 1994.
 
 A responsabilidade de efetuar o Registro de Presença Comercial no Exterior (RPC) no Módulo Venda do Siscoserv é da pessoa jurídica domiciliada no Brasil que mantenha filial, sucursal ou
-[controlada](#2nusc19) domiciliada no exterior para a prestação de serviços, transferência de
+[controlada](#empresa_controlada) domiciliada no exterior para a prestação de serviços, transferência de
 [intangíveis](#intangivel) ou realização de [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio).
 
 No RPC deve ser registrada a receita anual total de venda de serviço, de transferência de intangível e de realização de outra operação que produza variação no patrimônio, obtida por meio do estabelecimento de presença comercial no exterior de filial, sucursal ou
-[controlada](#2nusc19) relacionada à pessoa jurídica domiciliada no Brasil.
+[controlada](#empresa_controlada) relacionada à pessoa jurídica domiciliada no Brasil.
 
 Deve(m) ser informada(s) no RPC a(s) posição(ões) da NBS mais representativas da receita anual total com venda de serviço,
 transferência de intangível e realização de outra operação que produza variação no patrimônio.
 
-Caso a pessoa jurídica domiciliada no Brasil mantenha, no exterior, mais de uma filial, sucursal ou [controlada](#2nusc19) no mesmo país, a receita anual total com venda de serviços, transferência de intangível e realização de outra operação que produza variação no patrimônio, será discriminada mediante um RPC para cada filial, sucursal e controlada.
+Caso a pessoa jurídica domiciliada no Brasil mantenha, no exterior, mais de uma filial, sucursal ou [controlada](#empresa_controlada) no mesmo país, a receita anual total com venda de serviços, transferência de intangível e realização de outra operação que produza variação no patrimônio, será discriminada mediante um RPC para cada filial, sucursal e controlada.
 
 <a id="4.4.1"></a>
 
@@ -450,28 +450,20 @@ do residente ou domiciliado no País que mantenha relação contratual com resid
 Exemplos:
 
 \(1) Empresa (A), domiciliada no Brasil, mantém relação contratual, em que é prestadora de serviço, com empresa (B), domiciliada no exterior, e contra esta fatura a prestação de serviço. A empresa (A) subcontrata empresa (C), domiciliada no Brasil, para prestação parcial ou integral de serviço pertinente à relação contratual de (A) com (B). A empresa (A)
-deve proceder aos registros RVS e RF no Módulo Venda do Siscoserv, no modo de prestação em que o serviço for prestado a (B) ([Modo 1 -- Comércio Transfronteiriço](#37m2jsg), [Modo 2 -- Consumo no Brasil](#1mrcu09) ou [Modo 4 -- Movimento Temporário de Pessoas Físicas](#111kx3o)). A empresa (C) não deve proceder aos registros no Módulo Venda do Siscoserv em relação a sua relação contratual com (A), pois ambas são domiciliadas no Brasil. Além disso, como não há relação contratual entre (B) e (C), não há registros no Siscoserv adicionais a serem feitos.
-
-\(2) Empresa (A), domiciliada no Brasil, mantém relação contratual, em que é prestadora de serviço, com empresa também domiciliada no Brasil
 (B), e contra esta fatura a prestação de serviço. A empresa (A)
-subcontrata empresa (C), domiciliada no exterior, para prestação parcial ou integral de serviço pertinente à relação contratual de (A) com (B).
 Empresa (A) deve proceder aos registros RAS e RP no Módulo Aquisição do Siscoserv, no modo de prestação em que o serviço for prestado por (C)
-([Modo 1 -- Comércio Transfronteiriço](#37m2jsg), [Modo 2 -- Consumo no Exterior](#1mrcu09) ou [Modo 4 -- Movimento Temporário de Pessoas Físicas](#111kx3o)). A empresa (A)
-não deve proceder aos registros no Módulo Venda do Siscoserv quanto à
 sua relação contratual com (B), pois ambas são domiciliadas no Brasil.
 Além disso, como não há relação contratual entre (B) e (C), não há
-registros no Siscoserv adicionais a serem feitos.
 
 \(3) Empresa (A), domiciliada no Brasil, mantém relação contratual, em que é prestadora de serviço, com empresa (B), domiciliada no exterior,
-mediante movimentação temporária de profissionais e contra esta fatura a prestação de serviço. A empresa (A) deve proceder aos registros RVS e RF no Módulo Venda do Siscoserv em [Modo 4 -- Movimento Temporário de Pessoa Física](#111kx3o), em relação a essa operação.
+mediante movimentação temporária de profissionais e contra esta fatura a prestação de serviço. A empresa (A) deve proceder aos registros RVS e RF no Módulo Venda do Siscoserv em [Modo 4 -- Movimento Temporário de Pessoa Física](#modo4), em relação a essa operação.
 
-\(4) Empresa (B), que é filial, sucursal ou controlada domiciliada no exterior de Empresa (A) domiciliada no Brasil, presta serviço a empresa domiciliada no exterior. Empresa (A) deve proceder aos registros no Módulo Venda do Siscoserv em [Modo 3 -- Presença Comercial](#46r0co2) no Exterior.
+\(4) Empresa (B), que é filial, sucursal ou controlada domiciliada no exterior de Empresa (A) domiciliada no Brasil, presta serviço a empresa domiciliada no exterior. Empresa (A) deve proceder aos registros no Módulo Venda do Siscoserv em [Modo 3 -- Presença Comercial](#modo3) no Exterior.
 
-<a id="6"></a>
+<a id="dispensado_registro"></a>
+
 
 ## 6. Quem está dispensado de efetuar registro no Siscoserv -- Módulo Venda
-
-Estão dispensadas do registro no Siscoserv, **nas operações que não tenham utilizado mecanismos de apoio** ao comércio exterior de serviços,
 de intangíveis e demais operações de que trata o art. 26 da Lei nº 12.546, de 14 de dezembro de 2011:
 
 I - Empresas cadastradas no SIMPLES NACIONAL e MEI - as pessoas jurídicas optantes pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte -- Simples Nacional e os Microempreendedores Individuais
@@ -495,6 +487,7 @@ que tem por base a Nomenclatura Brasileira de Serviços, Intangíveis e Outras O
 Os modos de prestação identificam, conforme estabelecido no Acordo Geral sobre Comércio de Serviços da OMC (GATS)⁹, a prestação de serviços,
 segundo a localização do prestador e do tomador. No Módulo Venda, os modos de prestação são os seguintes:
 
+<a id="modo1"></a>
 **Modo 1 - Comércio transfronteiriço:** serviço prestado do território de um país ao território de outro país, por residente ou domiciliado no Brasil a residente ou domiciliado no exterior.
 
 Exemplos:
@@ -507,7 +500,7 @@ Exemplos:
 
 ![Imagens Siscoserv](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image154.jpg)
 
-
+<a id= "modo2"></a>
 **Modo 2 - Consumo no Brasil:** serviço prestado por residente ou domiciliado no Brasil e consumido no território brasileiro por residente ou domiciliado no exterior.
 
 Exemplos:
@@ -521,8 +514,9 @@ Exemplos:
 
 ![Imagens Siscoserv](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image160.jpg)
 
+<a id= "modo3"></a>
 **Modo 3 - Presença comercial no exterior:** consiste na prestação de serviço por pessoa jurídica domiciliada no exterior relacionada a uma pessoa jurídica domiciliada no Brasil. Para fins do Siscoserv,
-considera-se relacionada à pessoa jurídica domiciliada no Brasil a sua filial, sucursal ou [controlada](#2nusc19), domiciliada no exterior.
+considera-se relacionada à pessoa jurídica domiciliada no Brasil a sua filial, sucursal ou [controlada](#empresa_controlada), domiciliada no exterior.
 
 Exemplos:
 
@@ -532,11 +526,12 @@ Exemplos:
 
 ![Imagens Siscoserv](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image172.jpg)
 
-**Modo 4 - Movimento temporário de pessoas físicas:** [residentes no Brasil](#1tuee74) deslocam-se por tempo limitado ao exterior com vistas a prestar um serviço a residente ou domiciliado no exterior.
+<a id= "modo4"></a>
+**Modo 4 - Movimento temporário de pessoas físicas:** [residentes no Brasil](#residentes_Brasil) deslocam-se por tempo limitado ao exterior com vistas a prestar um serviço a residente ou domiciliado no exterior.
 
 Exemplos:
 
--   arquiteto [residente no Brasil](#1tuee74) desloca-se para desenvolver projeto de arquitetura no exterior;
+-   arquiteto [residente no Brasil](#residentes_Brasil) desloca-se para desenvolver projeto de arquitetura no exterior;
 -   empreiteiras domiciliadas no Brasil enviam trabalhadores que mantêm vínculo empregatício no Brasil para construção de uma rodovia no exterior;
 -   advogado residente no Brasil desloca-se para o exterior a fim de prestar consultoria jurídica.
 
@@ -544,17 +539,17 @@ Exemplos:
 
 Devem registrar [operações](#operacao) em Modo 4 no Módulo Venda do Siscoserv:
 
-> a)  as pessoas físicas [residentes no Brasil](#1tuee74),
+> a)  as pessoas físicas [residentes no Brasil](#residentes_Brasil),
 sem vínculo empregatício com pessoa física ou jurídica residente ou domiciliada no Brasil, quando se desloquem temporariamente a um país estrangeiro com vistas a prestar um serviço a um residente ou domiciliado no exterior (por exemplo, os profissionais independentes);
 
-> b)  as pessoas jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física [[residente no Brasil]{.underline}](#1tuee74), com vínculo empregatício ou por meio de terceirização, para a prestação de serviço a residentes ou domiciliados no exterior (por exemplo, prestadores de serviços por contrato ou visitantes de negócios).
+> b)  as pessoas jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física [residente no Brasil](#residentes_Brasil), com vínculo empregatício ou por meio de terceirização, para a prestação de serviço a residentes ou domiciliados no exterior (por exemplo, prestadores de serviços por contrato ou visitantes de negócios).
 
 Não deverão registrar operações em Modo 4 no Siscoserv as Pessoas Jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física para exercer vínculo empregatício com Pessoa Jurídica no exterior a ela relacionada (por exemplo, transferido intracorporação).
 
 <a id="9"></a>
 ## 9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS)]
 
-O registro de [operações](about:blank) no Siscoserv será realizado de acordo com a [Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio(NBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13) e pelas respectivas [Notas Explicativas(NEBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13), aprovadas pelo [Decreto nº 7.708, de 2 de abril de 2012](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm), e suas alterações posteriores.
+O registro de [operações](#operacao) no Siscoserv será realizado de acordo com a [Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio(NBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13) e pelas respectivas [Notas Explicativas(NEBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13), aprovadas pelo [[Decreto nº]{.underline} [7.708, de 2 de abril de 2012](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm), e suas alterações posteriores.
 
 A prestação de serviços¹⁰ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jspdata=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
 
@@ -710,8 +705,8 @@ Caso persistam dúvidas, deve ser formalizado processo administrativo de consult
 A informação sobre Mecanismo de apoio/fomento no Siscoserv tem a finalidade de contribuir para a gestão do fomento pelos órgãos e instituições responsáveis pela sua concessão. Esta informação deve ser registrada em cumprimento ao previsto no art. 26 da Lei nº 12.546, de 14 de dezembro de 2011.
 
 O campo enquadramento deve ser obrigatoriamente preenchido no caso de
-[operação](about:blank) amparada em um ou mais mecanismos de apoio/fomento ao comércio exterior de serviços, intangíveis e às
-[outras operações que produzam variação no patrimônio](about:blank).
+[operação](#operacao) amparada em um ou mais mecanismos de apoio/fomento ao comércio exterior de serviços, intangíveis e às
+[outras operações que produzam variação no patrimônio](outras_operacoes_que produzam_variacoes_de_patrimonio).
 
 O órgão ou a entidade da administração pública que tenha atribuição legal de regulação, normatização, controle ou fiscalização de mecanismo de apoio/fomento, sem prejuízo de legislação específica, utilizará as informações da operação, relacionadas à sua área de competência, para verificação do adimplemento das condições necessárias à fruição daquele mecanismo sob sua gestão.  
 
@@ -843,6 +838,7 @@ Esse glossário foi desenvolvido para facilitar o entendimento dos conceitos pre
 Siscomex--Importação. A DI consolida as informações cambiais,
 tributárias, fiscais, comerciais e estatísticas da operação. 
 
+<a id="empresa_controlada"></a>
 **Empresa Controlada**: Considera-se controlada a sociedade na qual a controladora, diretamente ou através de outras controladas, é titular de direitos de sócio que lhe assegurem, de modo permanen<a id="mecanismo_de_apoio_fomento"></a>te, preponderância nas deliberações sociais e o poder de eleger a maioria dos administradores.
 
 <a id="mecanismo_de_apoio_fomento"></a>
@@ -923,7 +919,7 @@ São exemplos:
 **Registro de Exportação (RE):** no Sistema Integrado de Comércio Exterior - Siscomex é o conjunto de informações de natureza comercial,
 financeira, cambial e fiscal que caracterizam a operação de exportação de uma mercadoria e definem o seu enquadramento.
 
-<a id="residente"></a>
+<a id="residentes_Brasil"></a>
 
 **Residente no Brasil:** Considera-se residente no Brasil a pessoa física (Lei nº 9.718, de 27 de novembro de 1998, art.
 12; Instrução Normativa SRF nº 208, de 27 de setembro de
