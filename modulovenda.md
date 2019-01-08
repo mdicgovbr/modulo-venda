@@ -16,7 +16,7 @@
 [4.1. Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS)](#4.1cap1)
 
 [4.1.1. Prazo para o RVS](#4.1.1)
-git a
+
 [4.2. Registro de Faturamento (RF)](#4.2cap1)
 
 [4.2.1. Prazos para o RF](#4.2.1)
