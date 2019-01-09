@@ -83,19 +83,19 @@ A obrigação de registro não se estende às transações envolvendo serviços 
 
 Os serviços de frete, seguro e de agentes externos, bem como demais serviços relacionados às operações de comércio exterior de bens e mercadorias, serão objeto de registro no Siscoserv, por não serem incorporados aos bens e mercadorias.
 
-Cada RVS destina-se a apenas um contrato de prestação de serviços¹.
+Cada RVS destina-se a apenas um contrato de prestação de serviços[^1].
 Cada contrato pode conter uma ou mais [operações](#operacao)
 em um mesmo RVS, desde que todas as operações sejam cursadas com o mesmo adquirente.
 
 Caso o contrato envolva mais de um adquirente deve ser registrado um RVS por adquirente. Por exemplo, quando um contrato for assinado com uma empresa matriz e suas filiais em países diferentes (diversos adquirentes), devem ser registrados tantos RVS quantos sejam os adquirentes.
 
-As operações de prestação de serviços previstas em contratos de garantia decorrentes da venda de bens ou serviços² realizadas a residentes e domiciliados no exterior devem ser registradas quando ensejarem faturamento.
+As operações de prestação de serviços previstas em contratos de garantia decorrentes da venda de bens ou serviços[^2] realizadas a residentes e domiciliados no exterior devem ser registradas quando ensejarem faturamento.
 
 
 #### 4.1.1. Prazo para o RVS
 
 O prazo para incluir o RVS é até o último dia útil do 3º
-(terceiro) mês subsequente à [data de início da prestação de serviço](#data_inicio_prestacao)³
+(terceiro) mês subsequente à [data de início da prestação de serviço](#data_inicio_prestacao)[^3]
 
 ![](/media/novo_image155.png)
 
@@ -109,7 +109,7 @@ data de início da prestação de serviço, da comercialização de intangível 
 
 ### 4.2. Registro de Faturamento (RF)
 
-O RF do Siscoserv complementa o RVS com informações relativas ao faturamento a residentes ou domiciliados no exterior, pela venda de serviços⁴, bem como os demais custos e despesas incorridos para a efetiva prestação desses serviços. Neste registro são solicitados os seguintes dados: a data de emissão e o número da nota fiscal ou documento equivalente (inclusive nota de despesa), o [valor faturado](#valor_faturado) (valor parcial ou total do contrato,
+O RF do Siscoserv complementa o RVS com informações relativas ao faturamento a residentes ou domiciliados no exterior, pela venda de serviços[^4], bem como os demais custos e despesas incorridos para a efetiva prestação desses serviços. Neste registro são solicitados os seguintes dados: a data de emissão e o número da nota fiscal ou documento equivalente (inclusive nota de despesa), o [valor faturado](#valor_faturado) (valor parcial ou total do contrato,
 expresso na moeda informada no RVS), o [valor mantido no exterior](#valor_mantido_no_exterior), bem como outros elementos pertinentes.
 
 Para cada RVS deve ser registrado um RF, ainda que a nota fiscal tenha sido emitida em relação a mais de um negócio, ou seja, a mais de um RVS.
@@ -252,7 +252,7 @@ O registro no Siscoserv independe da contratação de câmbio, do meio de pagame
 
 Também devem ser registradas as [operações](#operacao) de venda de serviços₅ iniciadas e não concluídas antes das datas constantes do Anexo Único da Portaria Conjunta RFB/SCS nº 1.908, de 19 de julho de 2012. Para essas
 [operações](#operacao), deve ser registrada como data de início aquela indicada no retrocitado Anexo Único, por capítulo da NBS.
-Caso haja saldo a faturar, deve ser indicado como valor da operação o saldo remanescente a faturar. Nos casos em que o faturamento tenha ocorrido integralmente antes da data indicada no anexo, deve ser registrado o valor proporcional da operação correspondente ao período remanescente da prestação do serviço⁶, justificando o valor registrado no campo **Informações Complementares.**
+Caso haja saldo a faturar, deve ser indicado como valor da operação o saldo remanescente a faturar. Nos casos em que o faturamento tenha ocorrido integralmente antes da data indicada no anexo, deve ser registrado o valor proporcional da operação correspondente ao período remanescente da prestação do serviço[^6], justificando o valor registrado no campo **Informações Complementares.**
 
 Caso tenha ocorrido o faturamento integral antes das datas constantes do Anexo Único da Portaria Conjunta RFB/SCS nº 1.908, de 19
 de julho de 2012, e não tenha sido iniciada a prestação do serviço[^7],
@@ -267,7 +267,7 @@ Não podem ser registradas operações previamente ao [início da prestação do
 [intangível](#intangivel) ou da realização de [outra operação que produza variação no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio).
 
 A responsabilidade pelos registros RVS/RF do Módulo Venda do Siscoserv é
-do residente ou domiciliado no País que mantenha relação contratual com residente ou domiciliado no exterior e que contra este fature a prestação de serviço⁸, ainda que ocorra subcontratação de residente ou domiciliado no País ou no exterior.
+do residente ou domiciliado no País que mantenha relação contratual com residente ou domiciliado no exterior e que contra este fature a prestação de serviço[^8], ainda que ocorra subcontratação de residente ou domiciliado no País ou no exterior.
 
 Exemplos:
 
@@ -311,7 +311,7 @@ que tem por base a Nomenclatura Brasileira de Serviços, Intangíveis e Outras O
 
 ## 8. Modos de Prestação de Serviços -- Módulo Venda
 
-Os modos de prestação identificam, conforme estabelecido no Acordo Geral sobre Comércio de Serviços da OMC (GATS)⁹, a prestação de serviços,
+Os modos de prestação identificam, conforme estabelecido no Acordo Geral sobre Comércio de Serviços da OMC (GATS)[^9], a prestação de serviços,
 segundo a localização do prestador e do tomador. No Módulo Venda, os modos de prestação são os seguintes:
 
 ### Modo 1 - Comércio transfronteiriço: serviço prestado do território de um país ao território de outro país, por residente ou domiciliado no Brasil a residente ou domiciliado no exterior.
@@ -374,9 +374,9 @@ Não deverão registrar operações em Modo 4 no Siscoserv as Pessoas Jurídicas
 
 O registro de [operações](about:blank) no Siscoserv será realizado de acordo com a [Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio(NBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13) e pelas respectivas [Notas Explicativas(NEBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13), aprovadas pelo [Decreto nº 7.708, de 2 de abril de 2012](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm), e suas alterações posteriores.
 
-A prestação de serviços¹⁰ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jspdata=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
+A prestação de serviços[^10] iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jspdata=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
 
-A prestação de serviços¹¹ iniciada a partir de 1º de janeiro de 2019 devem ser registradas tendo por base a [Portaria Conjunta RFB / SCS nº 1.429, de 2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20),
+A prestação de serviços[^11] iniciada a partir de 1º de janeiro de 2019 devem ser registradas tendo por base a [Portaria Conjunta RFB / SCS nº 1.429, de 2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20),
 que produz efeitos a partir de 1º de janeiro de 2019.
 
 Esse registro deverá observar as seguintes regras gerais para interpretação da NBS:
@@ -1218,7 +1218,7 @@ Acione **Avançar** para validar os dados e seguir para a próxima tela
 
 #### Dados do Negócio
 
-Em **Dados do [Negócio](#negocio)** são incluídos os dados das [operações](#operacao) de venda de serviços¹³ por
+Em **Dados do [Negócio](#negocio)** são incluídos os dados das [operações](#operacao) de venda de serviços[^13] por
 [residentes](#residente) ou domiciliados no País a residentes ou domiciliados no exterior.
 
 [início de prestação](#data_inicio_prestacao) em data futura, ou seja,
@@ -1234,10 +1234,10 @@ Campos a serem preenchidos em Dados do
 
 Vide [item 9, do Capítulo 1 deste Manual.](#9)
 
-A prestação de serviços¹⁴ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de
+A prestação de serviços[^14] iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de
 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
 
-A prestação de serviços¹⁵ iniciada a partir de 1º de janeiro de 2019
+A prestação de serviços[^15] iniciada a partir de 1º de janeiro de 2019
 deve ser registrada tendo por base a [Portaria Conjunta RFB / SCS nº
 1.429, de
 2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20),
@@ -1267,7 +1267,7 @@ O usuário pode informar diretamente o código do país, ou localizá-lo na list
 
 Identifica a moeda da transação comercial. O usuário pode informar diretamente o código da moeda, ou localizá-lo na lista **Descrição da Moeda**.
 
-Nos casos em que não é possível registrar a moeda da transação comercial por ausência do código da moeda na tabela disponível no Sistema ou por ausência da taxa de conversão disponível, o valor comercial deverá ser convertido em dólar dos Estados Unidos da América, com base em taxa de conversão fixada por autoridade monetária do país da moeda em questão na data de início da prestação do serviço¹⁶. Neste caso, a moeda a ser indicada será o dólar dos Estados Unidos da América, e obrigatoriamente,
+Nos casos em que não é possível registrar a moeda da transação comercial por ausência do código da moeda na tabela disponível no Sistema ou por ausência da taxa de conversão disponível, o valor comercial deverá ser convertido em dólar dos Estados Unidos da América, com base em taxa de conversão fixada por autoridade monetária do país da moeda em questão na data de início da prestação do serviço[^16]. Neste caso, a moeda a ser indicada será o dólar dos Estados Unidos da América, e obrigatoriamente,
 deve ser informado em **Informações Complementares** o valor na moeda da transação comercial, bem como a taxa de conversão utilizada, e a respectiva fonte e data.
 
 Todas as [operações](#operacao) registradas em um RVS devem ser informadas em uma única **Moeda,** na primeira operação daquele registro. Da segunda operação daquele registro em diante, o campo fica bloqueado para edição.
@@ -1464,9 +1464,9 @@ O aditivo ao RVS deve ser usado para a inclusão de nova
 Na inclusão de Aditivo, não é possível realizar alterações nos **Dados do Adquirente**, tendo em vista
 tratar-se de dados do registro como um todo e que só podem ser alterados pela função [**Retificar RVS**](#2.1.2).
 
-Devido à publicação da [NBS 2.0](http://www.mdic.gov.br/images/REPOSITORIO/scs/decos/NBS/Anexo_I_NBS_2.0_com_altera%C3%A7%C3%B5es_6.12.18.pdf)¹⁷, novos serviços¹⁸ derivados de complemento ou aditamento em termo de contrato, que envolva operação iniciada a partir de 1º de janeiro de 2019, não poderão ser registrados por meio de Aditivo em um RAS incluído até o dia 31 de dezembro de 2018.
+Devido à publicação da [NBS 2.0](http://www.mdic.gov.br/images/REPOSITORIO/scs/decos/NBS/Anexo_I_NBS_2.0_com_altera%C3%A7%C3%B5es_6.12.18.pdf)[^17], novos serviços[^18] derivados de complemento ou aditamento em termo de contrato, que envolva operação iniciada a partir de 1º de janeiro de 2019, não poderão ser registrados por meio de Aditivo em um RAS incluído até o dia 31 de dezembro de 2018.
 
-Neste caso, o usuário deverá incluir um novo RVS, classificando o serviço prestado¹⁹ de acordo com a
+Neste caso, o usuário deverá incluir um novo RVS, classificando o serviço prestado[^19] de acordo com a
 [NBS 2.0](http://www.mdic.gov.br/images/REPOSITORIO/scs/decos/NBS/Anexo_I_NBS_2.0_com_altera%C3%A7%C3%B5es_6.12.18.pdf).
 
 A inclusão de nova operação é realizada em [Dados do Negócio](#dados_negocio) e deve obedecer aos prazos descritos
@@ -1759,7 +1759,7 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 
 > **[Operações](#operacao) a Faturar**
 >
-> Para incluir os dados do faturamento de um serviço²⁰ no campo
+> Para incluir os dados do faturamento de um serviço[^20] no campo
 > **Operações** **a Faturar**, o usuário deve:
 >
 >    
@@ -2097,9 +2097,9 @@ Exemplos de código da NBS em nível de posição:
 Para mais informações sobre a NBS vide [item 9, do Capítulo 1 deste Manual.](#9)
 
 Em 2019, todos os Registros de Presença Comercial no Exterior, relativos
-às operações realizadas em 2018, devem classificar os serviços²¹ de acordo com a NBS 1.1, publicada pela xxxxxx.
+às operações realizadas em 2018, devem classificar os serviços[^21] de acordo com a NBS 1.1, publicada pela xxxxxx.
 
-A partir de 1º de janeiro de 2020, todos os Registros de Presença Comercial no Exterior devem classificar os serviços²² de acordo com a NBS 2.0, publicada pela **Portaria Conjunta RFB / SCS nº**
+A partir de 1º de janeiro de 2020, todos os Registros de Presença Comercial no Exterior devem classificar os serviços[^22] de acordo com a NBS 2.0, publicada pela **Portaria Conjunta RFB / SCS nº**
 **1.429, de 2018**.
 
 #### Operações amparadas por mecanismo de apoio
@@ -2120,7 +2120,7 @@ operação(ões) amparada(s) em mecanismo(s) de apoio.
 **Código NBS / Descrição da NBS:** Vide [item 9, do Capítulo 1 deste Manual.](#9)
 
 A partir de 1º de janeiro de 2019, as informações sobre operação(ões)
-amparada(s) por mecanismo(s) de apoio que serão incluídas no RPC devem classificar os serviços²⁴ de acordo com a NBS 2.0, publicada pela
+amparada(s) por mecanismo(s) de apoio que serão incluídas no RPC devem classificar os serviços[^24] de acordo com a NBS 2.0, publicada pela
 [Portaria Conjunta RFB / SCS nº 1.429, de
 2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20).
 
@@ -2293,9 +2293,9 @@ e
 
 Cabe ressaltar a necessidade de avaliação sobre alterações necessárias nos registros realizados por meio de transmissão em lote a partir da publicação da nova edição da NBS e de suas notas explicativas.
 
-A prestação de serviços²⁵ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
+A prestação de serviços[^24] iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
 
-A prestação de serviços¹³ iniciada a partir de 1º de janeiro de 2019
+A prestação de serviços[^13] iniciada a partir de 1º de janeiro de 2019
 devem ser registradas tendo por base a [Portaria Conjunta RFB / SCS nº
 nº 1.429, de 2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20),
 que produz efeitos a partir de 1º de janeiro de 2019.
@@ -3038,96 +3038,96 @@ Empresa residente ou domiciliada no Brasil que envia empregado para trabalhar em
 Empresa residente e domiciliada no Brasil que efetua apenas o pagamento de contribuições previdenciárias, referente a segurado facultativo, de trabalhador residente no exterior e com vínculo empregatício estabelecido junto a uma empresa residente e domiciliada no exterior, em país que não possua tratado previdenciário com o Brasil, pagamento esse reembolsado pela empresa estrangeira, não deve prestar essa informação no Siscoserv. Tal situação não configura prestação de serviço em modo 4.
 Importante ressaltar que esse cenário trata exclusivamente de situação em que não há nenhuma prestação de serviços do expatriado à empresa brasileira.
 
-[¹]:  Neste caso, leia-se "prestação de serviços" como "prestação de
+[^1]:  Neste caso, leia-se "prestação de serviços" como "prestação de
     serviços, transferência de intangível e realização de [outras
     operações que produzam variações no
     patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio)".
 
-[²]: Neste caso, leia-se "bens ou serviços" como "bens, mercadorias,
+[^2]: Neste caso, leia-se "bens ou serviços" como "bens, mercadorias,
     serviços, intangíveis ou [outras operações que produzam variações
     no patrimônio](#1jvko6v)
 
-[³]: Neste caso, leia-se "prestação de serviços" como "prestação de
+[^3]: Neste caso, leia-se "prestação de serviços" como "prestação de
     serviços, transferência de intangível e realização de [outras
     operações que produzam variações no
     patrimônio](#1jvko6v)".
 
-[⁴]: Neste caso, leia-se "venda de serviços" como "venda de serviços,
+[^4]: Neste caso, leia-se "venda de serviços" como "venda de serviços,
     transferência de intangível ou realização de [outras operações que
     produzam variações no patrimônio](#1jvko6v)".
 
-[⁵]: Neste caso, leia-se "venda de serviços" como "venda de serviços,
+[^5]: Neste caso, leia-se "venda de serviços" como "venda de serviços,
     transferência de intangível ou realização de [outras operações que
     produzam variações no patrimônio](#1jvko6v)".
 
-[⁶]: Neste caso, leia-se "prestação de serviços", como "prestação de
+[^6]: Neste caso, leia-se "prestação de serviços", como "prestação de
     serviços, transferência de intangível e realização de [outras
     operações que produzam variações no
     patrimônio](#1jvko6v)".
 
-[⁷]: Idem Nota 2
+[^7]: Idem Nota 2
 
-[⁸]: Idem Nota 2.
+[^8]: Idem Nota 2.
 
-[⁹]: Aprovado pelo Decreto Legislativo nº 30, de 15 de dezembro de
+[^9]: Aprovado pelo Decreto Legislativo nº 30, de 15 de dezembro de
     1994, e promulgado pelo Decreto nº 1.355, de 30 de dezembro de
     1994.
 
-[¹⁰]: Neste caso, leia-se "prestação de serviços", como "prestação de
+[^10]: Neste caso, leia-se "prestação de serviços", como "prestação de
     serviços, transferência de intangível e realização de [outras
     operações que produzam variações no
     patrimônio](about:blank)".
 
-[¹¹]: Idem.
+[^11]: Idem.
 
-[₁₂]: Neste caso, leia-se "prestação de serviços" como "prestação de
+[^12]: Neste caso, leia-se "prestação de serviços" como "prestação de
     serviços, transferência de [intangível](#intangivel) e realização de
     [outras operações que produzam variações no
     patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio).
 
-[₁₃]: Neste caso, leia-se "venda de serviços" como "venda de serviços,
+[^13]: Neste caso, leia-se "venda de serviços" como "venda de serviços,
     intangíveis e [outras operações que produzam variações no
     patrimônio](#1jvko6v)".
 
-[¹⁴]: Neste caso, leia-se "prestação de serviços", como "prestação de
+[^14]: Neste caso, leia-se "prestação de serviços", como "prestação de
     serviços, transferência de intangível e realização de [outras
     operações que produzam variações no
     patrimônio](#1jvko6v)".
 
-[¹⁵]: Idem Nota 15
+[^15]: Idem Nota 15
 
-[¹⁶]: Neste caso, leia-se "prestação de serviços", como "prestação de
+[^16]: Neste caso, leia-se "prestação de serviços", como "prestação de
     serviços, transferência de intangível e realização de [outras
     operações que produzam variações no
     patrimônio](#1jvko6v)".
 
-[¹⁷]: Maiores informações no [item 9 do Capítulo 1](#9) deste Manual.
+[^17]: Maiores informações no [item 9 do Capítulo 1](#9) deste Manual.
 
-[¹⁸]: Neste caso, leia-se "serviços" como "serviços, intangíveis e
+[^18]: Neste caso, leia-se "serviços" como "serviços, intangíveis e
     [outras operações que produzam variações no
     patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio)".
 
-[¹⁹]: Neste caso, leia-se "serviço prestado" como "serviço prestado,
+[^19]: Neste caso, leia-se "serviço prestado" como "serviço prestado,
     intangível transferido e outra operação que produza variações no
     patrimônio realizada".
 
-[²⁰]: Neste caso leia-se "faturamento de um serviço" como "faturamento
+[^20]: Neste caso leia-se "faturamento de um serviço" como "faturamento
     de um serviço, comercialização de intangível ou outra operação que
     produza variação no patrimônio".
 
-[₂₁]: Neste caso, leia-se "serviços", como "serviços, intangíveis e
+[^21]: Neste caso, leia-se "serviços", como "serviços, intangíveis e
     [outras operações que produzam variações no
     patrimônio](#outras_operacoes_que produzam_variacoes_de_patrimonio)".
 
-[₂₂]: Neste caso, leia-se "serviços", como "serviços, intangíveis e
+[^22]: Neste caso, leia-se "serviços", como "serviços, intangíveis e
     [outras operações que produzam variações no
     patrimônio".
 
-[₂₃]: Neste caso, leia-se "serviços", como "serviços, intangíveis e
+[^23]: Neste caso, leia-se "serviços", como "serviços, intangíveis e
     [outras operações que produzam variações no
     patrimônio](#outras_operacoes_que produzam_variacoes_de_patrimonio)"
 
-[₂₄]: Neste caso, leia-se "prestação de serviços", como "prestação de
+[^24]: Neste caso, leia-se "prestação de serviços", como "prestação de
     serviços, transferência de intangível e realização de [outras
     operações que produzam variações no
     patrimônio](#outras_operacoes_que produzam_variacoes_de_patrimonio)".
