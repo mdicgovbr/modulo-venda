@@ -1,3 +1,11 @@
+---
+published: true
+permalink: /modulo-venda
+layout: slate
+filename: modulovenda.md
+title: Módulo Venda
+---  
+
 # MANUAL MODULO VENDA 12ª. Edição
 
 ## Sumário
