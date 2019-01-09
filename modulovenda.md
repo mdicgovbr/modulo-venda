@@ -2293,7 +2293,11 @@ e
 
 Cabe ressaltar a necessidade de avaliação sobre alterações necessárias nos registros realizados por meio de transmissão em lote a partir da publicação da nova edição da NBS e de suas notas explicativas.
 
+<<<<<<< HEAD
 A prestação de serviços[^24] iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
+=======
+A prestação de serviços[^25] iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
+>>>>>>> 7d02efbd5df9754705245c3676095fb4ecbe83b8
 
 A prestação de serviços[^13] iniciada a partir de 1º de janeiro de 2019
 devem ser registradas tendo por base a [Portaria Conjunta RFB / SCS nº
