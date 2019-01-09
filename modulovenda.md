@@ -8,183 +8,13 @@ title: Módulo Venda
 
 # MANUAL MODULO VENDA 12ª. Edição
 
-## Sumário
-[**Capítulo 1**](#cap1)
+[TOC]
 
-[**Informações gerais e normativas sobre o Siscoserv**](#informações_gerais_e_normativas_sobre_o_siscoserv)
-
-[**1. Introdução**](#1cap1)
-
-[**2. Base Legal do Siscoserv**](#2cap1)
-
-[**3. Módulos Venda e Aquisição do Siscoserv**](#3cap1)
-
-[**4. Registros no Módulo Venda**](#4cap1)
-
-[4.1. Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS)](#4.1cap1)
-
-[4.1.1. Prazo para o RVS](#4.1.1)
-
-[4.2. Registro de Faturamento (RF)](#4.2cap1)
-
-[4.2.1. Prazos para o RF](#4.2.1)
-
-[4.3. Situações especiais de registro](#4.3cap1)
-
-[4.3.1. Operação com data de conclusão indeterminada:](#4.3.1)
-
-[4.3.2. Operação iniciada sem que o valor esteja definido:](#4.3.2)
-
-[4.3.3. Operação com pessoas físicas residentes no exterior mediante consumo no Brasil:](#4.3.3)
-
-[4.3.4. Serviços de transporte de passageiros a pessoas físicas residentes no exterior](#4.3.4)
-
-[4.4. Registro de Presença Comercial no Exterior (RPC)](#4.4)
-
-[4.4.1. Prazo para o RPC](#4.4.1)
-
-[**5. Quem deve efetuar registro no Siscoserv -- Módulo Venda**](#5)
-
-[**6. Quem está dispensado de efetuar registro no Siscoserv -- Módulo Venda**](#6)
-
-[**7. Cronograma de registro das informações**](#7)
-
-[**8. Modos de Prestação de Serviços -- Módulo Venda** ](#8)
-
-[**9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS)**](#9)
-
-[**10. Mecanismos de apoio / fomento ao Comércio Exterior de Serviços e Intangíveis** ](#10)
-
-[10.1 - Mecanismos de Apoio / Fomento (Enquadramento) no RVS do Módulo Venda:](#10.1)
-
-[10.2 - Mecanismos de Apoio / Fomento (Enquadramento) no RPC do Módulo Venda:](#10.2)
-
-[**11. Informações e canais de atendimento** ](#11)
-
-[**12. Glossário** ](#12)
-
-[**Capítulo 2**](#cap2)
-
-[**Operacionalização do Sistema**](#cap2)
-
-[**1. Acesso ao Siscoserv** ](#1cap2)
-
-[1.1. Como acessar o Siscoserv](#1.1)
-
-[1.2. O que é e como obter o Certificado Digital (e-CPF)](#1.2)
-
-[1.3. O que é e como obter a Procuração Eletrônica](#1.3)
-
-[1.4. Problemas de acesso](#1.4)
-
-[1.5. Informações Cadastrais](#1.5)
-
-[1.5.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica](#1.5.1)
-
-[1.5.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física](#1.5.2)
-
-[1.5.3. Caso 3 -- Usuário/Responsável pelo Registro é o próprio Vendedor](#1.5.3)
-
-[**2. Procedimentos relativos ao registro no Módulo Venda**](#2cap2)
-
-[2.1. Inclusão do RVS](#2.1)
-
-[2.1.1 Inclusão de Aditivo ao RVS](#2.1.1)
-
-[2.1.2. Retificação do RVS](#2.1.2)
-
-[2.1.3. Retificação do Aditivo ao RVS](#2.1.3)
-
-[2.1.4. Consulta ao RVS ou ao Aditivo ao RVS](#2.1.4)
-
-[2.2 Inclusão do RF](#2.2)
-
-[2.2.1. Retificação do RF](#2.2.1)
-
-[2.2.2. Cancelamento do RF](#2.2.2)
-
-[2.2.3. Consulta ao RF](#2.2.3)
-
-[2.3. Registro de Presença Comercial no Exterior (RPC)](#2.3)
-
-[2.3.1. Inclusão do RPC](#2.3.1)
-
-[2.3.2. Retificação do RPC](#2.3.2)
-
-[2.3.3. Cancelamento do RPC](#2.3.3)
-
-[2.3.4. Consulta ao RPC](#2.3.4)
-
-[**3. Transmissão em Lote** ](#3)
-
-[3.1. Procedimentos para envio do arquivo de lote](#3.1)
-
-[3.2. Consultar Lote](#3.2)
-
-[3.2.1. Arquivo de Retorno do Lote](#3.2.1)
-
-[3.3. Excluir Lote](#3.3)
-
-[3.4. Cumprimento de Prazos na Transferência em Lote](#3.4)
-
-[**4. Relatório Gerencial** ](#4)
-
-[4.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica](#4.1)
-
-[4.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física](#4.2)
-
-[4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor](#4.3)
-
-[**Capítulo 3** ](#cap3)
-
-[**Cenários Exemplificativos de Registro no Siscoserv**](#cap3)
-
-[**1. Registro de Transporte Internacional de Cargas (Frete)**](#1cap3)
-
-[Cenário 1.1. Transporte internacional de cargas intermediado por agente de cargas.](#1.1cap3)
-
-[Exportação brasileira com a obrigação de transportar da empresa brasileira.](#1.1cap3)
-
-[Cenário 1.2. Transporte internacional de cargas intermediado por agente de cargas.](#1.2cap3)
-
-[Importação brasileira com a obrigação de transportar da empresa brasileira](#1.2cap3)
-
-[Cenário 1.3. Transporte internacional de cargas com consolidação e desconsolidação de cargas.](#1.3cap3)
-
-[Importação brasileira com a obrigação de transportar da empresa estrangeira](#1.3cap3)
-
-[Cenário 1.4. Transporte internacional de cargas com consolidação e desconsolidação de cargas.](#1.4cap4)
-
-[Exportação brasileira com a obrigação de transportar da empresa brasileira](#1.4cap3)
-
-[**2. Seguros** ](#2cap3)
-
-[Cenário 2.1. Contratação de seguro com intermediação de corretora](#2.1cap3)
-
-[Cenário 2.2. Contratação de seguro de estipulante domiciliada ou residente no Brasil](#2.2cap3)
-
-[**3. Remessa Expressa** ](#3cap3)
-
-[Cenário 3.1. Empresa brasileira exportadora (ou importadora) faturada por empresa estrangeira prestadora do serviço de remessa expressa](#3.1cap3)
-
-[Cenário 3.2. Empresa brasileira faturada pela filial residente ou domiciliada no Brasil de empresa estrangeira](#3.2cap3)
-
-[**4. Expatriados** ](#4cap3)
-
-[Cenário 1](#cenario1)
-
-[Cenário 2](#cenario2)
-
-<a id="cap1"></a>\
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image22.png)
 
 # Capítulo 1
 
-<a id="informações_gerais_e_normativas_sobre_o_siscoserv"></a>
-
-# Informações gerais e normativas sobre o Siscoserv
-
-<a id="1cap1"></a>
+## Informações gerais e normativas sobre o Siscoserv
 
 ## 1. Introdução
 
@@ -196,7 +26,6 @@ O Siscoserv guarda conformidade com as diretrizes do Acordo Geral sobre Comérci
 aprovado pelo Decreto Legislativo nº 30, de 15 de dezembro de 1994, e promulgado pelo Decreto nº 1.355, de
 30 de dezembro de 1994.
 
-<a id="2cap1"></a>
 
 ## 2. Base Legal do Siscoserv
 
@@ -214,7 +43,6 @@ aprovado pelo Decreto Legislativo nº 30, de 15 de dezembro de 1994, e promulgad
 
 A prestação de informação no Siscoserv observa as normas complementares estabelecidas neste Manual.
 
-<a id="3cap1"></a>
 
 ## 3. Módulos Venda e Aquisição do Siscoserv
 
@@ -232,7 +60,6 @@ Para maiores informações sobre o Modulo Aquisição acesse:
 
 [http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-2](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-2)
 
-<a id="4cap1"></a> 
 
 ## 4. Registros no Módulo Venda
 
@@ -245,7 +72,6 @@ por [residente](#residente) ou domiciliado no País, de serviços, [intangíveis
 
 \- Registro de Presença Comercial (RPC): contém dados referentes às operações realizadas por meio de [Presença Comercial no Exterior](#28reqzj) relacionada à pessoa jurídica domiciliada no Brasil.
 
-<a id="4.1cap1"></a>
 
 ### 4.1. Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS)
 
@@ -266,9 +92,8 @@ Caso o contrato envolva mais de um adquirente deve ser registrado um RVS por adq
 
 As operações de prestação de serviços previstas em contratos de garantia decorrentes da venda de bens ou serviços² realizadas a residentes e domiciliados no exterior devem ser registradas quando ensejarem faturamento.
 
-<a id="4.1.1"></a>
 
-**4.1.1. Prazo para o RVS**
+#### 4.1.1. Prazo para o RVS
 
 O prazo para incluir o RVS é até o último dia útil do 3º
 (terceiro) mês subsequente à [data de início da prestação de serviço](#data_inicio_prestacao)³
@@ -282,7 +107,6 @@ data de início da prestação de serviço, da comercialização de intangível 
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image148.png)
 
-<a id="4.2cap1"></a>
 
 ### 4.2. Registro de Faturamento (RF)
 
@@ -292,9 +116,8 @@ expresso na moeda informada no RVS), o [valor mantido no exterior](#valor_mantid
 Para cada RVS deve ser registrado um RF, ainda que a nota fiscal tenha sido emitida em relação a mais de um negócio, ou seja, a mais de um RVS.
 Neste caso, o número da nota fiscal será repetido em cada RF.
 
-<a id="4.2.1"></a>
 
-**4.2.1. Prazos para o RF**
+#### 4.2.1. Prazos para o RF
 
 Para o registro de faturamento, há dois prazos possíveis, dependendo da data de emissão da nota fiscal ou documento equivalente:
 
@@ -308,28 +131,24 @@ Para o registro de faturamento, há dois prazos possíveis, dependendo da data d
 
 Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#4.1.1).
 
-<a id="4.3cap1"></a>
 
 ### 4.3. Situações especiais de registro
 
-<a id="4.3.1"></a>
 
-**4.3.1. Operação com data de conclusão indeterminada:**
+#### 4.3.1. Operação com data de conclusão indeterminada:
 
 
 A operação cuja data de conclusão não seja conhecida por ocasião do seu registro em razão de não ter sido pactuada entre as partes pode ser objeto de registros periódicos, conforme itens 2.1 (Inclusão do RVS) ou
 2.1.1 (Inclusão de Aditivo ao RVS) do capítulo 2 deste Manual. Nesse caso, a data de início e a data de conclusão devem ser indicadas dentro do mesmo ano-calendário. Posteriormente, a data de conclusão poderá ser ajustada, mediante retificação, conforme descrito nos itens 2.1.2
 (Retificação do RVS) ou 2.1.3 (Retificação do Aditivo ao RVS) do capítulo 2 deste Manual.
 
-<a id="4.3.2"></a>
 
-**4.3.2. Operação iniciada sem que o valor esteja definido:**
+#### 4.3.2. Operação iniciada sem que o valor esteja definido:
 
 A operação cujo valor não seja conhecido por ocasião do seu registro em função de sua apuração só poder ocorrer após a efetiva prestação do serviço pode ser registrada pelo seu valor estimado. Posteriormente, o valor poderá ser ajustado, mediante retificação, conforme descrito nos itens 2.1.2 (Retificação do RVS) ou 2.1.3 (Retificação do Aditivo ao RVS) do capítulo 2 deste manual.
 
-<a id="4.3.3"></a>
 
-**4.3.3. Operação com pessoas físicas residentes no exterior mediante consumo no Brasil:**
+#### 4.3.3. Operação com pessoas físicas residentes no exterior mediante consumo no Brasil:
 
 As vendas de serviços, [intangíveis](#intangivel) e [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio),
 em [modo de prestação 2](#1mrcu09) (consumo no Brasil),
@@ -353,9 +172,8 @@ II - Valor da Fatura: informar o somatório do valor faturado no mês;
 
 III - Número da NF de Serviço ou documento equivalente: inserir a expressão: "DIVERSOS".
 
-<a id="4.3.4"></a>
 
-**4.3.4. Serviços de transporte de passageiros a pessoas físicas residentes no exterior**
+#### 4.3.4. Serviços de transporte de passageiros a pessoas físicas residentes no exterior
 
 As prestações de serviços de transporte de passageiros para pessoas físicas residentes no exterior podem ser registradas pelos seus montantes acumulados mensalmente, por NBS e por país de residência do passageiro.
 
@@ -381,7 +199,6 @@ II - Valor da Fatura: informar o somatório do valor faturado no mês;
 
 III - Número da NF de Serviço ou documento equivalente: inserir a expressão: "DIVERSOS".
 
-<a id="4.4"></a>
 
 ### 4.4. Registro de Presença Comercial no Exterior (RPC)
 
@@ -401,15 +218,13 @@ transferência de intangível e realização de outra operação que produza var
 
 Caso a pessoa jurídica domiciliada no Brasil mantenha, no exterior, mais de uma filial, sucursal ou [controlada](#2nusc19) no mesmo país, a receita anual total com venda de serviços, transferência de intangível e realização de outra operação que produza variação no patrimônio, será discriminada mediante um RPC para cada filial, sucursal e controlada.
 
-<a id="4.4.1"></a>
-s
-**4.4.1. Prazo para o RPC**
+
+#### 4.4.1. Prazo para o RPC
 
 A prestação das informações no RPC deve ser realizada anualmente, a partir de 2014, em relação ao ano-calendário anterior, até o último dia     útil do mês de junho do ano subsequente à realização de operações por meio de presença comercial no exterior relacionada à pessoa jurídica domiciliada no Brasil.
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image149.png)
 
-<a id="5"></a>
 
 ## 5. Quem deve efetuar registro no Siscoserv -- Módulo Venda
 
@@ -475,7 +290,6 @@ mediante movimentação temporária de profissionais e contra esta fatura a pres
 
 \(4) Empresa (B), que é filial, sucursal ou controlada domiciliada no exterior de Empresa (A) domiciliada no Brasil, presta serviço a empresa domiciliada no exterior. Empresa (A) deve proceder aos registros no Módulo Venda do Siscoserv em [Modo 3 -- Presença Comercial](#46r0co2) no Exterior.
 
-<a id="6"></a>
 
 ## 6. Quem está dispensado de efetuar registro no Siscoserv -- Módulo Venda
 
@@ -487,7 +301,6 @@ I - Empresas cadastradas no SIMPLES NACIONAL e MEI - as pessoas jurídicas optan
 
 II - Pessoas Físicas - as pessoas físicas residentes no País que, em nome individual, não explorem, habitual e profissionalmente, qualquer atividade econômica de natureza civil ou comercial, com o fim especulativo de lucro, desde que não realizem operações em valor superior a US\$ 30.000,00 (trinta mil dólares dos Estados Unidos da América), ou o equivalente em outra moeda, no mês.
 
-<a id="7"></a>
 
 ## 7. Cronograma de registro das informações
 
@@ -497,13 +310,12 @@ O Registro de Venda de Serviços, [Intangíveis](#intangivel) e
 que tem por base a Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio -- NBS, conforme previsto no § 5º do art. 6º da
 [Portaria Conjunta RFB/SCS nº 1.908, de 19 de julho de2012](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012).
 
-<a id="8"></a>
 ## 8. Modos de Prestação de Serviços -- Módulo Venda
 
 Os modos de prestação identificam, conforme estabelecido no Acordo Geral sobre Comércio de Serviços da OMC (GATS)⁹, a prestação de serviços,
 segundo a localização do prestador e do tomador. No Módulo Venda, os modos de prestação são os seguintes:
 
-**Modo 1 - Comércio transfronteiriço:** serviço prestado do território de um país ao território de outro país, por residente ou domiciliado no Brasil a residente ou domiciliado no exterior.
+### Modo 1 - Comércio transfronteiriço: serviço prestado do território de um país ao território de outro país, por residente ou domiciliado no Brasil a residente ou domiciliado no exterior.
 
 Exemplos:
 
@@ -516,7 +328,7 @@ Exemplos:
 ![Imagens Siscoserv](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image154.jpg)
 
 
-**Modo 2 - Consumo no Brasil:** serviço prestado por residente ou domiciliado no Brasil e consumido no território brasileiro por residente ou domiciliado no exterior.
+### Modo 2 - Consumo no Brasil: serviço prestado por residente ou domiciliado no Brasil e consumido no território brasileiro por residente ou domiciliado no exterior.
 
 Exemplos:
 
@@ -529,7 +341,7 @@ Exemplos:
 
 ![Imagens Siscoserv](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image160.jpg)
 
-**Modo 3 - Presença comercial no exterior:** consiste na prestação de serviço por pessoa jurídica domiciliada no exterior relacionada a uma pessoa jurídica domiciliada no Brasil. Para fins do Siscoserv,
+### Modo 3 - Presença comercial no exterior: consiste na prestação de serviço por pessoa jurídica domiciliada no exterior relacionada a uma pessoa jurídica domiciliada no Brasil. Para fins do Siscoserv,
 considera-se relacionada à pessoa jurídica domiciliada no Brasil a sua filial, sucursal ou [controlada](#2nusc19), domiciliada no exterior.
 
 Exemplos:
@@ -540,7 +352,7 @@ Exemplos:
 
 ![Imagens Siscoserv](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image172.jpg)
 
-**Modo 4 - Movimento temporário de pessoas físicas:** [residentes no Brasil](#1tuee74) deslocam-se por tempo limitado ao exterior com vistas a prestar um serviço a residente ou domiciliado no exterior.
+### Modo 4 - Movimento temporário de pessoas físicas: [residentes no Brasil](#1tuee74) deslocam-se por tempo limitado ao exterior com vistas a prestar um serviço a residente ou domiciliado no exterior.
 
 Exemplos:
 
@@ -559,7 +371,6 @@ sem vínculo empregatício com pessoa física ou jurídica residente ou domicili
 
 Não deverão registrar operações em Modo 4 no Siscoserv as Pessoas Jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física para exercer vínculo empregatício com Pessoa Jurídica no exterior a ela relacionada (por exemplo, transferido intracorporação).
 
-<a id="9"></a>
 ## 9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS)]
 
 O registro de [operações](about:blank) no Siscoserv será realizado de acordo com a [Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio(NBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13) e pelas respectivas [Notas Explicativas(NEBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13), aprovadas pelo [Decreto nº 7.708, de 2 de abril de 2012](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm), e suas alterações posteriores.
@@ -715,7 +526,6 @@ Em caso de dúvidas sobre classificação da NBS, consulte as Regras de Interpre
 
 Caso persistam dúvidas, deve ser formalizado processo administrativo de consulta à Secretaria da Receita Federal do Brasil (RFB), nos termos do art. 48 da Lei nº 9.430, de 27 de dezembro de 1996 e do Decreto nº 7.708, de 02 de abril de 2012, que instituiu a NBS.
 
-<a id="10"></a>
 
 ## 10 Mecanismos de apoio / fomento ao Comércio Exterior de Serviços e Intangíveis
 
@@ -732,7 +542,6 @@ A concessão ou o reconhecimento de cada mecanismo condiciona-se ao registro das
 No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de serviços, os definidos na seguinte **lista exaustiva**:
 
 
-<a id="10.1"></a>
 
 ### 10.1. Mecanismos de Apoio / Fomento (Enquadramento) no RVS do Módulo Venda:
 
@@ -748,7 +557,6 @@ http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/
 |**PROEX - EQUALIZAÇÃO** Cobertura de parte dos encargos financeiros incidentes, de forma a tornar as taxas de juros equivalentes às praticadas internacionalmente.|Lei no 10.184, de 12 de fevereiro de 2001 Portaria MDIC no 208, de 20 de outubro de 2010|
 
 
-<a id="10.2"></a>
 
 ### 10.2. Mecanismos de Apoio / Fomento (Enquadramento) no RPC do Módulo Venda: 
 
@@ -760,7 +568,6 @@ http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/
 |**PROEX - EQUALIZAÇÃO** Cobertura de parte dos encargos financeiros incidentes, de forma a tornar as taxas de juros equivalentes às praticadas internacionalmente.|Lei no 10.184, de 12 de fevereiro de 2001 Portaria MDIC no 208, de 20 de outubro de 2010 |
 |**PROEX - Financiamento** Financiamento direto ao exportador brasileiro ou importador, com recursos financeiros obtidos junto ao Tesouro Nacional, para conceder às exportações brasileiras condições equivalentes às do mercado internacional |Lei no 10.184, de 12 de fevereiro de 2001 Portaria MDIC no 208, de 20 de outubro de 2010|
 
-<a id="11"></a>
 
 ## 11. Informações e canais de atendimento
 
@@ -768,13 +575,13 @@ Os Manuais são publicados pela Comissão do Siscoserv para contribuir com a ori
 
 Para dúvidas adicionais, estão disponíveis os seguintes canais de atendimento:
 
--   **Dúvidas gerais sobre registros:**
+### Dúvidas gerais sobre registros:
 
 O canal para dirimir dúvidas gerais referentes ao Siscoserv, e que não estejam contempladas neste Manual, é o COMEX Responde:
 [http://www.comexresponde.gov.br/](http://www.comexresponde.gov.br/).
 Ao acessar o site, o usuário deve buscar no menu de Assuntos Gerais o tema "Sistemas e Ferramentas de Apoio". Em seguida, no menu de Assuntos Específicos, o usuário deve escolher \"Siscoserv\". Após digitar sua mensagem no campo de Mensagem, basta inserir o Código de Verificação e clicar em Enviar.
 
--   **Dúvidas sobre o Acesso e Aspectos Técnicos do Siscoserv:**
+### Dúvidas sobre o Acesso e Aspectos Técnicos do Siscoserv:
 
 Em caso de erros ou falhas apresentados pelo Sistema, estão disponíveis os canais do SERPRO para diagnóstico e correção:
 
@@ -797,7 +604,7 @@ Deve ser realizada consulta às Regras de Interpretação da Nomenclatura Brasil
 
 Caso persistam dúvidas, deve ser formalizado processo administrativo de consulta à Secretaria da Receita Federal do Brasil (RFB), nos termos do art. 48 da Lei nº 9.430, de 27 de dezembro de 1996 e do Decreto nº 7.708, de 02 de abril de 2012, que instituiu a NBS.
 
--   **[Dúvidas sobre registro no Siscoserv:]**
+### Dúvidas sobre registro no Siscoserv:
 
 Deverão ser consultados os Manuais Informatizados dos Módulos Venda e Aquisição do Siscoserv no sítio da Secretaria da Receita Federal do Brasil (RFB) na Internet, no endereço
 [\<[http://www.receita.fazenda.gov.br](http://www.receita.fazenda.gov.br/)]\>
@@ -824,7 +631,7 @@ Maiores informações sobre as Consultas estão disponíveis em:
 
 [http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/consulta-sobre-interpretacao-da-legislacao-tributaria](http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/consulta-sobre-interpretacao-da-legislacao-tributaria).
 
--   **[Dúvidas sobre a legislação relativa ao Siscoserv:]**
+### Dúvidas sobre a legislação relativa ao Siscoserv:
 
 A legislação relativa ao Siscoserv encontra-se disponível nos endereços:
 
@@ -835,7 +642,6 @@ A legislação relativa ao Siscoserv encontra-se disponível nos endereços:
 Além dos canais disponíveis, o usuário pode tirar dúvidas em eventos relacionados ao Siscoserv. A divulgação dos eventos é realizada na seção
 "Notícias" do sistema.
 
-<a id="12"></a>
 
 ## 12. Glossário
 
@@ -981,24 +787,23 @@ intangível ou [outra operação que produza variação no patrimônio](#outras_
 e [Instrução Normativa no 726, de 28 de fevereiro de
 2007](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=15670).
 
-<a id="cap2"></a>
 
-**Capítulo 2**![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image22.png)
+# Capítulo 2 
 
-**Operacionalização do Sistema**
+![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image22.png)
 
-<a id="1cap2"></a>
+## Operacionalização do Sistema
 
-# 1. Acesso ao Siscoserv
+
+## 1. Acesso ao Siscoserv
 
 O acesso ao Siscoserv está disponível no Centro Virtual de Atendimento ao Contribuinte (e-CAC) da RFB na internet no endereço:
 <http://www.receita.fazenda.gov.br>, e no sítio da Secretaria de Comércio e Serviços (SCS) na internet, no endereço:
 [http://www.siscoserv.mdic.gov.br](http://www.siscoserv.mdic.gov.br);
 exceto no horário de manutenção diária do Sistema (1h às 3h).
 
-<a id="1.1"></a>
 
-# 1.1. Como acessar o Siscoserv
+### 1.1. Como acessar o Siscoserv
 
 O acesso ao Siscoserv é sempre feito por [certificado digital](#_zu0gcz) **e-CPF**. Quando a informação for prestada por pessoa jurídica ou representante legal de terceiros, além do e-CPF do representante legal, também se exige [procuração eletrônica](#1.3). Essa procuração deve ser emitida por estabelecimento.
 
@@ -1008,26 +813,23 @@ O acesso ao Siscoserv é sempre feito por [certificado digital](#_zu0gcz) **e-CP
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image120.png)
 
-<a id="1.2"></a>
-# 1.2. O que é e como obter o Certificado Digital (e-CPF)
+### 1.2. O que é e como obter o Certificado Digital (e-CPF)
 
 O Certificado Digital permite a identificação de uma pessoa no ambiente digital/eletrônico em transação na internet que necessite de validade legal e identificação inequívoca.
 
 A lista de autoridades certificadoras, habilitadas pela Secretaria da Receita Federal do Brasil (RFB) para emissão de Certificados Digitais e-CPF, está disponível em:
 
-<a id="_1yyy98l"></a>[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
+[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
 
 
-<a id="1.3"></a>
-# 1.3. O que é e como obter a Procuração Eletrônica
+### 1.3. O que é e como obter a Procuração Eletrônica
 
 A Procuração Eletrônica, emitida exclusivamente pela RFB, é o instrumento que permite que uma pessoa física represente outra pessoa
 (física ou jurídica) no Siscoserv. As orientações para obtenção da procuração estão disponíveis em:
 
 [http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/procuracoes/orientacoes-gerais-procuracoes-rfb](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/procuracoes/orientacoes-gerais-procuracoes-rfb)
 
-<a id="1.4"></a>
-# 1.4. Problemas de acesso
+### 1.4. Problemas de acesso
 
 Em caso de dificuldades para acessar o sistema, recomenda-se a limpeza de cache do navegador ou mesmo o uso de outro navegador. É possível ainda que o problema esteja relacionado com a procuração eletrônica.
 Como informado, a procuração eletrônica é emitida pela RFB, a qual possui o seguinte link para verificação:
@@ -1042,7 +844,6 @@ o órgão responsável pelos aspectos técnico-operacionais do sistema. Os canai
 \- Fone: 0800-978-2331
 \- Email: css.serpro\@serpro.gov.
 
-<a id="1.5"></a>
 
 ### 1.5. Informações Cadastrais
 
@@ -1072,8 +873,7 @@ b)  Usuário/Responsável pelo Registro representa uma Pessoa física; e
 
 c)  Usuário/Responsável pelo Registro é o Próprio Vendedor.
 
-<a id="1.5.1"></a>
-**1.5.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica**
+#### 1.5.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Informações cadastrais;
 
@@ -1143,9 +943,8 @@ Passo 4: Após o preenchimento das informações, o Usuário/Responsável clica 
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image166.jpg)
 
-<a id="1.5.2"></a>
 
-**1.5.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física**
+#### 1.5.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física
 
 Passo 1: [Usuário /Responsável pelo Registro](#2y3w247)
 acessa o Siscoserv e clica em Informações cadastrais;
@@ -1207,9 +1006,8 @@ Passo 4: Após a atualização das informações, o Usuário/Responsável clica 
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image146.jpg)
 
-<a id="1.5.3"></a>
 
-**1.5.3. Caso 3 -- Usuário/Responsável pelo Registro é o próprio Vendedor**
+#### 1.5.3. Caso 3 -- Usuário/Responsável pelo Registro é o próprio Vendedor
 
 Passo 1: Responsável pelo Registro acessa o Siscoserv e clica em Informações cadastrais;
 
@@ -1266,7 +1064,6 @@ Passo 4: Após a atualização das informações, o Usuário/Responsável clica 
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image150.jpg) 
   
-<a id="2cap2"></a>
 
 ## 2. Procedimentos relativos ao registro no Módulo Venda
 
@@ -1305,7 +1102,6 @@ Inclusão de RVS, Aditivo ao RVS, Retificação do RVS, Retificação do Aditivo
 
 O Registro de Presença Comercial (RPC) não possui mecanismo de transmissão em lote.
 
-<a id="2.1"></a>
 
 ### 2.1. Inclusão do RVS
 
@@ -1356,7 +1152,7 @@ b)  **Exibir Lista dos RVS Incluídos:** selecionada esta opção, acione o
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image28.png)
 
-**Opção de Atendimento à Legislação**
+#### Opção de Atendimento à Legislação
 
 Em seguida, o Siscoserv apresenta a seguinte tela:
 
@@ -1376,7 +1172,7 @@ No caso da não indicação de que o registro será feito em atendimento concomi
 A decisão pode ser revista pelo usuário, clicando em **Atendimento à
 legislação** no *menu* lateral esquerdo na tela de **Resumo**.
 
-**Dados do Adquirente**
+#### Dados do Adquirente
 
 Em **Dados do Adquirente**, devem ser incluídos os dados do residente ou domiciliado no exterior adquirente da [operação](#operacao)
 realizada com pessoa física, pessoa jurídica ou [ente despersonalizado](#ente_despersonalizado)
@@ -1385,17 +1181,20 @@ realizada com pessoa física, pessoa jurídica ou [ente despersonalizado](#ente_
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image15.png)
 
 
-**Nome do Adquirente** - Preencha o nome da pessoa física ou o nome comercial da pessoa jurídica adquirente do
-[negócio](#negocio).
+#### Nome do Adquirente
 
-**Endereço do Adquirente** - Preencha com o endereço da pessoa física ou da pessoa jurídica adquirente do [negócio](#negocio).
+Preencha o nome da pessoa física ou o nome comercial da pessoa jurídica adquirente do [negócio](#negocio).
 
-**País do Adquirente** - Selecione o país do adquirente do
-[negócio](#negocio) na lista disponível de países em
-**País do Adquirente**, ou informe manualmente o código do país no campo numérico.
+#### Endereço do Adquirente
+
+Preencha com o endereço da pessoa física ou da pessoa jurídica adquirente do [negócio](#negocio).
+
+#### País do Adquirente
+
+Selecione o país do adquirente do [negócio](#negocio) na lista disponível de países em **País do Adquirente**, ou informe manualmente o código do país no campo numérico.
 
 
-**[NIF - Número de Identificação Fiscal](#nif)** --
+#### NIF - Número de Identificação Fiscal
 
 Preencha com número de Identificação Fiscal do adquirente do
 [negócio](#negocio). O fornecimento dessa informação é
@@ -1418,9 +1217,8 @@ Caso o adquirente seja pessoa vinculada ao vendedor, selecione o tipo de vincula
 Acione **Avançar** para validar os dados e seguir para a próxima tela
 (**Dados do [Negócio](#negocio)**).
 
-<a id="dados_negocio"></a>
 
-**Dados do Negócio**
+#### Dados do Negócio
 
 Em **Dados do [Negócio](#negocio)** são incluídos os dados das [operações](#operacao) de venda de serviços¹³ por
 [residentes](#residente) ou domiciliados no País a residentes ou domiciliados no exterior.
@@ -1434,7 +1232,9 @@ iniciada e que tenha sido objeto de RVS, as demais operações a serem realizada
 Campos a serem preenchidos em Dados do
 [Negócio](#negocio):
 
-**Código NBS / Descrição da NBS:** Vide [item 9, do Capítulo 1 deste Manual.](#9)
+#### Código NBS / Descrição da NBS
+
+Vide [item 9, do Capítulo 1 deste Manual.](#9)
 
 A prestação de serviços¹⁴ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de
 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
@@ -1445,7 +1245,7 @@ deve ser registrada tendo por base a [Portaria Conjunta RFB / SCS nº
 2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20),
 que produz efeitos a partir de 1º de janeiro de 2019.
 
-**Código do País / País de Destino:**
+#### Código do País / País de Destino
 
 Identifica o país de destino da prestação do serviço, da transferência de [intangível](#intangivel) ou da realização de [outra operação que produza variação no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio),
 podendo ser diferente do país do adquirente.
@@ -1464,9 +1264,8 @@ Exemplos:
 
 O usuário pode informar diretamente o código do país, ou localizá-lo na lista disponível de países em **País de Destino**.
 
-**Código da Moeda / Descrição da Moeda**:
 
- 
+#### Código da Moeda / Descrição da Moeda 
 
 Identifica a moeda da transação comercial. O usuário pode informar diretamente o código da moeda, ou localizá-lo na lista **Descrição da Moeda**.
 
@@ -1490,7 +1289,7 @@ essa alteração não promove a conversão automática do valor em função da m
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image30.png)
 
-[**Modo de Prestação:**](#8)
+#### [Modo de Prestação:](#8)
 
 O usuário deve selecionar item na lista **Modo de Prestação**, dentre as opções:
 
@@ -1505,17 +1304,17 @@ O registro no Módulo Venda deve indicar, sempre que possível, o valor da opera
 
 O registro de [operação](#operacao) no Modo 3 - Presença Comercial no Exterior -- não é feito por meio de RVS. Nesse caso, o usuário deve fazer o RPC no *menu* [**RPC**](#2.3).
 
-**Data de Início:**
+#### Data de Início
 
 Data em que se [iniciou a prestação do serviço](#data_inicio_prestacao)
 vendido, a transferência do [intangível,](#intangivel) ou a realização de [outra operação que produza variações no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio). A data informada não pode ser posterior à data em que a operação estiver sendo registrada no Sistema.
 
-**Data de Conclusão:**
+#### Data de Conclusão
 
 Data em que foi ou será concluída a prestação do serviço, a transferência do [intangível,](#intangivel) ou a realização de
 [outra operação que produza variação no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio).
 
-**Valor:**
+#### Valor
 
 Deve ser especificado o valor da [operação](#operacao), na moeda indicada em **Código da Moeda / Descrição da Moeda.**
 
@@ -1535,7 +1334,7 @@ Neste caso, a empresa (A) deve adicionar o valor dessas despesas ao valor total 
 
 Só pode ser informado valor acima de 0,00 (zero).
 
-**[Mecanismo](#mecanismo_de_apoio_fomento) de Apoio/Fomento:**
+#### [Mecanismo](#mecanismo_de_apoio_fomento) de Apoio/Fomento
 
 Para informar **Mecanismo de apoio/fomento** da operação, tal como previsto no [item 10](about:blank) do capítulo 1 deste Manual, marque "sim" à direita da pergunta: "A operação está amparada em mecanismo de apoio/fomento ao comércio exterior nos termos do art. 26 da Lei 12.546/2011?". O Sistema abrirá uma nova tela para inclusão do(s)
 mecanismo(s) de apoio.
@@ -1563,7 +1362,7 @@ Caso deseje excluir um enquadramento selecionado, o usuário deve acionar o bot�
 Para maiores informações acerca da lista de enquadramentos disponíveis para seleção no Módulo Venda, veja o [item 10.1 do capítulo
 1](#10.1).
 
-**Vinculação à Movimentação Temporária de Bens:**
+#### Vinculação à Movimentação Temporária de Bens
 
 Deve ser indicado se a operação está vinculada à [movimentação temporária de bens](#movimentacao_temporaria_de_bens).
 
@@ -1581,7 +1380,7 @@ Para excluir número de DI ou de DU-E (ou RE), clique no ícone
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image6.png)
  à direita do número registrado.
 
-**Inclusão de Operação no RVS**
+#### Inclusão de Operação no RVS
 
 Após preenchimento dos campos **Código NBS / Descrição da NBS, Código do País / País de Destino**, **Código da Moeda / Descrição da Moeda**,
 **Modo de Prestação**, **Data de Início**, **Data de Conclusão**,
@@ -1604,7 +1403,7 @@ Após a confirmação da inclusão do RVS, os dados de uma operação somente po
 
 Caso não deseje adicionar mais operações, clique em **Avançar.**
 
-**Informações Complementares:**
+#### Informações Complementares
 
 Destina-se ao preenchimento de informações pertinentes ao RVS que não tenham campo específico no Sistema.
 
@@ -1628,7 +1427,7 @@ Acione **Avançar** para seguir para o próximo passo.
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image36.png)
 
-**Resumo do RVS**
+#### Resumo do RVS
 
 A tela **Resumo do RVS** traz as informações preenchidas pelo usuário para incluir o RVS.
 
@@ -1657,9 +1456,8 @@ Convém manter controle dos números dos RVS incluídos no Siscoserv, para facil
 **Após a inclusão de um RVS, não é possível o seu cancelamento, admitindo-se apenas
 [retificações](#2.1.2).**
 
-<a id="2.1.1"></a>
 
-**2.1.1 Inclusão de Aditivo ao RVS**
+#### 2.1.1 Inclusão de Aditivo ao RVS
 
 O aditivo ao RVS deve ser usado para a inclusão de nova
 [operação](#operacao) em um RVS previamente incluído quando houver complementação ou aditamento nos termos do contrato
@@ -1728,9 +1526,8 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image86.png)
 
 
-<a id="2.1.2"></a>
 
-**2.1.2. Retificação do RVS**
+#### 2.1.2. Retificação do RVS
 
 O RVS ou o Aditivo ao RVS não podem ser cancelados, cabendo apenas retificações.
 
@@ -1815,9 +1612,8 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 Não pode ser incluída nova operação por meio de retificação. Para incluir uma nova operação em um RVS já incluído, utilize a função
 [**Inclusão de Aditivo ao RVS** ](#2.1.1).
 
-<a id="2.1.3"></a>
 
-**2.1.3. Retificação do Aditivo ao RVS**
+#### 2.1.3. Retificação do Aditivo ao RVS
 
 O aditivo ao RVS não pode ser cancelado, cabendo apenas retificações.
 
@@ -1897,9 +1693,8 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image86.png)
 
-<a id="2.1.4"></a>
 
-**2.1.4. Consulta ao RVS ou ao Aditivo ao RVS**
+#### 2.1.4. Consulta ao RVS ou ao Aditivo ao RVS
 
 Esta função permite efetuar consulta a dados dos RVS no Sistema.
 
@@ -1939,7 +1734,7 @@ Após selecionar o RVS que deseja consultar, o Sistema apresenta a tela
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image40.jpg)
 
-<h3 id="2.2">2.2. Inclusão do RF</h3>
+### 2.2. Inclusão do RF
 
 A partir do **Módulo Venda**, no *menu* **RF**, há 3 funções:
 **Incluir**, **Cancelar** e **Consultar**.
@@ -2029,9 +1824,8 @@ O Sistema confirmará o recebimento dos dados e gerará um número próprio para
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image99.png)
 
-<a id="2.2.1"></a>
 
-**2.2.1. Retificação do RF**
+#### 2.2.1. Retificação do RF
 
 Esta função permite ao usuário retificar um RF.
 
@@ -2096,9 +1890,8 @@ a retificação dos dados do RF.
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image52.png)
 
-<a id="2.2.2"></a>
 
-**2.2.2. Cancelamento do RF**
+#### 2.2.2. Cancelamento do RF
 
 Esta função permite ao usuário cancelar um RF.
 
@@ -2145,9 +1938,8 @@ Caso o usuário acesse novamente o *menu* **RF \> Cancelar**, observará a
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image43.png)
 
-<a id="2.2.3"></a>
 
-**2.2.3. Consulta ao RF**
+#### 2.2.3. Consulta ao RF
 
 Esta função permite efetuar consulta a dados dos RFs no Sistema.
 
@@ -2182,11 +1974,10 @@ Em seguida, é exibida a tela **Resumo do RF**.
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image59.jpg)
 
-<a id="2.3"></a>
 
 ### 2.3. Registro de Presença Comercial no Exterior (RPC)
 
-<strong id="2.3.1">2.3.1. Inclusão do RPC</strong>
+#### 2.3.1. Inclusão do RPC
 
 Para incluir um **Registro de Presença Comercial no Exterior (RPC)** é
 preciso acessar o *menu* operações e escolher a opção **RPC** e em seguida a opção **Incluir**.
@@ -2217,7 +2008,7 @@ graphic](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_imag
 **b) Exibir Lista dos RPC Incluídos:** selecionada esta opção, acione o botão ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image21.png).O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image24.png), à direita do RPC desejado.
 
-**Opção de Atendimento à Legislação**
+#### Opção de Atendimento à Legislação
 
 O usuário deve indicar que as informações objeto de registro serão prestadas em atendimento aos arts. 25 e 26 da Lei nº
 12.546, de 14 de dezembro de 2011, à Portaria MDIC nº
@@ -2233,7 +2024,7 @@ sujeito às sanções previstas no art. 7º ou no art.
 A decisão pode ser revista pelo usuário, clicando em **Atendimento à
 legislação** no *menu* lateral esquerdo na tela de **Resumo**.
 
-**1. Dados da Presença Comercial no Exterior**
+#### 1. Dados da Presença Comercial no Exterior
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image41.png)
 
@@ -2277,7 +2068,7 @@ No caso de filial e sucursal, o campo não é disponibilizado.
 Acione **Avançar** para validar os dados e seguir para a próxima tela
 **Dados do Negócio**.
 
-**2. Dados do Negócio**
+#### 2. Dados do Negócio
 
 Em dados do negócio, são incluídas informações relativas à venda de serviços, transferência de [intangíveis](#intangivel) e realização de [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio) pela presença comercial relacionada à
 pessoa jurídica domiciliada no Brasil.
@@ -2295,7 +2086,7 @@ no **Ano da apuração**.
 A conversão em dólar dos Estados Unidos da América deve ser efetuada tomando-se por base a taxa de câmbio para venda do dia 31 de dezembro do
 **Ano da apuração**, fixada pelo Banco Central do Brasil.
 
-**Posição NBS / Descrição da posição da NBS**
+#### Posição NBS / Descrição da posição da NBS
 
 Informe o(s) código(s) da NBS, em nível de posição, mais representativo(s) em relação à **Receita Total** obtida da venda de serviços, transferência de [intangíveis](#intangivel) e realização de [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio) pela presença comercial.
 
@@ -2313,7 +2104,7 @@ Em 2019, todos os Registros de Presença Comercial no Exterior, relativos
 A partir de 1º de janeiro de 2020, todos os Registros de Presença Comercial no Exterior devem classificar os serviços²² de acordo com a NBS 2.0, publicada pela **Portaria Conjunta RFB / SCS nº**
 **1.429, de 2018**.
 
-__**Operações amparadas por mecanismo de apoio**__
+#### Operações amparadas por mecanismo de apoio
 
 Caso a presença comercial tenha realizado, durante o ano de apuração,
 operação amparada em um ou mais mecanismos de apoio/fomento ao comércio exterior de serviços, intangíveis e outras operações que produzam variações no patrimônio, o usuário deve marcar "sim" à direita da pergunta: "Há operações amparadas por mecanismo de apoio/fomento ao comércio exterior nos termos do art. 26 da Lei 12.546/2011?". Todos os mecanismos de apoio que amparam a operação devem ser registrados neste campo em cumprimento ao previsto no art. 26 da Lei nº
@@ -2376,7 +2167,7 @@ O Sistema retornará mensagem de confirmação da inclusão dos dados no Siscose
 
 Convém manter controle dos números de RPC incluídos no Siscoserv, para facilitar eventuais retificações posteriores.
 
-<strong id="2.3.2">2.3.2. Retificação do RPC</strong>
+#### 2.3.2. Retificação do RPC
 
 Para retificar um RPC é preciso acessar o *menu* **RPC** e em seguida
 **Retificar**.
@@ -2405,7 +2196,7 @@ Selecionado o RPC a ser retificado, siga os passos descritos no tópico
 
 Após conferir os dados retificados na tela **Resumo do RPC**, acione o botão **Retificar**. O Sistema retornará mensagem de confirmação de retificação dos dados no Siscoserv.
 
-<strong id="2.3.3">2.3.3. Cancelamento do RPC</strong>
+#### 2.3.3. Cancelamento do RPC
 
 Esta função permite ao usuário cancelar um RPC.
 
@@ -2443,9 +2234,8 @@ Após selecionar o RPC que deseja cancelar, o Sistema apresenta a tela
 Após conferir os dados do RPC a ser cancelado na tela **Resumo do RPC**,
 acione o botão **Cancelar.** O Sistema então solicita a confirmação do cancelamento. No caso de confirmação do cancelamento, o Sistema retornará mensagem indicando a efetivação do cancelamento do RPC em questão.
 
-<a id="2.3.4"></a>
 
-**2.3.4. Consulta ao RPC**
+#### 2.3.4. Consulta ao RPC
 
 Esta função permite efetuar consulta a dados dos RPC no Sistema.
 
@@ -2472,7 +2262,6 @@ do mais recente para o mais antigo. Acione o botão ![](https://github.com/mdicg
 Após selecionar o RPC que deseja consultar, o Sistema apresenta a tela
 **Resumo do RPC**, que inclui todos os dados do RPC.
 
-<a id="3"></a>
 
 ## 3. Transmissão em Lote
 
@@ -2518,7 +2307,7 @@ verificar na [versão 2.0 da NBS](#http://www.mdic.gov.br/images/REPOSITORIO/scs
 registrados no Siscoserv, visto que houve reaproveitamento de códigos previamente existentes na
 nova versão da Nomenclatura.
 
-**Processamento dos Arquivos de Lote**
+### Processamento dos Arquivos de Lote
 
 O processamento dos arquivos de lote divide-se em 4 etapas:
 
@@ -2547,9 +2336,8 @@ Neste momento, o Sistema atribuirá ao lote um *status* de acordo com o *status*
 Durante o processamento noturno dos lotes, o Sistema analisará os dados enviados de forma a garantir a sua coerência e aderência às regras de negócio definidas no corpo deste manual. Como exemplo de uma das regras de negócio verificadas, o Siscoserv não permitirá que o Brasil seja indicado como o país de residência ou domicílio do adquirente. Em seguida, o Sistema efetivará as operações contidas nos arquivos de dados aprovados e atribuirá aos arquivos de lote e de dados os
 *status* decorrentes deste processamento.
 
-<a id="status_dos_arquivo_de_lote"></a>
 
-***Status* dos Arquivos de Lote**
+### Status dos Arquivos de Lote
 
 Um arquivo de lote pode receber seis *status* diferentes:
 
@@ -2580,7 +2368,6 @@ Um arquivo de lote pode receber seis *status* diferentes:
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image134.png)
 
-<a id="3.1"></a>
 
 ### 3.1. Procedimentos para envio do arquivo de lote
 
@@ -2639,7 +2426,7 @@ O campo **Nº do Protocolo** é composto por duas letras e um número sequencial
 
 7)  CF -- Cancelar RF.
 
-**Validação dos Arquivos de Lote e de Dados**
+### Validação dos Arquivos de Lote e de Dados
 
 As [Orientações Técnicas](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf)
 apresentam as regras a serem obedecidos na geração dos arquivos de lote e de dados. A primeira regra a ser validada pelo Sistema refere-se ao nome dos arquivos. Caso sejam enviados arquivos cujos nomes não obedeçam a estas regras, o Sistema emitirá uma das seguintes mensagens.
@@ -2669,7 +2456,6 @@ Um arquivo de retorno contendo mais detalhes sobre os erros encontrados pode ser
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image109.png)
 
-<a id="3.2"></a>
 
 ### 3.2. Consultar Lote
 
@@ -2705,7 +2491,7 @@ Os erros de formatação ou de regra de negócio indicados podem ser inspecionad
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image133.png)
 
-<strong id="3.2.1">3.2.1. Arquivo de Retorno do Lote</strong>
+#### 3.2.1. Arquivo de Retorno do Lote
 
 Um arquivo de retorno contendo o resultado do processamento do lote, bem como mais detalhes sobre os erros encontrados, pode ser gerado ao clicar o botão **Gerar Arquivo de Retorno**.
 
@@ -2721,7 +2507,6 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image86.png)
 
-<a id="3.3"></a>
 
 ### 3.3. Excluir Lote
 
@@ -2734,14 +2519,12 @@ A partir da tela de listagem dos lotes enviados (veja [Consultar Lote](#3.2)), a
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image110.png)
 
-<a id="3.4"></a>
 
 ### 3.4. Cumprimento de Prazos na Transferência em Lote
 
 Para fins de cumprimento dos prazos legais, o sistema adota a data e o horário informados na coluna **Data de Geração do Protocolo**, ou seja,
 a data em que os arquivos foram enviados para processamento. Vale ressaltar que a obrigação só é tempestivamente cumprida se os arquivos forem processados com sucesso (*status* PS), dentro dos prazos legais estabelecidos para os registros.
 
-<a id="4"></a>
 
 ## 4. Relatório Gerencial    
 
@@ -2759,7 +2542,7 @@ O Siscoserv permite que o Usuário/Responsável pelo Registro gere os Relatório
 
 O **Usuário/Responsável pelo Registro** é que detém o e-CPF e/ou a procuração eletrônica da Pessoa Jurídica ou da Pessoa Física e é o responsável pela inserção dos dados no Sistema.
 
-<h3 id="4.1"><strong>4.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica</strong></h3>
+### 4.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Relatório Gerencial;
 
@@ -2797,9 +2580,10 @@ Podem ser selecionadas as seguintes opções:
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado.
 
-<a id="relatorios_gerenciais_rvs"></a>
 
-As seguintes informações são disponibilizadas na planilha Excel dos **Relatórios Gerenciais relativos aos RVS**:
+#### Relatórios Gerenciais relativos aos RVS
+
+Informações disponibilizadas: 
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image147.jpg)
 
@@ -2858,9 +2642,11 @@ As seguintes informações são disponibilizadas na planilha Excel dos **Relató
 *\* As informações acima servem para criar os vínculos entre registro,
 operação e fatura. Esses dados não têm nenhuma utilidade para operações transmitidas por lote.*
 
-<a id="relatorios_gerenciais_rf"></a>
 
-As seguintes informações são disponibilizadas na planilha Excel dos **Relatórios Gerenciais relativos aos RF**:
+#### Relatórios Gerenciais relativos aos RF
+
+Informações disponibilizadas:
+
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image82.png)
 
@@ -2893,7 +2679,6 @@ As seguintes informações são disponibilizadas na planilha Excel dos **Relató
 *\* As informações acima servem para criar os vínculos entre registro,
 operação e fatura. Esses dados não têm nenhuma utilidade para operações transmitidas por lote.*
 
-<a id="4.2"></a>
 
 ### 4.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física
 
@@ -2909,11 +2694,11 @@ Passo 3: Usuário/ Responsável pelo Registro seleciona dentre as diversas opç�
 
 Podem ser selecionadas as seguintes opções:
 
-[Opção de registros efetuados no Sistema:
+Opção de registros efetuados no Sistema:
 
 \- RVS ou RF: serão disponibilizados todos os registros efetuados no período de 1 ano. As informações sobre os RVS aparecem em uma planilha e as informações sobre os RF em outra.
 
-[Data para geração do relatório:
+Data para geração do relatório:
 
 \- Selecionar o período das informações desejadas, que não deve ser superior a 1 ano.
 
@@ -2921,8 +2706,7 @@ Podem ser selecionadas as seguintes opções:
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [Relatórios Gerenciais RVS](#relatorios_gerenciais_rvs) (atentar que no 2º caso as informações do CPF do vendedor serão disponibilizadas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e [Relatórios Gerenciais RF](#relatorios_gerenciais_rf).
 
-<h3><strong id="4.3">4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor</h3></strong>
-
+### 4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor
 
 
 Passo 1: Usuário/Responsável pelo Registro, que neste caso é o próprio vendedor, acessa o Siscoserv e clica em Relatório Gerencial;
@@ -2949,14 +2733,12 @@ Podem ser selecionadas as seguintes opções:
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [Relatórios Gerenciais RVS](#relatorios_gerenciais_rvs) (observar que no 3º caso as informações do CPF do usuário e do CPF do vendedor são as mesmas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e
 [Relatórios Gerenciais RF](#relatorios_gerenciais_rf).
 
-<a id="cap3"></a>
 
-**Capítulo 3**
+# Capítulo 3
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image22.png)
 
-# Cenários Exemplificativos de Registro no Siscoserv
+## Cenários Exemplificativos de Registro no Siscoserv
 
-<a id="1cap3"></a>
 
 ## 1. Registro de Transporte Internacional de Cargas (Frete)
 
@@ -2966,9 +2748,8 @@ executando diferentes "papéis". Nos exemplos a seguir, são mostradas, em algun
 O conjunto de cenários abaixo apresentado não pretende ser exaustivo.
 Entretanto, a lógica aplicada em cada uma das situações pode se estender aos casos que não foram aqui descritos.
 
-<a id="1.1cap3"></a>
 
-**Cenário 1.1. Transporte internacional de cargas intermediado por agente de cargas.**  
+### Cenário 1.1. Transporte internacional de cargas intermediado por agente de cargas
 
 **Exportação brasileira com a obrigação de transportar da empresa brasileira.**
 
@@ -3015,9 +2796,7 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 > adquiridos de Tₑₓ, cujo custo seja por ele repassado a Iₑₓ.
 >  
   
-<a id="1.2cap3"></a>
-
-**Cenário 1.2. Transporte internacional de cargas intermediado por agente de cargas.** 
+### Cenário 1.2. Transporte internacional de cargas intermediado por agente de cargas
 
 **Importação brasileira com a obrigação de transportar da empresa brasileira**
 
@@ -3058,9 +2837,8 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 > serviço.
 >  
   
-<a id="1.3cap3"></a>
 
-**Cenário 1.3. Transporte internacional de cargas com consolidação e desconsolidação de cargas.**  
+### Cenário 1.3. Transporte internacional de cargas com consolidação e desconsolidação de cargas
 
 **Importação brasileira com a obrigação de transportar da empresa estrangeira**
 
@@ -3101,9 +2879,8 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 > neste caso, pois ambos, Cₑₓ e Tₑₓ são domiciliados no exterior.
 >  
   
-<a id="1.4cap4"></a>
 
-**Cenário 1.4. Transporte internacional de cargas com consolidação e desconsolidação de cargas.**    
+### Cenário 1.4. Transporte internacional de cargas com consolidação e desconsolidação de cargas
 
 **Exportação brasileira com a obrigação de transportar da empresa brasileira**
 
@@ -3142,13 +2919,11 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 > pelo serviço de desconsolidação, tendo Dₑₓ como vendedor.
 >
   
-<a id="2cap3"></a>
 
 ## 2. Seguros
   
-<a id="2.1cap3"></a>
 
-**Cenário 2.1. Contratação de seguro com intermediação de corretora**
+### Cenário 2.1. Contratação de seguro com intermediação de corretora
 
 **Descrição**
 
@@ -3177,9 +2952,8 @@ Empresa residente ou domiciliada no Brasil -- Empᴮᴿ, utiliza corretora de se
 > Empᴮᴿ: RAS pelo serviço de seguro tendo Segₑₓ como vendedora.
 >  
   
-<a id="2.2cap3"></a>
 
-**Cenário 2.2. Contratação de seguro de estipulante domiciliada ou residente no Brasil**
+### Cenário 2.2. Contratação de seguro de estipulante domiciliada ou residente no Brasil
 
 **Descrição**  
 Estᴮᴿ, residente ou domiciliada no Brasil, é uma corretora que contrata e paga apólice coletiva de seguros, ficando investida dos poderes de representação dos segurados perante as seguradoras, fazendo papel de estipulante. Se Segₑₓ, seguradora residente ou domiciliada no exterior, for contratada e paga por Estᴮᴿ em favor de Empᴮᴿ,
@@ -3208,16 +2982,14 @@ residente ou domiciliada no Brasil, Estᴮᴿ é considerado o contratante e, co
 > Estᴮᴿ: RAS pelo serviço de seguro tendo Segₑₓ como vendedora.
 >
   
-<a id="3cap3"></a>
 
 ## 3. Remessa Expressa
 
 O serviço de remessa expressa (courier) apresenta, de forma genérica,
 dois possíveis cenários.
   
-<a id="3.1cap3"></a>
 
-**Cenário 3.1. Empresa brasileira exportadora (ou importadora) faturada por empresa estrangeira prestadora do serviço de remessa expressa**
+### Cenário 3.1. Empresa brasileira exportadora (ou importadora) faturada por empresa estrangeira prestadora do serviço de remessa expressa
 
 O registro é de responsabilidade do exportador/importador residente ou domiciliado no Brasil sempre que a relação contratual relativa aos serviços de remessa expressa seja entre esse exportador/importador e a empresa prestadora desses serviços domiciliada no exterior.
 
@@ -3225,9 +2997,8 @@ Quando não houver clareza sobre essa relação contratual, o exportador/importa
 
 Quando o exportador/importador residente ou domiciliado no Brasil receber um documento de fatura de uma empresa de remessa expressa domiciliada no exterior, mesmo que o fluxo de pagamento ocorra com a filial desta empresa domiciliada no Brasil, caberá ao exportador/importador o registro.
   
-<a id="3.2cap3"></a>
 
-**Cenário 3.2. Empresa brasileira faturada pela filial residente ou domiciliada no Brasil de empresa estrangeira**
+### Cenário 3.2. Empresa brasileira faturada pela filial residente ou domiciliada no Brasil de empresa estrangeira
 
 O registro é de responsabilidade empresa de remessa expressa domiciliada no Brasil sempre que a relação contratual relativa aos serviços de remessa expressa seja entre essa empresa domiciliada no Brasil e a empresa prestadora de serviços de remessa expressa domiciliada no exterior, mesmo quando houver uma relação *intercompany*.
 
@@ -3242,7 +3013,6 @@ Neste caso, caberá à empresa de remessa expressa domiciliada no Brasil verific
 Cabe ainda ressaltar que as empresas domiciliadas no Brasil, ainda que relacionadas a empresas estrangeiras (ou seja, mesmo quando são uma presença comercial de uma empresa estrangeira no Brasil), são consideradas pela legislação brasileira, para todos os fins, empresas brasileiras. Sendo assim, essas empresas consideradas presença comercial de uma empresa estrangeira no Brasil, por estarem domiciliadas no país e estarem regidas pela legislação comercial e tributária que afeta a todas as empresas brasileiras, devem efetuar seus registros em Módulo Venda e Aquisição do Siscoserv sempre que realizarem operações de venda ou aquisição de serviços com residentes ou domiciliados no exterior,
 inclusive operações *intercompany*, de acordo com o previsto na legislação pertinente ao Siscoserv e neste Manual.
 
-<a id="4cap3"></a>
 
 ## 4. Expatriados
 
@@ -3260,15 +3030,13 @@ considera-se **residente** no Brasil, a pessoa física que resida no Brasil em c
 Já segundo o Art. 3º, considera-se
 **não-residente** no Brasil (**expatriado**), a pessoa física que não resida no Brasil em caráter permanente e não se enquadre nas hipóteses previstas no art. 2º supracitado, a que se retire em caráter permanente do território nacional, na data da saída, desde que apresentada a Comunicação de Saída Definitiva do País, e a que se ausente do Brasil em caráter temporário, a partir do dia seguinte àquele em que complete doze meses consecutivos de ausência.
   
-<a id="cenario1"></a>
 
-**Cenário 1**
+### Cenário 1
 
 Empresa residente ou domiciliada no Brasil que envia empregado para trabalhar em empresa residente ou domiciliada no exterior e que continua remunerando esse empregado pelos serviços prestados fora do país, em virtude de manutenção do vínculo empregatício. O reembolso feito pela empresa estrangeira referente ao salário do empregado deve ser registrado no Siscoserv, pois tal situação configura prestação de serviço em modo 4. Também deve ser registrado no Siscoserv a remuneração do empregado caso ele torne-se não residente, mantendo vínculo empregatício no Brasil.
   
-<a id="cenario2"></a>
 
-**Cenário 2**
+### Cenário 2
 
 Empresa residente e domiciliada no Brasil que efetua apenas o pagamento de contribuições previdenciárias, referente a segurado facultativo, de trabalhador residente no exterior e com vínculo empregatício estabelecido junto a uma empresa residente e domiciliada no exterior, em país que não possua tratado previdenciário com o Brasil, pagamento esse reembolsado pela empresa estrangeira, não deve prestar essa informação no Siscoserv. Tal situação não configura prestação de serviço em modo 4.
 Importante ressaltar que esse cenário trata exclusivamente de situação em que não há nenhuma prestação de serviços do expatriado à empresa brasileira.
