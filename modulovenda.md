@@ -6,7 +6,7 @@ filename: modulovenda.md
 title: Módulo Venda
 ---  
 
-# MANUAL MODULO VENDA 12ª. Edição
+# MANUAL MÓDULO VENDA 12ª. Edição
 
 [TOC]
 
