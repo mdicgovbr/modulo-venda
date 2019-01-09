@@ -12,9 +12,7 @@ title: Módulo Venda
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image22.png)
 
-# Capítulo 1
-
-## Informações gerais e normativas sobre o Siscoserv
+# Capítulo 1 - Informações gerais e normativas sobre o Siscoserv
 
 ## 1. Introdução
 
@@ -788,11 +786,10 @@ e [Instrução Normativa no 726, de 28 de fevereiro de
 2007](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=15670).
 
 
-# Capítulo 2 
+# Capítulo 2 - Operacionalização do Sistema
 
 ![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image22.png)
 
-## Operacionalização do Sistema
 
 
 ## 1. Acesso ao Siscoserv
@@ -2734,10 +2731,9 @@ O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados par
 [Relatórios Gerenciais RF](#relatorios_gerenciais_rf).
 
 
-# Capítulo 3
-![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image22.png)
+# Capítulo 3 - Cenários Exemplificativos de Registro no Siscoserv
 
-## Cenários Exemplificativos de Registro no Siscoserv
+![](https://github.com/mdicgovbr/pagina-manuais/blob/master/media/novo_image22.png)
 
 
 ## 1. Registro de Transporte Internacional de Cargas (Frete)
@@ -3031,12 +3027,12 @@ Já segundo o Art. 3º, considera-se
 **não-residente** no Brasil (**expatriado**), a pessoa física que não resida no Brasil em caráter permanente e não se enquadre nas hipóteses previstas no art. 2º supracitado, a que se retire em caráter permanente do território nacional, na data da saída, desde que apresentada a Comunicação de Saída Definitiva do País, e a que se ausente do Brasil em caráter temporário, a partir do dia seguinte àquele em que complete doze meses consecutivos de ausência.
   
 
-### Cenário 1
+### Cenário 4.1
 
 Empresa residente ou domiciliada no Brasil que envia empregado para trabalhar em empresa residente ou domiciliada no exterior e que continua remunerando esse empregado pelos serviços prestados fora do país, em virtude de manutenção do vínculo empregatício. O reembolso feito pela empresa estrangeira referente ao salário do empregado deve ser registrado no Siscoserv, pois tal situação configura prestação de serviço em modo 4. Também deve ser registrado no Siscoserv a remuneração do empregado caso ele torne-se não residente, mantendo vínculo empregatício no Brasil.
   
 
-### Cenário 2
+### Cenário 4.2
 
 Empresa residente e domiciliada no Brasil que efetua apenas o pagamento de contribuições previdenciárias, referente a segurado facultativo, de trabalhador residente no exterior e com vínculo empregatício estabelecido junto a uma empresa residente e domiciliada no exterior, em país que não possua tratado previdenciário com o Brasil, pagamento esse reembolsado pela empresa estrangeira, não deve prestar essa informação no Siscoserv. Tal situação não configura prestação de serviço em modo 4.
 Importante ressaltar que esse cenário trata exclusivamente de situação em que não há nenhuma prestação de serviços do expatriado à empresa brasileira.
