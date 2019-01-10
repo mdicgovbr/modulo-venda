@@ -1187,17 +1187,11 @@ realizada com pessoa física, pessoa jurídica ou [ente despersonalizado](#ente_
 ![](/media/venda/novo_image15.png)
 
 
-#### Nome do Adquirente
+**Nome do Adquirente** - Preencha o nome da pessoa física ou o nome comercial da pessoa jurídica adquirente do [negócio](#negocio).
 
-Preencha o nome da pessoa física ou o nome comercial da pessoa jurídica adquirente do [negócio](#negocio).
+**Endereço do Adquirente** - Preencha com o endereço da pessoa física ou da pessoa jurídica adquirente do [negócio](#negocio).
 
-#### Endereço do Adquirente
-
-Preencha com o endereço da pessoa física ou da pessoa jurídica adquirente do [negócio](#negocio).
-
-#### País do Adquirente
-
-Selecione o país do adquirente do [negócio](#negocio) na lista disponível de países em **País do Adquirente**, ou informe manualmente o código do país no campo numérico.
+**País do Adquirente** - Selecione o país do adquirente do [negócio](#negocio) na lista disponível de países em **País do Adquirente**, ou informe manualmente o código do país no campo numérico.
 
 
 #### NIF - Número de Identificação Fiscal
@@ -2301,11 +2295,7 @@ e
 
 Cabe ressaltar a necessidade de avaliação sobre alterações necessárias nos registros realizados por meio de transmissão em lote a partir da publicação da nova edição da NBS e de suas notas explicativas.
 
-<<<<<<< HEAD
 A prestação de serviços[^24] iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
-=======
-A prestação de serviços[^25] iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
->>>>>>> 7d02efbd5df9754705245c3676095fb4ecbe83b8
 
 A prestação de serviços[^13] iniciada a partir de 1º de janeiro de 2019
 devem ser registradas tendo por base a [Portaria Conjunta RFB / SCS nº
@@ -2552,7 +2542,7 @@ O Siscoserv permite que o Usuário/Responsável pelo Registro gere os Relatório
 
 O **Usuário/Responsável pelo Registro** é que detém o e-CPF e/ou a procuração eletrônica da Pessoa Jurídica ou da Pessoa Física e é o responsável pela inserção dos dados no Sistema.
 
-### 4.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica
+### 4.1. Caso 1 - Usuário/Responsável pelo Registro representa Pessoa Jurídica
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Relatório Gerencial;
 
@@ -2690,7 +2680,7 @@ Informações disponibilizadas:
 operação e fatura. Esses dados não têm nenhuma utilidade para operações transmitidas por lote.*
 
 
-### 4.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física
+### 4.2. Caso 2 - Usuário/Responsável pelo Registro representa Pessoa Física
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Relatório Gerencial;
 
@@ -2716,7 +2706,7 @@ Data para geração do relatório:
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [Relatórios Gerenciais RVS](#relatorios_gerenciais_rvs) (atentar que no 2º caso as informações do CPF do vendedor serão disponibilizadas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e [Relatórios Gerenciais RF](#relatorios_gerenciais_rf).
 
-### 4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor
+### 4.3. Caso 1 - Usuário/Responsável pelo Registro é o próprio Vendedor
 
 
 Passo 1: Usuário/Responsável pelo Registro, que neste caso é o próprio vendedor, acessa o Siscoserv e clica em Relatório Gerencial;

@@ -6,226 +6,17 @@ filename: moduloaquisicao.md
 title: Módulo Aquisição
 ---  
 
+# MANUAL MÓDULO AQUISIÇÃO 12ª Edição
 
-![](./media/aquisicao/image1.png){width="8.26875in" height="11.686805555555555in"} {#section .CabealhodoSumrio1}
-==================================================================================
+![](./media/aquisicao/image1.png)
 
-**\
-Sumário**
+![](./media/aquisicao/image2.png)
 
-[Capítulo 1 4](#_Toc528774078)
+[TOC]
 
-[Informações gerais e normativas sobre o Siscoserv 4](#_Toc528774079)
+# Capítulo 1 - Informações gerais e normativas sobre o Siscoserv
 
-[1. Introdução 5](#introdução)
-
-[2. Base Legal do Siscoserv 5](#base-legal-do-siscoserv)
-
-[3. Módulos Venda e Aquisição do Siscoserv
-5](#módulos-venda-e-aquisição-do-siscoserv)
-
-[4. Registros no Módulo Aquisição 6](#registros-no-módulo-aquisição)
-
-[4.1. O Registro de Aquisição de Serviços, Intangíveis e Outras
-Operações que Produzam Variações no Patrimônio (RAS)
-6](#o-registro-de-aquisição-de-serviços-intangíveis-e-outras-operações-que-produzam-variações-no-patrimônio-ras)
-
-[4.1.1. Prazo para o RAS 7](#prazo-para-o-ras)
-
-[4.2. Registro de Pagamento (RP) 7](#registro-de-pagamento-rp)
-
-[4.2.1. Prazos para o RP 8](#prazos-para-o-rp)
-
-[4.3. Situações especiais de registro 9](#_Toc528774088)
-
-[4.3.1. Operação com data de conclusão indeterminada
-9](#operação-com-data-de-conclusão-indeterminada)
-
-[4.3.2. Operação iniciada sem que o valor esteja definido
-9](#operação-iniciada-sem-que-o-valor-esteja-definido)
-
-[4.3.3. Operação envolvendo gastos pessoais no exterior por pessoas
-físicas residentes no Brasil
-9](#operação-envolvendo-gastos-pessoais-no-exterior-por-pessoas-físicas-residentes-no-brasil)
-
-[5. Quem deve efetuar registro no Siscoserv -- Módulo Aquisição
-10](#quem-deve-efetuar-registro-no-siscoserv-módulo-aquisição)
-
-[6. Quem está dispensado de efetuar registro no Siscoserv -- Módulo
-Aquisição
-12](#quem-está-dispensado-de-efetuar-registro-no-siscoserv-módulo-aquisição)
-
-[7. Cronograma de registro das informações
-12](#cronograma-de-registro-das-informações)
-
-[8. Modos de Prestação de Serviços -- Módulo Aquisição
-12](#modos-de-prestação-de-serviços-módulo-aquisição)
-
-[9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações
-que Produzam Variações no Patrimônio (NBS)
-16](#nomenclatura-brasileira-de-serviços-intangíveis-e-outras-operações-que-produzam-variações-no-patrimônio-nbs)
-
-[10. Mecanismos de apoio / fomento ao Comércio Exterior de Serviços e
-Intangíveis
-20](#mecanismos-de-apoio-fomento-ao-comércio-exterior-de-serviços-e-intangíveis)
-
-[11. Informações e canais de atendimento
-26](#informações-e-canais-de-atendimento)
-
-[12. Glossário 27](#glossário)
-
-[Capítulo 2 31](#_Toc528774100)
-
-[Operacionalização do Sistema 31](#_Toc528774101)
-
-[1. Acesso ao Siscoserv 32](#acesso-ao-siscoserv)
-
-[1.1. Como acessar o Siscoserv 32](#como-acessar-o-siscoserv)
-
-[1.2. O que é e como obter o Certificado Digital (e-CPF)
-32](#o-que-é-e-como-obter-o-certificado-digital-e-cpf)
-
-[1.3. O que é e como obter a Procuração Eletrônica
-33](#o-que-é-e-como-obter-a-procuração-eletrônica)
-
-[1.5. Informações Cadastrais 33](#informações-cadastrais)
-
-[1.5.1. Caso 1 -- Usuário/ Responsável pelo Registro representa Pessoa
-Jurídica
-34](#caso-1-usuário-responsável-pelo-registro-representa-pessoa-jurídica)
-
-[1.5.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa
-Física
-37](#caso-2-usuárioresponsável-pelo-registro-representa-pessoa-física)
-
-[1.5.3. Caso 3 -- Usuário/Responsável pelo Registro é o próprio
-Adquirente
-40](#caso-3-usuárioresponsável-pelo-registro-é-o-próprio-adquirente)
-
-[2. Procedimentos relativos ao registro no Módulo Aquisição
-43](#procedimentos-relativos-ao-registro-no-módulo-aquisição)
-
-[2.1. Inclusão do RAS 45](#inclusão-do-ras)
-
-[2.1.1 Inclusão de Aditivo ao RAS 62](#inclusão-de-aditivo-ao-ras)
-
-[2.1.2. Retificação do RAS 65](#retificação-do-ras)
-
-[2.1.3. Retificação do Aditivo ao RAS
-69](#retificação-do-aditivo-ao-ras)
-
-[2.1.4. Consulta ao RAS ou ao Aditivo ao RAS
-73](#consulta-ao-ras-ou-ao-aditivo-ao-ras)
-
-[2.2. Inclusão do RP 77](#inclusão-do-rp)
-
-[2.2.1. Retificação do RP 82](#retificação-do-rp)
-
-[2.2.2. Cancelamento do RP 90](#cancelamento-do-rp)
-
-[2.2.3. Consulta ao RP 93](#consulta-ao-rp)
-
-[3. Transmissão em Lote 96](#transmissão-em-lote)
-
-[3.1. Procedimentos para envio do arquivo de lote
-101](#procedimentos-para-envio-do-arquivo-de-lote)
-
-[3.2. Consultar Lote 106](#consultar-lote)
-
-[3.2.1. Arquivo de Retorno do Lote 109](#arquivo-de-retorno-do-lote)
-
-[3.3. Excluir Lote 110](#excluir-lote)
-
-[3.4. Cumprimento de Prazos na Transferência em Lote
-111](#cumprimento-de-prazos-na-transferência-em-lote)
-
-[4. Relatório Gerencial 111](#relatório-gerencial)
-
-[4.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa
-Jurídica
-111](#caso-1-usuárioresponsável-pelo-registro-representa-pessoa-jurídica)
-
-[4.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa
-Física
-115](#caso-2-usuárioresponsável-pelo-registro-representa-pessoa-física-1)
-
-[4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Adquirente
-117](#caso-1-usuárioresponsável-pelo-registro-é-o-próprio-adquirente)
-
-[Capítulo 3 119](#_Toc528774130)
-
-[Cenários Exemplificativos de Registro no Siscoserv 119](#_Toc528774131)
-
-[1. Registro de Transporte Internacional de Cargas (Frete)
-120](#registro-de-transporte-internacional-de-cargas-frete)
-
-[Cenário 1.1. Transporte internacional de cargas intermediado por agente
-de cargas.
-120](#cenário-1.1.-transporte-internacional-de-cargas-intermediado-por-agente-de-cargas.)
-
-[Exportação brasileira com a obrigação de transportar da empresa
-brasileira.
-120](#exportação-brasileira-com-a-obrigação-de-transportar-da-empresa-brasileira.)
-
-[Cenário 1.2. Transporte internacional de cargas intermediado por agente
-de cargas.
-121](#cenário-1.2.-transporte-internacional-de-cargas-intermediado-por-agente-de-cargas.)
-
-[Importação brasileira com a obrigação de transportar da empresa
-brasileira
-121](#importação-brasileira-com-a-obrigação-de-transportar-da-empresa-brasileira.)
-
-[Cenário 1.3. Transporte internacional de cargas com consolidação e
-desconsolidação de cargas.
-123](#cenário-1.3.-transporte-internacional-de-cargas-com-consolidação-e-desconsolidação-de-cargas.)
-
-[Importação brasileira com a obrigação de transportar da empresa
-estrangeira
-123](#importação-brasileira-com-a-obrigação-de-transportar-da-empresa-estrangeira.)
-
-[Cenário 1.4. Transporte internacional de cargas com consolidação e
-desconsolidação de cargas.
-124](#cenário-1.4.-transporte-internacional-de-cargas-com-consolidação-e-desconsolidação-de-cargas.)
-
-[Exportação brasileira com a obrigação de transportar da empresa
-brasileira
-124](#exportação-brasileira-com-a-obrigação-de-transportar-da-empresa-brasileira)
-
-[2. Seguros 125](#section-3)
-
-[Cenário 2.1. Contratação de seguro com intermediação de corretora
-125](#cenário-2.1.-contratação-de-seguro-com-intermediação-de-corretora)
-
-[Cenário 2.2. Contratação de seguro de estipulante domiciliada ou
-residente no Brasil
-127](#cenário-2.2.-contratação-de-seguro-de-estipulante-domiciliada-ou-residente-no-brasil)
-
-[3. Remessa Expressa 128](#remessa-expressa)
-
-[Cenário 3.1. Empresa brasileira exportadora (ou importadora) faturada
-por empresa estrangeira prestadora do serviço de remessa expressa
-128](#cenário-3.1.-empresa-brasileira-exportadora-ou-importadora-faturada-por-empresa-estrangeira-prestadora-do-serviço-de-remessa-expressa)
-
-[Cenário 3.2. Empresa brasileira faturada pela filial residente ou
-domiciliada no Brasil de empresa estrangeira
-128](#cenário-3.2.-empresa-brasileira-faturada-pela-filial-residente-ou-domiciliada-no-brasil-de-empresa-estrangeira)
-
-[4. Expatriados 129](#expatriados)
-
-[Cenário 1 129](#cenário-1)
-
-[Cenário 2 129](#cenário-2)
-
-[]{#_Toc424898021 .anchor}\
-[[]{#_Toc528774078 .anchor}]{#_Toc438138240
-.anchor}![](./media/aquisicao/image2.png){width="8.268055555555556in"
-height="11.69375in"}Capítulo 1[]{#_Toc424898022 .anchor}
-
-[[]{#_Toc528774079 .anchor}]{#_Toc438138241 .anchor}Informações gerais e
-normativas sobre o Siscoserv
-
-1. Introdução
-=============
+## 1. Introdução
 
 O Sistema Integrado de Comércio Exterior de Serviços,
 [Intangíveis](#Intangível) e Outras Operações que Produzam Variações no
@@ -241,8 +32,7 @@ aprovado pelo Decreto Legislativo n^[o]{.underline}^ 30, de 15 de
 dezembro de 1994, e promulgado pelo Decreto n^[o]{.underline}^ 1.355, de
 30 de dezembro de 1994.
 
-2. Base Legal do Siscoserv
-==========================
+## 2. Base Legal do Siscoserv
 
 [Lei n^o^ 12.546, de 14 de dezembro de 2011, artigos 24 a
 27.](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12546.htm)
@@ -267,8 +57,7 @@ Portaria Conjunta RFB/SCS n^o^ 2.066, de 21 de dezembro de 2018.
 A prestação de informação no Siscoserv observa as normas complementares
 estabelecidas neste Manual.
 
-3. Módulos Venda e Aquisição do Siscoserv
-=========================================
+## 3. Módulos Venda e Aquisição do Siscoserv
 
 O Siscoserv conta com dois Módulos: **Venda e Aquisição**.
 
@@ -288,8 +77,7 @@ Para maiores informações sobre o Modulo Venda acesse:
 
 <http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-2>
 
-4. Registros no Módulo Aquisição
-================================
+## 4. Registros no Módulo Aquisição
 
 No Módulo Aquisição do Siscoserv estão previstos os seguintes registros:
 
@@ -302,8 +90,7 @@ exterior; e
 \- Registro de Pagamento (RP): contém dados referentes ao pagamento
 relativo à aquisição objeto de prévio RAS.
 
-4.1. O Registro de Aquisição de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RAS)
--------------------------------------------------------------------------------------------------------------------
+### 4.1. O Registro de Aquisição de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RAS)
 
 O Registro de Aquisição de Serviços, [Intangíveis](#Intangível) e
 [Outras Operações que Produzam Variações no Patrimônio](#Variações)
@@ -341,7 +128,7 @@ de aquisição de bens e serviços[^2], realizadas com residentes e
 domiciliados no exterior devem ser registradas quando ensejarem
 [pagamento](#Pagamento).
 
-### 4.1.1. Prazo para o RAS
+#### 4.1.1. Prazo para o RAS
 
 O prazo para incluir o RAS é até o último dia útil do 3^[o]{.underline}^
 (terceiro) mês subsequente à [data de início da prestação de
@@ -360,7 +147,7 @@ ou da realização de operação que produza variação no patrimônio.
 ![](./media/aquisicao/image5.jpeg){width="2.7395833333333335in"
 height="3.4166666666666665in"}
 
-4.2. Registro de Pagamento (RP)
+### 4.2. Registro de Pagamento (RP)
 -------------------------------
 
 O RP do Siscoserv complementa o RAS com informações relativas ao
@@ -374,7 +161,7 @@ exterior](#valormantidonoexterior), número do documento que comprove o
 [pagamento](#Pagamento) realizado (inclusive notas de despesas), bem
 como outros elementos pertinentes.
 
-### 4.2.1. Prazos para o RP 
+#### 4.2.1. Prazos para o RP 
 
 []{#_Hlk526242961 .anchor}Para o registro de pagamento, há dois prazos
 possíveis, dependendo da data de pagamento:
@@ -406,7 +193,7 @@ possíveis, dependendo da data de pagamento:
 4.3. Situações especiais de registro
 ------------------------------------
 
-### 4.3.1. Operação com data de conclusão indeterminada
+#### 4.3.1. Operação com data de conclusão indeterminada
 
 A operação cuja data de conclusão não seja conhecida por ocasião do seu
 registro, em razão de não ter sido pactuada entre as partes, pode ser
@@ -420,7 +207,7 @@ mediante retificação, conforme descrito nos itens
 [2.1.3](#retificação-do-aditivo-ao-ras) (Retificação do Aditivo ao RAS)
 do Capítulo 2 deste Manual.
 
-### 4.3.2. Operação iniciada sem que o valor esteja definido
+#### 4.3.2. Operação iniciada sem que o valor esteja definido
 
 A operação cujo valor não seja conhecido por ocasião do seu registro, em
 função de sua apuração só puder ocorrer após a efetiva prestação do
@@ -429,7 +216,7 @@ valor deve ser ajustado, mediante retificação, conforme descrito nos
 itens [2.1.2](#retificação-do-ras) ou
 [2.1.3](#retificação-do-aditivo-ao-ras) do Capítulo 2 deste Manual.
 
-### 4.3.3. Operação envolvendo gastos pessoais no exterior por pessoas físicas residentes no Brasil
+#### 4.3.3. Operação envolvendo gastos pessoais no exterior por pessoas físicas residentes no Brasil
 
 Os gastos pessoais no exterior de pessoas físicas residentes no País, em
 operações de valor superior a US\$ 30.000,00 (trinta mil dólares dos
@@ -469,8 +256,7 @@ II -- Valor do Pagamento: informar o somatório do valor pago no mês;
 III -- [Número do Documento](#numerodocumento), inserir a expressão:
 "DIVERSOS".
 
-5. Quem deve efetuar registro no Siscoserv -- Módulo Aquisição
-==============================================================
+## 5. Quem deve efetuar registro no Siscoserv -- Módulo Aquisição
 
 Estão obrigados a registrar as informações no Sistema - Módulo
 Aquisição, os [residentes](#residentenoBrasil) ou domiciliados no Brasil
@@ -591,8 +377,7 @@ prestação de serviço. A empresa (A) deve proceder aos registros RAS e RP
 no Módulo Aquisição do Siscoserv em [Modo 4 -- Movimento Temporário de
 Pessoa Física](#Modo4), em relação a essa operação.
 
-6. Quem está dispensado de efetuar registro no Siscoserv -- Módulo Aquisição
-============================================================================
+## 6. Quem está dispensado de efetuar registro no Siscoserv -- Módulo Aquisição
 
 Estão dispensadas do registro no Siscoserv, **nas operações que não
 tenham utilizado mecanismos de apoio** ao comércio exterior de serviços,
@@ -613,8 +398,7 @@ especulativo de lucro, desde que não realizem operações em valor
 superior a US\$ 30.000,00 (trinta mil dólares dos Estados Unidos da
 América), ou o equivalente em outra moeda, no mês.
 
-7. Cronograma de registro das informações 
-==========================================
+## 7. Cronograma de registro das informações 
 
 []{#_1.6_Modos_de .anchor}
 
@@ -628,16 +412,16 @@ Variações no Patrimônio -- NBS, conforme previsto no §
 RFB/SCS n^o^ 1.908, de 19 de julho de
 2012](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012).
 
-8. Modos de Prestação de Serviços -- Módulo Aquisição
-=====================================================
+## 8. Modos de Prestação de Serviços - Módulo Aquisição
 
 Os modos de prestação identificam, conforme estabelecido no Acordo Geral
 sobre Comércio de Serviços da OMC (GATS)[^11], a prestação de serviços,
 segundo a localização do prestador e do tomador. No Módulo Aquisição, os
 modos de prestação são os seguintes:
 
-[]{#Modo1 .anchor}**Modo 1 -- Comércio Transfronteiriço:** serviço
-adquirido do território de um país ao território de outro país, por
+### Modo 1 - Comércio Transfronteiriço
+
+Serviço adquirido do território de um país ao território de outro país, por
 [residente](#residente) ou domiciliado no Brasil e prestado por
 residente ou domiciliado no exterior.
 
@@ -661,7 +445,9 @@ Exemplos:
 > Siscoserv](./aquisicao/media/image6.jpeg){width="5.822916666666667in"
 > height="4.364583333333333in"}
 
-[]{#Modo2 .anchor}**Modo 2 - Consumo no Exterior:** serviço prestado por
+### Modo 2 - Consumo no Exterior
+
+Serviço prestado por
 residente e domiciliado no exterior e consumido no território de outro
 país por residente ou domiciliado no Brasil.
 
@@ -687,8 +473,9 @@ Exemplos:
 > ![Imagens Siscoserv](./aquisicao/media/image7.jpeg){width="5.5625in"
 > height="4.166666666666667in"}
 
-**Modo 3 -** []{#presença .anchor}**Presença comercial no Brasil:** O
-registro de Modo 3 é restrito ao Módulo Vendas no Siscoserv, porque é um
+### Modo 3 - Presença comercial no Brasil
+
+O registro de Modo 3 é restrito ao Módulo Vendas no Siscoserv, porque é um
 registro especial focado em capturar o faturamento de filiais, sucursais
 ou controladas de empresas brasileiras domiciliadas no exterior com a
 venda de serviços ou a transferência de intangíveis.
@@ -709,8 +496,9 @@ aquisição de serviços com residentes ou domiciliados no exterior,
 inclusive operações *intercompany*, de acordo com o previsto na
 legislação pertinente ao Siscoserv e neste Manual.
 
-[]{#Modo4 .anchor}**Modo 4 -- Movimento temporário de pessoas físicas:**
-residentes no exterior deslocam-se por tempo limitado ao Brasil com
+### Modo 4 - Movimento temporário de pessoas físicas
+
+Residentes no exterior deslocam-se por tempo limitado ao Brasil com
 vistas a prestar um serviço à [residente](#residentenoBrasil) ou
 domiciliado no Brasil.
 
@@ -737,8 +525,7 @@ aquisição de serviço ensejar o deslocamento temporário de pessoa(s)
 física(s) residente(s) no exterior com vistas a prestar um serviço no
 Brasil, exceto quando se estabelecer vínculo empregatício no Brasil.
 
-9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras [Operações que Produzam Variações no Patrimônio](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#variaçõespatrimônio) (NBS)
-==================================================================================================================================================================================================
+## 9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS)
 
 O registro de
 [operações](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Operação)
@@ -980,8 +767,7 @@ do art. 48 da Lei n^[o]{.underline}^ 9.430, de 27 de dezembro de 1996 e
 do Decreto n^[o]{.underline}^ 7.708, de 02 de abril de 2012, que
 instituiu a NBS.
 
-10. Mecanismos de apoio / fomento ao Comércio Exterior de Serviços e Intangíveis
-================================================================================
+## 10. Mecanismos de apoio / fomento ao Comércio Exterior de Serviços e Intangíveis
 
 []{#_Hlk526331811 .anchor}A informação sobre Mecanismo de apoio/fomento
 no Siscoserv tem a finalidade de contribuir para a gestão do fomento
@@ -1409,119 +1195,80 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | (ZPEs).                           |                                   |
 +-----------------------------------+-----------------------------------+
 
-11. Informações e canais de atendimento
-=======================================
+## 11. Informações e canais de atendimento
 
-[]{#_Hlk526331927 .anchor}Os Manuais são publicados pela Comissão do
-Siscoserv para contribuir com a orientação em relação aos aspectos
-normativos e operacionais relacionados ao Sistema.
+Os Manuais são publicados pela Comissão do Siscoserv para contribuir com a orientação em relação aos aspectos normativos e operacionais relacionados ao Sistema.
 
-Para dúvidas adicionais, estão disponíveis os seguintes canais de
-atendimento:
+Para dúvidas adicionais, estão disponíveis os seguintes canais de atendimento:
 
--   **[Dúvidas gerais sobre registros:]{.underline}**
+### Dúvidas gerais sobre registros:
 
-O canal para dirimir dúvidas gerais referentes ao Siscoserv, e que não
-estejam contempladas neste Manual, é o COMEX Responde:
-<http://www.comexresponde.gov.br/>. Ao acessar o site, o usuário deve
-buscar no menu de Assuntos Gerais o tema "Sistemas e Ferramentas de
-Apoio". Em seguida, no menu de Assuntos Específicos, o usuário deve
-escolher \"Siscoserv\". Após digitar sua mensagem no campo de Mensagem,
-basta inserir o Código de Verificação e clicar em Enviar.
+O canal para dirimir dúvidas gerais referentes ao Siscoserv, e que não estejam contempladas neste Manual, é o COMEX Responde:
+[http://www.comexresponde.gov.br/](http://www.comexresponde.gov.br/).
+Ao acessar o site, o usuário deve buscar no menu de Assuntos Gerais o tema "Sistemas e Ferramentas de Apoio". Em seguida, no menu de Assuntos Específicos, o usuário deve escolher \"Siscoserv\". Após digitar sua mensagem no campo de Mensagem, basta inserir o Código de Verificação e clicar em Enviar.
 
-[]{#_Hlk526332001 .anchor}
+### Dúvidas sobre o Acesso e Aspectos Técnicos do Siscoserv:
 
--   **[Dúvidas sobre o Acesso e Aspectos Técnicos do
-    Siscoserv]{.underline}:\
-    **
+Em caso de erros ou falhas apresentados pelo Sistema, estão disponíveis os canais do SERPRO para diagnóstico e correção:
 
-Em caso de erros ou falhas apresentados pelo Sistema, estão disponíveis
-os canais do SERPRO para diagnóstico e correção:
-
-> \- Formulário:
-> <http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior>;\
-> - Email: <css.serpro@serpro.gov.br>; ou\
-> - Fone: 0800-978-2331.
+> \- Formulário*:*
+> [http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior](http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior)*;*\
+> - *Email:*
+> [css.serpro\@serpro.gov.br](mailto:css.serpro@serpro.gov.br)*;
+> ou*\
+> - *Fone: 0800-978-2331.*
 
 -   **[Dúvidas sobre classificação de serviços, intangíveis e outras
-    operações que produzam variações no patrimônio: ]{.underline}**
+    operações que produzam variações no patrimônio:]**
 
-Deve ser realizada consulta às Regras de Interpretação da Nomenclatura
-Brasileira de Serviços, Intangíveis e Outras Operações que Produzam
-Variações no Patrimônio -- NBS, bem como às suas Notas Explicativas
+Deve ser realizada consulta às Regras de Interpretação da Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio -- NBS, bem como às suas Notas Explicativas
 (NEBS), disponíveis nos seguintes endereços eletrônicos:
 
-[http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13]{.underline}
+[http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13]
 
-<http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/nbs-nomenclatura-brasileira-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio>
+[http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/nbs-nomenclatura-brasileira-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio](http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/nbs-nomenclatura-brasileira-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio)
 
-Caso persistam dúvidas, deve ser formalizado processo administrativo de
-consulta à Secretaria da Receita Federal do Brasil (RFB), nos termos do
-art. 48 da Lei n^[o]{.underline}^ 9.430, de 27 de dezembro de 1996 e do
-Decreto n^[o]{.underline}^ 7.708, de 02 de abril de 2012, que instituiu
-a NBS.
+Caso persistam dúvidas, deve ser formalizado processo administrativo de consulta à Secretaria da Receita Federal do Brasil (RFB), nos termos do art. 48 da Lei nº 9.430, de 27 de dezembro de 1996 e do Decreto nº 7.708, de 02 de abril de 2012, que instituiu a NBS.
 
--   **[Dúvidas sobre registro no Siscoserv: ]{.underline}**
+### Dúvidas sobre registro no Siscoserv:
 
-Deverão ser consultados os Manuais Informatizados dos Módulos Venda e
-Aquisição do Siscoserv no sítio da Secretaria da Receita Federal do
-Brasil (RFB) na Internet, no endereço
-[\<[http://www.receita.fazenda.gov.br](http://www.receita.fazenda.gov.br/)]{.underline}\>
-e no sítio da Secretaria de Comércio e Serviços (SCS) na Internet, no
-endereço
-[[http://www.mdic.gov.br]{.underline}](http://www.mdic.gov.br/), bem
-como disponibilizados no Sistema.
+Deverão ser consultados os Manuais Informatizados dos Módulos Venda e Aquisição do Siscoserv no sítio da Secretaria da Receita Federal do Brasil (RFB) na Internet, no endereço
+[\<[http://www.receita.fazenda.gov.br](http://www.receita.fazenda.gov.br/)]\>
+e no sítio da Secretaria de Comércio e Serviços (SCS) na Internet, no endereço
+[http://www.mdic.gov.br](http://www.mdic.gov.br/), bem como disponibilizados no Sistema.
 
 Também está disponível no sítio da Secretaria de Comércio e Serviços
-(SCS) uma sessão de Perguntas Frequentes que pode ser acessada por meio
-do seguinte endereço eletrônico:
-<http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-6>
+(SCS) uma sessão de Perguntas Frequentes que pode ser acessada por meio do seguinte endereço eletrônico:
+[http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-6](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-6)
 
 -   **[Dúvidas sobre casos concretos -- Consultas à Secretaria da
-    Receita Federal do Brasil ]{.underline}**
+    Receita Federal do Brasil ]**
 
-A consulta é o instrumento previsto na [Instrução Normativa RFB n º
-1.396, de 16 de setembro de
-2013](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=46030)
-que o contribuinte possui para esclarecer dúvidas quanto à interpretação
-de determinado dispositivo da legislação tributária e aduaneira relativo
-aos tributos administrados pela Secretaria da Receita Federal do Brasil
-(RFB) e sobre a classificação de serviços, intangíveis e outras
-operações que produzam variações no patrimônio.
+A consulta é o instrumento previsto na [Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=46030)
+que o contribuinte possui para esclarecer dúvidas quanto à interpretação de determinado dispositivo da legislação tributária e aduaneira relativo aos tributos administrados pela Secretaria da Receita Federal do Brasil
+(RFB) e sobre a classificação de serviços, intangíveis e outras operações que produzam variações no patrimônio.
 
-Devido às possíveis implicações tributárias, as dúvidas concretas
-referentes às necessidades de registro, à responsabilidade pelo
-registro, à classificação NBS, às multas e aos prazos, entre outras,
-deverão ser formalizadas mediante consulta à RFB, a qual dará origem a
-uma Solução de Consulta ou a uma Solução de Divergência. Importante
-destacar a necessidade de expor com detalhes a circunstância, examinando
-a questão face ao preceito legal que lhe é pertinente.
+Devido às possíveis implicações tributárias, as dúvidas concretas referentes às necessidades de registro, à responsabilidade pelo registro, à classificação NBS, às multas e aos prazos, entre outras,
+deverão ser formalizadas mediante consulta à RFB, a qual dará origem a uma Solução de Consulta ou a uma Solução de Divergência. Importante destacar a necessidade de expor com detalhes a circunstância, examinando a questão face ao preceito legal que lhe é pertinente.
 
-A Solução de Consulta e a Solução de Divergência, a partir da data de
-sua publicação, têm efeito vinculante no âmbito da RFB, respaldam o
-sujeito passivo que as aplicar (mesmo que não seja o consulente), desde
-que se enquadre na hipótese por elas abrangida, sem prejuízo de que a
-autoridade fiscal, em procedimento de fiscalização, verifique seu
-efetivo enquadramento.
+A Solução de Consulta e a Solução de Divergência, a partir da data de sua publicação, têm efeito vinculante no âmbito da RFB, respaldam o sujeito passivo que as aplicar (mesmo que não seja o consulente), desde que se enquadre na hipótese por elas abrangida, sem prejuízo de que a autoridade fiscal, em procedimento de fiscalização, verifique seu efetivo enquadramento.
 
 Maiores informações sobre as Consultas estão disponíveis em:
 
-<http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/consulta-sobre-interpretacao-da-legislacao-tributaria>.
+[http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/consulta-sobre-interpretacao-da-legislacao-tributaria](http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/consulta-sobre-interpretacao-da-legislacao-tributaria).
 
--   **[Dúvidas sobre a legislação relativa ao Siscoserv: ]{.underline}**
+### Dúvidas sobre a legislação relativa ao Siscoserv:
 
 A legislação relativa ao Siscoserv encontra-se disponível nos endereços:
 
-[http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4]{.underline}
+[http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4]
 
-<http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/siscoserv-sist-integrado-de-com-exterior-int-e-outras-operacoes-prod-var-patrim/siscoserv-sistema-integrado-de-comercio-exterior-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio>
+[http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/siscoserv-sist-integrado-de-com-exterior-int-e-outras-operacoes-prod-var-patrim/siscoserv-sistema-integrado-de-comercio-exterior-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio](http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/siscoserv-sist-integrado-de-com-exterior-int-e-outras-operacoes-prod-var-patrim/siscoserv-sistema-integrado-de-comercio-exterior-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio)
 
-Além dos canais disponíveis, o usuário pode tirar dúvidas em eventos
-relacionados ao Siscoserv. A divulgação dos eventos é realizada na seção
+Além dos canais disponíveis, o usuário pode tirar dúvidas em eventos relacionados ao Siscoserv. A divulgação dos eventos é realizada na seção
 "Notícias" do sistema.
 
-12. Glossário
-=============
+## 12. Glossário
 
 Esse glossário foi desenvolvido para facilitar o entendimento dos
 conceitos presentes nos registros do Siscoserv.
@@ -1722,13 +1469,9 @@ e [Instrução Normativa n^[o]{.underline}^ 726, de 28 de fevereiro de
 .anchor}![](./media/aquisicao/image2.png){width="8.268055555555556in"
 height="11.69375in"}Capítulo 2
 
-[[[]{#_Toc528774101 .anchor}]{#_Toc438138263 .anchor}]{#_Toc424893944
-.anchor}Operacionalização do Sistema
+# Capítulo 2 - Operacionalização do Sistema
 
-1. Acesso ao Siscoserv
-======================
-
-> []{#_Toc343704518 .anchor}
+## 1. Acesso ao Siscoserv
 
 O acesso ao Siscoserv está disponível no Centro Virtual de Atendimento
 ao Contribuinte (e-CAC) da RFB na Internet no endereço:
@@ -1738,8 +1481,7 @@ Comércio e Serviços (SCS) na Internet, no endereço:
 exceto no horário de manutenção diária do sistema (01:00 às 03:00
 horas).
 
-1.1. Como acessar o Siscoserv
------------------------------
+### 1.1. Como acessar o Siscoserv
 
 O acesso ao Siscoserv é sempre feito por [certificado
 digital](#certificado) **e-CPF**. Quando a informação for prestada por
@@ -1758,8 +1500,7 @@ height="2.9659722222222222in"}
 [[[]{#certificado .anchor}]{#_Toc343704519 .anchor}]{#_2.2_O_que
 .anchor}
 
-1.2. O que é e como obter o Certificado Digital (e-CPF)
--------------------------------------------------------
+### 1.2. O que é e como obter o Certificado Digital (e-CPF)
 
 O Certificado Digital permite a identificação de uma pessoa no ambiente
 digital/eletrônico em transação na internet que necessite de validade
@@ -1773,8 +1514,7 @@ e-CPF, está disponível em:
 
 [[[]{#procuraçao .anchor}]{#_Toc343704520 .anchor}]{#_2.3_O_que .anchor}
 
-1.3. O que é e como obter a Procuração Eletrônica
--------------------------------------------------
+### 1.3. O que é e como obter a Procuração Eletrônica
 
 A Procuração Eletrônica, emitida exclusivamente pela RFB, é o
 instrumento que permite que uma pessoa física represente outra pessoa
@@ -1785,7 +1525,7 @@ http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/pro
 
 [[]{#_Toc343704521 .anchor}]{#_3._Procedimentos_relativos .anchor}
 
-[]{#_Hlk526348082 .anchor}**1.4.** **Problemas de acesso**
+### 1.4. Problemas de acesso
 
 Em caso de dificuldades para acessar o sistema, recomenda-se a limpeza
 de cache do navegador ou mesmo o uso de outro navegador. É possível
@@ -1807,8 +1547,7 @@ são:
 
 \- Email: css.serpro@serpro.gov.
 
-1.5. Informações Cadastrais
----------------------------
+### 1.5. Informações Cadastrais
 
 A funcionalidade **Informações Cadastrais** permite por um lado a
 correta identificação do responsável pelo registro do RAS, por exemplo,
@@ -1870,7 +1609,7 @@ b)  Usuário/ Responsável pelo Registro representa uma Pessoa física; e
 
 c)  Usuário/ Responsável pelo Registro é o Próprio Adquirente.
 
-### 1.5.1. Caso 1 -- Usuário/ Responsável pelo Registro representa Pessoa Jurídica
+#### 1.5.1. Caso 1 -- Usuário/ Responsável pelo Registro representa Pessoa Jurídica
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em
 Informações cadastrais;
@@ -1961,7 +1700,7 @@ clica em Salvar.
 ![Cadastro\_empresa\_Aquisição1](./aquisicao/media/image18.jpeg){width="6.739583333333333in"
 height="1.1979166666666667in"}
 
-### 1.5.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física
+#### 1.5.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física
 
 Passo 1: [Usuário/Responsável pelo Registro](#Usuário) acessa o
 Siscoserv e clica em Informações cadastrais;
@@ -2043,7 +1782,7 @@ em Salvar.
 ![Cadastro\_PF\_Aquisição](./aquisicao/media/image22.jpeg){width="6.791666666666667in"
 height="1.1979166666666667in"}
 
-### 1.5.3. Caso 3 -- Usuário/Responsável pelo Registro é o próprio Adquirente
+#### 1.5.3. Caso 3 -- Usuário/Responsável pelo Registro é o próprio Adquirente
 
 Passo 1: Responsável pelo Registro acessa o Siscoserv e clica em
 Informações cadastrais;
@@ -2122,8 +1861,7 @@ em Salvar.
 ![Cadastro\_Proprio\_Comprador](./aquisicao/media/image26.jpeg){width="6.8125in"
 height="1.5729166666666667in"}
 
-2. Procedimentos relativos ao registro no Módulo Aquisição
-==========================================================
+## 2. Procedimentos relativos ao registro no Módulo Aquisição
 
 Para entrar no Módulo Aquisição do Siscoserv, o usuário deve acessar o
 sítio [www.siscoserv.mdic.gov.br](http://www.siscoserv.mdic.gov.br) ou o
@@ -2181,8 +1919,7 @@ RAS.[[[]{#_Toc343704522 .anchor}]{#_3.1_O_Registro .anchor}]{#_3.1_O_RVS
 
 > []{#_3.1.2_Passos_para .anchor}
 
-2.1. Inclusão do RAS
---------------------
+### 2.1. Inclusão do RAS
 
 Para incluir um Registro de Aquisição de Serviços (RAS) é preciso
 acessar o *menu* **RAS** e em seguida a opção **Incluir**.
@@ -2254,7 +1991,7 @@ height="2.7291666666666665in"}
 height="0.16666666666666666in"}![](./media/aquisicao/image34.png){width="6.885416666666667in"
 height="4.145833333333333in"}
 
-**Opção de Atendimento à Legislação**
+#### Opção de Atendimento à Legislação
 
 Em seguida, o Siscoserv apresenta a seguinte tela:
 
@@ -2283,7 +2020,7 @@ que assumirão a última opção marcada.
 A decisão pode ser revista pelo usuário, clicando em **Atendimento à
 legislação** no *menu* lateral esquerdo na tela de **Resumo**.
 
-**[Dados do Vendedor]{.underline}**
+#### Dados do Vendedor
 
 Em **Dados do Vendedor**, devem ser incluídos os dados do residente ou
 domiciliado no exterior vendedor da [operação](#operaçao) realizada com
@@ -2304,7 +2041,9 @@ da pessoa jurídica vendedora do [negócio](#Negócio).
 disponível de países em **País do Vendedor**, ou informar manualmente o
 código do país no campo numérico.
 
-[**NIF -- Número de Identificação Fiscal**](#NIF)-- Preencha com número
+#### NIF - Número de Identificação Fiscal
+
+Preencha com número
 de Identificação Fiscal do vendedor do [negócio](#Negócio). O
 fornecimento dessa informação é obrigatório nos casos de países que
 adotam códigos de identificação fiscal.
@@ -2335,7 +2074,7 @@ height="3.7083333333333335in"}
 Acione **Avançar** para validar os dados e seguir para a próxima tela
 (**Dados do Negócio**).
 
-[]{#DadosDoNegócio .anchor}**[Dados do Negócio]{.underline}**
+#### Dados do Negócio
 
 Em **Dados do [Negócio](#Negócio)** são incluídos os dados das
 [operações](#operaçao) de aquisição de serviços [^15], por
@@ -2359,9 +2098,9 @@ meio de [aditivo ao RAS. ](#inclusão-de-aditivo-ao-ras)
 
 Campos a serem preenchidos em Dados do [Negócio](#Negócio):
 
-**Código NBS / Descrição da NBS:** [Vide item
-9](#nomenclatura-brasileira-de-serviços-intangíveis-e-outras-operações-que-produzam-variações-no-patrimônio-nbs),
-do Capítulo 1 deste Manual.
+#### Código NBS / Descrição da NBS
+
+Vide [item 9, do Capítulo 1 deste Manual.](#9)
 
 []{#_Hlk533093018 .anchor}A prestação de serviços[^16] iniciada até 31
 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1,
@@ -2375,7 +2114,7 @@ publicada pela [Portaria Conjunta RFB/SCS nº 2.000, de 18 de dezembro de
 2018.](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/12/2018&jornal=515&pagina=139&totalArquivos=243),
 que produz efeitos a partir de 1º de janeiro de 2019.
 
-**Código do País / País de Destino:**
+#### Código do País / País de Destino
 
 Identifica o país de destino da prestação do serviço, da aquisição de
 [intangível](#Intangível) ou da realização de [outra operação que
@@ -2406,7 +2145,7 @@ de arquitetura no Brasil. O país de destino é Brasil.
 O usuário pode informar diretamente o código do país, ou localizá-lo na
 lista disponível de países em **País de Destino**.
 
-**Código da Moeda / Descrição da Moeda: **
+#### Código da Moeda / Descrição da Moeda 
 
 Identifica a moeda da transação comercial. O usuário pode informar
 diretamente o código da moeda, ou localizá-lo na lista **Descrição da
@@ -2454,8 +2193,7 @@ operação em função da nova moeda do registro.
 height="0.16666666666666666in"}![manual8ed\_enq01\_aquisição](./aquisicao/media/image42.png){width="6.9375in"
 height="4.4375in"}
 
-**[Modo de Prestação](#modos-de-prestação-de-serviços-módulo-aquisição):
-**
+#### [Modo de Prestação](#modos-de-prestação-de-serviços-módulo-aquisição)
 
 O usuário deve selecionar item na lista **Modo de Prestação**, dentre as
 opções:
@@ -2477,7 +2215,7 @@ aquisição daquele serviço associado ao valor total da operação.
 Presença Comercial no Brasil no Módulo Aquisição]{.underline} pelas
 razões explicitadas na pagina 14 deste Manual.
 
-**Data de Início:**
+#### Data de Início
 
 Data em que se [iniciou a prestação do serviço](#datainicio) adquirido,
 a transferência do [intangível](#Intangível) ou a realização de [outra
@@ -2485,13 +2223,13 @@ operação que produza variações no patrimônio](#Variações). A data
 informada não pode ser posterior à data em que a operação estiver sendo
 registrada no Sistema.
 
-**Data de Conclusão:**
+#### Data de Conclusão
 
 Data em que foi ou será concluída a prestação do serviço adquirido, a
 transferência do [intangível](#Intangível) ou a realização de [outra
 operação que produza variação no patrimônio](#Variações).
 
-**Valor**:
+#### Valor
 
 Deve ser especificado o valor da [operação](#operaçao), na moeda
 indicada em **Código da Moeda / Descrição da Moeda.**
@@ -2560,7 +2298,7 @@ empregador, o usuário deverá fornecer o CNPJ do empregador.
 ![Aquisição-GastosPessoais2](./aquisicao/media/image44.png){width="6.885416666666667in"
 height="1.3020833333333333in"}
 
-**[Mecanismo](#enquadramento) de Apoio/Fomento:**
+#### [Mecanismo](#enquadramento) de Apoio/Fomento
 
 Para informar **Mecanismo de apoio/fomento** da
 operação[]{#_Hlk526436963 .anchor}, tal como previsto no [item
@@ -2592,8 +2330,7 @@ de Apoio s disponíveis para seleção no Módulo Aquisição, veja o [item 10
 do capítulo
 1](#mecanismos-de-apoio-fomento-ao-comércio-exterior-de-serviços-e-intangíveis).
 
-[]{#MovimentaçãoTemporária_RAS .anchor}**Vinculação à Movimentação
-Temporária de Bens**
+#### Vinculação à Movimentação Temporária de Bens
 
 ![](./media/aquisicao/image28.jpeg){width="6.885416666666667in"
 height="0.16666666666666666in"}Deve ser indicado se a operação está
@@ -2619,7 +2356,7 @@ Para excluir número de DI ou de DU-E (ou RE), clique no ícone
 graphic](./aquisicao/media/image51.png){width="0.3333333333333333in"
 height="0.21875in"} à direita do número registrado.
 
-[Inclusão de Operação no RAS]{.underline}
+#### Inclusão de Operação no RAS
 
 Após preenchimento dos campos **Código NBS / Descrição da NBS, Código do
 País / País de Destino**, **Código da Moeda / Descrição da Moeda**,
@@ -2652,7 +2389,7 @@ poderão ser alterados por meio da função **Retificar RAS.**
 
 Caso não deseje adicionar mais operações, clicar em **Avançar.**
 
-**Informações Complementares:**
+#### Informações Complementares
 
 Destina-se ao preenchimento de informações pertinentes ao RAS que não
 tenham campo específico no Sistema.
@@ -2683,7 +2420,7 @@ Acione **Avançar** para seguir para o próximo passo.
 height="0.16666666666666666in"}![](./media/aquisicao/image53.png){width="6.875in"
 height="1.9895833333333333in"}
 
-**Resumo do RAS**
+#### Resumo do RAS
 
 A tela **Resumo do RAS** traz as informações preenchidas pelo usuário
 para incluir o RAS.
@@ -2722,7 +2459,7 @@ facilitar os registros e/ou retificações posteriores relativos ao RAS.
 **Após a inclusão de um RAS, não é possível o seu cancelamento,
 admitindo-se apenas [retificações](#retificação-do-ras).**
 
-### 2.1.1 Inclusão de Aditivo ao RAS
+#### 2.1.1 Inclusão de Aditivo ao RAS
 
 O aditivo ao RAS deve ser usado para a inclusão de nova operação em um
 RAS previamente incluído, quando houver complementação ou aditamento nos
@@ -2838,7 +2575,7 @@ Sistema apresentará a seguinte tela:
 aquisição](./aquisicao/media/image65.jpeg){width="6.885416666666667in"
 height="3.0208333333333335in"}
 
-### 2.1.2. Retificação do RAS
+#### 2.1.2. Retificação do RAS
 
 O RAS ou o Aditivo ao RAS **não podem ser cancelados**, cabendo apenas
 retificações.
@@ -2976,7 +2713,7 @@ Não pode ser incluída nova operação por meio de retificação. Para
 incluir uma nova operação em um RAS já incluído, utilize a função
 [**Inclusão de Aditivo ao RAS**](#inclusão-de-aditivo-ao-ras).
 
-### 2.1.3. Retificação do Aditivo ao RAS 
+#### 2.1.3. Retificação do Aditivo ao RAS 
 
 O aditivo ao RAS não pode ser cancelado, cabendo apenas retificações.
 
@@ -3121,7 +2858,7 @@ Sistema apresentará a seguinte tela:
 aquisição](./aquisicao/media/image65.jpeg){width="6.885416666666667in"
 height="3.0208333333333335in"}
 
-### 2.1.4. Consulta ao RAS ou ao Aditivo ao RAS
+#### 2.1.4. Consulta ao RAS ou ao Aditivo ao RAS
 
 Esta função permite efetuar consulta a dados dos RAS no Sistema.
 
@@ -3197,8 +2934,7 @@ height="3.6145833333333335in"}
 
 []{#_3.1.7_Situações_especiais .anchor}
 
-2.2. Inclusão do RP
--------------------
+### 2.2. Inclusão do RP
 
 A partir do **Módulo Aquisição**, no *menu* **RP**, há 3 funções:
 **Incluir**, **Cancelar** e **Consultar**.
@@ -3340,9 +3076,8 @@ para o RP.
 height="0.16666666666666666in"}![](./media/aquisicao/image92.png){width="6.916666666666667in"
 height="1.3020833333333333in"}
 
-### 
 
-### 2.2.1. Retificação do RP
+#### 2.2.1. Retificação do RP
 
 Esta função permite ao usuário retificar um RP.
 
@@ -3377,7 +3112,7 @@ height="0.2604166666666667in"} à direita do RP a ser retificado.
 ![Aquisição-67-1](./aquisicao/media/image95.png){width="6.916666666666667in"
 height="3.0208333333333335in"}
 
-######## ![](./media/aquisicao/image28.jpeg){width="6.916666666666667in" height="0.16666666666666666in"}![Aquisição-67-2](./aquisicao/media/image96.png){width="6.916666666666667in" height="3.0104166666666665in"}
+![](./media/aquisicao/image28.jpeg){width="6.916666666666667in" height="0.16666666666666666in"}![Aquisição-67-2](./aquisicao/media/image96.png){width="6.916666666666667in" height="3.0104166666666665in"}
 
 Selecionada a opção **Pesquisar pelo CPF/CNPJ do Adquirente**, preencha
 o CPF/CNPJ do adquirente, ainda que seja o mesmo CPF do usuário. Acione
@@ -3459,7 +3194,7 @@ Retificação**, o Sistema confirmará a retificação dos dados do RP.
 RP-11](./aquisicao/media/image104.png){width="6.885416666666667in"
 height="1.4166666666666667in"}
 
-### 2.2.2. Cancelamento do RP
+#### 2.2.2. Cancelamento do RP
 
 Esta função permite ao usuário cancelar um RP.
 
@@ -3537,7 +3272,7 @@ height="3.1145833333333335in"}
 [[[]{#_Toc310517759 .anchor}]{#_Toc310517189 .anchor}]{#_Toc309227805
 .anchor}
 
-### 2.2.3. Consulta ao RP
+#### 2.2.3. Consulta ao RP
 
 Esta função permite efetuar consulta a dados dos RP no sistema.
 
@@ -3595,8 +3330,7 @@ Em seguida, é exibida a tela **Resumo do RP**.
 [[[]{#_Toc343704535 .anchor}]{#_4._Transmissão_em .anchor}]{#NBS
 .anchor}
 
-3. Transmissão em Lote
-======================
+## 3. Transmissão em Lote
 
 A transmissão em lote foi implementada para atender os residentes e
 domiciliados no Brasil que realizam um grande número de transações de
@@ -3669,7 +3403,7 @@ se houve alteração nos códigos em que classificam os serviços
 registrados no Siscoserv, visto que houve reaproveitamento de códigos
 previamente existentes na nova versão da Nomenclatura.
 
-**Processamento dos Arquivos de Lote**
+### Processamento dos Arquivos de Lote
 
 O processamento dos arquivos de lote divide-se em 4 etapas:
 
@@ -3733,7 +3467,7 @@ seguida, o Sistema efetivará as operações contidas nos arquivos de dados
 aprovados e atribuirá aos arquivos de lote e de dados os *status*
 decorrentes deste processamento.
 
-[]{#StatusLote .anchor}***Status* dos Arquivos de Lote**
+### Status dos Arquivos de Lote
 
 Um arquivo de lote pode receber seis *status* diferentes:
 
@@ -3800,8 +3534,7 @@ height="2.0729166666666665in"}
 EX](./aquisicao/media/image124.png){width="6.885416666666667in"
 height="2.0520833333333335in"}
 
-3.1. Procedimentos para envio do arquivo de lote
-------------------------------------------------
+### 3.1. Procedimentos para envio do arquivo de lote
 
 Para efetuar a transmissão em lote o usuário deve [acessar o
 Siscoserv](#_2.1_Como_acessar) e clicar na aba **Transmissão em Lote**.
@@ -3888,7 +3621,7 @@ são:
 
 []{#_3.1.1._Validação_dos .anchor}
 
-**Validação dos Arquivos de Lote e de Dados **
+### Validação dos Arquivos de Lote e de Dados
 
 As [Orientações
 Técnicas](http://desenvolvimento.gov.br/arquivos/dwnl_1336998170.pdf)
@@ -3939,8 +3672,7 @@ Técnicas](http://desenvolvimento.gov.br/arquivos/dwnl_1336998170.pdf).
 ras](./aquisicao/media/image132.png){width="6.885416666666667in"
 height="2.6145833333333335in"}
 
-3.2. Consultar Lote
--------------------
+### 3.2. Consultar Lote
 
 Para consultar o lote, o usuário deve clicar na aba **Transmissão em
 Lote** e em seguida selecionar o item de *menu* **Consultar Lote.**
@@ -4009,7 +3741,7 @@ height="0.1875in"}.
 PR](./aquisicao/media/image121.png){width="6.885416666666667in"
 height="2.2916666666666665in"}
 
-### 3.2.1. Arquivo de Retorno do Lote
+#### 3.2.1. Arquivo de Retorno do Lote
 
 Um arquivo de retorno contendo o resultado do processamento do lote, bem
 como mais detalhes sobre os erros encontrados, pode ser gerado ao clicar
@@ -4039,8 +3771,7 @@ Sistema apresentará a seguinte tela:
 aquisição](./aquisicao/media/image65.jpeg){width="6.885416666666667in"
 height="3.0208333333333335in"}
 
-3.3. Excluir Lote
------------------
+### 3.3. Excluir Lote
 
 Caso o usuário detecte, antes do processamento noturno dos lotes, que
 enviou um lote indevidamente, ele poderá exclui-lo. Para tal, é
@@ -4057,8 +3788,7 @@ Sistema removerá definitivamente o lote da fila de processamento.
 lote](./aquisicao/media/image118.png){width="6.885416666666667in"
 height="3.0625in"}
 
-3.4. Cumprimento de Prazos na Transferência em Lote
----------------------------------------------------
+### 3.4. Cumprimento de Prazos na Transferência em Lote
 
 Para fins de cumprimento dos prazos legais, o sistema adota a data e o
 horário informados na coluna **Data de Geração do Protocolo**, ou seja,
@@ -4069,8 +3799,7 @@ estabelecidos para os registros.
 
 []{#_5._Nomenclatura_Brasileira_2 .anchor}
 
-4. Relatório Gerencial
-======================
+## 4. Relatório Gerencial
 
 A funcionalidade **Relatório Gerencial** visa a atender uma solicitação
 dos usuários do Siscoserv com vistas a gerar um relatório sobre todas as
@@ -4093,8 +3822,7 @@ O **Usuário/Responsável pelo Registro** é que detém o e-CPF e/ou a
 procuração eletrônica da Pessoa Jurídica ou da Pessoa Física e é o
 responsável pela inserção dos dados no Sistema.
 
-4.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica
----------------------------------------------------------------------------
+### 4.1. Caso 1 - Usuário/Responsável pelo Registro representa Pessoa Jurídica
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em
 Relatório Gerencial;
@@ -4148,8 +3876,9 @@ height="3.4479166666666665in"}
 O sistema gera uma Planilha Excel com todos os dados de RAS ou RP
 vinculados para o período selecionado.
 
-As seguintes informações são disponibilizadas na planilha Excel dos
-[]{#relatorioRVS .anchor}**Relatórios Gerenciais relativos aos RAS**:
+#### Relatórios Gerenciais relativos aos RAS
+
+Informações disponibilizadas: 
 
 ![Planilha
 Excel\_RAS](./aquisicao/media/image146.jpeg){width="7.760416666666667in"
@@ -4225,8 +3954,9 @@ height="1.2708333333333333in"}
 operação e pagamento. Esses dados não têm nenhuma utilidade para
 operações transmitidas por lote.*
 
-As seguintes informações são disponibilizadas na planilha Excel dos
-[]{#relatorioRF .anchor}**Relatórios Gerenciais relativos aos RP**:
+#### Relatórios Gerenciais relativos aos RP
+
+Informações disponibilizadas:
 
 ![Planilha Excel\_RP](./aquisicao/media/image147.jpeg){width="7.3125in"
 height="2.3125in"}
@@ -4273,8 +4003,7 @@ height="2.3125in"}
 operação e pagamento. Esses dados não têm nenhuma utilidade para
 operações transmitidas por lote.*
 
-4.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física
--------------------------------------------------------------------------
+### 4.2. Caso 2 - Usuário/Responsável pelo Registro representa Pessoa Física
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em
 Relatório Gerencial;
@@ -4315,8 +4044,7 @@ adquirente serão disponibilizadas e as informações de CNPJ do adquirente
 virão preenchidas com N/A -- não se aplica) e [Relatórios Gerenciais
 R](#relatorioRF)P.
 
-4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Adquirente
------------------------------------------------------------------------
+### 4.3. Caso 1 - Usuário/Responsável pelo Registro é o próprio Adquirente
 
 Passo 1: Usuário/Responsável pelo Registro, que neste caso é o próprio
 adquirente, acessa o Siscoserv e clica em Relatório Gerencial;
@@ -4357,15 +4085,10 @@ usuário e do CPF do adquirente são as mesmas e as informações de CNPJ do
 adquirente virão preenchidas com N/A -- não se aplica) e [Relatórios
 Gerenciais RP](#relatorioRF).
 
-[[]{#_Toc528774130 .anchor}]{#_Toc438138284
-.anchor}![](./media/aquisicao/image2.png){width="8.268055555555556in"
-height="11.69375in"}Capítulo 3[]{#_Toc438048522 .anchor}
+# Capítulo 3 - Cenários Exemplificativos de Registro no Siscoserv
 
-[[]{#_Toc528774131 .anchor}]{#_Toc438138285 .anchor}Cenários
-Exemplificativos de Registro no Siscoserv
 
- 1. Registro de Transporte Internacional de Cargas (Frete)
-==========================================================
+ ## 1. Registro de Transporte Internacional de Cargas (Frete)
 
 A contratação de serviços de transporte de carga envolve vários "atores"
 executando diferentes "papéis". Nos exemplos a seguir, são mostradas, em
@@ -4376,11 +4099,9 @@ O conjunto de cenários abaixo apresentado não pretende ser exaustivo.
 Entretanto, a lógica aplicada em cada uma das situações pode se estender
 aos casos que não foram aqui descritos.
 
-Cenário 1.1. Transporte internacional de cargas intermediado por agente de cargas.
-----------------------------------------------------------------------------------
+### Cenário 1.1. Transporte internacional de cargas intermediado por agente de cargas
 
-Exportação brasileira com a obrigação de transportar da empresa brasileira.
----------------------------------------------------------------------------
+**Exportação brasileira com a obrigação de transportar da empresa brasileira.** 
 
 ![Cena\_rios
 Siscoserv](./aquisicao/media/image152.jpeg){width="6.885416666666667in"
@@ -4426,11 +4147,9 @@ height="4.90625in"}
 > Venda do Siscoserv os serviços de transporte internacional de carga
 > adquiridos de T~EX~, cujo custo seja por ele repassado a I~EX~.
 
-Cenário 1.2. Transporte internacional de cargas intermediado por agente de cargas.
-----------------------------------------------------------------------------------
+### Cenário 1.2. Transporte internacional de cargas intermediado por agente de cargas
 
-Importação brasileira com a obrigação de transportar da empresa brasileira.
----------------------------------------------------------------------------
+**Importação brasileira com a obrigação de transportar da empresa brasileira.**
 
 ![C:\\Users\\luple\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Cenário
 1.2 -
@@ -4471,11 +4190,9 @@ height="5.364583333333333in"}
 > deve ser feito um RAS por I~BR~ tendo AgCg~EX~ como vendedor do
 > serviço.
 
-Cenário 1.3. Transporte internacional de cargas com consolidação e desconsolidação de cargas.
----------------------------------------------------------------------------------------------
+### Cenário 1.3. Transporte internacional de cargas com consolidação e desconsolidação de cargas
 
-Importação brasileira com a obrigação de transportar da empresa estrangeira.
-----------------------------------------------------------------------------
+**Importação brasileira com a obrigação de transportar da empresa estrangeira.**
 
 ![Cenários
 1](./aquisicao/media/image154.png){width="6.885416666666667in"
@@ -4515,11 +4232,9 @@ height="5.166666666666667in"}
 > **Não há registro no Siscoserv** pelo serviço de transporte de cargas
 > neste caso, pois ambos, C~EX~ e T~EX,~ são domiciliados no exterior.
 
-Cenário 1.4. Transporte internacional de cargas com consolidação e desconsolidação de cargas.
----------------------------------------------------------------------------------------------
+#### Cenário 1.4. Transporte internacional de cargas com consolidação e desconsolidação de cargas
 
-Exportação brasileira com a obrigação de transportar da empresa brasileira
---------------------------------------------------------------------------
+**Exportação brasileira com a obrigação de transportar da empresa brasileira.**
 
 ![C:\\Users\\luple\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Cenário
 1.4 - Correto.png](./aquisicao/media/image155.png){width="6.5in"
@@ -4557,11 +4272,9 @@ height="4.875in"}
 > C~BR~: RAS pelo serviço de transporte tendo T~EX~ como vendedor e RAS
 > pelo serviço de desconsolidação, tendo D~EX~ como vendedor.
 
-2. Seguros
-==========
+## 2. Seguros
 
-Cenário 2.1. Contratação de seguro com intermediação de corretora
------------------------------------------------------------------
+### Cenário 2.1. Contratação de seguro com intermediação de corretora
 
 [Descrição]{.underline}
 
@@ -4597,10 +4310,9 @@ height="5.166666666666667in"}
 
 > Emp~BR~: RAS pelo serviço de seguro tendo Seg~EX~ como vendedora.
 
-Cenário 2.2. Contratação de seguro de estipulante domiciliada ou residente no Brasil
-------------------------------------------------------------------------------------
+### Cenário 2.2. Contratação de seguro de estipulante domiciliada ou residente no Brasil
 
-[Descrição]{.underline}
+**Descrição**
 
 Est~BR~, residente ou domiciliada no Brasil, é uma corretora que
 contrata e paga apólice coletiva de seguros, ficando investida dos
@@ -4634,14 +4346,12 @@ height="5.166666666666667in"}
 
 > Est~BR~: RAS pelo serviço de seguro tendo Seg~EX~ como vendedora.
 
-3. Remessa Expressa
-===================
+## 3. Remessa Expressa
 
 O serviço de remessa expressa (courier) apresenta, de forma genérica,
 dois possíveis cenários.
 
-Cenário 3.1. Empresa brasileira exportadora (ou importadora) faturada por empresa estrangeira prestadora do serviço de remessa expressa
----------------------------------------------------------------------------------------------------------------------------------------
+### Cenário 3.1. Empresa brasileira exportadora (ou importadora) faturada por empresa estrangeira prestadora do serviço de remessa expressa
 
 O registro é de responsabilidade do exportador/importador residente ou
 domiciliado no Brasil sempre que a relação contratual relativa aos
@@ -4658,8 +4368,7 @@ domiciliada no exterior, mesmo que o fluxo de pagamento ocorra com a
 filial desta empresa domiciliada no Brasil, caberá ao
 exportador/importador o registro.
 
-Cenário 3.2. Empresa brasileira faturada pela filial residente ou domiciliada no Brasil de empresa estrangeira
---------------------------------------------------------------------------------------------------------------
+### Cenário 3.2. Empresa brasileira faturada pela filial residente ou domiciliada no Brasil de empresa estrangeira
 
 O registro é de responsabilidade empresa de remessa expressa domiciliada
 no Brasil sempre que a relação contratual relativa aos serviços de
@@ -4702,8 +4411,7 @@ aquisição de serviços com residentes ou domiciliados no exterior,
 inclusive operações *intercompany*, de acordo com o previsto na
 legislação pertinente ao Siscoserv e neste Manual.
 
-4. Expatriados
-==============
+## 4. Expatriados
 
 A movimentação temporária de pessoas físicas para prestação de serviços
 enseja o registro no Siscoserv, sempre que cumpridos os pilares
@@ -4736,8 +4444,7 @@ Definitiva do País, e a que se ausente do Brasil em caráter temporário,
 a partir do dia seguinte àquele em que complete doze meses consecutivos
 de ausência.
 
-Cenário 1 
-----------
+### Cenário 4.1 
 
 Empresa residente ou domiciliada no Brasil que envia empregado para
 trabalhar em empresa residente ou domiciliada no exterior e que continua
@@ -4749,8 +4456,7 @@ serviço em modo 4. Também deve ser registrado no Siscoserv a remuneração
 do empregado caso ele torne-se não residente, mantendo vínculo
 empregatício no Brasil.
 
-Cenário 2 
-----------
+### Cenário 4.2 
 
 Empresa residente e domiciliada no Brasil que efetua apenas o pagamento
 de contribuições previdenciárias, referente a segurado facultativo, de
