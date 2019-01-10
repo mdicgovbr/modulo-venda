@@ -1,3 +1,12 @@
+---
+published: true
+permalink: /modulo-aquisicao
+layout: slate
+filename: moduloaquisicao.md
+title: Módulo Aquisição
+---  
+
+
 ![](./media/aquisicao/image1.png){width="8.26875in" height="11.686805555555555in"} {#section .CabealhodoSumrio1}
 ==================================================================================
 

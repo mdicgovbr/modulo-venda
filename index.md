@@ -9,4 +9,4 @@ title: Módulo Venda
 # 12ª Edições
 
 * [Módulo Venda](/modulo-venda)
-* [Módulo Aquisição](/modulo-aquisição)
+* [Módulo Aquisição](/modulo-aquisicao)
