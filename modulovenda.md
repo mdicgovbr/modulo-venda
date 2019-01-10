@@ -6,7 +6,7 @@ filename: modulovenda.md
 title: Módulo Venda
 ---  
 
-# MANUAL MÓDULO VENDA 12ª Edição
+# MÓDULO VENDA 12ª Edição
 
 
 ![](/media/venda/novo_image22.png)

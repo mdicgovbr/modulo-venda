@@ -6,11 +6,9 @@ filename: moduloaquisicao.md
 title: Módulo Aquisição
 ---  
 
-# MANUAL MÓDULO AQUISIÇÃO 12ª Edição
+# MÓDULO AQUISIÇÃO 12ª Edição
 
 ![](./media/aquisicao/image1.png)
-
-![](./media/aquisicao/image2.png)
 
 [TOC]
 
