@@ -9,7 +9,7 @@ title: Módulo Venda
 # MANUAL MÓDULO VENDA 12ª. Edição
 
 
-![](/media/novo_image22.png)
+![](/media/venda/novo_image22.png)
 
 [TOC]
 
@@ -97,14 +97,14 @@ As operações de prestação de serviços previstas em contratos de garantia de
 O prazo para incluir o RVS é até o último dia útil do 3º
 (terceiro) mês subsequente à [data de início da prestação de serviço](#data_inicio_prestacao)[^3]
 
-![](/media/novo_image155.png)
+![](/media/venda/novo_image155.png)
 
 Até 31 de dezembro de 2013, o prazo para o RVS foi, excepcionalmente,
 até o último dia útil do 6º (sexto) mês subsequente à
 data de início da prestação de serviço, da comercialização de intangível ou da realização de operação que produza variação no patrimônio.
 
 
-![](/media/novo_image148.png)
+![](/media/venda/novo_image148.png)
 
 
 ### 4.2. Registro de Faturamento (RF)
@@ -222,7 +222,7 @@ Caso a pessoa jurídica domiciliada no Brasil mantenha, no exterior, mais de uma
 
 A prestação das informações no RPC deve ser realizada anualmente, a partir de 2014, em relação ao ano-calendário anterior, até o último dia     útil do mês de junho do ano subsequente à realização de operações por meio de presença comercial no exterior relacionada à pessoa jurídica domiciliada no Brasil.
 
-![](/media/novo_image149.png)
+![](/media/venda/novo_image149.png)
 
 
 ## 5. Quem deve efetuar registro no Siscoserv -- Módulo Venda
@@ -462,7 +462,7 @@ Dessa maneira, fica claro que nem sempre o código NBS se apresenta totalmente d
   1.0905.91.00   Serviços de consultoria financeira
   1.2206.19.10   Serviços de palestras e conferências
 
-O usuário pode informar diretamente o código, ou localizá-lo acionando a ferramenta de busca: ![](/media/novo_image21.png), situada ao lado do campo **Código NBS**.
+O usuário pode informar diretamente o código, ou localizá-lo acionando a ferramenta de busca: ![](/media/venda/novo_image21.png), situada ao lado do campo **Código NBS**.
 
 Na informação do código NBS, a posição mais específica prevalece sobre a mais genérica, sendo que o código só pode ser informado em seu maior nível de detalhamento (nove dígitos).
 
@@ -512,12 +512,12 @@ expandindo os níveis "Capítulo", "Posição", "Subposição", "Item" e
 "Subitem", conforme o caso. Uma vez identificado o código NBS,
 acionar**.**
 
-> ![](/media/novo_image159.png)
+> ![](/media/venda/novo_image159.png)
 
 
 **Utilizar Pesquisa por Descrição:** no campo **Descrição**, informe termo que identifique o serviço, acione **Pesquisar**, selecione com um clique um dos códigos NBS localizados, acione **Confirmar.**
 
-> ![](/media/novo_image161.png)
+> ![](/media/venda/novo_image161.png)
     
 
 Em caso de dúvidas sobre classificação da NBS, consulte as Regras de Interpretação da NBS, bem como suas [Notas Explicativas](http://www.mdic.gov.br/arquivos/dwnl_1387454702.pdf)
@@ -789,7 +789,7 @@ e [Instrução Normativa no 726, de 28 de fevereiro de
 
 # Capítulo 2 - Operacionalização do Sistema
 
-![](/media/novo_image22.png)
+![](/media/venda/novo_image22.png)
 
 
 
@@ -809,7 +809,7 @@ O acesso ao Siscoserv é sempre feito por [certificado digital](#_zu0gcz) **e-CP
 
 **Figura:** Fluxo de acesso ao Siscoserv
 
-![](/media/novo_image120.png)
+![](/media/venda/novo_image120.png)
 
 ### 1.2. O que é e como obter o Certificado Digital (e-CPF)
 
@@ -877,11 +877,11 @@ Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Infor
 
 **Obs: No primeiro acesso do usuário ao Sistema, o usuário será direcionado diretamente para a ficha de Informações Cadastrais. Não será possível efetuar novo registro antes de preencher os dados solicitados.**
 
-![](/media/novo_image138.jpg)
+![](/media/venda/novo_image138.jpg)
 
 Passo 2: Preenche o CNPJ da empresa e clica em avançar;
 
-![](/media/novo_image170.jpg)
+![](/media/venda/novo_image170.jpg)
 
 Passo 3: O Sistema apresenta uma tela para a inserção dos dados cadastrais.
 
@@ -939,7 +939,7 @@ Anualmente, será solicitada a atualização imediata dos Campos Obrigatórios a
 
 Passo 4: Após o preenchimento das informações, o Usuário/Responsável clica em Salvar.
 
-![](/media/novo_image166.jpg)
+![](/media/venda/novo_image166.jpg)
 
 
 #### 1.5.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física
@@ -1002,7 +1002,7 @@ Anualmente, será solicitada a atualização imediata dos Campos Obrigatórios a
 
 Passo 4: Após a atualização das informações, o Usuário/Responsável clica em Salvar.
 
-![](/media/novo_image146.jpg)
+![](/media/venda/novo_image146.jpg)
 
 
 #### 1.5.3. Caso 3 -- Usuário/Responsável pelo Registro é o próprio Vendedor
@@ -1017,7 +1017,7 @@ possível efetuar novo registro antes de preencher os dados solicitados.**
 
 Passo 2: Seleciona a Opção "O usuário é o próprio Vendedor" e clica em Avançar;
 
-![](/media/novo_image165.jpg)
+![](/media/venda/novo_image165.jpg)
 
 Passo 3: O Sistema apresenta uma tela para a inserção dos Dados cadastrais.
 **[Fluxo de Registro Inicial**
@@ -1060,7 +1060,7 @@ Anualmente, será solicitada a atualização imediata dos Campos Obrigatórios a
 
 Passo 4: Após a atualização das informações, o Usuário/Responsável clica em Salvar.
 
-![](/media/novo_image150.jpg) 
+![](/media/venda/novo_image150.jpg) 
   
 
 ## 2. Procedimentos relativos ao registro no Módulo Venda
@@ -1071,7 +1071,7 @@ ou o Centro Virtual de Atendimento ao Contribuinte (Portal e-CAC),
 localizado no sítio www.receita.fazenda.gov.br e, antes de validar o certificado digital que autoriza o acesso ao Sistema, selecionar
 **Siscoserv - Módulo Venda** no campo **Escolha um dos serviços disponíveis: Sistema.**
 
-![](/media/novo_image19.png)
+![](/media/venda/novo_image19.png)
 
 Nota: As telas podem apresentar configurações diferentes, dependendo do navegador de internet utilizado pelo usuário.
 
@@ -1106,16 +1106,16 @@ O Registro de Presença Comercial (RPC) não possui mecanismo de transmissão em
 Para incluir um Registro de Venda de Serviços (RVS) é preciso acessar o
 *menu* **RVS** e em seguida a opção **Incluir**.
 
-![](/media/novo_image25.png)
+![](/media/venda/novo_image25.png)
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda de seu Certificado Digital.
 
-![](/media/novo_image20.png)
+![](/media/venda/novo_image20.png)
 
 
 No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica deve informar o CPF ou CNPJ do vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [procuração eletrônica](#1.3) do representado.
 
-Na opção **Criar Novo RVS**, os campos a serem preenchidos estarão em branco. Para usar essa opção, selecione **Criar Novo RVS** e acione o botão ![](/media/novo_image24.png)
+Na opção **Criar Novo RVS**, os campos a serem preenchidos estarão em branco. Para usar essa opção, selecione **Criar Novo RVS** e acione o botão ![](/media/venda/novo_image24.png)
 
 
 Cada RVS destina-se a apenas um contrato de prestação de serviços₁₂.
@@ -1133,7 +1133,7 @@ a)  **Informar o Número do RVS:** selecionada esta opção, preencha o
     > graphic](/media/novo_image24.png)
     
 
-![](/media/novo_image23.png)
+![](/media/venda/novo_image23.png)
 
 
 b)  **Exibir Lista dos RVS Incluídos:** selecionada esta opção, acione o
@@ -1145,16 +1145,16 @@ b)  **Exibir Lista dos RVS Incluídos:** selecionada esta opção, acione o
     > graphic](/media/novo_image24.png)
     > à direita do RVS desejado.
 
-![](/media/novo_image26.png)
+![](/media/venda/novo_image26.png)
 
 
-![](/media/novo_image28.png)
+![](/media/venda/novo_image28.png)
 
 #### Opção de Atendimento à Legislação
 
 Em seguida, o Siscoserv apresenta a seguinte tela:
 
-![](/media/novo_image13.png)
+![](/media/venda/novo_image13.png)
 
 O usuário deve indicar que as informações objeto de registro serão prestadas em atendimento aos arts. 25 e 26 da Lei nº
 12.546, de 14 de dezembro de 2011, à Portaria MDIC nº
@@ -1176,7 +1176,7 @@ Em **Dados do Adquirente**, devem ser incluídos os dados do residente ou domici
 realizada com pessoa física, pessoa jurídica ou [ente despersonalizado](#ente_despersonalizado)
 [residente](#residente) ou domiciliado no Brasil.
 
-![](/media/novo_image15.png)
+![](/media/venda/novo_image15.png)
 
 
 #### Nome do Adquirente
@@ -1201,16 +1201,16 @@ obrigatório nos casos de países que adotam códigos de identificação fiscal.
 Caso não seja informado o **NIF**, deve-se selecionar uma das opções de
 **Motivo do não preenchimento**: **Dispensado do NIF** ou **País não exige NIF**.
 
-![](/media/novo_image16.png)
+![](/media/venda/novo_image16.png)
 
 Deve-se indicar se o adquirente é pessoa vinculada ao vendedor nos termos do [art. 23 da Lei 9.430 de dezembro de
 1996](http://www.planalto.gov.br/ccivil_03/LEIS/L9430.htm#art23).
 
-![](/media/novo_image5.png)
+![](/media/venda/novo_image5.png)
 
 Caso o adquirente seja pessoa vinculada ao vendedor, selecione o tipo de vinculação.
 
-![](/media/novo_image17.png)
+![](/media/venda/novo_image17.png)
 
 Acione **Avançar** para validar os dados e seguir para a próxima tela
 (**Dados do [Negócio](#negocio)**).
@@ -1276,16 +1276,16 @@ Caso o [negócio](#negocio) registrado envolva mais de uma moeda de recebimento,
 
 Durante o preenchimento do registro, caso haja mais de uma
 [operação](#operacao) inserida no RVS e o usuário deseje alterar a moeda, deve-se concluir a inclusão da operação e na próxima tela alterar a moeda na primeira operação registrada naquele RVS,
-acionando o botão ![](/media/novo_image14.png)
+acionando o botão ![](/media/venda/novo_image14.png)
 
 
-![](/media/novo_image4.png)
+![](/media/venda/novo_image4.png)
 
 
 A alteração da **Moeda** na primeira operação do registro altera a moeda das demais operações, inclusive das operações de aditivos. Entretanto,
 essa alteração não promove a conversão automática do valor em função da moeda alterada. Se for o caso, o usuário deve converter o valor de cada operação em função da nova moeda do registro.
 
-![](/media/novo_image30.png)
+![](/media/venda/novo_image30.png)
 
 #### [Modo de Prestação:](#8)
 
@@ -1337,24 +1337,24 @@ Só pode ser informado valor acima de 0,00 (zero).
 Para informar **Mecanismo de apoio/fomento** da operação, tal como previsto no [item 10](about:blank) do capítulo 1 deste Manual, marque "sim" à direita da pergunta: "A operação está amparada em mecanismo de apoio/fomento ao comércio exterior nos termos do art. 26 da Lei 12.546/2011?". O Sistema abrirá uma nova tela para inclusão do(s)
 mecanismo(s) de apoio.
 
-> ![](/media/novo_image12.png)
+> ![](/media/venda/novo_image12.png)
 > 
 
 
 Selecione o [Mecanismo de apoio/fomento](#10.1)
-desejado, no campo Enquadramento, e acione o botão ![](/media/novo_image3.png)
+desejado, no campo Enquadramento, e acione o botão ![](/media/venda/novo_image3.png)
 
 para adicioná-lo ao RVS.
 
-No caso de mecanismo vinculado a Registro de Operação de Crédito, tais como BNDES-EXIM e PROEX, preencher campo **Número do RC** com o respectivo número e acionar o botão ![](/media/novo_image10.png)
+No caso de mecanismo vinculado a Registro de Operação de Crédito, tais como BNDES-EXIM e PROEX, preencher campo **Número do RC** com o respectivo número e acionar o botão ![](/media/venda/novo_image10.png)
 para adicioná-lo ao RVS. Caso contrário,
-clique diretamente em ![](/media/novo_image10.png)
+clique diretamente em ![](/media/venda/novo_image10.png)
 .
 
-> ![](/media/novo_image46.jpg)
+> ![](/media/venda/novo_image46.jpg)
 > 
 
-Caso deseje excluir um enquadramento selecionado, o usuário deve acionar o botão ![](/media/novo_image6.png)
+Caso deseje excluir um enquadramento selecionado, o usuário deve acionar o botão ![](/media/venda/novo_image6.png)
 .
 
 Para maiores informações acerca da lista de enquadramentos disponíveis para seleção no Módulo Venda, veja o [item 10.1 do capítulo
@@ -1364,18 +1364,18 @@ Para maiores informações acerca da lista de enquadramentos disponíveis para s
 
 Deve ser indicado se a operação está vinculada à [movimentação temporária de bens](#movimentacao_temporaria_de_bens).
 
-![](/media/novo_image44.png)
+![](/media/venda/novo_image44.png)
 
 
 Se a operação estiver vinculada à movimentação temporária de bens,
 selecionar a opção **Sim**. Nesse caso, preencher os campos com o número da [Declaração de Importação (DI)](#declaracao_de_importacao) e/ou com o número da Declaração Única de Exportação (DU-E) ou do [Registro de Exportação (RE)  averbado, se o registro ainda tiver sido realizado no Siscomex.](#registro_de_exportacao)
 
 Para incluir mais de um número de DI ou de DU-E (ou RE), clique no ícone
-![](/media/novo_image10.png)
+![](/media/venda/novo_image10.png)
 .
 
 Para excluir número de DI ou de DU-E (ou RE), clique no ícone
-![](/media/novo_image6.png)
+![](/media/venda/novo_image6.png)
  à direita do número registrado.
 
 #### Inclusão de Operação no RVS
@@ -1384,17 +1384,17 @@ Após preenchimento dos campos **Código NBS / Descrição da NBS, Código do Pa
 **Modo de Prestação**, **Data de Início**, **Data de Conclusão**,
 **Valor** e, se for o caso, de **Mecanismo de apoio/fomento**, deve-se acionar o botão **Adicionar [Operação](#operacao)** para inclusão da operação no RVS.
 
-![](/media/novo_image45.png)
+![](/media/venda/novo_image45.png)
 
 
 Caso deseje incluir outra operação no mesmo RVS, clique em **Adicionar Operação.**
 
 Caso deseje alterar uma operação adicionada ao RVS, acione o botão
-![](/media/novo_image14.png)
+![](/media/venda/novo_image14.png)
 .
 
 Caso deseje excluir uma operação adicionada ao RVS, acione o botão
-![](/media/novo_image6.png)
+![](/media/venda/novo_image6.png)
 . A exclusão de uma operação só é possível antes da confirmação da inclusão do RVS.
 
 Após a confirmação da inclusão do RVS, os dados de uma operação somente poderão ser alterados por meio da função **[Retificar RVS](#2.1.2).**
@@ -1423,16 +1423,16 @@ Os casos de obrigatoriedade de preenchimento deste campo estão indicados nos se
 
 Acione **Avançar** para seguir para o próximo passo.
 
-![](/media/novo_image36.png)
+![](/media/venda/novo_image36.png)
 
 #### Resumo do RVS
 
 A tela **Resumo do RVS** traz as informações preenchidas pelo usuário para incluir o RVS.
 
-![](/media/novo_image37.png)
+![](/media/venda/novo_image37.png)
 
 
-![](/media/novo_image40.jpg)
+![](/media/venda/novo_image40.jpg)
 
 
 Os dados devem ser conferidos antes da inclusão do RVS.
@@ -1445,7 +1445,7 @@ Para que o RVS seja gerado, é preciso acionar o botão **Incluir**.
 
 O Sistema retornará mensagem de confirmação da inclusão dos dados no Siscoserv e apresentará o número de identificação do RVS.
 
-![](/media/novo_image32.png)
+![](/media/venda/novo_image32.png)
 
 Após a disponibilização do Número de Confirmação da inclusão do RVS, o registro está efetuado.
 
@@ -1479,30 +1479,30 @@ Após a inclusão do aditivo ao RVS, os dados de uma operação somente poderão
 
 Para incluir um Aditivo ao RVS, é preciso acessar o *menu* **Aditivo** e em seguida a opção **Incluir**.
 
-![](/media/novo_image48.png)
+![](/media/venda/novo_image48.png)
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda do Certificado Digital do usuário.
 
 No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do Vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [procuração eletrônica](#1.3) do representado.
 
-![](/media/novo_image29.png)
+![](/media/venda/novo_image29.png)
 
 Para incluir um aditivo a um registro, o usuário tem como opções:
 **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
 
-Selecionada a opção **Informar o Número do RVS,** preencha o campo com número de RVS que se deseja aditar e acione o botão ![](/media/novo_image8.png)
+Selecionada a opção **Informar o Número do RVS,** preencha o campo com número de RVS que se deseja aditar e acione o botão ![](/media/venda/novo_image8.png)
 
-![](/media/novo_image78.png)
+![](/media/venda/novo_image78.png)
 
 Selecionada a opção **Exibir Lista de RVS Incluídos,** acione o botão
-![](/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
+![](/media/venda/novo_image68.png). O Sistema exibe lista de RVS incluídos,
 
-do mais recente para o mais antigo. Acione o botão ![](/media/novo_image24.png), à direita do RVS desejado.
+do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RVS desejado.
 
 
-![](/media/novo_image33.png)
+![](/media/venda/novo_image33.png)
 
-![](/media/novo_image31.png)
+![](/media/venda/novo_image31.png)
 
 Após selecionar o RVS que deseja aditar, siga os passos descritos a partir do tópico "Dados do Negócio" no item 2.1. -- Passos para incluir o RVS.
 
@@ -1514,14 +1514,14 @@ Após conferir os dados na tela **Resumo do RVS**, acione o botão
 
 O Sistema retornará mensagem de confirmação da inclusão dos dados no Siscoserv e apresentará número do aditivo ao RVS.
 
-![](/media/novo_image72.png)
+![](/media/venda/novo_image72.png)
 
 **Após a inclusão de um Aditivo ao RVS não é possível o seu cancelamento, admitindo-se apenas retificações.**
 
 Cabe ressaltar ainda que os registros inseridos a partir de um arquivo de lote não podem ser editados (retificados, aditados, etc.)
 manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apresentará a seguinte tela:
 
-![](/media/novo_image86.png)
+![](/media/venda/novo_image86.png)
 
 
 
@@ -1534,7 +1534,7 @@ utilize a função [Inclusão de Aditivo](#2.1.1) ao RVS.
 Para retificar um RVS é preciso acessar o *menu* **RVS** e em seguida
 **Retificar**.
 
-![](/media/novo_image93.png)
+![](/media/venda/novo_image93.png)
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda do Certificado Digital do usuário.
 
@@ -1542,23 +1542,23 @@ No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pesso
 
 Para retificar um RVS, o usuário tem como opções: **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
 
-Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número de RVS que se deseja retificar e acione o botão ![](/media/novo_image8.png).
+Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número de RVS que se deseja retificar e acione o botão ![](/media/venda/novo_image8.png).
 
-![](/media/novo_image77.png)
+![](/media/venda/novo_image77.png)
 
 Selecionada a opção **Exibir Lista de RVS Incluídos,** acione o botão
-![](/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
-do mais recente para o mais antigo. Acione o botão ![](/media/novo_image24.png), à direita do RVS desejado.
+![](/media/venda/novo_image68.png). O Sistema exibe lista de RVS incluídos,
+do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RVS desejado.
 
-![](/media/novo_image79.png)
+![](/media/venda/novo_image79.png)
 
-![](/media/novo_image67.png)
+![](/media/venda/novo_image67.png)
 
 Após selecionar o RVS que deseja retificar, siga os passos descritos no tópico [**2.1 - Inclusão do RVS**](#2.1).
 
 Após conferir os dados retificados na tela **Resumo do RVS**, acione o botão **Incluir** para retificar o RVS. O Sistema retornará mensagem de confirmação de retificação dos dados no Siscoserv.
 
-![](/media/novo_image71.png)
+![](/media/venda/novo_image71.png)
 
 Os RVS podem ter todos os campos retificados antes da inclusão de
 **Faturamento** da [operação](#operacao). Após o faturamento da operação não podem ser retificados os campos **Código NBS** e
@@ -1605,7 +1605,7 @@ Nesses casos, o usuário deve obrigatoriamente justificar a referida retificaç�
 Cabe ressaltar ainda que os registros inseridos a partir de um arquivo de lote não podem ser editados (retificados, aditados, etc.)
 manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apresentará a seguinte tela:
 
-![](/media/novo_image86.png)
+![](/media/venda/novo_image86.png)
 
 Não pode ser incluída nova operação por meio de retificação. Para incluir uma nova operação em um RVS já incluído, utilize a função
 [**Inclusão de Aditivo ao RVS** ](#2.1.1).
@@ -1618,7 +1618,7 @@ O aditivo ao RVS não pode ser cancelado, cabendo apenas retificações.
 Para retificar um aditivo ao RVS é preciso acessar o *menu* **Aditivo**
 e em seguida **Retificar**.
 
-![](/media/novo_image55.png)
+![](/media/venda/novo_image55.png)
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda do Certificado Digital do usuário.
 
@@ -1626,32 +1626,32 @@ No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pesso
 
 Para retificar um Aditivo ao RVS, o usuário tem como opções: **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
 
-Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número de RVS que se deseja retificar. Informe o número do aditivo que se deseja retificar e acione o botão ![](/media/novo_image8.png).
+Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número de RVS que se deseja retificar. Informe o número do aditivo que se deseja retificar e acione o botão ![](/media/venda/novo_image8.png).
 
-![](/media/novo_image63.png)
+![](/media/venda/novo_image63.png)
 
-Selecionada a opção **Exibir Lista de RVS Incluídos,** informe o número do aditivo que se deseja retificar e acione o botão ![](/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
-do mais recente para o mais antigo. Acione o botão ![](/media/novo_image24.png), à direita do RVS desejado.
+Selecionada a opção **Exibir Lista de RVS Incluídos,** informe o número do aditivo que se deseja retificar e acione o botão ![](/media/venda/novo_image68.png). O Sistema exibe lista de RVS incluídos,
+do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RVS desejado.
 
-![](/media/novo_image61.png)
+![](/media/venda/novo_image61.png)
 
-![](/media/novo_image64.png)
+![](/media/venda/novo_image64.png)
 
 Após selecionar o RVS cujo aditivo se deseja retificar, o Sistema mostra a tela [**Dados do Negócio**](#dados_negocio) do RVS selecionado, indicando as [operações](#operacao) cadastradas no registro original e todos os termos aditivos. Há dois tipos de
 ícones: Visualizar -
-![](/media/novo_image50.png) e Alterar -
-![](/media/novo_image58.png). O ícone para alterar aparece apenas ao lado do aditivo que se deseja retificar, informado na tela anterior.
+![](/media/venda/novo_image50.png) e Alterar -
+![](/media/venda/novo_image58.png). O ícone para alterar aparece apenas ao lado do aditivo que se deseja retificar, informado na tela anterior.
 
-![](/media/novo_image53.png)
+![](/media/venda/novo_image53.png)
 
 Ao clicar no ícone
-![](/media/novo_image58.png) o Sistema mostra a tela [**Dados do Negócio**](#dados_negocio) do aditivo que se deseja retificar. O usuário deve efetuar o preenchimento, seguindo os passos descritos no tópico **[2.1.2 do Capítulo 2 deste Manual](#2.1.2) --
+![](/media/venda/novo_image58.png) o Sistema mostra a tela [**Dados do Negócio**](#dados_negocio) do aditivo que se deseja retificar. O usuário deve efetuar o preenchimento, seguindo os passos descritos no tópico **[2.1.2 do Capítulo 2 deste Manual](#2.1.2) --
 Retificação do RVS.**
 
 Após conferir os dados retificados na tela **Resumo do RVS**, acione o botão **Incluir** para retificar o aditivo ao RVS. O Sistema retornará
 mensagem de confirmação de retificação do aditivo.
 
-![](/media/novo_image90.png)
+![](/media/venda/novo_image90.png)
 
 Os aditivos ao RVS podem ter todos os campos retificados antes da inclusão do **RF** da [operação](#operacao). Após o faturamento da operação, não podem ser retificados os campos **Código NBS** e **Moeda**. Em caso de erro de preenchimento nestes campos para as operações já faturadas, proceder previamente ao cancelamento do RF conforme o [item 2.2.2](#2.2.2).
 
@@ -1689,7 +1689,7 @@ Nesses casos, o usuário deve obrigatoriamente justificar a referida retificaç�
 Cabe ressaltar ainda que os registros inseridos a partir de um arquivo de lote não podem ser editados (retificados, aditados, etc.)
 manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apresentará a seguinte tela:
 
-![](/media/novo_image86.png)
+![](/media/venda/novo_image86.png)
 
 
 #### 2.1.4. Consulta ao RVS ou ao Aditivo ao RVS
@@ -1699,12 +1699,12 @@ Esta função permite efetuar consulta a dados dos RVS no Sistema.
 Para consultar um RVS é preciso acessar o *menu* **RVS** e em seguida
 **Consultar**.
 
-![](/media/novo_image104.png)
+![](/media/venda/novo_image104.png)
 
 Para consultar um aditivo ao RVS é preciso acessar o *menu* **Aditivo**
 e em seguida **Consultar**.
 
-![](/media/novo_image98.png)
+![](/media/venda/novo_image98.png)
 
 Ao clicar o botão **Consultar**, o campo CPF do usuário é preenchido automaticamente pelo Sistema com informação advinda do Certificado Digital do usuário.
 
@@ -1713,31 +1713,31 @@ No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pesso
 Para consultar um RVS ou um Aditivo ao RVS, o usuário tem como opções:
 **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
 
-Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número do RVS que se deseja consultar e acione o botão ![](/media/novo_image8.png).
+Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número do RVS que se deseja consultar e acione o botão ![](/media/venda/novo_image8.png).
 
-![](/media/novo_image125.png)
+![](/media/venda/novo_image125.png)
 
 Selecionada a opção **Exibir Lista de RVS Incluídos,** acione o botão
-![](/media/novo_image68.png). O Sistema exibe lista de RVS incluídos,
-do mais recente para o mais antigo. Acione o botão ![](/media/novo_image24.png), à direita do RVS desejado.
+![](/media/venda/novo_image68.png). O Sistema exibe lista de RVS incluídos,
+do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RVS desejado.
 
-![](/media/novo_image124.png)
+![](/media/venda/novo_image124.png)
 
-![](/media/novo_image127.png)
+![](/media/venda/novo_image127.png)
 
 Após selecionar o RVS que deseja consultar, o Sistema apresenta a tela
 **Resumo do RVS** a seguir, que inclui todos os dados do RVS e dos seus aditivos, se for o caso.
 
-![](/media/novo_image136.jpg)
+![](/media/venda/novo_image136.jpg)
 
-![](/media/novo_image40.jpg)
+![](/media/venda/novo_image40.jpg)
 
 ### 2.2. Inclusão do RF
 
 A partir do **Módulo Venda**, no *menu* **RF**, há 3 funções:
 **Incluir**, **Cancelar** e **Consultar**.
 
-![](/media/novo_image115.png)
+![](/media/venda/novo_image115.png)
 
 Para incluir um RF é preciso acessar o *menu* **RF** e em seguida a opção **Incluir**.
 
@@ -1745,17 +1745,17 @@ O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com infor
 
 Em seguida, o Sistema disponibiliza duas opções para registro do faturamento: **Informar o Número do RVS** ou **Pesquisar pelo CPF/CNPJ do Vendedor**.
 
-![](/media/novo_image114.png)
+![](/media/venda/novo_image114.png)
 
-Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número do RVS que se deseja incluir o RF e acione o botão ![](/media/novo_image8.png).
+Selecionada a opção **Informar o Número do RVS,** preencha o campo com o número do RVS que se deseja incluir o RF e acione o botão ![](/media/venda/novo_image8.png).
 
-![](/media/novo_image112.png)
+![](/media/venda/novo_image112.png)
 
-Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CNPJ do Vendedor, ainda que seja o mesmo CPF do usuário, acione o botão ![](/media/novo_image68.png)
- para ser disponibilizada a relação de todos os RVS previamente incluídos. Na lista de RVS exibida, acione o botão ![](/media/novo_image8.png). O Sistema abrirá a tela
+Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CNPJ do Vendedor, ainda que seja o mesmo CPF do usuário, acione o botão ![](/media/venda/novo_image68.png)
+ para ser disponibilizada a relação de todos os RVS previamente incluídos. Na lista de RVS exibida, acione o botão ![](/media/venda/novo_image8.png). O Sistema abrirá a tela
 **[Operações](#operacao) a Faturar**, sendo possível visualizar o **Valor da Operação** e **Saldo a Faturar** para cada operação, referente ao RVS selecionado **.**
 
-![](/media/novo_image84.png)
+![](/media/venda/novo_image84.png)
 
 > **[Operações](#operacao) a Faturar**
 >
@@ -1780,12 +1780,12 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 >    ao lado da operação desejada para incluir
 >    novos dados;
 
-![](/media/novo_image87.png)
+![](/media/venda/novo_image87.png)
 
-![](/media/novo_image83.png)
+![](/media/venda/novo_image83.png)
 
 > e\) antes da inclusão do RF, caso seja detectado erro de preenchimento,
-> clicar no ícone ![](/media/novo_image8.png)
+> clicar no ícone ![](/media/venda/novo_image8.png)
 > à direita para corrigi-lo, procedendo
 > conforme descrito acima. Para excluí-lo, clicar no ícone <img src="/media/novo_image6.png">
 > à esquerda do campo;
@@ -1804,7 +1804,7 @@ Todas as retificações de valor no RVS realizadas após o primeiro RF devem ser
 No quadro **Selecione a Operação a Faturar** serão apresentados o
 **Valor da Operação** e o **Saldo a Faturar.**
 
-Quando a operação estiver totalmente faturada, o ícone ![](/media/novo_image8.png) à direita, no quadro **Selecione a Operação a Faturar**, deixa de aparecer **.**
+Quando a operação estiver totalmente faturada, o ícone ![](/media/venda/novo_image8.png) à direita, no quadro **Selecione a Operação a Faturar**, deixa de aparecer **.**
 
 Na inclusão do RF, o Sistema calcula e exibe o **Valor Total do RF**.
 
@@ -1816,11 +1816,11 @@ Na inclusão do RF, o Sistema calcula e exibe o **Valor Total do RF**.
 >
 > 2 - clicar no botão **Incluir**, para finalizar o registro.
 
-![](/media/novo_image59.jpg)
+![](/media/venda/novo_image59.jpg)
 
 O Sistema confirmará o recebimento dos dados e gerará um número próprio para o RF.
 
-![](/media/novo_image99.png)
+![](/media/venda/novo_image99.png)
 
 
 #### 2.2.1. Retificação do RF
@@ -1830,7 +1830,7 @@ Esta função permite ao usuário retificar um RF.
 Para retificar um RF é preciso acessar o *menu* **RF** e em seguida
 **Retificar**.
 
-![](/media/novo_image92.png)
+![](/media/venda/novo_image92.png)
 
 Ao selecionar o comando **Retificar**, o campo **CPF do Usuário** é
 preenchido automaticamente pelo Sistema com informação advinda do Certificado Digital do usuário.
@@ -1838,20 +1838,20 @@ preenchido automaticamente pelo Sistema com informação advinda do Certificado 
 Em seguida, o Sistema disponibiliza duas opções para retificação do RF:
 **Pesquisar pelo Número do RVS** ou **Pesquisar pelo CPF/CNPJ do Vendedor**.
 
-![](/media/novo_image94.png)
+![](/media/venda/novo_image94.png)
 
 Selecionada a opção **Pesquisar pelo Número do RVS,** preencha o campo com o número do RVS cujo RF se deseja retificar e acione o botão
-![](/media/novo_image68.png). Clique no botão ![](/media/novo_image8.png) à direita do RF a ser retificado.
+![](/media/venda/novo_image68.png). Clique no botão ![](/media/venda/novo_image8.png) à direita do RF a ser retificado.
 
-![](/media/novo_image100.png)
+![](/media/venda/novo_image100.png)
 
-![](/media/novo_image91.png)
+![](/media/venda/novo_image91.png)
 
-Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CNPJ do vendedor, ainda que seja o mesmo CPF do usuário. Acione o botão ![](/media/novo_image68.png) para ser disponibilizada a relação de todos os RF previamente incluídos. Na lista de RF exibida, acione o botão ![](/media/novo_image8.png) à direita do RF a ser retificado.
+Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CNPJ do vendedor, ainda que seja o mesmo CPF do usuário. Acione o botão ![](/media/venda/novo_image68.png) para ser disponibilizada a relação de todos os RF previamente incluídos. Na lista de RF exibida, acione o botão ![](/media/venda/novo_image8.png) à direita do RF a ser retificado.
 
-![](/media/novo_image66.png)
+![](/media/venda/novo_image66.png)
 
-![](/media/novo_image76.png)
+![](/media/venda/novo_image76.png)
 
 Após selecionar o RF que se deseja retificar, o Sistema mostra a tela
 **Resumo do RF**. Os **Dados do RF** indicam as
@@ -1864,29 +1864,29 @@ Nessa tela, o usuário poderá:
 > 2 - retificar uma ou mais operações, clicando no botão **Retificar
 > Esta Operação.**
 
-![](/media/novo_image73.png)
+![](/media/venda/novo_image73.png)
 
 Caso o usuário deseje retificar somente o **Número da NF de Serviço ou Documento Equivalente**, basta editar o número no campo correspondente e, em seguida, clicar no botão **Confirmar Retificação**.
 
-![](/media/novo_image56.png)
+![](/media/venda/novo_image56.png)
 
 Caso deseje retificar os dados do RF em uma operação, clique no botão
 **Retificar Esta Operação**.
 
-![](/media/novo_image57.png)
+![](/media/venda/novo_image57.png)
 
 Em seguida o Sistema apresenta a tela de **Retificar dados** **do RF** e o usuário pode alterar a Data, o Valor Faturado e o Valor Faturado Mantido no Exterior.
 
-![](/media/novo_image60.png)
+![](/media/venda/novo_image60.png)
 
 Para confirmar a alteração dos dados, clique no botão **Retificar Dados** e, na tela seguinte, clique em **Confirmar Retificação**. Caso contrário, clique em **Cancelar**.
 
-![](/media/novo_image62.png)
+![](/media/venda/novo_image62.png)
 
 Após o usuário clicar em **Confirmar Retificação**, o Sistema confirmará
 a retificação dos dados do RF.
 
-![](/media/novo_image52.png)
+![](/media/venda/novo_image52.png)
 
 
 #### 2.2.2. Cancelamento do RF
@@ -1902,7 +1902,7 @@ O RF pode ser cancelado nas seguintes hipóteses:
 Para cancelar um RF é preciso acessar o *menu* **RF** e em seguida
 **Cancelar**.
 
-![](/media/novo_image51.png)
+![](/media/venda/novo_image51.png)
 
 Ao selecionar o comando **Cancelar**, o campo **CPF do Usuário** é
 preenchido automaticamente pelo Sistema com informação advinda do Certificado Digital do usuário.
@@ -1910,31 +1910,31 @@ preenchido automaticamente pelo Sistema com informação advinda do Certificado 
 Em seguida, o Sistema disponibiliza duas opções para cancelamento do RF:
 **Pesquisar pelo Número do RVS** ou **Pesquisar pelo CPF/CNPJ do Vendedor**.
 
-![](/media/novo_image54.png)
+![](/media/venda/novo_image54.png)
 
 Selecionada a opção **Pesquisar pelo Número do RVS,** preencha o campo com o número do RVS cujo RF se deseja cancelar e acione o botão
-![](/media/novo_image68.png). Clique no ícone
-![](/media/novo_image6.png) à direita do respectivo **Número do RF** a ser cancelado. Confirme o cancelamento do RF clicando no botão **OK** na caixa de mensagem.
+![](/media/venda/novo_image68.png). Clique no ícone
+![](/media/venda/novo_image6.png) à direita do respectivo **Número do RF** a ser cancelado. Confirme o cancelamento do RF clicando no botão **OK** na caixa de mensagem.
 
-![](/media/novo_image81.png)
+![](/media/venda/novo_image81.png)
 
-Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CNPJ do vendedor, ainda que seja o mesmo CPF do usuário. Acione o botão ![](/media/novo_image68.png) para ser disponibilizada a relação de todos os RF previamente incluídos. Na lista de RF exibida, acione o botão ![](/media/novo_image6.png). *C*onfirme o cancelamento do RF clicando no botão OK na caixa de mensagem.
+Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CNPJ do vendedor, ainda que seja o mesmo CPF do usuário. Acione o botão ![](/media/venda/novo_image68.png) para ser disponibilizada a relação de todos os RF previamente incluídos. Na lista de RF exibida, acione o botão ![](/media/venda/novo_image6.png). *C*onfirme o cancelamento do RF clicando no botão OK na caixa de mensagem.
 
-![](/media/novo_image70.png)
+![](/media/venda/novo_image70.png)
 
-![](/media/novo_image74.png)
+![](/media/venda/novo_image74.png)
 
-![](/media/novo_image75.png)
+![](/media/venda/novo_image75.png)
 
 Em seguida o Sistema apresenta a tela de **Confirmação de Cancelamento**
 do RF:
 
-![](/media/novo_image65.png)
+![](/media/venda/novo_image65.png)
 
 Caso o usuário acesse novamente o *menu* **RF \> Cancelar**, observará a
-**Data de Cancelamento** ao lado da **Data de Inclusão** e o desaparecimento do ícone ![](/media/novo_image6.png) para o RF cancelado.
+**Data de Cancelamento** ao lado da **Data de Inclusão** e o desaparecimento do ícone ![](/media/venda/novo_image6.png) para o RF cancelado.
 
-![](/media/novo_image43.png)
+![](/media/venda/novo_image43.png)
 
 
 #### 2.2.3. Consulta ao RF
@@ -1944,33 +1944,33 @@ Esta função permite efetuar consulta a dados dos RFs no Sistema.
 Para consultar um RF é preciso acessar o *menu* **RF** e em seguida
 **Consultar**.
 
-![](/media/novo_image42.png)
+![](/media/venda/novo_image42.png)
 
 Ao clicar o botão **Consultar**, o campo CPF do usuário é preenchido automaticamente pelo Sistema com informação advinda do Certificado Digital do usuário.
 
 Em seguida, o Sistema disponibiliza duas opções para consultar RF:
 **Pesquisar pelo Número do RVS** ou **Pesquisar pelo CPF/CNPJ do Vendedor**.
 
-![](/media/novo_image38.png)
+![](/media/venda/novo_image38.png)
 
-Se o usuário selecionar a opção **Pesquisar pelo Número do RVS,** deve preencher o campo com o número do RVS cujo RF se deseja consultar e acione o botão ![](/media/novo_image68.png). Clique no ícone ![](/media/novo_image8.png) à direita do respectivo **Número do RF**
+Se o usuário selecionar a opção **Pesquisar pelo Número do RVS,** deve preencher o campo com o número do RVS cujo RF se deseja consultar e acione o botão ![](/media/venda/novo_image68.png). Clique no ícone ![](/media/venda/novo_image8.png) à direita do respectivo **Número do RF**
 a ser consultado. Em seguida é exibida a tela **Resumo do RF**.
 
-![](/media/novo_image35.png)
+![](/media/venda/novo_image35.png)
 
 Se o usuário selecionar a opção **Pesquisar pelo CPF/CNPJ do Vendedor**,
-deve preencher o CPF/CNPJ do vendedor, ainda que seja o mesmo CPF do usuário. Acione o botão ![](/media/novo_image68.png) para ser disponibilizada a relação de todos os RF previamente incluídos.
+deve preencher o CPF/CNPJ do vendedor, ainda que seja o mesmo CPF do usuário. Acione o botão ![](/media/venda/novo_image68.png) para ser disponibilizada a relação de todos os RF previamente incluídos.
 
-![](/media/novo_image34.png)
+![](/media/venda/novo_image34.png)
 
-Clique no ícone ![](/media/novo_image8.png) à direita do respectivo **Número do RF**
+Clique no ícone ![](/media/venda/novo_image8.png) à direita do respectivo **Número do RF**
 a ser consultado.
 
-![](/media/novo_image27.png)
+![](/media/venda/novo_image27.png)
 
 Em seguida, é exibida a tela **Resumo do RF**.
 
-![](/media/novo_image59.jpg)
+![](/media/venda/novo_image59.jpg)
 
 
 ### 2.3. Registro de Presença Comercial no Exterior (RPC)
@@ -1980,7 +1980,7 @@ Em seguida, é exibida a tela **Resumo do RF**.
 Para incluir um **Registro de Presença Comercial no Exterior (RPC)** é
 preciso acessar o *menu* operações e escolher a opção **RPC** e em seguida a opção **Incluir**.
 
-![](/media/novo_image11.png)
+![](/media/venda/novo_image11.png)
 
 O campo CPF do Usuário é preenchido automaticamente pelo Sistema com informação advinda de seu Certificado Digital.
 
@@ -1990,21 +1990,21 @@ sucursal e controlada no exterior. Para atuar como representante legal de pessoa
 Para iniciar a inclusão do registro, há duas opções: **Criar Novo RPC**
 ou **Aproveitar Dados de RPC Incluído**.
 
-![](/media/novo_image47.png)
+![](/media/venda/novo_image47.png)
 
-Na opção **Criar Novo RPC**, os campos a serem preenchidos estarão em branco. Para usar essa opção, selecione **Criar Novo RPC** e acione o botão ![](/media/novo_image24.png).
+Na opção **Criar Novo RPC**, os campos a serem preenchidos estarão em branco. Para usar essa opção, selecione **Criar Novo RPC** e acione o botão ![](/media/venda/novo_image24.png).
 
 Na opção **Aproveitar Dados de RPC Incluído** o Sistema permite a seleção de um RPC existente, cujos dados serão recuperados para a inclusão de um novo RPC.
 
-![](/media/novo_image49.png)
+![](/media/venda/novo_image49.png)
 
 Para usar essa opção, selecione Aproveitar Dados de RPC Incluído. O Sistema apresenta as seguintes opções:
 
 a\) **Informar o Número do RPC:** selecionada esta opção, preencha o campo com número de RPC do qual se deseja aproveitar os dados e acione o botão ![Descrição: Descrição: Descrição:
 graphic](/media/novo_image24.png).
 
-**b) Exibir Lista dos RPC Incluídos:** selecionada esta opção, acione o botão ![](/media/novo_image21.png).O Sistema exibe lista de RPC incluídos,
-do mais recente para o mais antigo. Acione o botão ![](/media/novo_image24.png), à direita do RPC desejado.
+**b) Exibir Lista dos RPC Incluídos:** selecionada esta opção, acione o botão ![](/media/venda/novo_image21.png).O Sistema exibe lista de RPC incluídos,
+do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RPC desejado.
 
 #### Opção de Atendimento à Legislação
 
@@ -2024,7 +2024,7 @@ legislação** no *menu* lateral esquerdo na tela de **Resumo**.
 
 #### 1. Dados da Presença Comercial no Exterior
 
-![](/media/novo_image41.png)
+![](/media/venda/novo_image41.png)
 
 **Dados da Presença Comercial no Exterior**  
 Em Dados da Presença Comercial no Exterior, devem ser incluídos os dados da filial, sucursal ou controlada domiciliada no exterior, relacionada à
@@ -2133,12 +2133,12 @@ Deve ser especificado o valor faturado da [operação](#operacao) amparada em **
 O Sistema exibirá lista de mecanismos de apoio/fomento disponíveis para seleção. Para maiores informações, inclusive sobre os mecanismos disponíveis, veja o [item 10.2 no capítulo 1](#10.2).
 
 Selecione o mecanismo de apoio/fomento utilizado e clique em
-![](/media/novo_image10.png) para adicioná-lo ao RPC. Para adicionar outro mecanismo de apoio/fomento referente à mesma operação, selecione o mecanismo e clique em ![](/media/novo_image10.png). Esse procedimento deve ser repetido para cada mecanismo a ser adicionado em uma mesma operação.
+![](/media/venda/novo_image10.png) para adicioná-lo ao RPC. Para adicionar outro mecanismo de apoio/fomento referente à mesma operação, selecione o mecanismo e clique em ![](/media/venda/novo_image10.png). Esse procedimento deve ser repetido para cada mecanismo a ser adicionado em uma mesma operação.
 
-No caso de mecanismo vinculado a Registro de Operação de Crédito, tais como BNDES-EXIM e PROEX, preencha campo **Número do RC** com o respectivo número e acione o botão ![](/media/novo_image10.png) para adicioná-lo ao RPC. Caso contrário,
-deve-se clicar diretamente em ![](/media/novo_image10.png).
+No caso de mecanismo vinculado a Registro de Operação de Crédito, tais como BNDES-EXIM e PROEX, preencha campo **Número do RC** com o respectivo número e acione o botão ![](/media/venda/novo_image10.png) para adicioná-lo ao RPC. Caso contrário,
+deve-se clicar diretamente em ![](/media/venda/novo_image10.png).
 
-Para excluir um enquadramento selecionado, acione o botão ![](/media/novo_image6.png).
+Para excluir um enquadramento selecionado, acione o botão ![](/media/venda/novo_image6.png).
 
 Após incluir o(s) mecanismo(s) de apoio, clique em **Adicionar Operação**.
 
@@ -2170,24 +2170,24 @@ Convém manter controle dos números de RPC incluídos no Siscoserv, para facili
 Para retificar um RPC é preciso acessar o *menu* **RPC** e em seguida
 **Retificar**.
 
-![](/media/novo_image11.png)
+![](/media/venda/novo_image11.png)
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda de seu Certificado Digital.
 
 No campo **CNPJ da Domiciliada no Brasil**, o usuário representante legal deve informar o CNPJ da domiciliada no Brasil que possui filial,
 sucursal e controlada no exterior. Para atuar como representante legal de pessoa jurídica, o usuário deve possuir [procuração eletrônica](#1.3) da pessoa jurídica representada.
 
-![](/media/novo_image7.png)
+![](/media/venda/novo_image7.png)
 
 Para retificar um RPC, o usuário tem como opções: **Informar o Número do RPC** ou **Exibir Lista de RPC Incluídos**.
 
-Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser retificado e acionado o botão ![](/media/novo_image8.png).
+Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser retificado e acionado o botão ![](/media/venda/novo_image8.png).
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![
 ](/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
-do mais recente para o mais antigo. Acione o botão ![](/media/novo_image24.png), à direita do RPC a ser retificado.
+do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RPC a ser retificado.
 
-do mais recente para o mais antigo. Acione o botão ![](/media/novo_image24.png), à direita do RPC a ser retificado.
+do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RPC a ser retificado.
 
 Selecionado o RPC a ser retificado, siga os passos descritos no tópico
 [**2.3.1 - Inclusão do RPC.**](#2.3.1)
@@ -2209,7 +2209,7 @@ b) caso a presença comercial tenha sido informada em duplicidade.
 Para cancelar um RPC é preciso acessar o *menu* **RPC** e em seguida
 **Cancelar**.
 
-![](/media/novo_image11.png)
+![](/media/venda/novo_image11.png)
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda de seu Certificado Digital.
 
@@ -2218,12 +2218,12 @@ sucursal e controlada no exterior. Para atuar como representante legal de pessoa
 
 Para cancelar um RPC, o usuário tem como opções: **Informar o Número do RPC** ou **Exibir Lista de RPC Incluídos**.
 
-Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser cancelado e acionado o botão ![](/media/novo_image8.png).
+Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser cancelado e acionado o botão ![](/media/venda/novo_image8.png).
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![
 ](/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
-do mais recente para o mais antigo. Acione o botão ![](/media/novo_image24.png), à direita do RPC a ser cancelado.
-do mais recente para o mais antigo. Acione o botão ![](/media/novo_image24.png), à direita do RPC a ser cancelado.
+do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RPC a ser cancelado.
+do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RPC a ser cancelado.
 
 
 Após selecionar o RPC que deseja cancelar, o Sistema apresenta a tela
@@ -2240,7 +2240,7 @@ Esta função permite efetuar consulta a dados dos RPC no Sistema.
 Para consultar um RPC é preciso acessar o *menu* **RPC** e em seguida
 **Consultar**.
 
-![](/media/novo_image11.png)
+![](/media/venda/novo_image11.png)
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda de seu Certificado Digital.
 
@@ -2249,12 +2249,12 @@ sucursal e controlada no exterior. Para atuar como representante legal de pessoa
 
 Para consultar um RPC, o usuário tem como opções: **Informar o Número do RPC** ou **Exibir Lista de RPC Incluídos**.
 
-Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser consultado e acionado o botão ![](/media/novo_image8.png).
+Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser consultado e acionado o botão ![](/media/venda/novo_image8.png).
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![
 ](/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
-do mais recente para o mais antigo. Acione o botão ![](/media/novo_image24.png), à direita do RPC a ser consultado.
-do mais recente para o mais antigo. Acione o botão ![](/media/novo_image24.png), à direita do RPC a ser consultado.
+do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RPC a ser consultado.
+do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RPC a ser consultado.
 
 
 Após selecionar o RPC que deseja consultar, o Sistema apresenta a tela
@@ -2343,7 +2343,7 @@ Durante o processamento noturno dos lotes, o Sistema analisará os dados enviado
 
 Um arquivo de lote pode receber seis *status* diferentes:
 
-![](/media/novo_image18.png)
+![](/media/venda/novo_image18.png)
 
 >1)  **EP** -- **Em Processamento**: o lote foi recebido pelo Sistema e pelo menos um dos arquivos de dados que o compõem passou pela validação de formato (veja [Processamento dos Arquivos de Lote](#1ulbmlt)). Os arquivos de dados serão processados pelo Siscoserv que verificará se as informações estão de acordo com suas regras de negócio.
 
@@ -2351,38 +2351,38 @@ Um arquivo de lote pode receber seis *status* diferentes:
 
 >2)  **PS** -- **Processado com Sucesso**: o lote foi recebido e processado. Todas as operações representadas pelos arquivos de dados são efetivadas. Os arquivos de dados que estavam com *status* EP passam para o *status* PS. O Sistema apresenta o número do RVS incluído, retificado, aditado, etc.
 
-![](/media/novo_image152.png)
+![](/media/venda/novo_image152.png)
 
 >3)  **PR** -- **Processado com Ressalva**: o lote foi recebido e processado, mas há pelo menos um arquivo do lote que apresentou um ou mais erros em relação às regras do Siscoserv. O registro do arquivo que apresentar erro não será efetivado, podendo apresentar
  *status* NR ou FA, devido a erro de formato ou de regra de negócio, respectivamente.
 
-![](/media/novo_image139.png)
+![](/media/venda/novo_image139.png)
 
 >4)  **FA** -- **Falha**: o lote foi recebido e processado, porém todos os arquivos de dados que o compõem apresentaram pelo menos um erro em relação às regras de negócio do Siscoserv. As operações representadas pelos arquivos de dados não são efetivadas e todos os arquivos de dados deste lote que estavam com *status* EP passam para o *status* FA.
 
-![](/media/novo_image167.png)
+![](/media/venda/novo_image167.png)
 
 >5)  **NR** -- **Não Recebido**: todos os arquivos de dados enviados no lote apresentaram erros de formato e *status* NR.
 
-![](/media/novo_image144.png)
+![](/media/venda/novo_image144.png)
 
 >6)  **EX** -- **Excluído**: o lote foi recebido pelo Sistema e pelo menos um dos arquivos de dados apresentou *status* EP, porém o usuário optou por cancelar o seu processamento. Todos os arquivos de dados que estavam com *status* EP passarão para o *status* EX.
 
-![](/media/novo_image134.png)
+![](/media/venda/novo_image134.png)
 
 
 ### 3.1. Procedimentos para envio do arquivo de lote
 
 Para efetuar a transmissão em lote o usuário deve [acessar o Siscoserv](#1.1) e clicar na aba **Transmissão em Lote**.
 
-![](/media/novo_image135.png)
+![](/media/venda/novo_image135.png)
 
 Em seguida, selecionar o tipo de informação que será prestada: **Incluir RVS, Retificar RVS, Incluir Aditivo, Retificar Aditivo, Incluir RF,
 Retificar RF ou Cancelar RF**.
 
 Após selecionar uma das opções do *menu* **Transmissão em Lote**, o Sistema apresentará a tela para que se informe o CPF/CNPJ do Vendedor ou se o usuário é o próprio vendedor. Na parte superior o sistema informa a opção selecionada.
 
-![](/media/novo_image143.png)
+![](/media/venda/novo_image143.png)
 
 **Opção de Atendimento à Legislação**
 
@@ -2391,26 +2391,26 @@ O usuário deve informar a opção de atendimento à legislação apenas quando 
 "Desejo manter essa decisão". Após marcar essa opção, a tela não será
 exibida novamente em futuros preenchimentos, que assumirão a última opção selecionada.
 
-![](/media/novo_image140.png)
+![](/media/venda/novo_image140.png)
 
 A decisão pode ser revista pelo usuário clicando em **Atendimento à
 Legislação** no *menu* lateral esquerdo quando for **Incluir RVS** ou
 **Retificar RVS**.
 
-![](/media/novo_image132.png)
+![](/media/venda/novo_image132.png)
 
 Após clicar em **Avançar** o sistema apresentará a seguinte tela:
 
-![](/media/novo_image128.png)
+![](/media/venda/novo_image128.png)
 
-O usuário, então, deve clicar em **Escolher arquivo**, localizar o arquivo de lote que deseja transmitir e clicar no botão ![](/media/novo_image101.png).
+O usuário, então, deve clicar em **Escolher arquivo**, localizar o arquivo de lote que deseja transmitir e clicar no botão ![](/media/venda/novo_image101.png).
 
-![](/media/novo_image141.png)
+![](/media/venda/novo_image141.png)
 
 O sistema informará o número do protocolo de envio do lote e apresentará
 o detalhamento do lote ao enumerar todos os arquivos de dados que o compõem com seus respectivos *status*.
 
-![](/media/novo_image122.png)
+![](/media/venda/novo_image122.png)
 
 O campo **Nº do Protocolo** é composto por duas letras e um número sequencial composto por 10 dígitos. As siglas indicativas do protocolo são:
 
@@ -2433,14 +2433,14 @@ O campo **Nº do Protocolo** é composto por duas letras e um número sequencial
 As [Orientações Técnicas](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf)
 apresentam as regras a serem obedecidos na geração dos arquivos de lote e de dados. A primeira regra a ser validada pelo Sistema refere-se ao nome dos arquivos. Caso sejam enviados arquivos cujos nomes não obedeçam a estas regras, o Sistema emitirá uma das seguintes mensagens.
 
-![](/media/novo_image131.png)
+![](/media/venda/novo_image131.png)
 
-![](/media/novo_image130.png)
+![](/media/venda/novo_image130.png)
 
 Em seguida, o formato do arquivo de lote é validado. Caso o arquivo enviado não tenha o formato esperado, a seguinte mensagem será
 apresentada.
 
-![](/media/novo_image126.png)
+![](/media/venda/novo_image126.png)
 
 Após a transmissão bem sucedida do arquivo de lote, o Siscoserv valida o formato dos arquivos de dados e atribui ao lote e aos arquivos de dados que o compõem um *status* de acordo com o resultado da validação (veja
 [*Status* dos Arquivos de Lote](#status_dos_arquivos_de_lote))
@@ -2448,50 +2448,50 @@ Após a transmissão bem sucedida do arquivo de lote, o Siscoserv valida o forma
 Para maior detalhamento sobre o *status* ou o tipo de erro associados aos arquivos de dados, ao deixar o cursor do *mouse* sobre a coluna
 **Status** e **Código Erro**, o Sistema exibirá o significado dos códigos apresentados:
 
-![](/media/novo_image129.png)
+![](/media/venda/novo_image129.png)
 
-![](/media/novo_image168.png)
+![](/media/venda/novo_image168.png)
 
-![](/media/novo_image111.png)
+![](/media/venda/novo_image111.png)
 
 Um arquivo de retorno contendo mais detalhes sobre os erros encontrados pode ser gerado ao clicar o botão **Gerar Arquivo de Retorno**. O formato do arquivo de retorno está descrito nas [Orientações Técnicas](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf).
 
-![](/media/novo_image109.png)
+![](/media/venda/novo_image109.png)
 
 
 ### 3.2. Consultar Lote
 
 Para consultar o lote, o usuário deve clicar na aba **Transmissão em Lote** e em seguida selecionar o item de *menu* **Consultar Lote.**
 
-![](/media/novo_image105.png)
+![](/media/venda/novo_image105.png)
 
 O Sistema apresentará a tela para que se informe o CPF/CNPJ do vendedor ou se o usuário é o próprio vendedor.
 
-![](/media/novo_image108.png)
+![](/media/venda/novo_image108.png)
 
 Após identificar o vendedor, o usuário poderá consultar o lote pelo número de protocolo ou pela lista dos lotes enviados.
 
-![](/media/novo_image103.png)
+![](/media/venda/novo_image103.png)
 
-Caso o usuário utilize a opção **Informar Nº do Protocolo**, após clicar o botão ![](/media/novo_image106.png), o Sistema apresentará a tela com os dados do lote informado.
+Caso o usuário utilize a opção **Informar Nº do Protocolo**, após clicar o botão ![](/media/venda/novo_image106.png), o Sistema apresentará a tela com os dados do lote informado.
 
-![](/media/novo_image107.png)
+![](/media/venda/novo_image107.png)
 
-Se o usuário selecionar a opção **Listar arquivos em lote enviados**, ao clicar o botão ![](/media/novo_image106.png), o Sistema listará todos os lotes enviados em nome do CPF/CNPJ do vendedor. O usuário pode consultar um lote específico ao clicar o botão ![](/media/novo_image101.png). Neste caso, a tela com os dados do lote será apresentada como se o usuário consultasse o lote pelo seu número de protocolo.
+Se o usuário selecionar a opção **Listar arquivos em lote enviados**, ao clicar o botão ![](/media/venda/novo_image106.png), o Sistema listará todos os lotes enviados em nome do CPF/CNPJ do vendedor. O usuário pode consultar um lote específico ao clicar o botão ![](/media/venda/novo_image101.png). Neste caso, a tela com os dados do lote será apresentada como se o usuário consultasse o lote pelo seu número de protocolo.
 
-![](/media/novo_image157.png)
+![](/media/venda/novo_image157.png)
 
 Os registros inseridos, retificados ou aditivados a partir de um arquivo de lote podem ser consultados diretamente da tela de dados, ou o usuário pode solicitar ao Sistema que gere o arquivo de retorno do lote encaminhado.
 
 Caso o usuário escolha consultar o lote diretamente na tela, deverá
 selecionar o número de registro apresentado.
 
-![](/media/novo_image119.png)
+![](/media/venda/novo_image119.png)
 
 Os erros de formatação ou de regra de negócio indicados podem ser inspecionados ao se posicionar o cursor do mouse sobre o símbolo
-![](/media/novo_image121.png).
+![](/media/venda/novo_image121.png).
 
-![](/media/novo_image133.png)
+![](/media/venda/novo_image133.png)
 
 #### 3.2.1. Arquivo de Retorno do Lote
 
@@ -2502,12 +2502,12 @@ dependendo do tipo de registro incluído.
 
 O formato do arquivo de retorno está descrito nas [Orientações Técnicas.](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf)
 
-![](/media/novo_image123.png)
+![](/media/venda/novo_image123.png)
 
 Cabe ressaltar ainda que os registros inseridos a partir de um arquivo de lote não podem ser editados (retificados, aditados, etc.)
 manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apresentará a seguinte tela:
 
-![](/media/novo_image86.png)
+![](/media/venda/novo_image86.png)
 
 
 ### 3.3. Excluir Lote
@@ -2517,9 +2517,9 @@ necessário que o *status* do lote ainda seja EP -- Em Processamento.
 Logo, a operação estará disponível apenas no mesmo dia do envio do lote.
 
 A partir da tela de listagem dos lotes enviados (veja [Consultar Lote](#3.2)), ao clicar o botão
-![](/media/novo_image116.png) ao lado do lote que se deseja excluir, o Sistema removerá definitivamente o lote da fila de processamento.
+![](/media/venda/novo_image116.png) ao lado do lote que se deseja excluir, o Sistema removerá definitivamente o lote da fila de processamento.
 
-![](/media/novo_image110.png)
+![](/media/venda/novo_image110.png)
 
 
 ### 3.4. Cumprimento de Prazos na Transferência em Lote
@@ -2548,11 +2548,11 @@ O **Usuário/Responsável pelo Registro** é que detém o e-CPF e/ou a procuraç
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Relatório Gerencial;
 
-![](/media/novo_image85.jpg)
+![](/media/venda/novo_image85.jpg)
 
 Passo 2: Usuário/ Responsável pelo Registro preenche o CNPJ da Pessoa Jurídica Vendedora e clica em "Avançar";
 
-![](/media/novo_image118.jpg)
+![](/media/venda/novo_image118.jpg)
 
 Passo 3: Usuário/Responsável pelo Registro seleciona dentre as diversas opções possíveis aquelas que deseja e clica em "Gerar Relatório".
 
@@ -2574,11 +2574,11 @@ Podem ser selecionadas as seguintes opções:
 
 \- Consulta disponível para **matriz**:
 
-![](/media/novo_image69.jpg)
+![](/media/venda/novo_image69.jpg)
 
 \- Consulta disponível para **filial**:
 
-![](/media/novo_image69.jpg)
+![](/media/venda/novo_image69.jpg)
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado.
 
@@ -2587,7 +2587,7 @@ O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados par
 
 Informações disponibilizadas: 
 
-![](/media/novo_image147.jpg)
+![](/media/venda/novo_image147.jpg)
 
 -   Mês/ano
 
@@ -2650,7 +2650,7 @@ operação e fatura. Esses dados não têm nenhuma utilidade para operações tr
 Informações disponibilizadas:
 
 
-![](/media/novo_image82.png)
+![](/media/venda/novo_image82.png)
 
 -   Mês/ ano
 
@@ -2686,11 +2686,11 @@ operação e fatura. Esses dados não têm nenhuma utilidade para operações tr
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Relatório Gerencial;
 
-![](/media/novo_image85.jpg)
+![](/media/venda/novo_image85.jpg)
 
 Passo 2: Usuário/Responsável pelo Registro preenche o CPF da Pessoa Física Vendedora e clica em "Avançar";
 
-![](/media/novo_image88.jpg)
+![](/media/venda/novo_image88.jpg)
 
 Passo 3: Usuário/ Responsável pelo Registro seleciona dentre as diversas opções possíveis, aquelas que deseja e clica em "Gerar Relatório".
 
@@ -2704,7 +2704,7 @@ Data para geração do relatório:
 
 \- Selecionar o período das informações desejadas, que não deve ser superior a 1 ano.
 
-![](/media/novo_image117.jpg)
+![](/media/venda/novo_image117.jpg)
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [Relatórios Gerenciais RVS](#relatorios_gerenciais_rvs) (atentar que no 2º caso as informações do CPF do vendedor serão disponibilizadas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e [Relatórios Gerenciais RF](#relatorios_gerenciais_rf).
 
@@ -2713,12 +2713,12 @@ O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados par
 
 Passo 1: Usuário/Responsável pelo Registro, que neste caso é o próprio vendedor, acessa o Siscoserv e clica em Relatório Gerencial;
 
-![](/media/novo_image85.jpg)
+![](/media/venda/novo_image85.jpg)
 
 Passo 2: Usuário/Responsável pelo Registro seleciona a opção "O Usuário
 é o Próprio Vendedor";
 
-![](/media/novo_image89.jpg)
+![](/media/venda/novo_image89.jpg)
 
 Passo 3: Usuário/Responsável pelo Registro seleciona dentre as diversas opções possíveis, aquelas que deseja e clica em "Gerar Relatório".
 
@@ -2730,7 +2730,7 @@ Podem ser selecionadas as seguintes opções:
 **Data para geração do relatório:**  
 \- Selecionar o período das informações desejadas, que não deve ser superior a 1 ano.
 
-![](/media/novo_image80.jpg)
+![](/media/venda/novo_image80.jpg)
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [Relatórios Gerenciais RVS](#relatorios_gerenciais_rvs) (observar que no 3º caso as informações do CPF do usuário e do CPF do vendedor são as mesmas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e
 [Relatórios Gerenciais RF](#relatorios_gerenciais_rf).
@@ -2738,7 +2738,7 @@ O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados par
 
 # Capítulo 3 - Cenários Exemplificativos de Registro no Siscoserv
 
-![](/media/novo_image22.png)
+![](/media/venda/novo_image22.png)
 
 
 ## 1. Registro de Transporte Internacional de Cargas (Frete)
@@ -2754,7 +2754,7 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 **Exportação brasileira com a obrigação de transportar da empresa brasileira.**
 
-![](/media/novo_image113.jpg)
+![](/media/venda/novo_image113.jpg)
 
 **Atores:**
 
@@ -2801,7 +2801,7 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 **Importação brasileira com a obrigação de transportar da empresa brasileira**
 
-![](/media/novo_image153.png)
+![](/media/venda/novo_image153.png)
 
 **Atores:**
 
@@ -2843,7 +2843,7 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 **Importação brasileira com a obrigação de transportar da empresa estrangeira**
 
-![](/media/novo_image97.png)
+![](/media/venda/novo_image97.png)
 
 **Atores:**
 
@@ -2885,7 +2885,7 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 **Exportação brasileira com a obrigação de transportar da empresa brasileira**
 
-![](/media/novo_image102.png)
+![](/media/venda/novo_image102.png)
 
 **Atores:**
 
@@ -2960,7 +2960,7 @@ Empresa residente ou domiciliada no Brasil -- Empᴮᴿ, utiliza corretora de se
 Estᴮᴿ, residente ou domiciliada no Brasil, é uma corretora que contrata e paga apólice coletiva de seguros, ficando investida dos poderes de representação dos segurados perante as seguradoras, fazendo papel de estipulante. Se Segₑₓ, seguradora residente ou domiciliada no exterior, for contratada e paga por Estᴮᴿ em favor de Empᴮᴿ,
 residente ou domiciliada no Brasil, Estᴮᴿ é considerado o contratante e, consequentemente, o responsável pelo registro no Siscoserv
 
-![](/media/novo_image96.jpg)
+![](/media/venda/novo_image96.jpg)
 
 **Atores:**
 
