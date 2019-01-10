@@ -6,7 +6,7 @@ filename: modulovenda.md
 title: Módulo Venda
 ---  
 
-# MANUAL MÓDULO VENDA 12ª. Edição
+# MANUAL MÓDULO VENDA 12ª Edição
 
 
 ![](/media/venda/novo_image22.png)
@@ -314,7 +314,9 @@ que tem por base a Nomenclatura Brasileira de Serviços, Intangíveis e Outras O
 Os modos de prestação identificam, conforme estabelecido no Acordo Geral sobre Comércio de Serviços da OMC (GATS)[^9], a prestação de serviços,
 segundo a localização do prestador e do tomador. No Módulo Venda, os modos de prestação são os seguintes:
 
-### Modo 1 - Comércio transfronteiriço: serviço prestado do território de um país ao território de outro país, por residente ou domiciliado no Brasil a residente ou domiciliado no exterior.
+### Modo 1 - Comércio transfronteiriço
+
+Serviço prestado do território de um país ao território de outro país, por residente ou domiciliado no Brasil a residente ou domiciliado no exterior.
 
 Exemplos:
 
@@ -327,7 +329,9 @@ Exemplos:
 ![Imagens Siscoserv](/media/novo_image154.jpg)
 
 
-### Modo 2 - Consumo no Brasil: serviço prestado por residente ou domiciliado no Brasil e consumido no território brasileiro por residente ou domiciliado no exterior.
+### Modo 2 - Consumo no Brasil
+
+Serviço prestado por residente ou domiciliado no Brasil e consumido no território brasileiro por residente ou domiciliado no exterior.
 
 Exemplos:
 
@@ -340,7 +344,9 @@ Exemplos:
 
 ![Imagens Siscoserv](/media/novo_image160.jpg)
 
-### Modo 3 - Presença comercial no exterior: consiste na prestação de serviço por pessoa jurídica domiciliada no exterior relacionada a uma pessoa jurídica domiciliada no Brasil. Para fins do Siscoserv,
+### Modo 3 - Presença comercial no exterior
+
+Consiste na prestação de serviço por pessoa jurídica domiciliada no exterior relacionada a uma pessoa jurídica domiciliada no Brasil. Para fins do Siscoserv,
 considera-se relacionada à pessoa jurídica domiciliada no Brasil a sua filial, sucursal ou [controlada](#2nusc19), domiciliada no exterior.
 
 Exemplos:
@@ -351,7 +357,9 @@ Exemplos:
 
 ![Imagens Siscoserv](/media/novo_image172.jpg)
 
-### Modo 4 - Movimento temporário de pessoas físicas: [residentes no Brasil](#1tuee74) deslocam-se por tempo limitado ao exterior com vistas a prestar um serviço a residente ou domiciliado no exterior.
+### Modo 4 - Movimento temporário de pessoas físicas
+
+[Residentes no Brasil](#1tuee74) deslocam-se por tempo limitado ao exterior com vistas a prestar um serviço a residente ou domiciliado no exterior.
 
 Exemplos:
 
