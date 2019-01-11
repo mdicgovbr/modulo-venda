@@ -158,7 +158,7 @@ como outros elementos pertinentes.
 
 #### 4.2.1. Prazos para o RP 
 
-[]{#_Hlk526242961 .anchor}Para o registro de pagamento, há dois prazos
+Para o registro de pagamento, há dois prazos
 possíveis, dependendo da data de pagamento:
 
 1)  quando o pagamento ocorrer **depois** da inclusão do RAS, o usuário
@@ -171,8 +171,6 @@ possíveis, dependendo da data de pagamento:
 >
 > [ ]{.underline}
 
-[]{#_Hlk526243396 .anchor}
-
 2)  quando o pagamento ocorrer **antes** da inclusão do RAS , o usuário
     deve efetuar o RP até [o último dia útil do mês subsequente ao de
     inclusão desse RAS]{.underline}.
@@ -180,10 +178,6 @@ possíveis, dependendo da data de pagamento:
 > [Cabe observar que o prazo de inclusão do RAS deve ser respeitado,
 > conforme previsto no item]{.underline} [4.1.1 Prazo para o
 > RAS](#prazo-para-o-ras)[.]{.underline}
-
-[]{#_Toc438138250 .anchor}
-
-[]{#_Toc528774088 .anchor}
 
 ### 4.3. Situações especiais de registro
 ------------------------------------
@@ -395,8 +389,6 @@ América), ou o equivalente em outra moeda, no mês.
 
 ## 7. Cronograma de registro das informações 
 
-[]{#_1.6_Modos_de .anchor}
-
 O Registro de Aquisição de Serviços, [Intangíveis](#Intangível) e
 [Outras Operações que Produzam Variações no Patrimônio](#Variações)
 (RAS) e o Registro de Pagamento (RP) obedeceram, no momento da
@@ -527,7 +519,7 @@ e Portarias Conjuntas RFB/SCS que atualizam a Nomenclatura.
 
 A prestação de serviços[^12] iniciada até 31 de dezembro de 2018 deve
 ser registrada tendo por base a NBS 1.1, publicada pela
-[]{#_Hlk533092493 .anchor}Portaria Conjunta RFB / SCS nº 1.820, de 2014.
+Portaria Conjunta RFB / SCS nº 1.820, de 2014.
 
 A prestação de serviços[^13] iniciada a partir de 1º de janeiro de 2019
 devem ser registradas tendo por base a [NBS
@@ -750,7 +742,7 @@ instituiu a NBS.
 
 ## 10. Mecanismos de apoio / fomento ao Comércio Exterior de Serviços e Intangíveis
 
-[]{#_Hlk526331811 .anchor}A informação sobre Mecanismo de apoio/fomento
+A informação sobre Mecanismo de apoio/fomento
 no Siscoserv tem a finalidade de contribuir para a gestão do fomento
 pelos órgãos e instituições responsáveis pela sua concessão. Esta
 informação deve ser registrada em cumprimento ao previsto no art. 26 da
@@ -1254,7 +1246,7 @@ Além dos canais disponíveis, o usuário pode tirar dúvidas em eventos relacio
 Esse glossário foi desenvolvido para facilitar o entendimento dos
 conceitos presentes nos registros do Siscoserv.
 
-[]{#ConsultarLote .anchor}**Admissão Temporária:** regime aduaneiro
+**Admissão Temporária:** regime aduaneiro
 especial que permite a importação de bens que devam permanecer no País
 durante prazo e finalidade fixados, com suspensão de tributos na
 importação, retornando ao exterior sem sofrer modificações que lhes
@@ -1263,7 +1255,7 @@ regime bens destinados à prestação de serviços ou a produção de outros
 bens, desde que com o pagamento proporcional dos impostos federais
 incidentes na importação, de acordo com o tempo de permanência no País.
 
-[]{#datainicio .anchor}**Data de início da prestação de serviço:** é a
+**Data de início da prestação de serviço:** é a
 data acordada entre residente e domiciliado no Brasil e residente e
 domiciliado no exterior em contrato (formal ou não) para o início da
 prestação do serviço; para a transferência de intangível; e para a
@@ -1281,7 +1273,7 @@ direitos de sócio que lhe assegurem, de modo permanente, preponderância
 nas deliberações sociais e o poder de eleger a maioria dos
 administradores.
 
-[]{#entedespersonalizado .anchor}**Ente Despersonalizado:** trata-se um
+**Ente Despersonalizado:** trata-se um
 termo da doutrina jurídica para se referir aos entes que não possuem
 denominação legal específica, mas que podem, nos termos do art. 12 do
 Código de Processo Civil Brasileiro, ser representados em juízo, ativa e
@@ -1297,10 +1289,10 @@ mesmo estado em que foi exportada.
 **Serviço**: é uma obrigação de fazer do prestador destinada a atender
 uma necessidade do tomador.
 
-[]{#Intangível .anchor}**Intangível:** Serão considerados os seguintes
+**Intangível:** Serão considerados os seguintes
 intangíveis para fins do registro no Siscoserv:
 
-I - o []{#licenciamento .anchor}licenciamento (autorização para usar ou
+I - o licenciamento (autorização para usar ou
 explorar comercialmente direito patrimonial) e a cessão, temporária ou
 definitiva, dos direitos de propriedade intelectual objeto das Seções 1
 a 7 da Parte II do Acordo sobre os Aspectos dos Direitos de Propriedade
@@ -1345,14 +1337,14 @@ variação(ões) no patrimônio.
 órgão de administração tributária no exterior indicador de pessoa física
 ou jurídica.
 
-[]{#operação .anchor}**Operação:** conjunto de dados que caracterizam a
+**Operação:** conjunto de dados que caracterizam a
 prestação de um serviço, a transferência ou aquisição de intangível e a
 realização de operação que produza variação no patrimônio. No RAS, são
 dados de uma operação: Código da NBS, Descrição da NBS, Código e País de
 Destino; Código e Descrição da Moeda; Modo de Prestação; Data de Início;
 Data de Conclusão e, se for o caso, Mecanismo de apoio/fomento.
 
-[]{#outrasoperações .anchor}**Outras Operações que Produzam Variações no
+**Outras Operações que Produzam Variações no
 Patrimônio -** São operações classificadas na NBS que não se enquadram
 como serviços nem como intangíveis.
 
@@ -1371,7 +1363,7 @@ São exemplos:
 >
 > \- Fomento comercial (*factoring),* código NBS 1.0908.00.00.
 
-**P**[]{#pagamento .anchor}**agamento:** é o valor transferido,
+**Pagamento:** é o valor transferido,
 creditado, empregado, entregue ou remetido a residente ou domiciliado no
 exterior, decorrente da aquisição de serviços, intangíveis e outras
 operações que produzam variações no patrimônio por residente ou
@@ -1396,12 +1388,12 @@ modo de pagar em que o valor é aplicado por conta e ordem do
 beneficiário do pagamento): data em que o valor é aplicado por conta e
 ordem do beneficiário do pagamento.
 
-**Registro de Exportação (**[]{#re .anchor}**RE):** no Sistema Integrado
+**Registro de Exportação (RE):** no Sistema Integrado
 de Comércio Exterior - Siscomex é o conjunto de informações de natureza
 comercial, financeira, cambial e fiscal que caracterizam a operação de
 exportação de uma mercadoria e definem o seu enquadramento.
 
-[]{#residente .anchor}**Residente no Brasil:** Considera-se residente no
+**Residente no Brasil:** Considera-se residente no
 Brasil a pessoa física (Lei n° 9.718, de 27 de novembro
 de 1998, art. 12; Instrução Normativa SRF n° 208, de 27
 de setembro de 2002, art. 2°, com a alteração dada pela
@@ -1437,7 +1429,7 @@ Instrução Normativa RFB n° 1.008, de 9 de fevereiro de
 > País](http://www.receita.fazenda.gov.br/PessoaFisica/IRPF/2011/glossario.html#5939266742eb5e38f545ffbcfaa734e986a45f13),
 > durante os primeiros doze meses consecutivos de ausência.
 
-[]{#valormantidonoexterior .anchor}**Valor Mantido no Exterior:**
+**Valor Mantido no Exterior:**
 refere-se aos recursos em moeda estrangeira, relativos aos recebimentos
 de serviços, intangíveis ou outras operações que produzam variações no
 patrimônio das entidades, mantidos no exterior, nos termos da [Lei
@@ -1475,9 +1467,6 @@ estabelecimento.
 
 ![](./media/aquisicao/image13.png)
 
-[[[]{#certificado .anchor}]{#_Toc343704519 .anchor}]{#_2.2_O_que
-.anchor}
-
 ### 1.2. O que é e como obter o Certificado Digital (e-CPF)
 
 O Certificado Digital permite a identificação de uma pessoa no ambiente
@@ -1490,7 +1479,6 @@ e-CPF, está disponível em:
 
 <http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj>
 
-[[[]{#procuraçao .anchor}]{#_Toc343704520 .anchor}]{#_2.3_O_que .anchor}
 
 ### 1.3. O que é e como obter a Procuração Eletrônica
 
@@ -1501,7 +1489,6 @@ procuração estão disponíveis em:
 
 http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/procuracoes/orientacoes-gerais-procuracoes-rfb
 
-[[]{#_Toc343704521 .anchor}]{#_3._Procedimentos_relativos .anchor}
 
 ### 1.4. Problemas de acesso
 
@@ -1539,7 +1526,7 @@ fomento ao comércio exterior de serviços ou, ainda, convite para
 participação em eventos, missões ou reuniões bilaterais relacionadas ao
 comércio exterior de serviços.
 
-O []{#Usuário .anchor}**Usuário/Responsável pelo Registro** é que detém
+**Usuário/Responsável pelo Registro** é que detém
 o e-CPF e a procuração eletrônica da Empresa ou da Pessoa Física e é o
 responsável pela inserção dos Dados no Sistema.
 
@@ -1553,18 +1540,18 @@ serão automaticamente incluídos, devendo ser preenchidas as demais
 informações solicitadas pelo Sistema, conforme quadros abaixo.
 
 No caso de pessoa jurídica, é ainda necessário fornecer informações
-sobre o []{#Diretor .anchor}**Diretor de Relações Governamentais ou
+sobre o **Diretor de Relações Governamentais ou
 Equivalente**, que é a pessoa, no mais alto nível hierárquico,
 responsável na pessoa jurídica por contatos sistemáticos ou periódicos
 com o Governo. Esses dados serão utilizados para contatos relacionados a
 políticas públicas e ações estratégicas do Ministério da Indústria,
 Comércio Exterior e Serviços voltadas à alavancagem do comércio exterior
-de serviços. []{#_Hlk526348236 .anchor}
+de serviços.
 
 **Cabe ressaltar a responsabilidade da empresa no correto preenchimento
 desses campos.**
 
-Igualmente, os dados da []{#PF .anchor}**Pessoa Física Adquirente**
+Igualmente, os dados da **Pessoa Física Adquirente**
 estão sendo solicitados para possibilitar que o Ministério da Indústria,
 Comércio e Serviços se comunique em casos de ações estratégicas de
 alavancagem do comércio exterior e que envolvam iniciativas de pessoas
@@ -1876,10 +1863,8 @@ incluir num mesmo arquivo XML informações de duas ou mais
 funcionalidades, por exemplo, informações sobre a Retificação de um RAS
 e sobre o Cancelamento de um RP. Os arquivos XML devem conter as mesmas
 informações requeridas no preenchimento manual do
-RAS.[[[]{#_Toc343704522 .anchor}]{#_3.1_O_Registro .anchor}]{#_3.1_O_RVS
-.anchor}
+RAS.
 
-> []{#_3.1.2_Passos_para .anchor}
 
 ### 2.1. Inclusão do RAS
 
@@ -2040,9 +2025,9 @@ Campos a serem preenchidos em Dados do [Negócio](#Negócio):
 
 Vide [item 9, do Capítulo 1 deste Manual.](#9)
 
-[]{#_Hlk533093018 .anchor}A prestação de serviços[^16] iniciada até 31
+A prestação de serviços[^16] iniciada até 31
 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1,
-publicada pela []{#_Hlk533093109 .anchor}Portaria Conjunta RFB / SCS nº
+publicada pela Portaria Conjunta RFB / SCS nº
 1.820, de 2014.
 
 A prestação de serviços[^17] iniciada a partir de 1º de janeiro de 2019
@@ -2231,7 +2216,7 @@ empregador, o usuário deverá fornecer o CNPJ do empregador.
 #### [Mecanismo](#enquadramento) de Apoio/Fomento
 
 Para informar **Mecanismo de apoio/fomento** da
-operação[]{#_Hlk526436963 .anchor}, tal como previsto no [item
+operação, tal como previsto no [item
 10](file:///\\FILESERVER\mdic$\SCS\DECIN\Trabalho\CGSE\Pasta%20Técnica\SISCOSERV\MANUAIS\Aquisição\11aEdicaoManualModuloAquisição_versao%20final.doc#10.  Enquadramento (Mecanismo de apoio / fomento ao Comércio Exterior de Serviços e Intangíveis))
 do capítulo 1 deste Manual, marque "sim" à direita da pergunta: "A
 operação está amparada em mecanismo de apoio/fomento ao comércio
@@ -2240,7 +2225,7 @@ uma nova tela para inclusão do(s) mecanismo(s) de apoio.
 
 ![manual8ed\_enq02\_aquisição](./media/aquisicao/image45.png)
 
-[]{#_Hlk526437217 .anchor}Selecione o [Mecanismo](#enquadramento) de
+Selecione o [Mecanismo](#enquadramento) de
 apoio/fomento desejado, no campo Enquadramento, e acione o botão
 ![Descrição: Descrição: Descrição:
 graphic](./media/aquisicao/image46.png) para adicioná-lo ao RAS.
@@ -2266,7 +2251,7 @@ vinculada à [movimentação temporária de bens](#movimetacaotemporaria).
 Se a operação estiver vinculada à movimentação temporária de bens,
 selecionar a opção **Sim**. Nesse caso, preencher os campos com o número
 da [Declaração de Importação (DI)](#DI) e/ou com o número
-[]{#_Hlk526768494 .anchor}da Declaração Única de Exportação (DU-E) ou do
+da Declaração Única de Exportação (DU-E) ou do
 [Registro de Exportação (RE)](#RE) averbado, se o registro ainda tiver
 sido realizado no Siscomex.
 
@@ -2661,7 +2646,7 @@ mensagem de confirmação de retificação do aditivo.
 
 ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image78.png)
 
-[]{#_3.1.6_RVS_Agrupado .anchor}Os aditivos ao RAS podem ter todos os
+Os aditivos ao RAS podem ter todos os
 campos retificados antes da inclusão do RP da [operação](#operaçao).
 Após o [pagamento](#Pagamento) da operação não podem ser retificados os
 campos Código NBS e Moeda. Em caso de erro de preenchimento nestes
@@ -2778,11 +2763,9 @@ aditivos, se for o caso.
 ![Resumo\_RAS
 Atualizado](./media/aquisicao/image54.jpeg)
 
-[[]{#_3.1.6_RAS_Agrupado .anchor}]{#_3.1.6_RVS_Agrupado_1
-.anchor}![Resumo\_RAS
+![Resumo\_RAS
 Atualizado](./media/aquisicao/image55.jpeg)
 
-[]{#_3.1.7_Situações_especiais .anchor}
 
 ### 2.2. Inclusão do RP
 
@@ -2860,7 +2843,7 @@ Pagar** para cada operação, referente ao RAS selecionado**.**
 >
 > f\) inserir o **Número do Documento** que comprove o pagamento ao
 > residente ou domiciliado no exterior e acionar o botão **Avançar.** O
-> usuário deve preencher o campo []{#numerodocumento .anchor}**Número do
+> usuário deve preencher o campo **Número do
 > Documento** com o número da *invoice* ou do contrato ou de outro
 > documento que comprove o [pagamento](#Pagamento) realizado.
 
@@ -3048,7 +3031,6 @@ graphic](./media/aquisicao/image48.png) para o RP cancelado.
 
 ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image111.png)
 
-[[[]{#_Toc310517759 .anchor}]{#_Toc310517189 .anchor}]
 
 #### 2.2.3. Consulta ao RP
 
@@ -3093,8 +3075,6 @@ ser consultado.
 
 Em seguida, é exibida a tela **Resumo do RP**.
 
-[[[]{#_Toc343704535 .anchor}]{#_4._Transmissão_em .anchor}]{#NBS
-.anchor}
 
 ## 3. Transmissão em Lote
 
@@ -3142,10 +3122,10 @@ a correta criação dos arquivos a serem transmitidos:
 > Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Modelos_dos_Arquivos_XML_e_XSD_para_Transmiss%C3%A3o_em_Lote_-_V_2.0.zip);
 > e
 >
-> \- Tabelas de Códigos do Siscoserv para Transmissão em
-> Lote.[]{#ProcessamentoLote .anchor}
+> \- [Tabelas de Códigos do Siscoserv para Transmissão em
+> Lote.](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Tabelas_de_C%C3%B3digos_do_Siscosev_para_Transmiss%C3%A3o_em_Lote.zip)
 
-[]{#_Hlk526787125 .anchor} Cabe ressaltar a necessidade de avaliação
+Cabe ressaltar a necessidade de avaliação
 sobre alterações necessárias nos registros realizados por meio de
 transmissão em lote a partir da publicação da nova edição da NBS e de
 suas notas explicativas.
@@ -3369,7 +3349,6 @@ são:
 
 7)  CP -- Cancelar RP.
 
-[]{#_3.1.1._Validação_dos .anchor}
 
 ### Validação dos Arquivos de Lote e de Dados
 
@@ -3492,9 +3471,6 @@ Retorno.](http://desenvolvimento.gov.br/arquivos/dwnl_1336998170.pdf)
 ![tela consulta lote
 PR](./media/aquisicao/image121.png)
 
-[[[]{#_Toc315355287 .anchor}]{#_Toc314662829 .anchor}]{#_Toc314231727
-.anchor}
-
 Cabe ressaltar ainda que os registros inseridos a partir de um arquivo
 de lote não podem ser editados (retificados, aditados, etc.)
 manualmente. Caso o usuário tente editar o registro manualmente, o
@@ -3527,7 +3503,6 @@ ressaltar que a obrigação só é tempestivamente cumprida se os arquivos
 forem processados com sucesso (*status* PS), dentro dos prazos legais
 estabelecidos para os registros.
 
-[]{#_5._Nomenclatura_Brasileira_2 .anchor}
 
 ## 4. Relatório Gerencial
 
@@ -3575,7 +3550,7 @@ Podem ser selecionadas as seguintes opções:
 Grupo; ou
 
 \- CNPJ de 8 posições: para gerar relatório contendo todas as empresas
-do mesmo Grupo. []{#_Hlk526498539 .anchor}Este tipo de consulta está
+do mesmo Grupo. Este tipo de consulta está
 disponível apenas para CNPJ de natureza matriz, que terá acesso aos
 registros da própria matriz e de suas filiais.
 
@@ -3590,11 +3565,11 @@ as informações sobre os RP em outra.
 \- Selecionar o período das informações desejadas, que não deve ser
 superior a 1 ano.
 
-[]{#_Hlk526498591 .anchor}- Consulta disponível para **matriz**:
+- Consulta disponível para **matriz**:
 
 ![RelatorioGerencial3](./media/aquisicao/image145.jpeg)
 
-[]{#_Hlk526498609 .anchor}- Consulta disponível para **filial**:
+- Consulta disponível para **filial**:
 
 ![](./media/aquisicao/image145.jpeg) ![RelatorioGerencial3](./media/aquisicao/image145.jpeg)
 
@@ -3896,7 +3871,7 @@ Correto.png](./media/aquisicao/image153.png)
 > transportar as mercadorias até o local indicado por I~BR~, sendo que
 > T~EX~ de fato fará o transporte.
 
-[]{#_Toc442169040 .anchor}[Registros devidos:]{.underline}
+[Registros devidos:]{.underline}
 
 > I~BR~: RAS pelo serviço de transporte tendo T~EX~ como vendedor.
 >
