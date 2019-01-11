@@ -3133,3 +3133,7 @@ Importante ressaltar que esse cenário trata exclusivamente de situação em que
     serviços, transferência de intangível e realização de [outras
     operações que produzam variações no
     patrimônio](#outras_operacoes_que produzam_variacoes_de_patrimonio)".
+
+   <div id="download-btn" class="inner" bottom="0">
+            <a href="http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Siscoserv/12aEdicaoManualModuloVenda_Final.pdf" download="pdf">download</a>
+        </div>

@@ -9,10 +9,22 @@
             {{ content }}
         </section>
         <div id="download-btn" class="inner">
-
-            <a href="#" class="download_as_pdf download_as_pdf--header"><img src="http://plano.dados.cultura.gov.br/wp-content/themes/wp-divi-pda/assets/img/pdf-icon.png"><span class="texto-link-pdf">Baixar como PDF</span></a>
+            <a id="venda" href="http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Siscoserv/12aEdicaoManualModuloVenda_Final.pdf" ><img src="http://plano.dados.cultura.gov.br/wp-content/themes/wp-divi-pda/assets/img/pdf-icon.png"><span class="texto-link-pdf">Baixar como PDF</span></a>
+            <a id="aquisicao"href="http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Siscoserv/12aEdicaoManualModuloAquisi%C3%A7%C3%A3o_final.pdf"><img src="http://plano.dados.cultura.gov.br/wp-content/themes/wp-divi-pda/assets/img/pdf-icon.png"><span class="texto-link-pdf">Baixar como PDF</span></a>
         </div>
+<script>
 
+$(document).ready(function () {
+    if(window.location.pathname == "/modulo-venda"){
+        document.getElementById("aquisicao").style.visibility = "hidden";
+    }else if(window.location.pathname == "/modulo-aquisicao"){
+        document.getElementById("venda").style.visibility = "hidden";
+    }else{
+        document.getElementById("aquisicao").style.visibility = "hidden";
+        document.getElementById("venda").style.visibility = "hidden";
+    }
+});
+</script>
     </div>
       
 {% include footer.html %}
