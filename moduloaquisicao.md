@@ -162,22 +162,22 @@ Para o registro de pagamento, há dois prazos
 possíveis, dependendo da data de pagamento:
 
 1)  quando o pagamento ocorrer **depois** da inclusão do RAS, o usuário
-    deve efetuar o RP até [o **último dia útil do mês subsequente** ao
-    do pagamento]{.underline}.
+    deve efetuar o RP até o **último dia útil do mês subsequente** ao
+    do pagamento.
 
 > [Cabe observar que o prazo de inclusão do RAS deve ser respeitado,
-> conforme previsto no item]{.underline} [4.1.1 Prazo para o
-> RAS](#prazo-para-o-ras)[.]{.underline}
+> conforme previsto no item [4.1.1 Prazo para o
+> RAS](#prazo-para-o-ras)
 >
-> [ ]{.underline}
+> 
 
 2)  quando o pagamento ocorrer **antes** da inclusão do RAS , o usuário
-    deve efetuar o RP até [o último dia útil do mês subsequente ao de
-    inclusão desse RAS]{.underline}.
+    deve efetuar o RP até o último dia útil do mês subsequente ao de
+    inclusão desse RAS.
 
-> [Cabe observar que o prazo de inclusão do RAS deve ser respeitado,
-> conforme previsto no item]{.underline} [4.1.1 Prazo para o
-> RAS](#prazo-para-o-ras)[.]{.underline}
+> Cabe observar que o prazo de inclusão do RAS deve ser respeitado,
+> conforme previsto no item 4.1.1 Prazo para o
+> RAS](#prazo-para-o-ras).
 
 ### 4.3. Situações especiais de registro
 ------------------------------------
@@ -463,7 +463,7 @@ registro especial focado em capturar o faturamento de filiais, sucursais
 ou controladas de empresas brasileiras domiciliadas no exterior com a
 venda de serviços ou a transferência de intangíveis.
 
-[Não há registro especial de Modo 3 no Módulo Aquisição]{.underline},
+Não há registro especial de Modo 3 no Módulo Aquisição,
 pelo fato de que as empresas domiciliadas no Brasil, ainda que
 relacionadas a empresas estrangeiras (ou seja, mesmo quando são uma
 presença comercial de uma empresa estrangeira no Brasil), são
@@ -673,7 +673,7 @@ Na informação do código NBS, a posição mais específica prevalece sobre a
 mais genérica, sendo que o código só pode ser informado em seu maior
 nível de detalhamento (nove dígitos).
 
-*[Exemplo 1:]{.underline}*
+*Exemplo 1:*
 
 Código NBS
 
@@ -693,7 +693,7 @@ dígitos.
 
 **Código a ser informado**: 1.0105.11.00
 
-*[Exemplo 2:]{.underline}*
+*Exemplo 2:*
 
 **Capítulo 1:** 1.07
 
@@ -792,7 +792,7 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | Brasil seja membro, e pelos       |                                   |
 | respectivos integrantes.          |                                   |
 +-----------------------------------+-----------------------------------+
-| **Alugueis e Arrend. Mercantil de | [Lei n~~[º]{.underline}~~ 10.865, |
+| **Alugueis e Arrend. Mercantil de | [Lei n° 10.865, |
 | maquinas, equip., embarc. e       | de 30 de abril de 2004, art. 8º,  |
 | aeronaves -- red. zero PIS/PASEP  | §                                 |
 | Imp./Cofins Imp.**                | 14](http://www.planalto.gov.br/cc |
@@ -812,11 +812,11 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | aeronaves utilizados na atividade |                                   |
 | da empresa.                       |                                   |
 +-----------------------------------+-----------------------------------+
-| **Arrendamento Mercantil de       | []{.underline}Lei n~~º~~ 11.371,  |
+| **Arrendamento Mercantil de       | Lei n~~º~~ 11.371,  |
 | aeronave para empresa de          | de 28 de novembro de 2006, art.   |
 | transporte aéreo público-- red.   | 16                                |
 | zero do IR**                      |                                   |
-|                                   | []{.underline}                    |
+|                                   |                                   | 
 | Redução a zero da alíquota do     |                                   |
 | imposto de renda na fonte         |                                   |
 | incidente na hipótese de          |                                   |
@@ -833,9 +833,9 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | cargas, até 31 de dezembro de     |                                   |
 | 2011.                             |                                   |
 +-----------------------------------+-----------------------------------+
-| **Comissão a agentes externos na  | [Lei n~~[º]{.underline}~~ 9.481,  |
+| **Comissão a agentes externos na  | [Lei n° 9.481,  |
 | exportação-- red. a zero IR**     | de 13 de julho de 1997, art.      |
-|                                   | 1~~[º]{.underline}~~, inciso II\  |
+|                                   | 1°, inciso II\  |
 | Redução a zero da alíquota do IR  | ](http://www.planalto.gov.br/cciv |
 | fonte incidente sobre os          | il_03/LEIS/L9481.htm)             |
 | rendimentos auferidos no País por |                                   |
@@ -844,9 +844,9 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | pagas por exportadores a seus     |                                   |
 | agentes no exterior.              |                                   |
 +-----------------------------------+-----------------------------------+
-| **Despesas de armazenagem, mov. e | [Lei n~~[º]{.underline}~~ 9.481,  |
+| **Despesas de armazenagem, mov. e | [Lei n° 9.481,  |
 | transporte de carga no exterior-- | de 13 de julho de 1997, art.      |
-| red. a zero IR**                  | 1~~[º]{.underline}~~, inciso XII\ |
+| red. a zero IR**                  | 1°, inciso XII\ |
 |                                   | ](http://www.planalto.gov.br/cciv |
 | Redução a zero da alíquota do IR  | il_03/LEIS/L9481.htm)             |
 | na fonte incidente sobre os       |                                   |
@@ -888,9 +888,9 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | realização dos Eventos realizados |                                   |
 | pela Fifa.                        |                                   |
 +-----------------------------------+-----------------------------------+
-| **Fretes, arrendamentos de        | [Lei n~~[º]{.underline}~~ 9.481,  |
+| **Fretes, arrendamentos de        | [Lei n° 9.481,  |
 | embarcações ou aeronaves e outros | de 13 de julho de 1997, art.      |
-| -- red a zero IR**                | 1~~[º]{.underline}~~, inciso      |
+| -- red a zero IR**                | 1°, inciso      |
 |                                   | I](http://www.planalto.gov.br/cci |
 | Redução a zero da alíquota do IR  | vil_03/LEIS/L9481.htm)            |
 | na fonte incidente sobre os       |                                   |
@@ -909,11 +909,11 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | relativos ao uso de serviços de   |                                   |
 | instalações portuárias.           |                                   |
 +-----------------------------------+-----------------------------------+
-| **MATERIAL AERONÁUTICO red. zero  | []{.underline}Lei n~~º~~ 10.865,  |
+| **MATERIAL AERONÁUTICO red. zero  | Lei n~~º~~ 10.865,  |
 | PIS/Pasep Imp /Cofins Imp.**      | de 30 de abril de 2004, art.      |
 |                                   | 8~~º~~, § 12, inciso VII          |
 | Redução a zero das alíquotas da   |                                   |
-| Contribuição para o               | []{.underline}                    |
+| Contribuição para o               |                     |
 | PIS/Pasep-Importação e da         |                                   |
 | Cofins-Importação incidentes      |                                   |
 | sobre o valor dos serviços a      |                                   |
@@ -926,9 +926,9 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | partes, peças, componentes,       |                                   |
 | ferramentais e equipamentos.      |                                   |
 +-----------------------------------+-----------------------------------+
-| **PROMOÇÃO BENS NO EXTERIOR       | [Lei n~~[º]{.underline}~~ 9.481,  |
+| **PROMOÇÃO BENS NO EXTERIOR       | [Lei n° 9.481,  |
 | redução a zero IR**               | de 13 de julho de 1997, art.      |
-|                                   | 1~~[º]{.underline}~~, inciso III, |
+|                                   | 1°, inciso III, |
 | Redução a zero da alíquota do IR  | alínea a\                         |
 | na fonte incidente sobre os       | ](http://www.planalto.gov.br/cciv |
 | rendimentos auferidos no País,    | il_03/leis/l9481.htm)[Decreto     |
@@ -947,9 +947,9 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | eventos, para produtos            |                                   |
 | brasileiros.                      |                                   |
 +-----------------------------------+-----------------------------------+
-| **PROMOÇÃO DE DEST. TURÍSTICOS    | [Lei n~~[º]{.underline}~~ 9.481,  |
+| **PROMOÇÃO DE DEST. TURÍSTICOS    | [Lei n° 9.481,  |
 | BRASILEIROS redução a zero IR**   | de 13 de julho de 1997, art.      |
-|                                   | 1~~[º]{.underline}~~, inciso III, |
+|                                   | 1°, inciso III, |
 | Redução a zero da alíquota do IR  | alínea a\                         |
 | na fonte incidente sobre os       | ](http://www.planalto.gov.br/cciv |
 | rendimentos auferidos no País,    | il_03/leis/l9481.htm)[Decreto     |
@@ -968,9 +968,9 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | eventos, para promoção de         |                                   |
 | destinos turísticos brasileiros.  |                                   |
 +-----------------------------------+-----------------------------------+
-| **PROMOÇÃO DO BRASIL NO EXTERIOR  | [Lei n~~[º]{.underline}~~ 9.481,  |
+| **PROMOÇÃO DO BRASIL NO EXTERIOR  | [Lei n° 9.481,  |
 | redução a zero IR**               | de 13 de julho de 1997, art.      |
-|                                   | 1~~[º]{.underline}~~, inciso III, |
+|                                   | 1°, inciso III, |
 | Redução a zero da alíquota do IR  | alínea b\                         |
 | na fonte incidente sobre os       | ](http://www.planalto.gov.br/cciv |
 | rendimentos auferidos no País,    | il_03/leis/l9481.htm)[Decreto     |
@@ -985,9 +985,9 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | destinados à promoção do Brasil   |                                   |
 | no exterior.                      |                                   |
 +-----------------------------------+-----------------------------------+
-| **PROMOÇÃO SERVIÇOS NO EXTERIOR   | [Lei n~~[º]{.underline}~~ 9.481,  |
+| **PROMOÇÃO SERVIÇOS NO EXTERIOR   | [Lei n° 9.481,  |
 | redução a zero IR**               | de 13 de julho de 1997, art.      |
-|                                   | 1~~[º]{.underline}~~, inciso III, |
+|                                   | 1°, inciso III, |
 | Redução a zero da alíquota do IR  | alínea a\                         |
 | na fonte incidente sobre os       | ](http://www.planalto.gov.br/cciv |
 | rendimentos auferidos no País,    | il_03/leis/l9481.htm)[Decreto     |
@@ -1006,7 +1006,7 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | eventos, para serviços            |                                   |
 | brasileiros.                      |                                   |
 +-----------------------------------+-----------------------------------+
-| **RECINE -- susp. PIS/Pasep Imp.  | [Lei n~~[º]{.underline}~~ 12.599, |
+| **RECINE -- susp. PIS/Pasep Imp.  | [Lei n° 12.599, |
 | /Cofins Imp.**                    | de 23 de março de                 |
 |                                   | 2012](http://www.planalto.gov.br/ |
 | Suspensão da exigência da         | CCIVIL_03/_Ato2011-2014/2012/Lei/ |
@@ -1030,7 +1030,7 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | diretamente por pessoa jurídica   |                                   |
 | beneficiária do RECOPA.           |                                   |
 +-----------------------------------+-----------------------------------+
-| **Registro e Manutenção de        | [Lei n~~[º]{.underline}~~ 11.196, |
+| **Registro e Manutenção de        | [Lei n° 11.196, |
 | marcas, patentes e cultivares --  | de 21 de novembro de 2005, art.   |
 | red. zero IR**                    | 17](http://www.planalto.gov.br/cc |
 |                                   | ivil_03/_Ato2004-2006/2005/Lei/L1 |
@@ -1040,7 +1040,7 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | e manutenção de marcas, patentes  |                                   |
 | e cultivares.                     |                                   |
 +-----------------------------------+-----------------------------------+
-| **REICOMP -- susp. PIS/Pasep Imp. | [Lei n~~[º]{.underline}~~ 12.715, |
+| **REICOMP -- susp. PIS/Pasep Imp. | [Lei n° 12.715, |
 | /Cofins Imp.**                    | de 17 de setembro de              |
 |                                   | 2012.](http://www.planalto.gov.br |
 | Suspensão da exigência da         | /ccivil_03/_Ato2011-2014/2012/Lei |
@@ -1052,7 +1052,7 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | Computadores para Uso             |                                   |
 | Educacional -- REICOMP.           |                                   |
 +-----------------------------------+-----------------------------------+
-| **REIDI -- susp.PIS/Pasep Imp.    | [Lei n~~[º]{.underline}~~ 11.488, |
+| **REIDI -- susp.PIS/Pasep Imp.    | [Lei n° 11.488, |
 | /Cofins Imp.**                    | de 15 de junho de                 |
 |                                   | 2007](http://www.planalto.gov.br/ |
 | Suspensão da exigência da         | ccivil_03/_ato2007-2010/2007/lei/ |
@@ -1064,7 +1064,7 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | Desenvolvimento da Infraestrutura |                                   |
 | (REIDI).                          |                                   |
 +-----------------------------------+-----------------------------------+
-| **REPENEC -- susp.** **PIS/Pasep  | [Lei n~~[º]{.underline}~~12.249,  |
+| **REPENEC -- susp.** **PIS/Pasep  | [Lei n°12.249,  |
 | Imp. /Cofins Imp.**               | de 11 de junho de                 |
 |                                   | 2010](http://www.planalto.gov.br/ |
 | Suspensão da exigência da         | ccivil_03/_ato2007-2010/2010/lei/ |
@@ -1078,7 +1078,7 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | Regiões Norte, Nordeste e         |                                   |
 | Centro-Oeste -- REPENEC.          |                                   |
 +-----------------------------------+-----------------------------------+
-| **REPES -- susp. PIS/PASEP /      | [Lei n~~[º]{.underline}~~ 11.196, |
+| **REPES -- susp. PIS/PASEP /      | [Lei n° 11.196, |
 | COFINS**                          | de 21 de novembro de              |
 |                                   | 2005](http://www.planalto.gov.br/ |
 | Suspensão da exigência da         | ccivil_03/_ato2004-2006/2005/lei/ |
@@ -1089,7 +1089,7 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | de Serviços de Tecnologia da      |                                   |
 | Informação (REPES).               |                                   |
 +-----------------------------------+-----------------------------------+
-| **RETAERO -- susp.** **PIS/Pasep  | [Lei n~~[º]{.underline}~~ 12.249, |
+| **RETAERO -- susp.** **PIS/Pasep  | [Lei n° 12.249, |
 | Imp. /Cofins Imp.**               | de 11 de junho de                 |
 |                                   | 2010](http://www.planalto.gov.br/ |
 | Suspensão da exigência da         | ccivil_03/_ato2007-2010/2010/lei/ |
@@ -1101,7 +1101,7 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | Aeronáutica Brasileira --         |                                   |
 | RETAERO.                          |                                   |
 +-----------------------------------+-----------------------------------+
-| **RETID -- susp. PIS/Pasep Imp.   | [Lei n~~[º]{.underline}~~ 12.598, |
+| **RETID -- susp. PIS/Pasep Imp.   | [Lei n° 12.598, |
 | /Cofins Imp.**                    | de 22 de março de 2012, art.      |
 |                                   | 10](http://www.planalto.gov.br/cc |
 | Suspensão da exigência da         | ivil_03/_ato2011-2014/2012/Lei/L1 |
@@ -1117,7 +1117,7 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | destinados a empresas             |                                   |
 | beneficiárias do RETID.           |                                   |
 +-----------------------------------+-----------------------------------+
-| **Royalties, Assistência Técnica, | [Lei n~~[º]{.underline}~~ 11.196, |
+| **Royalties, Assistência Técnica, | [Lei n° 11.196, |
 | Científica e Assemelhados --      | de 21 de novembro de 2005, art.   |
 | dedutibilidade fiscal.**          | 17](http://www.planalto.gov.br/cc |
 |                                   | ivil_03/_Ato2004-2006/2005/Lei/L1 |
@@ -1132,7 +1132,7 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | assemelhados, relacionados com    |                                   |
 | transferência de tecnologia.      |                                   |
 +-----------------------------------+-----------------------------------+
-| **Serviços de avaliação da        | [Lei n~~[º]{.underline}~~ 12.249, |
+| **Serviços de avaliação da        | [Lei n° 12.249, |
 | conformidade vinculados aos       | de 11 de junho de 2010, art.      |
 | Acordos da OMC -- red. a zero do  | 18](http://www.planalto.gov.br/cc |
 | IR**                              | ivil_03/_ato2007-2010/2010/lei/l1 |
@@ -1156,7 +1156,7 @@ exterior de serviços, os definidos na seguinte **lista exaustiva**:
 | Organização Mundial do Comércio - |                                   |
 | OMC.                              |                                   |
 +-----------------------------------+-----------------------------------+
-| **ZPE -- suspensão PIS/Pasep Imp. | [Lei n~~[º]{.underline}~~ 11.508, |
+| **ZPE -- suspensão PIS/Pasep Imp. | [Lei n° 11.508, |
 | /Cofins Imp.**                    | de 20 de julho de                 |
 |                                   | 2007](http://www.planalto.gov.br/ |
 | Suspensão da exigência da         | ccivil_03/_Ato2007-2010/2007/Lei/ |
@@ -1579,10 +1579,10 @@ c)  Usuário/ Responsável pelo Registro é o Próprio Adquirente.
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em
 Informações cadastrais;
 
-[Obs: No primeiro acesso do usuário ao Sistema, o usuário será
+Obs: No primeiro acesso do usuário ao Sistema, o usuário será
 direcionado diretamente para a ficha de Informações Cadastrais. Não será
 possível efetuar novo registro antes de preencher os dados
-solicitados.]{.underline}
+solicitados.
 
 ![Cadastro1](./media/aquisicao/image14.jpeg)
 
@@ -1593,7 +1593,7 @@ Passo 2: Preenche o CNPJ da empresa e clica em avançar;
 Passo 3: O Sistema apresenta uma tela para a inserção dos dados
 cadastrais.
 
-[Fluxo de Registro Inicial]{.underline}
+**Fluxo de Registro Inicial**
 
 O Sistema apresenta os dados do Usuário/Responsável pelo Registro (nome
 e CPF) bem como o CNPJ e Razão Social da Empresa Adquirente, oriundos do
@@ -1639,7 +1639,7 @@ Existem outros Campos de preenchimento opcional:
 >
 > \- Endereço do Canal do *Youtube* da Empresa Adquirente.
 
-[Fluxo de Manutenção de Informações]{.underline}
+**Fluxo de Manutenção de Informações**
 
 Após 1 ano, ou sempre que houver alguma alteração nas informações
 incluídas no cadastro do Siscoserv, o Usuário / Responsável pelo
@@ -1665,10 +1665,10 @@ clica em Salvar.
 Passo 1: [Usuário/Responsável pelo Registro](#Usuário) acessa o
 Siscoserv e clica em Informações cadastrais;
 
-[Obs: No primeiro acesso do usuário ao Sistema o usuário será
+Obs: No primeiro acesso do usuário ao Sistema o usuário será
 direcionado diretamente para a ficha de Informações Cadastrais. Não será
 possível efetuar novo registro antes de preencher os dados
-solicitados.]{.underline}
+solicitados.
 
 ![Cadastro1](./media/aquisicao/image14.jpeg)
 
@@ -1680,7 +1680,7 @@ em avançar;
 Passo 3: O Sistema apresenta uma tela para a inserção dos Dados
 cadastrais.
 
-[Fluxo de Registro Inicial]{.underline}
+**Fluxo de Registro Inicial**
 
 O Sistema apresenta os dados do Usuário/Responsável pelo Registro bem
 como o Nome e CPF da Pessoa Física Adquirente, oriundos do e-CPF e da
@@ -1716,7 +1716,7 @@ preenchimento opcional:
 >
 > \- Endereço do Canal do *Youtube* da Pessoa Física Adquirente.
 
-[Fluxo de Manutenção de Informações]{.underline}
+**Fluxo de Manutenção de Informações**
 
 Após 1 ano, ou sempre que houver alguma alteração nas informações
 incluídas no cadastro do Siscoserv, o Usuário / Responsável pelo
@@ -1742,10 +1742,10 @@ em Salvar.
 Passo 1: Responsável pelo Registro acessa o Siscoserv e clica em
 Informações cadastrais;
 
-[Obs: No primeiro acesso do usuário ao Sistema, o usuário será
+Obs: No primeiro acesso do usuário ao Sistema, o usuário será
 direcionado diretamente para a ficha de Informações Cadastrais. Não será
 possível efetuar novo registro antes de preencher os dados
-solicitados.]{.underline}
+solicitados.
 
 ![Cadastro1](./media/aquisicao/image14.jpeg)
 
@@ -1757,7 +1757,7 @@ Avançar;
 Passo 3: O Sistema apresenta uma tela para a inserção dos Dados
 cadastrais.
 
-[Fluxo de Registro Inicial]{.underline}
+**Fluxo de Registro Inicial**
 
 O Sistema apresenta os dados do Usuário/Responsável pelo Registro,
 oriundos do e-CPF e da Procuração eletrônica, que se apresentam em fundo
@@ -1790,7 +1790,7 @@ Existem outros campos de preenchimento opcional:
 >
 > \- Endereço do Canal do *Youtube* da Pessoa Física Adquirente.
 
-[Fluxo de Manutenção de Informações]{.underline}
+**Fluxo de Manutenção de Informações**
 
 Após 1 ano, ou sempre que houver alguma alteração nas informações
 incluídas no cadastro do Siscoserv, o Usuário/Responsável pelo Registro
@@ -2129,8 +2129,8 @@ prestação, estes devem ser informados no RAS. Caso isso não seja
 possível, deve ser indicado o modo de prestação predominante para a
 aquisição daquele serviço associado ao valor total da operação.
 
-[Não há registro de operação no]{.underline} [Modo 3](#Modo3) [-
-Presença Comercial no Brasil no Módulo Aquisição]{.underline} pelas
+Não há registro de operação no [Modo 3](#Modo3) -
+Presença Comercial no Brasil no Módulo Aquisição pelas
 razões explicitadas na pagina 14 deste Manual.
 
 #### Data de Início
@@ -3544,7 +3544,7 @@ opções possíveis aquelas que deseja e clica em "Gerar Relatório".
 
 Podem ser selecionadas as seguintes opções:
 
-[Agrupamento:]{.underline}
+**Agrupamento:**
 
 \- CNPJ de 14 posições: para gerar o relatório de apenas uma empresa do
 Grupo; ou
@@ -3554,13 +3554,13 @@ do mesmo Grupo. Este tipo de consulta está
 disponível apenas para CNPJ de natureza matriz, que terá acesso aos
 registros da própria matriz e de suas filiais.
 
-[Opção de registros efetuados no Sistema:]{.underline}
+**Opção de registros efetuados no Sistema:**
 
 \- RAS ou RP: serão disponibilizados todos os registros efetuados no
 período de 1 ano. As informações sobre os RAS aparecem em uma planilha e
 as informações sobre os RP em outra.
 
-[Período para geração do relatório:]{.underline}
+**Período para geração do relatório:**
 
 \- Selecionar o período das informações desejadas, que não deve ser
 superior a 1 ano.
@@ -3718,13 +3718,13 @@ opções possíveis, aquelas que deseja e clica em "Gerar Relatório".
 
 Podem ser selecionadas as seguintes opções:
 
-[Opção de registros efetuados no Sistema:]{.underline}
+**Opção de registros efetuados no Sistema:**
 
 \- RAS ou RP: serão disponibilizados todos os registros efetuados no
 período de 1 ano. As informações sobre os RAS aparecem em uma planilha e
 as operações sobre os RP em outra.
 
-[Data para geração do relatório:]{.underline}
+**Data para geração do relatório:**
 
 \- Selecionar o período das informações desejadas, que não deve ser
 superior a 1 ano.
@@ -3756,13 +3756,13 @@ opções possíveis, aquelas que deseja e clica em "Gerar Relatório".
 
 Podem ser selecionadas as seguintes opções:
 
-[Opção de registros efetuados no Sistema:]{.underline}
+**Opção de registros efetuados no Sistema:**
 
 \- RAS ou RP: serão disponibilizados todos os registros efetuados no
 período de 1 ano. As informações sobre os RAS aparecem em uma planilha e
 as operações sobre os RP em outra.
 
-[Data para geração do relatório:]{.underline}
+**Data para geração do relatório:**
 
 \- Selecionar o período das informações desejadas, que não deve ser
 superior a 1 ano.
@@ -3798,7 +3798,7 @@ aos casos que não foram aqui descritos.
 ![Cena\_rios
 Siscoserv](./media/aquisicao/image152.jpeg)
 
-[Atores]{.underline}:
+**Atores:**
 
 > E~BR~: Exportador residente ou domiciliado no Brasil
 >
@@ -3808,7 +3808,7 @@ Siscoserv](./media/aquisicao/image152.jpeg)
 >
 > I~EX~: Importador residente ou domiciliado no Exterior
 
-[Relações entre os Atores:]{.underline}
+**Relações entre os Atores:**
 
 > E~BR~ -- I~EX~: Exportador Brasileiro se compromete a transportar
 > mercadorias até o local indicado pelo Importador residente ou
@@ -3830,7 +3830,7 @@ Siscoserv](./media/aquisicao/image152.jpeg)
 > revela-se por meio da existência de contrato, escrito ou não, e
 > faturamento correspondente.
 
-[Registros devidos:]{.underline}
+**Registros devidos:**
 
 > E~BR~: RAS pelo serviço de transporte tendo T~EX~ como vendedor.
 >
@@ -3846,7 +3846,7 @@ Siscoserv](./media/aquisicao/image152.jpeg)
 1.2 -
 Correto.png](./media/aquisicao/image153.png)
 
-[Atores]{.underline}:
+**Atores:**
 
 > I~BR~: Importador residente ou domiciliado no Brasil
 >
@@ -3858,7 +3858,7 @@ Correto.png](./media/aquisicao/image153.png)
 >
 > T~EX~: Transportador residente ou domiciliado no Exterior
 
-[Relações entre os Atores:]{.underline}
+**Relações entre os Atores:**
 
 > I~BR~ -- E~EX~: I~BR~ assume o ônus de transportar a mercadoria
 > importada
@@ -3871,7 +3871,7 @@ Correto.png](./media/aquisicao/image153.png)
 > transportar as mercadorias até o local indicado por I~BR~, sendo que
 > T~EX~ de fato fará o transporte.
 
-[Registros devidos:]{.underline}
+**Registros devidos:**
 
 > I~BR~: RAS pelo serviço de transporte tendo T~EX~ como vendedor.
 >
@@ -3887,7 +3887,7 @@ Correto.png](./media/aquisicao/image153.png)
 ![Cenários
 1](./media/aquisicao/image154.png)
 
-[Atores]{.underline}:
+**Atores:**
 
 > E~EX~: Exportador residente ou domiciliado no Exterior
 >
@@ -3899,7 +3899,7 @@ Correto.png](./media/aquisicao/image153.png)
 >
 > T~EX~: Transportador residente ou domiciliado no Exterior
 
-[Relações entre os Atores]{.underline}:
+Relações entre os Atores:
 
 > E~EX~ -- I~BR~: E~EX~ compromete-se com o I~BR~ a transportar a
 > mercadoria até local indicado por I~BR~ em solo brasileiro.
@@ -3913,7 +3913,7 @@ Correto.png](./media/aquisicao/image153.png)
 > C~EX~ -- T~EX~: C~EX~ contrata em seu próprio nome T~EX~ para
 > transportar a mercadoria.
 
-[Registros devidos]{.underline}:
+**Registros devidos:**
 
 > D~BR~: RVS pelo serviço de desconsolidação tendo C~EX~ como
 > adquirente.
@@ -3928,7 +3928,7 @@ Correto.png](./media/aquisicao/image153.png)
 ![C:\\Users\\luple\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Cenário
 1.4 - Correto.png](./media/aquisicao/image155.png)
 
-[Atores]{.underline}:
+**Atores:**
 
 > E~BR~: Exportador residente ou domiciliado no Brasil
 >
@@ -3941,7 +3941,7 @@ Correto.png](./media/aquisicao/image153.png)
 > T~EX~: Transportador, operador de veículo, residente ou domiciliado no
 > Exterior.
 
-[Relações entre os Atores:]{.underline}
+**Relações entre os Atores:**
 
 > E~BR~ -- I~EX~: E~BR~ compromete-se com o I~EX~ a transportar a
 > mercadoria até local indicado por I~EX~.
@@ -3955,7 +3955,7 @@ Correto.png](./media/aquisicao/image153.png)
 > C~BR~ -- D~EX~: C~BR~ contrata D~EX~ para fazer a desconsolidação da
 > mercadoria.
 
-[Registros devidos:]{.underline}
+**Registros devidos:**
 
 > C~BR~: RAS pelo serviço de transporte tendo T~EX~ como vendedor e RAS
 > pelo serviço de desconsolidação, tendo D~EX~ como vendedor.
@@ -3964,7 +3964,7 @@ Correto.png](./media/aquisicao/image153.png)
 
 ### Cenário 2.1. Contratação de seguro com intermediação de corretora
 
-[Descrição]{.underline}
+**Descrição**
 
 Empresa residente ou domiciliada no Brasil -- Emp~BR~, utiliza corretora
 de seguros, também residente ou domiciliada no Brasil, -- Cor~BR~ que
@@ -3977,7 +3977,7 @@ Siscoserv.
 ![Cena\_rios
 Siscoserv](./media/aquisicao/image156.jpeg)
 
-[Atores]{.underline}:
+**Atores:**
 
 > Emp~BR~: Empresa residente ou domiciliado no Brasil
 >
@@ -3985,7 +3985,7 @@ Siscoserv](./media/aquisicao/image156.jpeg)
 >
 > Seg~EX~: Seguradora residente ou domiciliado no Exterior
 
-[Relações entre os Atores:]{.underline}
+**Relações entre os Atores:**
 
 > Emp~BR~ -- Cor~BR~: Emp~BR~ contrata Cor~BR~ para que, em nome de
 > Emp~BR~, contrate o seguro.
@@ -3993,7 +3993,7 @@ Siscoserv](./media/aquisicao/image156.jpeg)
 > Cor~BR~ -- Seg~EX~: Cor~BR~ contrata seguro de Seg~EX~, em nome de
 > Emp~BR~.
 
-[Registros devidos]{.underline}:
+**Registros devidos:**
 
 > Emp~BR~: RAS pelo serviço de seguro tendo Seg~EX~ como vendedora.
 
@@ -4012,7 +4012,7 @@ e, consequentemente, o responsável pelo registro no Siscoserv
 ![Cena\_rios
 Siscoserv](./media/aquisicao/image157.jpeg)
 
-[Atores]{.underline}:
+**Atores:**
 
 > Emp~BR~: Empresa residente ou domiciliado no Brasil
 >
@@ -4020,7 +4020,7 @@ Siscoserv](./media/aquisicao/image157.jpeg)
 >
 > Seg~EX~: Seguradora residente ou domiciliado no Exterior
 
-[Relações entre os Atores:]{.underline}
+**Relações entre os Atores:**
 
 > Emp~BR~ -- Est~BR~: Emp~BR~ contrata seguro de Est~BR~.
 >
@@ -4028,7 +4028,7 @@ Siscoserv](./media/aquisicao/image157.jpeg)
 > Seg~EX~ e paga por ela, ficando investida dos poderes de representação
 > dos segurados, inclusive Emp~EX~, perante Seg~EX~
 
-[Registros devidos]{.underline}:
+**Registros devidos:**
 
 > Est~BR~: RAS pelo serviço de seguro tendo Seg~EX~ como vendedora.
 
