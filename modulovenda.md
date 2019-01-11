@@ -364,7 +364,7 @@ Não deverão registrar operações em Modo 4 no Siscoserv as Pessoas Jurídicas
 
 ## 9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS)]
 
-O registro de [operações](#operacao) no Siscoserv será realizado de acordo com a [Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio(NBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13) e pelas respectivas [Notas Explicativas(NEBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13), aprovadas pelo [[Decreto nº]{.underline} [7.708, de 2 de abril de 2012](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm), e suas alterações posteriores.
+O registro de [operações](#operacao) no Siscoserv será realizado de acordo com a [Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio(NBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13) e pelas respectivas [Notas Explicativas(NEBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13), aprovadas pelo [Decreto nº 7.708, de 2 de abril de 2012](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm), e suas alterações posteriores.
 
 A prestação de serviços[^10] iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jspdata=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
 
@@ -457,7 +457,7 @@ O usuário pode informar diretamente o código, ou localizá-lo acionando a ferr
 
 Na informação do código NBS, a posição mais específica prevalece sobre a mais genérica, sendo que o código só pode ser informado em seu maior nível de detalhamento (nove dígitos).
 
-> *[Exemplo 1:]{.underline}*
+> *Exemplo 1:*
 >
 > Código NBS
 >
@@ -475,7 +475,7 @@ Na informação do código NBS, a posição mais específica prevalece sobre a m
 >
 > **Código a ser informado**: 1.0105.11.00
 >
-> *[Exemplo 2:]{.underline}*
+> *Exemplo 2:*
 >
 > **Capítulo 1:** 1.07
 >
@@ -582,8 +582,7 @@ Em caso de erros ou falhas apresentados pelo Sistema, estão disponíveis os can
 > ou*\
 > - *Fone: 0800-978-2331.*
 
--   **[Dúvidas sobre classificação de serviços, intangíveis e outras
-    operações que produzam variações no patrimônio:]{.underline}**
+-   ** Dúvidas sobre classificação de serviços, intangíveis e outras operações que produzam variações no patrimônio: **
 
 Deve ser realizada consulta às Regras de Interpretação da Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio -- NBS, bem como às suas Notas Explicativas
 (NEBS), disponíveis nos seguintes endereços eletrônicos:
@@ -608,9 +607,7 @@ Também está disponível no sítio da Secretaria de Comércio e Serviços
 -   **[Dúvidas sobre casos concretos -- Consultas à Secretaria da
     Receita Federal do Brasil ]**
 
-A consulta é o instrumento previsto na [[Instrução Normativa RFB n º
-1.396, de 16 de setembro de
-2013]{.underline}](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=46030)
+A consulta é o instrumento previsto na [Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=46030)
 que o contribuinte possui para esclarecer dúvidas quanto à interpretação de determinado dispositivo da legislação tributária e aduaneira relativo aos tributos administrados pela Secretaria da Receita Federal do Brasil
 (RFB) e sobre a classificação de serviços, intangíveis e outras operações que produzam variações no patrimônio.
 
@@ -762,9 +759,7 @@ financeira, cambial e fiscal que caracterizam a operação de exportação de um
 > retorne ao País com ânimo definitivo, na data da chegada;
 >
 > V - que se ausente do Brasil em caráter temporário, ou se retire em
-> caráter permanente do território nacional sem entregar a [[Comunicação
-> de Saída Definitiva do
-> País]{.underline}](http://www.receita.fazenda.gov.br/PessoaFisica/IRPF/2011/glossario.html#5939266742eb5e38f545ffbcfaa734e986a45f13),
+> caráter permanente do território nacional sem entregar a [Comunicação de Saída Definitiva do País](http://www.receita.fazenda.gov.br/PessoaFisica/IRPF/2011/glossario.html#5939266742eb5e38f545ffbcfaa734e986a45f13),
 > durante os primeiros doze meses consecutivos de ausência.<a id="2szc72q"></a>  
 >
 
@@ -885,8 +880,7 @@ O Sistema apresenta os dados do Usuário/Responsável pelo Registro (nome e CPF)
 
 No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco, não apresentam nenhum dado e devem ser preenchidos. São campos obrigatórios:
 
-> \- Telefone do [[Usuário/Responsável pelo
-> Registro]{.underline}](#2y3w247);
+> \- Telefone do [Usuário/Responsável pelo Registro](#2y3w247);
 >
 > \- E-mail do Usuário/Responsável pelo Registro;
 >
@@ -898,8 +892,7 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco,
 >
 > \- Endereço da Empresa Vendedora;
 >
-> \- Nome do [[Diretor de Relações Governamentais ou
-> Equivalente]{.underline}](#1d96cc0) da Empresa Vendedora;
+> \- Nome do [[Diretor de Relações Governamentais ou Equivalente](#1d96cc0) da Empresa Vendedora;
 >
 > \- Telefone do Diretor de Relações Governamentais ou Equivalente da
 > Empresa Vendedora;
@@ -938,7 +931,7 @@ Passo 4: Após o preenchimento das informações, o Usuário/Responsável clica 
 
 #### 1.5.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física
 
-Passo 1: [Usuário /Responsável pelo Registro](#2y3w247)
+Passo 1: [Usuário /Responsável pelo Registro](#2y3 w247)
 acessa o Siscoserv e clica em Informações cadastrais;
 
 [Obs: No primeiro acesso do usuário ao Sistema, o usuário será
@@ -959,8 +952,7 @@ O Sistema apresenta os dados do Usuário/Responsável pelo Registro bem como o N
 
 No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco, não apresentam nenhum dado e precisam ser preenchidos. São campos obrigatórios:
 
-> \- Telefone do [[Usuário/Responsável pelo
-> Registro]{.underline}](#2y3w247);
+> \- Telefone do [Usuário/Responsável pelo Registro](#2y3w247);
 >
 > \- E-mail do Usuário/Responsável pelo Registro;
 >
@@ -984,7 +976,7 @@ Existem outros Campos de preenchimento opcional. São campos de preenchimento op
 >
 > \- Endereço do Canal do *Youtube* da Empresa Vendedora.
 
-[Fluxo de Manutenção de Informações]{.underline}
+Fluxo de Manutenção de Informações
 
 Após um (1) ano, ou sempre que houver alguma alteração nas informações incluídas no cadastro do Siscoserv, o usuário / Responsável pelo Registro poderá acessar o campo **Informações Cadastrais** e atualizar ou confirmar as informações previamente inseridas.
 
