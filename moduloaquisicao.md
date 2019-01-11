@@ -26,31 +26,31 @@ estratégias empresariais de comércio exterior de serviços e intangíveis.
 
 O Siscoserv guarda conformidade com as diretrizes do Acordo Geral sobre
 Comércio de Serviços (GATS) da Organização Mundial do Comércio (OMC),
-aprovado pelo Decreto Legislativo n^[o]{.underline}^ 30, de 15 de
-dezembro de 1994, e promulgado pelo Decreto n^[o]{.underline}^ 1.355, de
+aprovado pelo Decreto Legislativo n° 30, de 15 de
+dezembro de 1994, e promulgado pelo Decreto n° 1.355, de
 30 de dezembro de 1994.
 
 ## 2. Base Legal do Siscoserv
 
-[Lei n^o^ 12.546, de 14 de dezembro de 2011, artigos 24 a
+[Lei n° 12.546, de 14 de dezembro de 2011, artigos 24 a
 27.](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12546.htm)
 
-[Decreto n^o^ 7.708, de 02 de abril de
+[Decreto n° 7.708, de 02 de abril de
 2012.](http://www.planalto.gov.br/CCIVIL_03/_Ato2011-2014/2012/Decreto/D7708.htm)
 
-Portaria MDIC n^o^ 113, de 17 de maio de 2012, com suas alterações
+Portaria MDIC n° 113, de 17 de maio de 2012, com suas alterações
 posteriores.
 
-Instrução Normativa RFB n^o^ 1.277, de 28 de junho de 2012, com suas
+Instrução Normativa RFB n° 1.277, de 28 de junho de 2012, com suas
 alterações posteriores.
 
-[Portaria Conjunta RFB/SCS n^o^ 1.908, de 19 de julho de 2012, com suas
+[Portaria Conjunta RFB/SCS n° 1.908, de 19 de julho de 2012, com suas
 alterações
 posteriores.](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012)
 
 Portaria Conjunta RFB/SCS nº 2.000, de 18 de dezembro de 2018.
 
-Portaria Conjunta RFB/SCS n^o^ 2.066, de 21 de dezembro de 2018.
+Portaria Conjunta RFB/SCS n° 2.066, de 21 de dezembro de 2018.
 
 A prestação de informação no Siscoserv observa as normas complementares
 estabelecidas neste Manual.
@@ -128,7 +128,7 @@ domiciliados no exterior devem ser registradas quando ensejarem
 
 #### 4.1.1. Prazo para o RAS
 
-O prazo para incluir o RAS é até o último dia útil do 3^[o]{.underline}^
+O prazo para incluir o RAS é até o último dia útil do 3°
 (terceiro) mês subsequente à [data de início da prestação de
 serviço](#datainicio)[^3]
 
@@ -136,7 +136,7 @@ serviço](#datainicio)[^3]
 ![](./media/aquisicao/image4.png)
 
 Até 31 de dezembro de 2013, o prazo para o RAS foi, excepcionalmente,
-até o último dia útil do 6^[º]{.underline}^ (sexto) mês subsequente à
+até o último dia útil do 6° (sexto) mês subsequente à
 data de início da prestação de serviço, da comercialização de intangível
 ou da realização de operação que produza variação no patrimônio.
 
@@ -312,7 +312,7 @@ prestação do serviço[^8], justificando o valor registrado no campo
 **Informações Complementares**.
 
 Caso tenha ocorrido o pagamento integral antes das datas constantes do
-Anexo Único da Portaria Conjunta RFB/SCS n^[o]{.underline}^ 1.908, de 19
+Anexo Único da Portaria Conjunta RFB/SCS n° 1.908, de 19
 de julho de 2012, e não tenha sido iniciada a prestação do serviço[^9],
 o registro de pagamento obedece ao [item 2.2 do Capítulo 2 deste
 Manual](#inclusão-do-rp).
@@ -377,14 +377,14 @@ Pessoa Física](#Modo4), em relação a essa operação.
 Estão dispensadas do registro no Siscoserv, **nas operações que não
 tenham utilizado mecanismos de apoio** ao comércio exterior de serviços,
 de intangíveis e demais operações de que trata o art. 26 da Lei
-n^[o]{.underline}^ 12.546, de 14 de dezembro de 2011:
+n° 12.546, de 14 de dezembro de 2011:
 
 I -- Empresas cadastradas no SIMPLES NACIONAL e MEI - as pessoas
 jurídicas optantes pelo Regime Especial Unificado de Arrecadação de
 Tributos e Contribuições devidos pelas Microempresas e Empresas de
 Pequeno Porte -- Simples Nacional e os Microempreendedores Individuais
-(MEI) de que trata o §1^[o]{.underline}^ do artigo 18-A da Lei
-Complementar n^[o]{.underline}^ 123, de 14 de dezembro de 2006; e
+(MEI) de que trata o §1° do artigo 18-A da Lei
+Complementar n° 123, de 14 de dezembro de 2006; e
 
 II -- Pessoas Físicas - as pessoas físicas residentes no País que, em
 nome individual, não explorem, habitual e profissionalmente, qualquer
@@ -403,8 +403,8 @@ O Registro de Aquisição de Serviços, [Intangíveis](#Intangível) e
 implantação do Siscoserv, ao cronograma, que tem por base a Nomenclatura
 Brasileira de Serviços, Intangíveis e Outras Operações que Produzam
 Variações no Patrimônio -- NBS, conforme previsto no §
-5^[º]{.underline}^ do art. 6^[º]{.underline}^ da [Portaria Conjunta
-RFB/SCS n^o^ 1.908, de 19 de julho de
+5° do art. 6° da [Portaria Conjunta
+RFB/SCS n° 1.908, de 19 de julho de
 2012](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012).
 
 ## 8. Modos de Prestação de Serviços - Módulo Aquisição
@@ -447,11 +447,9 @@ país por residente ou domiciliado no Brasil.
 
 Exemplos:
 
--   serviços educacionais presenciais prestados no exterior a residente
-    > no Brasil;
+-   serviços educacionais presenciais prestados no exterior a residente no Brasil;
 
--   capacitação no exterior de funcionários de pessoa jurídica
-    > domiciliada no Brasil;
+-   capacitação no exterior de funcionários de pessoa jurídica domiciliada no Brasil;
 
 -   empresa brasileira envia equipamento para reparo no território de
     outro país;
@@ -497,15 +495,11 @@ domiciliado no Brasil.
 
 Exemplos:
 
--   arquiteto residente no exterior desloca-se para desenvolver projeto
-    > de arquitetura no Brasil;
+-   arquiteto residente no exterior desloca-se para desenvolver projeto de arquitetura no Brasil;
 
--   empreiteiras domiciliadas no exterior enviam trabalhadores que
-    > mantêm vínculo empregatício no exterior para construção de uma
-    > rodovia no Brasil;
+-   empreiteiras domiciliadas no exterior enviam trabalhadores que mantêm vínculo empregatício no exterior para construção de uma rodovia no Brasil;
 
--   advogado residente no exterior desloca-se a fim de prestar
-    > consultoria jurídica no Brasil.
+-   advogado residente no exterior desloca-se a fim de prestar consultoria jurídica no Brasil.
 
 ![Imagens
 Siscoserv](./media/aquisicao/image8.jpeg)
@@ -527,7 +521,7 @@ Patrimônio
 (NBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13)
 e pelas respectivas [Notas Explicativas
 (NEBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13),
-aprovadas pelo [Decreto n^o^ 7.708, de 2 de abril de
+aprovadas pelo [Decreto n° 7.708, de 2 de abril de
 2012](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm),
 e Portarias Conjuntas RFB/SCS que atualizam a Nomenclatura.
 
@@ -750,8 +744,8 @@ Explicativas](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de
 
 Caso persistam dúvidas, deve ser formalizado processo administrativo de
 **consulta** à Secretaria da Receita Federal do Brasil (RFB), nos termos
-do art. 48 da Lei n^[o]{.underline}^ 9.430, de 27 de dezembro de 1996 e
-do Decreto n^[o]{.underline}^ 7.708, de 02 de abril de 2012, que
+do art. 48 da Lei n° 9.430, de 27 de dezembro de 1996 e
+do Decreto n° 7.708, de 02 de abril de 2012, que
 instituiu a NBS.
 
 ## 10. Mecanismos de apoio / fomento ao Comércio Exterior de Serviços e Intangíveis
@@ -760,7 +754,7 @@ instituiu a NBS.
 no Siscoserv tem a finalidade de contribuir para a gestão do fomento
 pelos órgãos e instituições responsáveis pela sua concessão. Esta
 informação deve ser registrada em cumprimento ao previsto no art. 26 da
-Lei n^[o]{.underline}^ 12.546, de 14 de dezembro de 2011.
+Lei n° 12.546, de 14 de dezembro de 2011.
 
 O campo enquadramento deve ser obrigatoriamente preenchido no caso de
 [operação](#Operação) amparada em um ou mais mecanismos de apoio/fomento
@@ -1313,7 +1307,7 @@ a 7 da Parte II do Acordo sobre os Aspectos dos Direitos de Propriedade
 Intelectual Relacionados ao Comércio, conforme o Anexo 1C do Acordo
 Constitutivo da Organização Mundial do Comércio constante da Ata Final
 que incorpora os Resultados das Negociações Comerciais Multilaterais da
-Rodada Uruguai, aprovada pelo Decreto n^[o]{.underline}^ 1.355, de 31 de
+Rodada Uruguai, aprovada pelo Decreto n° 1.355, de 31 de
 dezembro de 1994;
 
 II - os contratos de transferência de tecnologia envolvendo a prestação
@@ -1408,10 +1402,10 @@ comercial, financeira, cambial e fiscal que caracterizam a operação de
 exportação de uma mercadoria e definem o seu enquadramento.
 
 []{#residente .anchor}**Residente no Brasil:** Considera-se residente no
-Brasil a pessoa física (Lei n^[o]{.underline}^ 9.718, de 27 de novembro
-de 1998, art. 12; Instrução Normativa SRF n^[o]{.underline}^ 208, de 27
-de setembro de 2002, art. 2^[o]{.underline}^, com a alteração dada pela
-Instrução Normativa RFB n^[o]{.underline}^ 1.008, de 9 de fevereiro de
+Brasil a pessoa física (Lei n° 9.718, de 27 de novembro
+de 1998, art. 12; Instrução Normativa SRF n° 208, de 27
+de setembro de 2002, art. 2°, com a alteração dada pela
+Instrução Normativa RFB n° 1.008, de 9 de fevereiro de
 2010):
 
 > I - que resida no Brasil em caráter permanente;
@@ -1447,9 +1441,9 @@ Instrução Normativa RFB n^[o]{.underline}^ 1.008, de 9 de fevereiro de
 refere-se aos recursos em moeda estrangeira, relativos aos recebimentos
 de serviços, intangíveis ou outras operações que produzam variações no
 patrimônio das entidades, mantidos no exterior, nos termos da [Lei
-n^[o]{.underline}^
+n°
 11.371/2006](http://www.receita.fazenda.gov.br/Legislacao/Leis/2006/lei11371.htm)
-e [Instrução Normativa n^[o]{.underline}^ 726, de 28 de fevereiro de
+e [Instrução Normativa n° 726, de 28 de fevereiro de
 2007](http://www.receita.fazenda.gov.br/Legislacao/Ins/2007/in7262007.htm).
 
 
@@ -1952,16 +1946,16 @@ Em seguida, o Siscoserv apresenta a seguinte tela:
 ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image35.png)
 
 O usuário deve indicar que as informações objeto de registro serão
-prestadas em atendimento aos arts. 25 e 26 da Lei n^[o]{.underline}^
-12.546, de 14 de dezembro de 2011, à Portaria MDIC n^[o]{.underline}^
+prestadas em atendimento aos arts. 25 e 26 da Lei n°
+12.546, de 14 de dezembro de 2011, à Portaria MDIC n°
 113, de 17 de maio de 2012, e à Instrução Normativa RFB
-n^[o]{.underline}^ 1.277, de 28 de junho de 2012.
+n° 1.277, de 28 de junho de 2012.
 
 Escolha uma das opções de atendimento à legislação para seguir adiante.
 No caso da não indicação de que o registro será feito em atendimento
 concomitante à legislação supracitada, o adquirente estará sujeito às
-sanções previstas no art. 7^[o]{.underline}^ ou no art.
-8^[o]{.underline}^ da Portaria Conjunta RFB/SCS n^[o]{.underline}^
+sanções previstas no art. 7° ou no art.
+8° da Portaria Conjunta RFB/SCS n°
 1.908, de 19 de julho de 2012.
 
 É possível manter a opção de atendimento à legislação para os futuros
