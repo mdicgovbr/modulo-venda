@@ -185,7 +185,7 @@ possíveis, dependendo da data de pagamento:
 
 []{#_Toc528774088 .anchor}
 
-4.3. Situações especiais de registro
+### 4.3. Situações especiais de registro
 ------------------------------------
 
 #### 4.3.1. Operação com data de conclusão indeterminada
@@ -3811,7 +3811,7 @@ Gerenciais RP](#relatorioRF).
 # Capítulo 3 - Cenários Exemplificativos de Registro no Siscoserv
 
 
- ## 1. Registro de Transporte Internacional de Cargas (Frete)
+## 1. Registro de Transporte Internacional de Cargas (Frete)
 
 A contratação de serviços de transporte de carga envolve vários "atores"
 executando diferentes "papéis". Nos exemplos a seguir, são mostradas, em
