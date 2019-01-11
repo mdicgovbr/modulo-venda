@@ -10,3 +10,4 @@ title: Módulo Venda
 
 * [Módulo Venda](/modulo-venda)
 * [Módulo Aquisição](/modulo-aquisicao)
+* [Glossário](/glossario)

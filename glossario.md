@@ -1,10 +1,18 @@
+---
+published: true
+permalink: /glossario
+layout: slate
+filename: glossario.md
+title: Glossário
+---  
+
 # Glossário
 
 Esse glossário foi desenvolvido para facilitar o entendimento dos
 conceitos presentes nos registros do Siscoserv.
 
 ## Admissão Temporária:
-regime aduaneiro especial que permite a importação de bens que devam permanecer no País
+Regime aduaneiro especial que permite a importação de bens que devam permanecer no País
 durante prazo e finalidade fixados, com suspensão de tributos na
 importação, retornando ao exterior sem sofrer modificações que lhes
 confiram nova individualidade. Também poderão ser submetidos a este
@@ -13,13 +21,13 @@ bens, desde que com o pagamento proporcional dos impostos federais
 incidentes na importação, de acordo com o tempo de permanência no País.
 
 ## Data de início da prestação de serviço:
-é a data acordada entre residente e domiciliado no Brasil e residente e
+É a data acordada entre residente e domiciliado no Brasil e residente e
 domiciliado no exterior em contrato (formal ou não) para o início da
 prestação do serviço; para a transferência de intangível; e para a
 realização de operação que produza variação no patrimônio.
 
 ## Declaração de Importação (DI):
-é um documento eletrônico exigido na importação de bens, cujo processamento ocorre através do Sistema
+É um documento eletrônico exigido na importação de bens, cujo processamento ocorre através do Sistema
 Integrado de Comércio Exterior -- Siscomex--Importação. A DI consolida
 as informações cambiais, tributárias, fiscais, comerciais e estatísticas
 da operação. 
@@ -32,7 +40,7 @@ nas deliberações sociais e o poder de eleger a maioria dos
 administradores.
 
 ## Ente Despersonalizado:
-trata-se um termo da doutrina jurídica para se referir aos entes que não possuem
+Trata-se um termo da doutrina jurídica para se referir aos entes que não possuem
 denominação legal específica, mas que podem, nos termos do art. 12 do
 Código de Processo Civil Brasileiro, ser representados em juízo, ativa e
 passivamente. São entes despersonalizados: a massa falida, a herança
@@ -40,12 +48,12 @@ jacente ou vacante, o espólio, as sociedades sem personalidade jurídica
 e o condomínio.
 
 ## Exportação Temporária:
-regime aduaneiro especial que permite a saída do País, com suspensão do imposto de exportação, de mercadoria nacional
+Regime aduaneiro especial que permite a saída do País, com suspensão do imposto de exportação, de mercadoria nacional
 ou nacionalizada, condicionada ao seu retorno em prazo determinado, no
 mesmo estado em que foi exportada.
 
 ## Serviço:
-é uma obrigação de fazer do prestador destinada a atender
+É uma obrigação de fazer do prestador destinada a atender
 uma necessidade do tomador.
 
 ## Intangível:
@@ -88,7 +96,7 @@ A movimentação temporária de bens ocorre tanto na importação (Admissão Tem
 (Exportação Temporária).
 
 ## Negócio:
-operação ou conjunto de operações integrantes do contrato de prestação de serviços; da transferência ou da aquisição do
+Operação ou conjunto de operações integrantes do contrato de prestação de serviços; da transferência ou da aquisição do
 intangível; e da realização de operação(ões) que produza(m)
 variação(ões) no patrimônio.
 
@@ -97,7 +105,7 @@ variação(ões) no patrimônio.
 ou jurídica.
 
 ## Operação:
-conjunto de dados que caracterizam a prestação de um serviço, a transferência ou aquisição de intangível e a
+Conjunto de dados que caracterizam a prestação de um serviço, a transferência ou aquisição de intangível e a
 realização de operação que produza variação no patrimônio. No RAS, são
 dados de uma operação: Código da NBS, Descrição da NBS, Código e País de
 Destino; Código e Descrição da Moeda; Modo de Prestação; Data de Início;
@@ -123,7 +131,7 @@ São exemplos:
 > \- Fomento comercial (*factoring),* código NBS 1.0908.00.00.
 
 ## Pagamento:
-é o valor transferido, creditado, empregado, entregue ou remetido a residente ou domiciliado no
+É o valor transferido, creditado, empregado, entregue ou remetido a residente ou domiciliado no
 exterior, decorrente da aquisição de serviços, intangíveis e outras
 operações que produzam variações no patrimônio por residente ou
 domiciliado no Brasil.
@@ -148,7 +156,7 @@ beneficiário do pagamento): data em que o valor é aplicado por conta e
 ordem do beneficiário do pagamento.
 
 ## Registro de Exportação (RE):
-no Sistema Integrado de Comércio Exterior - Siscomex é o conjunto de informações de natureza
+No Sistema Integrado de Comércio Exterior - Siscomex é o conjunto de informações de natureza
 comercial, financeira, cambial e fiscal que caracterizam a operação de
 exportação de uma mercadoria e definem o seu enquadramento.
 
@@ -189,9 +197,6 @@ Instrução Normativa RFB n° 1.008, de 9 de fevereiro de
 > durante os primeiros doze meses consecutivos de ausência.
 
 ## Valor Mantido no Exterior:
-refere-se aos recursos em moeda estrangeira, relativos aos recebimentos de serviços, intangíveis ou outras operações que produzam variações no
-patrimônio das entidades, mantidos no exterior, nos termos da [Lei
-n°
-11.371/2006](http://www.receita.fazenda.gov.br/Legislacao/Leis/2006/lei11371.htm)
-e [Instrução Normativa n° 726, de 28 de fevereiro de
-2007](http://www.receita.fazenda.gov.br/Legislacao/Ins/2007/in7262007.htm).
+Refere-se aos recursos em moeda estrangeira, relativos aos recebimentos de serviços, intangíveis ou outras operações que produzam variações no
+patrimônio das entidades, mantidos no exterior, nos termos da [Lei n° 11.371/2006](http://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11371.htm)
+e [Instrução Normativa n° 726, de 28 de fevereiro de 2007](http://sijut2.receita.fazenda.gov.br/sijut2consulta/link.action?&visao=original&idAto=15670).
