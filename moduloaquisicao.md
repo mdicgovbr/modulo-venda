@@ -428,8 +428,7 @@ Exemplos:
 -   serviços de transporte internacional de cargas prestado por empresa
     > domiciliada no exterior a empresa domiciliada no Brasil.
 
-> ![Imagens
-> Siscoserv](./media/aquisicao/image6.jpeg)
+> ![](./media/aquisicao/image6.jpeg)
 
 ### Modo 2 - Consumo no Exterior
 
@@ -454,7 +453,7 @@ Exemplos:
 
 -   serviços de hospedagem prestados no exterior a residente no Brasil.
 
-> ![Imagens Siscoserv](./media/aquisicao/image7.jpeg)
+> ![](./media/aquisicao/image7.jpeg)
 
 ### Modo 3 - Presença comercial no Brasil
 
@@ -493,8 +492,7 @@ Exemplos:
 
 -   advogado residente no exterior desloca-se a fim de prestar consultoria jurídica no Brasil.
 
-![Imagens
-Siscoserv](./media/aquisicao/image8.jpeg)
+![](./media/aquisicao/image8.jpeg)
 
 Devem registrar [operações](#operaçao) em Modo 4 no Módulo Aquisição do
 Siscoserv as pessoas físicas ou jurídicas
@@ -626,8 +624,7 @@ f\) o nono dígito é o subitem.
 A sistemática de classificação dos códigos da NBS obedece à seguinte
 estrutura:
 
-![Descrição: Descrição:
-graphic](./media/aquisicao/image9.png)
+![](./media/aquisicao/image9.png)
 
 Exemplo:
 
@@ -665,8 +662,7 @@ subitem como, por exemplo:
   1.2206.19.10   Serviços de palestras e conferências
 
 O usuário pode informar diretamente o código, ou localizá-lo acionando a
-ferramenta de busca: ![Descrição: Descrição:
-graphic](./media/aquisicao/image10.png), situada ao lado do campo **Código
+ferramenta de busca: ![](./media/aquisicao/image10.png), situada ao lado do campo **Código
 NBS**.
 
 Na informação do código NBS, a posição mais específica prevalece sobre a
@@ -707,8 +703,7 @@ dígitos.
 
 Para utilizar a ferramenta de busca:
 
-1-   no campo **Código NBS**, acionar botão ![Descrição: Descrição:
-graphic](./media/aquisicao/image10.png);
+1-   no campo **Código NBS**, acionar botão ![](./media/aquisicao/image10.png);
 
 2-   é aberta a janela **Seleção de Código NBS** para realização da
 busca do código;
@@ -721,13 +716,13 @@ expandindo os níveis "Capítulo", "Posição", "Subposição", "Item" e
 "Subitem", conforme o caso. Uma vez identificado o código NBS, acione
 **Confirmar.**
 
-![Pesquisa\_Código\_Aquisição](./media/aquisicao/image11.jpeg)
+![](./media/aquisicao/image11.jpeg)
 
 **Utilizar Pesquisa por Descrição:** no campo **Descrição**, informe
 termo que identifique o serviço, acione **Pesquisar**, selecione com um
 clique um dos códigos NBS localizados, acione **Confirmar.**
 
-![Pesquisa\_Código\_Descrição](./media/aquisicao/image12.jpeg)
+![](./media/aquisicao/image12.jpeg)
 
 Em caso de dúvidas sobre classificação da NBS, consulte as Regras de
 Interpretação da NBS, bem como suas [Notas
@@ -1584,11 +1579,11 @@ direcionado diretamente para a ficha de Informações Cadastrais. Não será
 possível efetuar novo registro antes de preencher os dados
 solicitados.
 
-![Cadastro1](./media/aquisicao/image14.jpeg)
+![](./media/aquisicao/image14.jpeg)
 
 Passo 2: Preenche o CNPJ da empresa e clica em avançar;
 
-![Cadastro2](./media/aquisicao/image15.jpeg)
+![](./media/aquisicao/image15.jpeg)
 
 Passo 3: O Sistema apresenta uma tela para a inserção dos dados
 cadastrais.
@@ -1625,7 +1620,7 @@ campos obrigatórios:
 > \- E-mail do Diretor de Relações Governamentais ou Equivalente da
 > Empresa Adquirente;
 
-![Cadastro3](./media/aquisicao/image16.jpeg)
+![](./media/aquisicao/image16.jpeg)
 
 Existem outros Campos de preenchimento opcional:
 
@@ -1653,12 +1648,12 @@ previamente inseridas pelo usuário.
 Anualmente, será solicitada a atualização imediata dos Campos
 Obrigatórios, assim que um novo Registro for iniciado.
 
-![Cadastro4](./media/aquisicao/image17.jpeg)
+![](./media/aquisicao/image17.jpeg)
 
 Passo 4: Após o preenchimento das informações, o Usuário/Responsável
 clica em Salvar.
 
-![Cadastro\_empresa\_Aquisição1](./media/aquisicao/image18.jpeg)
+![](./media/aquisicao/image18.jpeg)
 
 #### 1.5.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física
 
@@ -1670,12 +1665,12 @@ direcionado diretamente para a ficha de Informações Cadastrais. Não será
 possível efetuar novo registro antes de preencher os dados
 solicitados.
 
-![Cadastro1](./media/aquisicao/image14.jpeg)
+![](./media/aquisicao/image14.jpeg)
 
 Passo 2: Preenche o CPF da Pessoa Física que está representando e clica
 em avançar;
 
-![Cadastro5](./media/aquisicao/image19.jpeg)
+![](./media/aquisicao/image19.jpeg)
 
 Passo 3: O Sistema apresenta uma tela para a inserção dos Dados
 cadastrais.
@@ -1701,7 +1696,7 @@ campos obrigatórios:
 >
 > \- E-mail de contato da Pessoa Física Adquirente;
 
-![Cadastro6](./media/aquisicao/image20.jpeg)
+![](./media/aquisicao/image20.jpeg)
 
 Existem outros campos de preenchimento opcional. São campos de
 preenchimento opcional:
@@ -1730,12 +1725,12 @@ previamente inseridas pelo usuário.
 Anualmente, será solicitada a atualização imediata dos Campos
 Obrigatórios assim que um novo Registro for iniciado.
 
-![Cadastro7](./media/aquisicao/image21.jpeg)
+![](./media/aquisicao/image21.jpeg)
 
 Passo 4: Após a atualização das informações, o Usuário/Responsável clica
 em Salvar.
 
-![Cadastro\_PF\_Aquisição](./media/aquisicao/image22.jpeg)
+![](./media/aquisicao/image22.jpeg)
 
 #### 1.5.3. Caso 3 -- Usuário/Responsável pelo Registro é o próprio Adquirente
 
@@ -1747,12 +1742,12 @@ direcionado diretamente para a ficha de Informações Cadastrais. Não será
 possível efetuar novo registro antes de preencher os dados
 solicitados.
 
-![Cadastro1](./media/aquisicao/image14.jpeg)
+![](./media/aquisicao/image14.jpeg)
 
 Passo 2: Seleciona a Opção "O usuário é o próprio Adquirente" e clica em
 Avançar;
 
-![Cadastro8](./media/aquisicao/image23.jpeg)
+![](./media/aquisicao/image23.jpeg)
 
 Passo 3: O Sistema apresenta uma tela para a inserção dos Dados
 cadastrais.
@@ -1776,7 +1771,7 @@ campos obrigatórios:
 >
 > \- Endereço da Pessoa Física Adquirente;
 
-![Cadastro9](./media/aquisicao/image24.jpeg)
+![](./media/aquisicao/image24.jpeg)
 
 Existem outros campos de preenchimento opcional:
 
@@ -1804,12 +1799,12 @@ previamente inseridas pelo usuário.
 Anualmente, será solicitada a atualização imediata dos Campos
 Obrigatórios assim que um novo Registro for iniciado.
 
-![Cadastro10](./media/aquisicao/image25.jpeg)
+![](./media/aquisicao/image25.jpeg)
 
 Passo 4: Após a atualização das informações, o Usuário/Responsável clica
 em Salvar.
 
-![Cadastro\_Proprio\_Comprador](./media/aquisicao/image26.jpeg)
+![](./media/aquisicao/image26.jpeg)
 
 ## 2. Procedimentos relativos ao registro no Módulo Aquisição
 
@@ -1890,8 +1885,7 @@ ou **Aproveitar Dados de RAS Incluído**.
 
 Na opção **Criar Novo RAS**, os campos a serem preenchidos estarão em
 branco. Para usar essa opção, selecione **Criar Novo RAS** e acione o
-botão ![Descrição: Descrição:
-graphic](./media/aquisicao/image31.png)
+botão ![](./media/aquisicao/image31.png)
 
 Cada RAS destina-se a apenas um contrato de prestação de serviços[^14].
 Cada contrato pode conter uma ou mais [operações](#operação) em um mesmo
@@ -1908,17 +1902,14 @@ Sistema apresentará as seguintes opções:
 
 a)  **Informar o Número do RAS:** selecionada esta opção, preencha o
     campo com número de RAS do qual se deseja aproveitar os dados e
-    acione o botão ![Descrição: Descrição:
-    graphic](./media/aquisicao/image31.png).
+    acione o botão ![](./media/aquisicao/image31.png).
 
 ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image32.png)
 
 b)  **Exibir Lista dos RAS Incluídos:** selecionada esta opção, acione o
-    botão ![Descrição: Descrição:
-    graphic](./media/aquisicao/image10.png). O Sistema exibe lista de RAS
+    botão ![](./media/aquisicao/image10.png). O Sistema exibe lista de RAS
     incluídos, do mais recente para o mais antigo. Acione o botão
-    ![Descrição: Descrição:
-    graphic](./media/aquisicao/image31.png), à direita do RAS desejado.
+    ![](./media/aquisicao/image31.png), à direita do RAS desejado.
 
 ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image33.png)
 
@@ -1981,18 +1972,18 @@ Caso não seja informado o **NIF**, deve-se selecionar uma das opções de
 **Motivo do não preenchimento**: **Dispensado do NIF** ou **País não
 exige NIF**.
 
-![](./media/aquisicao/image28.jpeg) ![Aquisição-NIF](./media/aquisicao/image37.png)
+![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image37.png)
 
 Deve-se indicar se o vendedor é pessoa vinculada ao adquirente nos
 termos do [art. 23 da Lei 9.430 de dezembro de
 1996](http://www.planalto.gov.br/ccivil_03/LEIS/L9430.htm#art23).
 
-![](./media/aquisicao/image28.jpeg) ![Aquisição-Intercompany](./media/aquisicao/image38.png)
+![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image38.png)
 
 Caso o vendedor seja pessoa vinculada ao adquirente, selecione o tipo de
 vinculação.
 
-![](./media/aquisicao/image28.jpeg) ![Aquisição-Intercompany2](./media/aquisicao/image39.png)
+![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image39.png)
 
 Acione **Avançar** para validar os dados e seguir para a próxima tela
 (**Dados do Negócio**).
@@ -2098,8 +2089,7 @@ Durante o preenchimento do registro, caso haja mais de uma
 [operação](#operaçao) inserida no RAS e o usuário deseje alterar a
 moeda, deve-se concluir a inclusão da operação e na próxima tela alterar
 a moeda na primeira operação registrada naquele RAS acionando o botão
-![Descrição: Descrição:
-graphic](./media/aquisicao/image40.png).
+![](./media/aquisicao/image40.png).
 
 ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image41.png)
 
@@ -2109,7 +2099,7 @@ essa alteração não promove a conversão automática do valor em função da
 moeda alterada. Se for o caso, o usuário deve converter o valor de cada
 operação em função da nova moeda do registro.
 
-![](./media/aquisicao/image28.jpeg) ![manual8ed\_enq01\_aquisição](./media/aquisicao/image42.png)
+![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image42.png)
 
 #### [Modo de Prestação](#modos-de-prestação-de-serviços-módulo-aquisição)
 
@@ -2206,12 +2196,12 @@ Neste caso, há duas possibilidades:
     marcar **( ) Não** no campo **Gastos Pessoais a Serviço do
     Empregador?**
 
-![](./media/aquisicao/image28.jpeg) ![Aquisição-GastosPessoais](./media/aquisicao/image43.png)
+![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image43.png)
 
 No caso de a operação referir-se a um gasto pessoal a serviço do
 empregador, o usuário deverá fornecer o CNPJ do empregador.
 
-![Aquisição-GastosPessoais2](./media/aquisicao/image44.png)
+![](./media/aquisicao/image44.png)
 
 #### [Mecanismo](#enquadramento) de Apoio/Fomento
 
@@ -2223,18 +2213,16 @@ operação está amparada em mecanismo de apoio/fomento ao comércio
 exterior nos termos do art. 26 da Lei 12.546/2011?". O Sistema abrirá
 uma nova tela para inclusão do(s) mecanismo(s) de apoio.
 
-![manual8ed\_enq02\_aquisição](./media/aquisicao/image45.png)
+![](./media/aquisicao/image45.png)
 
 Selecione o [Mecanismo](#enquadramento) de
 apoio/fomento desejado, no campo Enquadramento, e acione o botão
-![Descrição: Descrição: Descrição:
-graphic](./media/aquisicao/image46.png) para adicioná-lo ao RAS.
+![](./media/aquisicao/image46.png) para adicioná-lo ao RAS.
 
-![manual8ed\_enq03\_aquisição](./media/aquisicao/image47.png)
+![](./media/aquisicao/image47.png)
 
 Caso deseje excluir um [Mecanismo](#enquadramento) de Apoio selecionado,
-o usuário deve acionar o botão ![Descrição: Descrição:
-graphic](./media/aquisicao/image48.png).
+o usuário deve acionar o botão ![](./media/aquisicao/image48.png).
 
 Para maiores informações acerca da lista de [Mecanismo](#enquadramento)s
 de Apoio s disponíveis para seleção no Módulo Aquisição, veja o [item 10
@@ -2246,7 +2234,7 @@ do capítulo
 ![](./media/aquisicao/image28.jpeg) Deve ser indicado se a operação está
 vinculada à [movimentação temporária de bens](#movimetacaotemporaria).
 
-![Aquisição-MovimentaçãoTemporária](./media/aquisicao/image49.png)
+![](./media/aquisicao/image49.png)
 
 Se a operação estiver vinculada à movimentação temporária de bens,
 selecionar a opção **Sim**. Nesse caso, preencher os campos com o número
@@ -2256,12 +2244,10 @@ da Declaração Única de Exportação (DU-E) ou do
 sido realizado no Siscomex.
 
 Para incluir mais de um número de DI ou de DU-E (ou RE), clique no ícone
-![Descrição: Descrição:
-graphic](./media/aquisicao/image50.png).
+![](./media/aquisicao/image50.png).
 
 Para excluir número de DI ou de DU-E (ou RE), clique no ícone
-![Descrição: Descrição:
-graphic](./media/aquisicao/image51.png) à direita do número registrado.
+![](./media/aquisicao/image51.png) à direita do número registrado.
 
 #### Inclusão de Operação no RAS
 
@@ -2280,12 +2266,10 @@ Caso deseje incluir outra operação no mesmo RAS, clique em **Adicionar
 Operação.**
 
 Caso deseje alterar uma [operação](#operaçao) adicionada ao RAS, acione
-o botão ![Descrição: Descrição:
-graphic](./media/aquisicao/image40.png).
+o botão ![](./media/aquisicao/image40.png).
 
 Caso deseje excluir uma operação adicionada ao RAS, acione o botão
-![Descrição: Descrição:
-graphic](./media/aquisicao/image48.png). A exclusão de uma operação só é possível antes da
+![](./media/aquisicao/image48.png). A exclusão de uma operação só é possível antes da
 confirmação da inclusão do RAS.
 
 Após a confirmação da inclusão do RAS, os dados de uma operação somente
@@ -2327,11 +2311,9 @@ Acione **Avançar** para seguir para o próximo passo.
 A tela **Resumo do RAS** traz as informações preenchidas pelo usuário
 para incluir o RAS.
 
-![Resumo\_RAS
-Atualizado](./media/aquisicao/image54.jpeg)
+![](./media/aquisicao/image54.jpeg)
 
-![Resumo\_RAS
-Atualizado](./media/aquisicao/image55.jpeg)
+![](./media/aquisicao/image55.jpeg)
 
 Os dados devem ser conferidos antes da inclusão do RAS.
 
@@ -2414,18 +2396,13 @@ Para incluir um aditivo a um registro, o usuário tem como opções:
 Informar o Número do RAS ou Exibir Lista de RAS Incluídos.
 
 Selecionada a opção Informar o Número do RAS, preencha o campo com
-número de RAS que se deseja aditar e acione o botão ![Descrição:
-Descrição:
-À](./media/aquisicao/image59.png).
+número de RAS que se deseja aditar e acione o botão ![](./media/aquisicao/image59.png).
 
 ![](./media/aquisicao/image60.png)
 
 Selecionada a opção Exibir Lista de RAS Incluídos, acione o botão
-![Descrição: Descrição:
-À](./media/aquisicao/image61.png). O Sistema exibe lista de RAS incluídos,
-do mais recente para o mais antigo. Acione o botão ![Descrição:
-Descrição:
-graphic](./media/aquisicao/image31.png), à direita do RAS desejado.
+![](./media/aquisicao/image61.png). O Sistema exibe lista de RAS incluídos,
+do mais recente para o mais antigo. Acione o botão ![](./media/aquisicao/image31.png), à direita do RAS desejado.
 
 ![](./media/aquisicao/image28.jpeg)![](./media/aquisicao/image62.png)
 
@@ -2455,8 +2432,7 @@ de lote não podem ser edita-dos (retificados, aditados, etc.)
 manualmente. Caso o usuário tente editar o registro manualmente, o
 Sistema apresentará a seguinte tela:
 
-![Figura 31
-aquisição](./media/aquisicao/image65.jpeg)
+![](./media/aquisicao/image65.jpeg)
 
 #### 2.1.2. Retificação do RAS
 
@@ -2486,20 +2462,15 @@ Para retificar um RAS, o usuário tem como opções: Informar o Número do
 RAS ou Exibir Lista de RAS Incluídos.
 
 Selecionada a opção Informar o Número do RAS, preencha o campo com o
-número de RAS que se deseja retificar e acione o botão ![Descrição:
-Descrição:
-À](./media/aquisicao/image59.png).
+número de RAS que se deseja retificar e acione o botão ![](./media/aquisicao/image59.png).
 
 ![](./media/aquisicao/image28.jpeg)
 
 ![](./media/aquisicao/image67.png)
 
 Selecionada a opção Exibir Lista de RAS Incluídos, acione o botão
-![Descrição: Descrição:
-À](./media/aquisicao/image61.png). O Sistema exibe lista de RAS incluídos,
-do mais recente para o mais antigo. Acione o botão ![Descrição:
-Descrição:
-graphic](./media/aquisicao/image31.png), à direita do RAS desejado.
+![](./media/aquisicao/image61.png). O Sistema exibe lista de RAS incluídos,
+do mais recente para o mais antigo. Acione o botão ![](./media/aquisicao/image31.png), à direita do RAS desejado.
 
 ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image68.png)
 
@@ -2575,8 +2546,7 @@ de lote não podem ser edita-dos (retificados, aditados, etc.)
 manualmente. Caso o usuário tente editar o registro manualmente, o
 Sistema apresentará a seguinte tela:
 
-![Figura 31
-aquisição](./media/aquisicao/image65.jpeg)
+![](./media/aquisicao/image65.jpeg)
 
 Não pode ser incluída nova operação por meio de retificação. Para
 incluir uma nova operação em um RAS já incluído, utilize a função
@@ -2606,18 +2576,14 @@ Número do RAS ou Exibir Lista de RAS Incluídos.
 
 Selecionada a opção Informar o Número do RAS, preencha o campo com o
 número de RAS que se deseja retificar. Informe o número do aditivo que
-se deseja retificar e acione o botão ![Descrição: Descrição:
-À](./media/aquisicao/image59.png).
+se deseja retificar e acione o botão ![](./media/aquisicao/image59.png).
 
 ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image72.png)
 
 > Selecionada a opção Exibir Lista de RAS Incluídos, informe o número do
-> aditivo que se deseja retificar e acione o botão ![Descrição:
-> Descrição:
-> À](./media/aquisicao/image61.png){. O Sistema exibe lista de RAS
+> aditivo que se deseja retificar e acione o botão ![](./media/aquisicao/image61.png){. O Sistema exibe lista de RAS
 > incluídos, do mais recente para o mais antigo. Acione o botão
-> ![Descrição: Descrição:
-> graphic](./media/aquisicao/image31.png), à direita do RAS desejado.
+> ![](./media/aquisicao/image31.png), à direita do RAS desejado.
 
 ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image73.png)
 
@@ -2631,7 +2597,7 @@ todos os termos aditivos. Há dois tipos de ícones: Visualizar -
 ![](./media/aquisicao/image76.png). O ícone para alterar aparecerá apenas
 ao lado do aditivo que se deseja retificar, informado na tela anterior.
 
-![](./media/aquisicao/image28.jpeg) ![manual8ed\_retificação\_aditivo\_01](./media/aquisicao/image77.png)
+![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image77.png)
 
 Ao clicar no ícone
 ![](./media/aquisicao/image76.png) o sistema mostrará a tela [Dados do
@@ -2705,8 +2671,7 @@ de lote não podem ser edita-dos (retificados, aditados, etc.)
 manualmente. Caso o usuário tente editar o registro manualmente, o
 Sistema apresentará a seguinte tela:
 
-![Figura 31
-aquisição](./media/aquisicao/image65.jpeg)
+![](./media/aquisicao/image65.jpeg)
 
 #### 2.1.4. Consulta ao RAS ou ao Aditivo ao RAS
 
@@ -2737,20 +2702,15 @@ Para consultar um RAS ou um Aditivo ao RAS, o usuário tem como opções:
 Informar o Número do RAS ou Exibir Lista de RAS Incluídos.
 
 Selecionada a opção Informar o Número do RAS, preencha o campo com o
-número do RAS que se deseja consultar e acione o botão ![Descrição:
-Descrição:
-À](./media/aquisicao/image59.png).
+número do RAS que se deseja consultar e acione o botão ![](./media/aquisicao/image59.png).
 
 > ![](./media/aquisicao/image28.jpeg)
 
 ![](./media/aquisicao/image81.png)
 
 Selecionada a opção Exibir Lista de RAS Incluídos, acione o botão
-![Descrição: Descrição:
-À](./media/aquisicao/image61.png). O Sistema exibe lista de RAS incluídos,
-do mais recente para o mais antigo. Acione o botão ![Descrição:
-Descrição:
-graphic](./media/aquisicao/image31.png), à direita do RAS desejado.
+![](./media/aquisicao/image61.png). O Sistema exibe lista de RAS incluídos,
+do mais recente para o mais antigo. Acione o botão ![](./media/aquisicao/image31.png), à direita do RAS desejado.
 
 ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image82.png)
 
@@ -2760,11 +2720,9 @@ Após selecionar o RAS que deseja consultar, o Sistema apresenta a tela
 **Resumo do RAS** a seguir, que inclui todos os dados do RAS, e dos seus
 aditivos, se for o caso.
 
-![Resumo\_RAS
-Atualizado](./media/aquisicao/image54.jpeg)
+![](./media/aquisicao/image54.jpeg)
 
-![Resumo\_RAS
-Atualizado](./media/aquisicao/image55.jpeg)
+![](./media/aquisicao/image55.jpeg)
 
 
 ### 2.2. Inclusão do RP
@@ -2787,21 +2745,17 @@ Adquirente**.
 ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image85.png)
 
 Selecionada a opção Informar o Número do RAS, preencha o campo com o
-número do RAS que se deseja incluir o RP e acione o botão ![Descrição:
-Descrição:
-À](./media/aquisicao/image59.png).
+número do RAS que se deseja incluir o RP e acione o botão ![](./media/aquisicao/image59.png).
 
-![](./media/aquisicao/image28.jpeg) ![captura1](./media/aquisicao/image86.png)
+![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image86.png)
 
-![](./media/aquisicao/image28.jpeg) ![captura2](./media/aquisicao/image87.png)
+![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image87.png)
 
 Selecionada a opção **Pesquisar pelo CPF/CNPJ do Adquirente**, preencha
 o CPF/CNPJ do Adquirente, ainda que seja o mesmo CPF do usuário, acione
-o botão ![Descrição: Descrição:
-À](./media/aquisicao/image61.png) para ser disponibilizada a relação de
+o botão ![](./media/aquisicao/image61.png) para ser disponibilizada a relação de
 todos os RAS previamente incluídos. Na lista de RAS exibida, acione o
-botão ![Descrição: Descrição:
-À](./media/aquisicao/image59.png). O Sistema abrirá a tela **Operações a
+botão ![](./media/aquisicao/image59.png). O Sistema abrirá a tela **Operações a
 Pagar**, sendo possível visualizar o **Valor da Operação** e **Saldo a
 Pagar** para cada operação, referente ao RAS selecionado**.**
 
@@ -2812,9 +2766,7 @@ Pagar** para cada operação, referente ao RAS selecionado**.**
 > Para incluir os dados do [pagamento](#Pagamento) de um serviço [^24]no
 > campo **Operações** **a Pagar**, o usuário deve:
 >
-> a\) selecionar a operação a ser paga, acionando o botão ![Descrição:
-> Descrição:
-> À](./media/aquisicao/image59.png);
+> a\) selecionar a operação a ser paga, acionando o botão ![](./media/aquisicao/image59.png);
 >
 > b\) na tela seguinte **Incluir Dados do RP**, verificar o **Valor da
 > Operação** e **Saldo a Pagar** da operação selecionada, bem como outros
@@ -2827,8 +2779,7 @@ Pagar** para cada operação, referente ao RAS selecionado**.**
 > exterior](#valormantidonoexterior), se for o caso, e clicar no botão
 > **Adicionar Dado**. Caso haja outra operação a pagar no mesmo RAS, com a
 > mesma data e referente ao mesmo documento que comprove o pagamento,
-> acionar o botão ![Descrição: Descrição:
-> À](./media/aquisicao/image59.png) ao lado da operação desejada para incluir
+> acionar o botão ![](./media/aquisicao/image59.png) ao lado da operação desejada para incluir
 > novos dados;
 
 ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image89.png)
@@ -2836,8 +2787,7 @@ Pagar** para cada operação, referente ao RAS selecionado**.**
 ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image90.png)
 
 > e\) antes da inclusão do RP, caso seja detectado erro de preenchimento,
-> clicar no ícone ![Descrição: Descrição:
-> À](./media/aquisicao/image59.png) à direita para corrigi-lo, procedendo
+> clicar no ícone ![](./media/aquisicao/image59.png) à direita para corrigi-lo, procedendo
 > conforme descrito acima. Para excluí-lo, clicar no ícone
 > ![](./media/aquisicao/image48.png) à esquerda do campo;
 >
@@ -2861,9 +2811,7 @@ devem ser justificadas no campo **Informações Complementares**.
 No quadro **Selecione a Operação a Pagar** são apresentados o **Valor da
 Operação** e o **Saldo a Pagar.**
 
-Quando a operação estiver totalmente paga, o ícone ![Descrição:
-Descrição:
-À](./media/aquisicao/image59.png) à direita, no quadro **Selecione a
+Quando a operação estiver totalmente paga, o ícone ![](./media/aquisicao/image59.png) à direita, no quadro **Selecione a
 Operação a Pagar**, deixa de aparecer**.**
 
 Na inclusão do RP, o Sistema calcula e exibe o **Valor Total do RP**.
@@ -2891,7 +2839,7 @@ Esta função permite ao usuário retificar um RP.
 ![](./media/aquisicao/image28.jpeg) Para retificar um RP é preciso acessar o
 *menu* **RP** e em seguida **Retificar**.
 
-![Aquisição-66](./media/aquisicao/image93.png)
+![](./media/aquisicao/image93.png)
 
 Ao selecionar o comando **Retificar**, o campo **CPF do Usuário** é
 preenchido automaticamente pelo Sistema com informação advinda do
@@ -2901,33 +2849,27 @@ Certificado Digital do usuário.
 opções para retificação do RP: **Pesquisar pelo Número do RAS** ou
 **Pesquisar pelo CPF/CNPJ do Adquirente**.
 
-![01a](./media/aquisicao/image94.png)
+![](./media/aquisicao/image94.png)
 
 ![](./media/aquisicao/image28.jpeg) Selecionada a opção **Pesquisar pelo
 Número do RAS**, preencha o campo com o número do RAS cujo RP se deseja
-retificar e acione o botão ![Descrição: Descrição:
-À](./media/aquisicao/image61.png). Clique no botão ![Descrição: Descrição:
-À](./media/aquisicao/image59.png) à direita do RP a ser retificado.
+retificar e acione o botão ![](./media/aquisicao/image61.png). Clique no botão ![](./media/aquisicao/image59.png) à direita do RP a ser retificado.
 
-![Aquisição-67-1](./media/aquisicao/image95.png)
+![](./media/aquisicao/image95.png)
 
-![](./media/aquisicao/image28.jpeg) ![Aquisição-67-2](./media/aquisicao/image96.png)
+![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image96.png)
 
 Selecionada a opção **Pesquisar pelo CPF/CNPJ do Adquirente**, preencha
 o CPF/CNPJ do adquirente, ainda que seja o mesmo CPF do usuário. Acione
-o botão ![Descrição: Descrição:
-À](./media/aquisicao/image61.png) para ser disponibilizada a relação de
+o botão ![](./media/aquisicao/image61.png) para ser disponibilizada a relação de
 todos os RP previamente incluídos. Na lista de RP exibida, acione o
-botão ![Descrição: Descrição:
-À](./media/aquisicao/image59.png) à direita do RP a ser retificado.
+botão ![](./media/aquisicao/image59.png) à direita do RP a ser retificado.
 
 ![](./media/aquisicao/image28.jpeg)
 
-![Aquisição-Retificação
-RP-04](./media/aquisicao/image97.png)
+![](./media/aquisicao/image97.png)
 
-![](./media/aquisicao/image28.jpeg) ![Aquisição-Retificação
-RP-05](./media/aquisicao/image98.png)
+![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image98.png)
 
 Após selecionar o RP que se deseja retificar, o Sistema mostra a tela
 **Resumo do RP**. Os **Dados do RP** indicam as [operações](#Operação)
@@ -2940,40 +2882,35 @@ Nessa tela, o usuário poderá:
 > 2 - retificar uma ou mais operações, clicando no botão **Retificar
 > Esta Operação.**
 
-![](./media/aquisicao/image28.jpeg) ![Aquisição-Retificação
-RP-06](./media/aquisicao/image99.png)
+![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image99.png)
 
 Caso o usuário deseje retificar somente o **Número do Documento**, basta
 editar o número no campo correspondente e, em seguida, clicar no botão
 **Confirmar Retificação**.
 
-![](./media/aquisicao/image28.jpeg) ![Aquisição-Retificação
-RP-07](./media/aquisicao/image100.png)
+![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image100.png)
 
 Caso deseje retificar os dados do RP em uma operação, clique no botão
 **Retificar Esta Operação**.
 
-![](./media/aquisicao/image28.jpeg) ![08](./media/aquisicao/image101.png)
+![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image101.png)
 
 ![](./media/aquisicao/image28.jpeg) Em seguida o Sistema apresenta a tela de
 **Retificar dados** **do RP** e o usuário pode alterar a Data, o Valor
 Pago e o Valor Pago com Recursos no Exterior.
 
-![Aquisição-Retificação
-RP-09](./media/aquisicao/image102.png)
+![](./media/aquisicao/image102.png)
 
 ![](./media/aquisicao/image28.jpeg) Para confirmar a alteração dos dados,
 clique no botão **Retificar Dados** e, na tela seguinte, clique em
 **Confirmar Retificação**. Caso contrário, clique em **Cancelar**.
 
-![Aquisição-Retificação
-RP-10](./media/aquisicao/image103.png)
+![](./media/aquisicao/image103.png)
 
 ![](./media/aquisicao/image28.jpeg) Após o usuário clicar em **Confirmar
 Retificação**, o Sistema confirmará a retificação dos dados do RP.
 
-![Aquisição-Retificação
-RP-11](./media/aquisicao/image104.png)
+![](./media/aquisicao/image104.png)
 
 #### 2.2.2. Cancelamento do RP
 
@@ -2998,9 +2935,7 @@ Adquirente**.
 ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image106.png)
 
 Selecionada a opção Pesquisar pelo Número do RAS, preencha o campo com o
-número do RAS cujo RP se deseja cancelar e acione o botão ![Descrição:
-Descrição:
-À](./media/aquisicao/image61.png). Clique no ícone
+número do RAS cujo RP se deseja cancelar e acione o botão ![](./media/aquisicao/image61.png). Clique no ícone
 ![](./media/aquisicao/image48.png) à direita do respectivo Número do RP a
 ser cancelado. Confirme o cancelamento do RP clicando no botão OK na
 caixa de mensagem.
@@ -3009,8 +2944,7 @@ caixa de mensagem.
 
 Selecionada a opção Pesquisar pelo CPF/CNPJ do Adquirente, preencha o
 CPF/CNPJ do adquirente, ainda que seja o mesmo CPF do usuário. Acione o
-botão ![Descrição: Descrição:
-À](./media/aquisicao/image61.png) para ser disponibilizada a relação de
+botão ![](./media/aquisicao/image61.png) para ser disponibilizada a relação de
 todos os RP previamente incluídos. Na lista de RP exibida, acione o
 botão ![](./media/aquisicao/image48.png). Confirme o cancelamento do RP clicando
 no botão OK na caixa de mensagem.
@@ -3026,8 +2960,7 @@ do RP:
 
 Caso o usuário acesse novamente o *menu* **RP \> Cancelar**, observará a
 **Data de Cancelamento** ao lado da **Data de Inclusão** e o
-desaparecimento do ícone ![Descrição: Descrição:
-graphic](./media/aquisicao/image48.png) para o RP cancelado.
+desaparecimento do ícone ![](./media/aquisicao/image48.png) para o RP cancelado.
 
 ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image111.png)
 
@@ -3053,20 +2986,15 @@ Adquirente**.
 
 Se o usuário selecionar a opção Pesquisar pelo Número do RAS, deve
 preencher o campo com o número do RAS cujo RP se deseja consultar e
-acione o botão ![Descrição: Descrição:
-À](./media/aquisicao/image61.png). Clique no ícone ![Descrição: Descrição:
-À](./media/aquisicao/image59.png) à direita do respectivo Número do RP a
+acione o botão ![](./media/aquisicao/image61.png). Clique no ícone ![](./media/aquisicao/image59.png) à direita do respectivo Número do RP a
 ser consultado. Em seguida é exibida a tela Resumo do RP.
 
 ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image114.png)
 
 Se o usuário selecionar a opção Pesquisar pelo CPF/CNPJ do Adquirente,
 deve preencher o CPF/CNPJ do adquirente, ainda que seja o mesmo CPF do
-usuário. Acione o botão ![Descrição: Descrição:
-À](./media/aquisicao/image61.png) para ser disponibilizada a relação de
-todos os RP previamente incluídos. Clique no ícone ![Descrição:
-Descrição:
-À](./media/aquisicao/image59.png) à direita do respectivo Número do RP a
+usuário. Acione o botão ![](./media/aquisicao/image61.png) para ser disponibilizada a relação de
+todos os RP previamente incluídos. Clique no ícone ![](./media/aquisicao/image59.png) à direita do respectivo Número do RP a
 ser consultado.
 
 ![](./media/aquisicao/image28.jpeg)
@@ -3217,8 +3145,7 @@ decorrentes deste processamento.
 
 Um arquivo de lote pode receber seis *status* diferentes:
 
-![tela status
-lote](./media/aquisicao/image118.png)
+![](./media/aquisicao/image118.png)
 
 1)  **EP** -- **Em Processamento**: o lote foi recebido pelo Sistema e
     pelo menos um dos arquivos de dados que o compõem passou pela
@@ -3227,8 +3154,7 @@ lote](./media/aquisicao/image118.png)
     pelo Siscoserv que verificará se as informações estão de acordo com
     suas regras de negócio.
 
-![tela consulta lote
-EP](./media/aquisicao/image119.png)
+![](./media/aquisicao/image119.png)
 
 2)  **PS** -- **Processado com Sucesso**: o lote foi recebido e
     > processado. Todas as operações representadas pelos arquivos de
@@ -3236,8 +3162,7 @@ EP](./media/aquisicao/image119.png)
     > *status* EP passam para o *status* PS. O Sistema apresenta o
     > número do RAS incluído, retificado, aditado, etc.
 
-![tela consulta lote
-PS](./media/aquisicao/image120.png)
+![](./media/aquisicao/image120.png)
 
 3)  **PR** -- **Processado com Ressalva**: o lote foi recebido e
     > processado, mas há pelo menos um arquivo do lote que apresentou um
@@ -3246,8 +3171,7 @@ PS](./media/aquisicao/image120.png)
     > *status* NR ou FA, devido a erro de formato ou de regra de
     > negócio, respectivamente.
 
-![tela consulta lote
-PR](./media/aquisicao/image121.png)
+![](./media/aquisicao/image121.png)
 
 4)  **FA** -- **Falha**: o lote foi recebido e processado, porém todos
     os arquivos de dados que o compõem apresentaram pelo menos um erro
@@ -3256,22 +3180,19 @@ PR](./media/aquisicao/image121.png)
     arquivos de dados deste lote que estavam com *status* EP passam para
     o *status* FA.
 
-![tela consulta lote
-FA](./media/aquisicao/image122.png)
+![](./media/aquisicao/image122.png)
 
 5)  **NR** -- **Não Recebido**: todos os arquivos de dados enviados no
     > lote apresentaram erros de formato e *status* NR.
 
-![tela consulta lote
-NR](./media/aquisicao/image123.png)
+![](./media/aquisicao/image123.png)
 
 6)  **EX** -- **Excluído**: o lote foi recebido pelo Sistema e pelo
     > menos um dos arquivos de dados apresentou *status* EP, porém o
     > usuário optou por cancelar o seu processamento. Todos os arquivos
     > de dados que estavam com *status* EP passarão para o *status* EX.
 
-![consulta aquisicao status
-EX](./media/aquisicao/image124.png)
+![](./media/aquisicao/image124.png)
 
 ### 3.1. Procedimentos para envio do arquivo de lote
 
@@ -3317,19 +3238,15 @@ Após clicar em **Avançar** o sistema apresentará a seguinte tela:
 ![](./media/aquisicao/image130.jpeg)
 
 O usuário, então, deve clicar em **Escolher arquivo**, localizar o
-arquivo de lote que deseja transmitir e clicar no botão ![Descrição:
-Descrição:
-À](./media/aquisicao/image59.png)
+arquivo de lote que deseja transmitir e clicar no botão ![](./media/aquisicao/image59.png)
 
-![consulta aquisicao pre
-upload](./media/aquisicao/image131.png)
+![](./media/aquisicao/image131.png)
 
 O sistema informará o número do protocolo de envio do lote e apresentará
 o detalhamento do lote ao enumerar todos os arquivos de dados que o
 compõem com seus respectivos *status*.
 
-![tela pos upload incluir
-ras](./media/aquisicao/image132.png)
+![](./media/aquisicao/image132.png)
 
 O campo **Nº do Protocolo** é composto por duas letras e um número
 sequencial composto por 10 dígitos. As siglas indicativas do protocolo
@@ -3367,7 +3284,7 @@ Em seguida, o formato do arquivo de lote é validado. Caso o arquivo
 enviado não tenha o formato esperado, a seguinte mensagem será
 apresentada.
 
-![Figura 18 Aquisição](./media/aquisicao/image134.jpeg)
+![](./media/aquisicao/image134.jpeg)
 
 Após a transmissão bem-sucedida do arquivo de lote, o Siscoserv valida o
 formato dos arquivos de dados e atribui ao lote e aos arquivos de dados
@@ -3379,62 +3296,50 @@ aos arquivos de dados, ao deixar o cursor do *mouse* sobre a coluna
 **Status** e **Código Erro**, o Sistema exibirá o significado dos
 códigos apresentados:
 
-![tela hint
-EP](./media/aquisicao/image135.png)
+![](./media/aquisicao/image135.png)
 
-![tela hint
-NR](./media/aquisicao/image136.png)
+![](./media/aquisicao/image136.png)
 
-![tela hint codigo
-erro](./media/aquisicao/image137.png)
+![](./media/aquisicao/image137.png)
 
 Um arquivo de retorno contendo mais detalhes sobre os erros encontrados
 pode ser gerado ao clicar o botão **Gerar Arquivo de Retorno**. O
 formato do arquivo de retorno está descrito nas [Orientações
 Técnicas](http://desenvolvimento.gov.br/arquivos/dwnl_1336998170.pdf).
 
-![tela pos upload incluir
-ras](./media/aquisicao/image132.png)
+![](./media/aquisicao/image132.png)
 
 ### 3.2. Consultar Lote
 
 Para consultar o lote, o usuário deve clicar na aba **Transmissão em
 Lote** e em seguida selecionar o item de *menu* **Consultar Lote.**
 
-![Figura 23
-Aquisição](./media/aquisicao/image138.jpeg)
+![](./media/aquisicao/image138.jpeg)
 
 O Sistema apresentará a tela para que se informe o CPF/CNPJ do
 adquirente ou se o usuário é o próprio adquirente.
 
-![tela menu incluir ras
-lote](./media/aquisicao/image139.png)
+![](./media/aquisicao/image139.png)
 
 Após identificar o adquirente, o usuário poderá consultar o lote pelo
 número de protocolo ou pela lista dos lotes enviados.
 
-![consulta consultar
-lote2](./media/aquisicao/image140.png)
+![](./media/aquisicao/image140.png)
 
 Caso o usuário utilize a opção **Informar Nº do Protocolo**, após clicar
-o botão ![Descrição: Descrição:
-À](./media/aquisicao/image61.png), o Sistema apresentará a tela com os
+o botão ![](./media/aquisicao/image61.png), o Sistema apresentará a tela com os
 dados do lote informado.
 
-![tela consulta lote
-PR](./media/aquisicao/image121.png)
+![](./media/aquisicao/image121.png)
 
 Se o usuário selecionar a opção **Listar arquivos em lote enviados**, ao
-clicar o botão ![Descrição: Descrição:
-À](./media/aquisicao/image61.png), o Sistema listará todos os lotes
+clicar o botão ![](./media/aquisicao/image61.png), o Sistema listará todos os lotes
 enviados em nome do CPF/CNPJ do adquirente. O usuário pode consultar um
-lote específico ao clicar o botão ![Descrição: Descrição:
-À](./media/aquisicao/image59.png). Neste caso, a tela com os dados do lote
+lote específico ao clicar o botão ![](./media/aquisicao/image59.png). Neste caso, a tela com os dados do lote
 será apresentada como se o usuário consultasse o lote pelo seu número de
 protocolo.
 
-![tela status
-lote](./media/aquisicao/image118.png)
+![](./media/aquisicao/image118.png)
 
 Os registros inseridos, retificados ou aditivados a partir de um arquivo
 de lote podem ser consultados diretamente da tela de dados, ou o usuário
@@ -3444,15 +3349,13 @@ encaminhado.
 Caso o usuário escolha consultar o lote diretamente na tela, deverá
 selecionar o número de registro apresentado.
 
-![tela consulta lote
-PR](./media/aquisicao/image121.png)
+![](./media/aquisicao/image121.png)
 
 Os erros de formatação ou de regra de negócio indicados podem ser
 inspecionados ao se posicionar o cursor do mouse sobre o símbolo
 ![](./media/aquisicao/image141.png).
 
-![tela consulta lote
-PR](./media/aquisicao/image121.png)
+![](./media/aquisicao/image121.png)
 
 #### 3.2.1. Arquivo de Retorno do Lote
 
@@ -3468,16 +3371,14 @@ O formato do arquivo de retorno está descrito nas [Orientações Técnicas
 - 3.1.8. Arquivo de
 Retorno.](http://desenvolvimento.gov.br/arquivos/dwnl_1336998170.pdf)
 
-![tela consulta lote
-PR](./media/aquisicao/image121.png)
+![](./media/aquisicao/image121.png)
 
 Cabe ressaltar ainda que os registros inseridos a partir de um arquivo
 de lote não podem ser editados (retificados, aditados, etc.)
 manualmente. Caso o usuário tente editar o registro manualmente, o
 Sistema apresentará a seguinte tela:
 
-![Figura 31
-aquisição](./media/aquisicao/image65.jpeg)
+![](./media/aquisicao/image65.jpeg)
 
 ### 3.3. Excluir Lote
 
@@ -3491,8 +3392,7 @@ Lote](#consultar-lote)), ao clicar o botão
 ![](./media/aquisicao/image142.png) ao lado do lote que se deseja excluir, o
 Sistema removerá definitivamente o lote da fila de processamento.
 
-![tela status
-lote](./media/aquisicao/image118.png)
+![](./media/aquisicao/image118.png)
 
 ### 3.4. Cumprimento de Prazos na Transferência em Lote
 
@@ -3532,12 +3432,12 @@ responsável pela inserção dos dados no Sistema.
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em
 Relatório Gerencial;
 
-![RelatorioGerencial1](./media/aquisicao/image143.jpeg)
+![](./media/aquisicao/image143.jpeg)
 
 Passo 2: Usuário/Responsável pelo Registro preenche o CNPJ da Pessoa
 Jurídica Adquirente e clica em "Avançar";
 
-![RelatorioGerencial2](./media/aquisicao/image144.jpeg)
+![](./media/aquisicao/image144.jpeg)
 
 Passo 3: Usuário/Responsável pelo Registro seleciona dentre as diversas
 opções possíveis aquelas que deseja e clica em "Gerar Relatório".
@@ -3567,11 +3467,11 @@ superior a 1 ano.
 
 - Consulta disponível para **matriz**:
 
-![RelatorioGerencial3](./media/aquisicao/image145.jpeg)
+![](./media/aquisicao/image145.jpeg)
 
 - Consulta disponível para **filial**:
 
-![](./media/aquisicao/image145.jpeg) ![RelatorioGerencial3](./media/aquisicao/image145.jpeg)
+![](./media/aquisicao/image145.jpeg) ![](./media/aquisicao/image145.jpeg)
 
 O sistema gera uma Planilha Excel com todos os dados de RAS ou RP
 vinculados para o período selecionado.
@@ -3580,8 +3480,7 @@ vinculados para o período selecionado.
 
 Informações disponibilizadas: 
 
-![Planilha
-Excel\_RAS](./media/aquisicao/image146.jpeg)
+![](./media/aquisicao/image146.jpeg)
 
 -   Mês/ano
 
@@ -3657,7 +3556,7 @@ operações transmitidas por lote.*
 
 Informações disponibilizadas:
 
-![Planilha Excel\_RP](./media/aquisicao/image147.jpeg)
+![](./media/aquisicao/image147.jpeg)
 
 -   Mês/ ano
 
@@ -3706,12 +3605,12 @@ operações transmitidas por lote.*
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em
 Relatório Gerencial;
 
-![RelatorioGerencial1](./media/aquisicao/image143.jpeg)
+![](./media/aquisicao/image143.jpeg)
 
 Passo 2: Usuário/Responsável pelo Registro preenche o CPF da Pessoa
 Física Adquirente e clica em "Avançar";
 
-![RelatorioGerencial4](./media/aquisicao/image148.jpeg)
+![](./media/aquisicao/image148.jpeg)
 
 Passo 3: Usuário/Responsável pelo Registro seleciona dentre as diversas
 opções possíveis, aquelas que deseja e clica em "Gerar Relatório".
@@ -3729,7 +3628,7 @@ as operações sobre os RP em outra.
 \- Selecionar o período das informações desejadas, que não deve ser
 superior a 1 ano.
 
-![rElatorioGerencial5](./media/aquisicao/image149.jpeg)
+![](./media/aquisicao/image149.jpeg)
 
 O sistema gera uma Planilha Excel com todos os dados de RAS ou RP
 vinculados para o período selecionado. Para verificar as informações
@@ -3744,12 +3643,12 @@ R](#relatorioRF)P.
 Passo 1: Usuário/Responsável pelo Registro, que neste caso é o próprio
 adquirente, acessa o Siscoserv e clica em Relatório Gerencial;
 
-![RelatorioGerencial1](./media/aquisicao/image143.jpeg)
+![](./media/aquisicao/image143.jpeg)
 
 Passo 2: Usuário/Responsável pelo Registro seleciona a opção "O Usuário
 é o Próprio Adquirente";
 
-![RelatorioGerencial6](./media/aquisicao/image150.jpeg)
+![](./media/aquisicao/image150.jpeg)
 
 Passo 3: Usuário/Responsável pelo Registro seleciona dentre as diversas
 opções possíveis, aquelas que deseja e clica em "Gerar Relatório".
@@ -3767,7 +3666,7 @@ as operações sobre os RP em outra.
 \- Selecionar o período das informações desejadas, que não deve ser
 superior a 1 ano.
 
-![RelatorioGerencial7](./media/aquisicao/image151.jpeg)
+![](./media/aquisicao/image151.jpeg)
 
 O sistema gera uma Planilha Excel com todos os dados do RAS ou RP
 vinculados, para o período selecionado. Para verificar as informações
@@ -3795,8 +3694,7 @@ aos casos que não foram aqui descritos.
 
 **Exportação brasileira com a obrigação de transportar da empresa brasileira.** 
 
-![Cena\_rios
-Siscoserv](./media/aquisicao/image152.jpeg)
+![](./media/aquisicao/image152.jpeg)
 
 **Atores:**
 
@@ -3842,9 +3740,7 @@ Siscoserv](./media/aquisicao/image152.jpeg)
 
 **Importação brasileira com a obrigação de transportar da empresa brasileira.**
 
-![C:\\Users\\luple\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Cenário
-1.2 -
-Correto.png](./media/aquisicao/image153.png)
+![](./media/aquisicao/image153.png)
 
 **Atores:**
 
@@ -3884,8 +3780,7 @@ Correto.png](./media/aquisicao/image153.png)
 
 **Importação brasileira com a obrigação de transportar da empresa estrangeira.**
 
-![Cenários
-1](./media/aquisicao/image154.png)
+![](./media/aquisicao/image154.png)
 
 **Atores:**
 
@@ -3925,8 +3820,7 @@ Relações entre os Atores:
 
 **Exportação brasileira com a obrigação de transportar da empresa brasileira.**
 
-![C:\\Users\\luple\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Cenário
-1.4 - Correto.png](./media/aquisicao/image155.png)
+![](./media/aquisicao/image155.png)
 
 **Atores:**
 
@@ -3974,8 +3868,7 @@ Cor~BR~, as partes do contrato do seguro continuam a ser Emp~BR~ e
 Seg~EX~ e cabe a Emp~BR~, a contratante no Brasil, o registro no
 Siscoserv.
 
-![Cena\_rios
-Siscoserv](./media/aquisicao/image156.jpeg)
+![](./media/aquisicao/image156.jpeg)
 
 **Atores:**
 
@@ -4009,8 +3902,7 @@ exterior, for contratada e paga por Est~BR~ em favor de Emp~BR~,
 residente ou domiciliada no Brasil, Est~BR~ é considerado o contratante
 e, consequentemente, o responsável pelo registro no Siscoserv
 
-![Cena\_rios
-Siscoserv](./media/aquisicao/image157.jpeg)
+![](./media/aquisicao/image157.jpeg)
 
 **Atores:**
 
