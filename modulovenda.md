@@ -121,7 +121,7 @@ Neste caso, o número da nota fiscal será repetido em cada RF.
 Para o registro de faturamento, há dois prazos possíveis, dependendo da data de emissão da nota fiscal ou documento equivalente:
 
 1)  quando a nota fiscal ou documento equivalente forem emitidos **depois** [da inclusão do RVS](#), o usuário deve efetuar o RF até o último dia útil do mês subsequente ao da emissão da NF ou documento equivalente.
-    > Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#_nwp17c).
+    > Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#4.1.1).
 
 2)  quando a nota fiscal ou documento equivalente forem emitidos
     > **antes** [da](#data_inicio_prestacao) inclusão do RVS, o usuário
@@ -130,17 +130,12 @@ Para o registro de faturamento, há dois prazos possíveis, dependendo da data d
 
 Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#4.1.1).
 
-
 ### 4.3. Situações especiais de registro
-
-
-#### 4.3.1. Operação com data de conclusão indeterminada:
 
 
 A operação cuja data de conclusão não seja conhecida por ocasião do seu registro em razão de não ter sido pactuada entre as partes pode ser objeto de registros periódicos, conforme itens 2.1 (Inclusão do RVS) ou
 2.1.1 (Inclusão de Aditivo ao RVS) do capítulo 2 deste Manual. Nesse caso, a data de início e a data de conclusão devem ser indicadas dentro do mesmo ano-calendário. Posteriormente, a data de conclusão poderá ser ajustada, mediante retificação, conforme descrito nos itens 2.1.2
 (Retificação do RVS) ou 2.1.3 (Retificação do Aditivo ao RVS) do capítulo 2 deste Manual.
-
 
 #### 4.3.2. Operação iniciada sem que o valor esteja definido:
 
@@ -150,7 +145,7 @@ A operação cujo valor não seja conhecido por ocasião do seu registro em fun�
 #### 4.3.3. Operação com pessoas físicas residentes no exterior mediante consumo no Brasil:
 
 As vendas de serviços, [intangíveis](#intangivel) e [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio),
-em [modo de prestação 2](#1mrcu09) (consumo no Brasil),
+em [modo de prestação 2](8) (consumo no Brasil),
 realizadas com pessoas físicas residentes no exterior, poderão ser registradas pelos seus montantes acumulados mensalmente, por NBS e por País do Adquirente. Nesse caso, a data de início será o primeiro dia do mês e a data de conclusão será o último dia do mês para as operações ocorridas nesse período. Exemplo: venda no Brasil de serviços de hospedagem para funcionário de empresa domiciliada no exterior.
 
 A inclusão do RVS será feita observadas as seguintes instruções específicas para preenchimento:
@@ -206,16 +201,16 @@ Devem ser registradas no Siscoserv as operações realizadas por meio de presen�
 1994.
 
 A responsabilidade de efetuar o Registro de Presença Comercial no Exterior (RPC) no Módulo Venda do Siscoserv é da pessoa jurídica domiciliada no Brasil que mantenha filial, sucursal ou
-[controlada](#2nusc19) domiciliada no exterior para a prestação de serviços, transferência de
+[controlada](#empresa_controlada) domiciliada no exterior para a prestação de serviços, transferência de
 [intangíveis](#intangivel) ou realização de [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio).
 
 No RPC deve ser registrada a receita anual total de venda de serviço, de transferência de intangível e de realização de outra operação que produza variação no patrimônio, obtida por meio do estabelecimento de presença comercial no exterior de filial, sucursal ou
-[controlada](#2nusc19) relacionada à pessoa jurídica domiciliada no Brasil.
+[controlada](#empresa_controlada) relacionada à pessoa jurídica domiciliada no Brasil.
 
 Deve(m) ser informada(s) no RPC a(s) posição(ões) da NBS mais representativas da receita anual total com venda de serviço,
 transferência de intangível e realização de outra operação que produza variação no patrimônio.
 
-Caso a pessoa jurídica domiciliada no Brasil mantenha, no exterior, mais de uma filial, sucursal ou [controlada](#2nusc19) no mesmo país, a receita anual total com venda de serviços, transferência de intangível e realização de outra operação que produza variação no patrimônio, será discriminada mediante um RPC para cada filial, sucursal e controlada.
+Caso a pessoa jurídica domiciliada no Brasil mantenha, no exterior, mais de uma filial, sucursal ou [controlada](#empresa_controlada) no mesmo país, a receita anual total com venda de serviços, transferência de intangível e realização de outra operação que produza variação no patrimônio, será discriminada mediante um RPC para cada filial, sucursal e controlada.
 
 
 #### 4.4.1. Prazo para o RPC
@@ -255,7 +250,7 @@ Também devem ser registradas as [operações](#operacao) de venda de serviços�
 Caso haja saldo a faturar, deve ser indicado como valor da operação o saldo remanescente a faturar. Nos casos em que o faturamento tenha ocorrido integralmente antes da data indicada no anexo, deve ser registrado o valor proporcional da operação correspondente ao período remanescente da prestação do serviço[^6], justificando o valor registrado no campo **Informações Complementares.**
 
 Caso tenha ocorrido o faturamento integral antes das datas constantes do Anexo Único da Portaria Conjunta RFB/SCS nº 1.908, de 19
-de julho de 2012, e não tenha sido iniciada a prestação do serviço[^7],
+de julho de 2012, e não tenha sido iniciada a prestação do serviço[⁷],
 o registro de faturamento obedecerá ao [item 2.2 do Capítulo 2 deste Manual](#2.2).
 
 Em qualquer dos casos, a **Data** constante dos **Dados do RF** deve ser aquela constante da nota fiscal ou documento equivalente.
@@ -272,27 +267,19 @@ do residente ou domiciliado no País que mantenha relação contratual com resid
 Exemplos:
 
 \(1) Empresa (A), domiciliada no Brasil, mantém relação contratual, em que é prestadora de serviço, com empresa (B), domiciliada no exterior, e contra esta fatura a prestação de serviço. A empresa (A) subcontrata empresa (C), domiciliada no Brasil, para prestação parcial ou integral de serviço pertinente à relação contratual de (A) com (B). A empresa (A)
-deve proceder aos registros RVS e RF no Módulo Venda do Siscoserv, no modo de prestação em que o serviço for prestado a (B) ([Modo 1 -- Comércio Transfronteiriço](#37m2jsg), [Modo 2 -- Consumo no Brasil](#1mrcu09) ou [Modo 4 -- Movimento Temporário de Pessoas Físicas](#111kx3o)). A empresa (C) não deve proceder aos registros no Módulo Venda do Siscoserv em relação a sua relação contratual com (A), pois ambas são domiciliadas no Brasil. Além disso, como não há relação contratual entre (B) e (C), não há registros no Siscoserv adicionais a serem feitos.
-
-\(2) Empresa (A), domiciliada no Brasil, mantém relação contratual, em que é prestadora de serviço, com empresa também domiciliada no Brasil
 (B), e contra esta fatura a prestação de serviço. A empresa (A)
-subcontrata empresa (C), domiciliada no exterior, para prestação parcial ou integral de serviço pertinente à relação contratual de (A) com (B).
 Empresa (A) deve proceder aos registros RAS e RP no Módulo Aquisição do Siscoserv, no modo de prestação em que o serviço for prestado por (C)
-([Modo 1 -- Comércio Transfronteiriço](#37m2jsg), [Modo 2 -- Consumo no Exterior](#1mrcu09) ou [Modo 4 -- Movimento Temporário de Pessoas Físicas](#111kx3o)). A empresa (A)
-não deve proceder aos registros no Módulo Venda do Siscoserv quanto à
 sua relação contratual com (B), pois ambas são domiciliadas no Brasil.
 Além disso, como não há relação contratual entre (B) e (C), não há
-registros no Siscoserv adicionais a serem feitos.
 
 \(3) Empresa (A), domiciliada no Brasil, mantém relação contratual, em que é prestadora de serviço, com empresa (B), domiciliada no exterior,
-mediante movimentação temporária de profissionais e contra esta fatura a prestação de serviço. A empresa (A) deve proceder aos registros RVS e RF no Módulo Venda do Siscoserv em [Modo 4 -- Movimento Temporário de Pessoa Física](#111kx3o), em relação a essa operação.
+mediante movimentação temporária de profissionais e contra esta fatura a prestação de serviço. A empresa (A) deve proceder aos registros RVS e RF no Módulo Venda do Siscoserv em [Modo 4 -- Movimento Temporário de Pessoa Física](#modo4), em relação a essa operação.
 
-\(4) Empresa (B), que é filial, sucursal ou controlada domiciliada no exterior de Empresa (A) domiciliada no Brasil, presta serviço a empresa domiciliada no exterior. Empresa (A) deve proceder aos registros no Módulo Venda do Siscoserv em [Modo 3 -- Presença Comercial](#46r0co2) no Exterior.
+\(4) Empresa (B), que é filial, sucursal ou controlada domiciliada no exterior de Empresa (A) domiciliada no Brasil, presta serviço a empresa domiciliada no exterior. Empresa (A) deve proceder aos registros no Módulo Venda do Siscoserv em [Modo 3 -- Presença Comercial](#modo3) no Exterior.
+
 
 
 ## 6. Quem está dispensado de efetuar registro no Siscoserv -- Módulo Venda
-
-Estão dispensadas do registro no Siscoserv, **nas operações que não tenham utilizado mecanismos de apoio** ao comércio exterior de serviços,
 de intangíveis e demais operações de que trata o art. 26 da Lei nº 12.546, de 14 de dezembro de 2011:
 
 I - Empresas cadastradas no SIMPLES NACIONAL e MEI - as pessoas jurídicas optantes pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte -- Simples Nacional e os Microempreendedores Individuais
@@ -344,16 +331,10 @@ Exemplos:
 
 ![Imagens Siscoserv](/media/novo_image160.jpg)
 
-### Modo 3 - Presença comercial no exterior
-
-Consiste na prestação de serviço por pessoa jurídica domiciliada no exterior relacionada a uma pessoa jurídica domiciliada no Brasil. Para fins do Siscoserv,
-considera-se relacionada à pessoa jurídica domiciliada no Brasil a sua filial, sucursal ou [controlada](#2nusc19), domiciliada no exterior.
-
 Exemplos:
 
 -   filial de empresa brasileira de construção estabelecida no exterior para execução de obra;
 -   filiais bancárias no exterior de banco brasileiro;
--   controlada de empresa brasileira de tecnologia da informação no exterior.
 
 ![Imagens Siscoserv](/media/novo_image172.jpg)
 
@@ -363,7 +344,7 @@ Exemplos:
 
 Exemplos:
 
--   arquiteto [residente no Brasil](#1tuee74) desloca-se para desenvolver projeto de arquitetura no exterior;
+-   arquiteto [residente no Brasil](#residentes_Brasil) desloca-se para desenvolver projeto de arquitetura no exterior;
 -   empreiteiras domiciliadas no Brasil enviam trabalhadores que mantêm vínculo empregatício no Brasil para construção de uma rodovia no exterior;
 -   advogado residente no Brasil desloca-se para o exterior a fim de prestar consultoria jurídica.
 
@@ -371,16 +352,16 @@ Exemplos:
 
 Devem registrar [operações](#operacao) em Modo 4 no Módulo Venda do Siscoserv:
 
-> a)  as pessoas físicas [residentes no Brasil](#1tuee74),
+> a)  as pessoas físicas [residentes no Brasil](#residentes_Brasil),
 sem vínculo empregatício com pessoa física ou jurídica residente ou domiciliada no Brasil, quando se desloquem temporariamente a um país estrangeiro com vistas a prestar um serviço a um residente ou domiciliado no exterior (por exemplo, os profissionais independentes);
 
-> b)  as pessoas jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física [residente no Brasil](#1tuee74), com vínculo empregatício ou por meio de terceirização, para a prestação de serviço a residentes ou domiciliados no exterior (por exemplo, prestadores de serviços por contrato ou visitantes de negócios).
+> b)  as pessoas jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física [residente no Brasil](#residentes_Brasil), com vínculo empregatício ou por meio de terceirização, para a prestação de serviço a residentes ou domiciliados no exterior (por exemplo, prestadores de serviços por contrato ou visitantes de negócios).
 
 Não deverão registrar operações em Modo 4 no Siscoserv as Pessoas Jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física para exercer vínculo empregatício com Pessoa Jurídica no exterior a ela relacionada (por exemplo, transferido intracorporação).
 
 ## 9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS)]
 
-O registro de [operações](about:blank) no Siscoserv será realizado de acordo com a [Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio(NBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13) e pelas respectivas [Notas Explicativas(NEBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13), aprovadas pelo [Decreto nº 7.708, de 2 de abril de 2012](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm), e suas alterações posteriores.
+O registro de [operações](#operacao) no Siscoserv será realizado de acordo com a [Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio(NBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13) e pelas respectivas [Notas Explicativas(NEBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13), aprovadas pelo [Decreto nº 7.708, de 2 de abril de 2012](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm), e suas alterações posteriores.
 
 A prestação de serviços[^10] iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jspdata=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
 
@@ -444,7 +425,6 @@ A sistemática de classificação dos códigos da NBS obedece à seguinte estrut
 
 Exemplo:
 
-O código 1.1403.21.10, onde se classificam os "serviços de engenharia de projetos de construção residencial" deve ser entendido, da esquerda para a direita, da forma que se segue:
 
 a\) o algarismo 1, da esquerda para a direita, sinaliza que se trata de código que se aloja na NBS;
 
@@ -474,7 +454,7 @@ O usuário pode informar diretamente o código, ou localizá-lo acionando a ferr
 
 Na informação do código NBS, a posição mais específica prevalece sobre a mais genérica, sendo que o código só pode ser informado em seu maior nível de detalhamento (nove dígitos).
 
-> *[Exemplo 1:]*
+> *Exemplo 1:*
 >
 > Código NBS
 >
@@ -492,7 +472,7 @@ Na informação do código NBS, a posição mais específica prevalece sobre a m
 >
 > **Código a ser informado**: 1.0105.11.00
 >
-> *[Exemplo 2:]*
+> *Exemplo 2:*
 >
 > **Capítulo 1:** 1.07
 >
@@ -539,8 +519,8 @@ Caso persistam dúvidas, deve ser formalizado processo administrativo de consult
 A informação sobre Mecanismo de apoio/fomento no Siscoserv tem a finalidade de contribuir para a gestão do fomento pelos órgãos e instituições responsáveis pela sua concessão. Esta informação deve ser registrada em cumprimento ao previsto no art. 26 da Lei nº 12.546, de 14 de dezembro de 2011.
 
 O campo enquadramento deve ser obrigatoriamente preenchido no caso de
-[operação](about:blank) amparada em um ou mais mecanismos de apoio/fomento ao comércio exterior de serviços, intangíveis e às
-[outras operações que produzam variação no patrimônio](about:blank).
+[operação](#operacao) amparada em um ou mais mecanismos de apoio/fomento ao comércio exterior de serviços, intangíveis e às
+[outras operações que produzam variação no patrimônio](outras_operacoes_que produzam_variacoes_de_patrimonio).
 
 O órgão ou a entidade da administração pública que tenha atribuição legal de regulação, normatização, controle ou fiscalização de mecanismo de apoio/fomento, sem prejuízo de legislação específica, utilizará as informações da operação, relacionadas à sua área de competência, para verificação do adimplemento das condições necessárias à fruição daquele mecanismo sob sua gestão.  
 
@@ -599,8 +579,7 @@ Em caso de erros ou falhas apresentados pelo Sistema, estão disponíveis os can
 > ou*\
 > - *Fone: 0800-978-2331.*
 
--   **[Dúvidas sobre classificação de serviços, intangíveis e outras
-    operações que produzam variações no patrimônio:]**
+-   ** Dúvidas sobre classificação de serviços, intangíveis e outras operações que produzam variações no patrimônio: **
 
 Deve ser realizada consulta às Regras de Interpretação da Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio -- NBS, bem como às suas Notas Explicativas
 (NEBS), disponíveis nos seguintes endereços eletrônicos:
@@ -656,23 +635,18 @@ Esse glossário foi desenvolvido para facilitar o entendimento dos conceitos pre
 
 **Admissão Temporária:** regime aduaneiro especial que permite a importação de bens que devam permanecer no País durante prazo e finalidade fixados, com suspensão de tributos na importação, retornando ao exterior sem sofrer modificações que lhes confiram nova individualidade. Também poderão ser submetidos a este regime bens destinados à prestação de serviços ou a produção de outros bens, desde que com o pagamento proporcional dos impostos federais incidentes na importação, de acordo com o tempo de permanência no País.
 
-<a id="data_inicio_prestacao"></a>
 
 **Data de início da prestação de serviço:** é a data acordada entre residente e domiciliado no Brasil, e residente e domiciliado no exterior em contrato (formal ou não) para o início da prestação do serviço; para a transferência de intangível; e para a realização de operação que produza variação no patrimônio.
 
-<a id="declaracao_de_importacao"></a>
 
 **Declaração de Importação (DI):** é um documento eletrônico exigido na importação de bens, cujo processamento ocorre através do Sistema Integrado de Comércio Exterior --
 Siscomex--Importação. A DI consolida as informações cambiais,
 tributárias, fiscais, comerciais e estatísticas da operação. 
 
-**Empresa Controlada**: Considera-se controlada a sociedade na qual a controladora, diretamente ou através de outras controladas, é titular de direitos de sócio que lhe assegurem, de modo permanen<a id="mecanismo_de_apoio_fomento"></a>te, preponderância nas deliberações sociais e o poder de eleger a maioria dos administradores.
+**Empresa Controlada**: Considera-se controlada a sociedade na qual a controladora, diretamente ou através de outras controladas, é titular de direitos de sócio que lhe assegurem, de modo permanente, preponderância nas deliberações sociais e o poder de eleger a maioria dos administradores.
 
-<a id="mecanismo_de_apoio_fomento"></a>
 
 **Mecanismo de Apoio/Fomento:** Mecanismos de apoio ou fomento de diversas naturezas (promocional, tributária, creditícia e financeira) a operações de comércio exterior de serviços, intangíveis e [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio).
-
-<a id="ente_despersonalizado"></a>
 
 **Ente Despersonalizado:** trata-se um termo da doutrina jurídica para se referir aos entes que não possuem denominação legal específica, mas que podem, nos termos do art. 12 do Código de Processo Civil Brasileiro,
 ser representados em juízo, ativa e passivamente. São entes despersonalizados: a massa falida, a herança jacente ou vacante, o espólio, as sociedades sem personalidade jurídica e o condomínio.
@@ -681,7 +655,6 @@ ser representados em juízo, ativa e passivamente. São entes despersonalizados:
 
 **Serviço:** É uma obrigação de fazer do prestador, destinada a atender uma necessidade do tomador.
 
-<a id="intangivel"></a>
 **Intangível:** Serão considerados os seguintes intangíveis para fins do registro no SISCOSERV:
 
 I - o licenciamento (autorização para usar ou explorar comercialmente direito patrimonial) e a cessão, temporária ou definitiva, dos direitos de propriedade intelectual objeto das Seções 1 a 7 da Parte II do Acordo sobre os Aspectos dos Direitos de Propriedade Intelectual Relacionados ao Comércio, conforme o Anexo 1C do Acordo Constitutivo da Organização Mundial do Comércio constante da Ata Final que incorpora os Resultados das Negociações Comerciais Multilaterais da Rodada Uruguai, aprovada pelo Decreto nº 1.355, de 31 de dezembro de 1994;
@@ -698,21 +671,16 @@ V - o licenciamento dos direitos relativos ao acesso a recursos genéticos.
 Informações adicionais podem ser obtidas nas Notas Explicativas dos Capítulos 11 e 27 da Nomenclatura Brasileira de Serviços, Intangíveis e outras Operações que Produzam Variações no Patrimônio --
 [NBS](http://www.mdic.gov.br/arquivos/dwnl_1387454702.pdf).
 
-<a id="movimentacao_temporaria_de_bens"></a>
 
-**Movimentação Temporária de Bens:** A movimentação temporária de bens ocorre tanto na importa<a id="negocio"></a>ção (Admissão Temporária)
+**Movimentação Temporária de Bens:** A movimentação temporária de bens ocorre tanto na importação (Admissão Temporária)
 quanto na exportação (Exportação Temporária).
 
-<a id="negocio"></a>
 
 **Negócio:** operação ou conjunto de operações integrantes do contrato de prestação de serviços; da transferência ou da aquisição do intangível; e da realização de operação(ões) que produza(m)
 variação(ões) no patrimônio.
 
-<a id="nif"></a>
 **NIF -- Número de Identificação Fiscal:** É o número fornecido pelo
 órgão de administração tributária no exterior indicador de pessoa física ou jurídica.
-
-<a id="operacao"></a>
 
 **Operação:** conjunto de dados que caracterizam a prestação de um serviço, a transferência ou aquisição de intangível e a realização de operação que produza variação no patrimônio.
 
@@ -721,8 +689,6 @@ Código e País de Destino; Código e Descrição da Moeda; Modo de Prestação;
 Mecanismo de apoio/fomento.
 
 No RPC são dados de uma operação: Código da NBS, Descrição da NBS e Valor Faturado. Os dados de uma operação no RPC só devem ser preenchidos quando a operação for amparada por mecanismo de fomento ao comércio exterior de serviços, ou seja, quando for preenchido o campo Mecanismo de apoio/fomento.
-
-<a id="outras_operacoes_que_produzam_variacoes_de_patrimonio"></a>
 
 **Outras Operações que Produzam Variações no Patrimônio:** São operações classificadas na NBS que não se enquadram como serviços nem como intangíveis.
 
@@ -741,12 +707,8 @@ São exemplos:
 >
 > \- Fomento comercial (*factoring),* código NBS 1.0908.00.00.
 
-<a id="registro_de_exportacao"></a>
-
 **Registro de Exportação (RE):** no Sistema Integrado de Comércio Exterior - Siscomex é o conjunto de informações de natureza comercial,
 financeira, cambial e fiscal que caracterizam a operação de exportação de uma mercadoria e definem o seu enquadramento.
-
-<a id="residente"></a>
 
 **Residente no Brasil:** Considera-se residente no Brasil a pessoa física (Lei nº 9.718, de 27 de novembro de 1998, art.
 12; Instrução Normativa SRF nº 208, de 27 de setembro de
@@ -776,18 +738,12 @@ financeira, cambial e fiscal que caracterizam a operação de exportação de um
 > retorne ao País com ânimo definitivo, na data da chegada;
 >
 > V - que se ausente do Brasil em caráter temporário, ou se retire em
-> caráter permanente do território nacional sem entregar a [Comunicação
-> de Saída Definitiva do
-> País](http://www.receita.fazenda.gov.br/PessoaFisica/IRPF/2011/glossario.html#5939266742eb5e38f545ffbcfaa734e986a45f13),
-> durante os primeiros doze meses consecutivos de ausência. 
+> caráter permanente do território nacional sem entregar a [Comunicação de Saída Definitiva do País](http://www.receita.fazenda.gov.br/PessoaFisica/IRPF/2011/glossario.html#5939266742eb5e38f545ffbcfaa734e986a45f13),
+> durante os primeiros doze meses consecutivos de ausência.
 >
-
-<a id="valor_faturado"></a>
 
 **Valor Faturado:** É o valor parcial ou total da operação objeto de registro de faturamento (nota fiscal de serviço, fatura comercial ou documento equivalente) ou do registro de presença comercial. Deverá ser registrado na moeda vigente do contrato (RVS) da prestação do serviço,
 intangível ou [outra operação que produza variação no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio) ou em dólar dos Estados Unidos da América no caso de presença comercial relacionada à pessoa jurídica domiciliada no Brasil (RPC).
-
-<a id="valor_mantido_no_exterior"></a>
 
 **Valor Mantido no Exterior:** refere-se aos recursos em moeda estrangeira, relativos aos recebimentos de serviços, intangíveis ou
 [outras operações que produzam variações](#outras_operacoes_que_produzam_variacoes_de_patrimonio) no patrimônio, mantidos no exterior, nos termos da [Lei nº 11.371/2006](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11371.htm)
@@ -811,7 +767,7 @@ exceto no horário de manutenção diária do Sistema (1h às 3h).
 
 ### 1.1. Como acessar o Siscoserv
 
-O acesso ao Siscoserv é sempre feito por [certificado digital](#_zu0gcz) **e-CPF**. Quando a informação for prestada por pessoa jurídica ou representante legal de terceiros, além do e-CPF do representante legal, também se exige [procuração eletrônica](#1.3). Essa procuração deve ser emitida por estabelecimento.
+O acesso ao Siscoserv é sempre feito por [certificado digital](#1.2) **e-CPF**. Quando a informação for prestada por pessoa jurídica ou representante legal de terceiros, além do e-CPF do representante legal, também se exige [procuração eletrônica](#1.3). Essa procuração deve ser emitida por estabelecimento.
 
 **Não** é possível o acesso via certificado digital **e-CNPJ**.
 
@@ -899,8 +855,7 @@ O Sistema apresenta os dados do Usuário/Responsável pelo Registro (nome e CPF)
 
 No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco, não apresentam nenhum dado e devem ser preenchidos. São campos obrigatórios:
 
-> \- Telefone do [Usuário/Responsável pelo
-> Registro](#2y3w247);
+> \- Telefone do [Usuário/Responsável pelo Registro](#2y3w247);
 >
 > \- E-mail do Usuário/Responsável pelo Registro;
 >
@@ -912,8 +867,7 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco,
 >
 > \- Endereço da Empresa Vendedora;
 >
-> \- Nome do [Diretor de Relações Governamentais ou
-> Equivalente](#1d96cc0) da Empresa Vendedora;
+> \- Nome do [[Diretor de Relações Governamentais ou Equivalente](#1d96cc0) da Empresa Vendedora;
 >
 > \- Telefone do Diretor de Relações Governamentais ou Equivalente da
 > Empresa Vendedora;
@@ -952,7 +906,7 @@ Passo 4: Após o preenchimento das informações, o Usuário/Responsável clica 
 
 #### 1.5.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física
 
-Passo 1: [Usuário /Responsável pelo Registro](#2y3w247)
+Passo 1: [Usuário /Responsável pelo Registro](#2y3 w247)
 acessa o Siscoserv e clica em Informações cadastrais;
 
 [Obs: No primeiro acesso do usuário ao Sistema, o usuário será
@@ -973,8 +927,7 @@ O Sistema apresenta os dados do Usuário/Responsável pelo Registro bem como o N
 
 No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco, não apresentam nenhum dado e precisam ser preenchidos. São campos obrigatórios:
 
-> \- Telefone do [Usuário/Responsável pelo
-> Registro](#2y3w247);
+> \- Telefone do [Usuário/Responsável pelo Registro](#2y3w247);
 >
 > \- E-mail do Usuário/Responsável pelo Registro;
 >
@@ -998,7 +951,7 @@ Existem outros Campos de preenchimento opcional. São campos de preenchimento op
 >
 > \- Endereço do Canal do *Youtube* da Empresa Vendedora.
 
-[Fluxo de Manutenção de Informações]
+Fluxo de Manutenção de Informações
 
 Após um (1) ano, ou sempre que houver alguma alteração nas informações incluídas no cadastro do Siscoserv, o usuário / Responsável pelo Registro poderá acessar o campo **Informações Cadastrais** e atualizar ou confirmar as informações previamente inseridas.
 
@@ -1091,7 +1044,8 @@ Os registros no Siscoserv podem ser feitos de forma individualizada ou por Trans
 Os registros individualizados no Siscoserv devem seguir as etapas de preenchimento descritas nos [2.1](#2.1),
 [2.2](#2.2) e [2.3 do Capítulo2](#2.3) deste Manual.
 
-A transmissão em lote permite a inclusão de uma grande quantidade de registros ao mesmo tempo e deve seguir os passos descritos [no item 3 deste capítulo](#_471acqr). A transmissão em lote é feita por meio do envio de um ou mais arquivos do tipo XML, compactados no formato ZIP.
+A transmissão em lote permite a inclusão de uma grande quantidade de registros ao mesmo tempo e deve seguir os passos descritos [no item 3
+deste capítulo](#3cap1). A transmissão em lote é feita por meio do envio de um ou mais arquivos do tipo XML, compactados no formato ZIP.
 
 Para a criação dos arquivos que devem ser transmitidos, estão disponibilizados os seguintes documentos:
 
@@ -1236,13 +1190,11 @@ Campos a serem preenchidos em Dados do
 
 Vide [item 9, do Capítulo 1 deste Manual.](#9)
 
-A prestação de serviços[^14] iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de
-2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
+A prestação de serviços₁₄ iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jspdata=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
 
 A prestação de serviços[^15] iniciada a partir de 1º de janeiro de 2019
 deve ser registrada tendo por base a [Portaria Conjunta RFB / SCS nº
-1.429, de
-2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20),
+1.429, de 2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20),
 que produz efeitos a partir de 1º de janeiro de 2019.
 
 #### Código do País / País de Destino
