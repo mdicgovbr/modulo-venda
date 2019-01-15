@@ -120,16 +120,17 @@ Neste caso, o número da nota fiscal será repetido em cada RF.
 
 Para o registro de faturamento, há dois prazos possíveis, dependendo da data de emissão da nota fiscal ou documento equivalente:
 
-1)  quando a nota fiscal ou documento equivalente forem emitidos **depois** [da inclusão do RVS](#), o usuário deve efetuar o RF até o último dia útil do mês subsequente ao da emissão da NF ou documento equivalente.
-    > Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#_nwp17c).
+1. quando a nota fiscal ou documento equivalente forem emitidos **depois** [da inclusão do RVS](#21-inclusão-do-rvs), o usuário deve efetuar o RF até o último dia útil do mês subsequente ao da emissão da NF ou documento equivalente.
 
-2)  quando a nota fiscal ou documento equivalente forem emitidos
-    > **antes** [da](#data_inicio_prestacao) inclusão do RVS, o usuário
-    > deve efetuar o RF até [o último dia útil do mês subsequente ao de
-    > inclusão desse RVS.
+   Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#411-prazo-para-o-rvs).
 
-Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#4.1.1).
+   ![](/media/venda/prazo-RF-caso1.png)
 
+2. quando a nota fiscal ou documento equivalente forem emitidos **antes** [da inclusão do RVS](#21-inclusão-do-rvs), o usuário deve efetuar o RF até [o último dia útil do mês subsequente ao de inclusão desse RVS.
+
+   Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#411-prazo-para-o-rvs).
+
+   ![](/media/venda/prazo-RF-caso2.png)
 
 ### 4.3. Situações especiais de registro
 
@@ -155,21 +156,15 @@ realizadas com pessoas físicas residentes no exterior, poderão ser registradas
 
 A inclusão do RVS será feita observadas as seguintes instruções específicas para preenchimento:
 
-I - Nome do Adquirente e Endereço do Adquirente, NIF - inserir a expressão: "DIVERSOS";
-
-II - Valor da Operação: informar o somatório dos valores relacionados
-às operações cuja realização ocorreu no mês de referência;
-
-III - Data de Início e Data de Conclusão: informar o primeiro e o
-último dia do mês de referência.
+* I - Nome do Adquirente e Endereço do Adquirente, NIF - inserir a expressão: "DIVERSOS";
+* II - Valor da Operação: informar o somatório dos valores relacionados às operações cuja realização ocorreu no mês de referência;
+* III - Data de Início e Data de Conclusão: informar o primeiro e o último dia do mês de referência.
 
 A inclusão do RF será feita observadas adicionalmente as seguintes instruções específicas para preenchimento:
 
-I - Data da Fatura: informar o último dia do mês;
-
-II - Valor da Fatura: informar o somatório do valor faturado no mês;
-
-III - Número da NF de Serviço ou documento equivalente: inserir a expressão: "DIVERSOS".
+* I - Data da Fatura: informar o último dia do mês;
+* II - Valor da Fatura: informar o somatório do valor faturado no mês;
+* III - Número da NF de Serviço ou documento equivalente: inserir a expressão: "DIVERSOS".
 
 
 #### 4.3.4. Serviços de transporte de passageiros a pessoas físicas residentes no exterior
@@ -180,23 +175,17 @@ Nesse caso, a data de início será o primeiro dia do mês e a data de conclusã
 
 A inclusão do RVS será feita observadas as seguintes instruções específicas para preenchimento:
 
-I - Nome do Adquirente, Endereço do Adquirente, e NIF - inserir a expressão: "DIVERSOS";
-
-II - País do Adquirente: indicar o país de residência dos passageiros;
-
-III - País de Destino: indicar o mesmo país inserido no campo **País do Adquirente**.
-
-IV - Valor da Operação: informar o somatório dos valores relacionados às operações cuja realização ocorreu no mês de referência;
-
-V - Data de Início e Data de Conclusão: informar o primeiro e o último dia do mês de referência.
+* I - Nome do Adquirente, Endereço do Adquirente, e NIF - inserir a expressão: "DIVERSOS";
+* II - País do Adquirente: indicar o país de residência dos passageiros;
+* III - País de Destino: indicar o mesmo país inserido no campo **País do Adquirente**.
+* IV - Valor da Operação: informar o somatório dos valores relacionados às operações cuja realização ocorreu no mês de referência;
+* V - Data de Início e Data de Conclusão: informar o primeiro e o último dia do mês de referência.
 
 A inclusão do RF será feita observadas adicionalmente as seguintes instruções específicas para preenchimento:
 
-I - Data da Fatura: informar o último dia do mês;
-
-II - Valor da Fatura: informar o somatório do valor faturado no mês;
-
-III - Número da NF de Serviço ou documento equivalente: inserir a expressão: "DIVERSOS".
+* I - Data da Fatura: informar o último dia do mês;
+* II - Valor da Fatura: informar o somatório do valor faturado no mês;
+* III - Número da NF de Serviço ou documento equivalente: inserir a expressão: "DIVERSOS".
 
 
 ### 4.4. Registro de Presença Comercial no Exterior (RPC)
@@ -234,12 +223,10 @@ os [residentes](#residente) ou domiciliados no Brasil que realizem, com resident
 
 Estão obrigados a efetuar registro no Módulo Venda do Siscoserv:
 
-I - o prestador do serviço residente ou domiciliado no Brasil;
-
-II - a pessoa física ou jurídica, residente ou domiciliada no Brasil,
+* I - o prestador do serviço residente ou domiciliado no Brasil;
+* II - a pessoa física ou jurídica, residente ou domiciliada no Brasil,
 que transfere o intangível, inclusive os direitos de propriedade intelectual, por meio de cessão, concessão, licenciamento ou por quaisquer outros meios admitidos em direito; e
-
-III - a pessoa física ou jurídica ou o responsável legal do ente despersonalizado, residente ou domiciliado no Brasil, que realize
+* III - a pessoa física ou jurídica ou o responsável legal do ente despersonalizado, residente ou domiciliado no Brasil, que realize
 [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio).
 
 Para fins do Módulo Venda do Siscoserv, são considerados prestadores de serviço os residentes ou domiciliados no Brasil que faturam os residentes ou domiciliados no exterior.
@@ -378,7 +365,7 @@ sem vínculo empregatício com pessoa física ou jurídica residente ou domicili
 
 Não deverão registrar operações em Modo 4 no Siscoserv as Pessoas Jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física para exercer vínculo empregatício com Pessoa Jurídica no exterior a ela relacionada (por exemplo, transferido intracorporação).
 
-## 9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS)]
+## 9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS)
 
 O registro de [operações](about:blank) no Siscoserv será realizado de acordo com a [Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio(NBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13) e pelas respectivas [Notas Explicativas(NEBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13), aprovadas pelo [Decreto nº 7.708, de 2 de abril de 2012](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm), e suas alterações posteriores.
 
@@ -439,8 +426,7 @@ f\) o nono dígito é o subitem.
 
 A sistemática de classificação dos códigos da NBS obedece à seguinte estrutura:
 
-> ![ Descrição:
-> graphic](/media/venda/novo_image162.png)
+![](/media/venda/novo_image162.png)
 
 Exemplo:
 
@@ -464,56 +450,41 @@ então o algarismo deveria ser diferente de zero).
 
 Dessa maneira, fica claro que nem sempre o código NBS se apresenta totalmente desdobrado, isto é, um algarismo diferente de zero para subitem como, por exemplo:
 
-  1.0119.10.00   Serviços de construção de estruturas de prédios
-  -------------- ---------------------------------------------------------------
-  1.0606.10.00   Serviços de operação de aeroportos, exceto manuseio de cargas
-  1.0905.91.00   Serviços de consultoria financeira
-  1.2206.19.10   Serviços de palestras e conferências
+  |--------------|---------------------------------------------------------------|
+  | 1.0119.10.00 | Serviços de construção de estruturas de prédios               |
+  | 1.0606.10.00 | Serviços de operação de aeroportos, exceto manuseio de cargas |
+  | 1.0905.91.00 | Serviços de consultoria financeira                            |
+  | 1.2206.19.10 | Serviços de palestras e conferências                          |
+
 
 O usuário pode informar diretamente o código, ou localizá-lo acionando a ferramenta de busca: ![](/media/venda/novo_image21.png), situada ao lado do campo **Código NBS**.
 
 Na informação do código NBS, a posição mais específica prevalece sobre a mais genérica, sendo que o código só pode ser informado em seu maior nível de detalhamento (nove dígitos).
 
-> *[Exemplo 1:]*
->
-> Código NBS
->
-> **Capítulo 1:** 1.01
->
-> **Posição:** 1.0105
->
-> **Subposição N1:** 1.0105.1
->
-> **Subposição N2:** 1.0105.11
->
-> Como, para esse código, não há desdobramentos além do nível
-> **Subposição N2**, os dígitos faltantes são preenchidos com 0, até que
-> se complete 9 dígitos.
->
-> **Código a ser informado**: 1.0105.11.00
->
-> *[Exemplo 2:]*
->
-> **Capítulo 1:** 1.07
->
-> **Posição:** 1.0702
->
-> Como, para esse código, não há desdobramentos além do nível
-> **Posição**, os dígitos faltantes são preenchidos com 0, até que se
-> complete 9 dígitos.
->
-> **Código a ser informado**: 1.0702.00.00
+ *Exemplo 1:*  
+ Código NBS  
+ **Capítulo 1:** 1.01  
+ **Posição:** 1.0105  
+ **Subposição N1:** 1.0105.1  
+ **Subposição N2:** 1.0105.11  
+
+ Como, para esse código, não há desdobramentos além do nível **Subposição N2**, os dígitos faltantes são preenchidos com 0, até que se complete 9 dígitos.
+
+ > **Código a ser informado**: 1.0105.11.00
+
+ *Exemplo 2:*  
+ **Capítulo 1:** 1.07  
+ **Posição:** 1.0702  
+
+ Como, para esse código, não há desdobramentos além do nível **Posição**, os dígitos faltantes são preenchidos com 0, até que se complete 9 dígitos.
+
+ > **Código a ser informado**: 1.0702.00.00
 
 Para utilizar a ferramenta de busca:
 
-> 1-   no campo **Código NBS**, acionar botão ![ Descrição:
-> graphic](/media/venda/novo_image21.png)
->
-> 2-   é aberta a janela **Seleção de Código NBS** para realização da
-> busca do código;
->
-> 3-  o usuário pode optar por **Utilizar Pesquisa por Código** ou
-> **Utilizar Pesquisa por Descrição**:
+1. no campo **Código NBS**, acionar botão ![](/media/venda/novo_image21.png);
+2. é aberta a janela **Seleção de Código NBS** para realização da busca do código;
+3. o usuário pode optar por **Utilizar Pesquisa por Código** ou **Utilizar Pesquisa por Descrição**:
 
 **Utilizar Pesquisa por Código:** o usuário deve selecionar o código,
 expandindo os níveis "Capítulo", "Posição", "Subposição", "Item" e
@@ -555,13 +526,13 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 
 | **Mecanismos de Apoio/Fomento**           | **Medida Legal**           |
 |-------------------------------------------|----------------------------|
-|**ACC - Adiantamento sobre Contrato de Câmbio – Redução a Zero do IR e do IOF.** Antecipação parcial ou total em reais relativa ao preço da moeda estrangeira vendida ao banco autorizado a operar no mercado de câmbio, pelo exportador, para entrega futura. O ACC é concedido antes da prestação do serviço a residente ou domiciliado no exterior.|Decreto no 6.306, de 14 de dezembro de 2007, art. 8º Circular BCB nº 3.691, de 16 de dezembro de 2013, arts. 65 a 68 Portaria MDIC nº 210, de 31 de agosto de 2012|
-|**ACE – Adiantamento sobre Cambiais Entregues - Redução a Zero do IR e do IOF.** Antecipação parcial ou total em reais relativa ao preço da moeda estrangeira vendida ao banco autorizado a operar no mercado de câmbio, pelo exportador, para entrega futura. O ACE é concedido após a prestação de serviço a residente ou domiciliado no exterior e geralmente sucede uma  operação prévia de ACC.|Decreto no 6.306, de 14 de dezembro de 2007, art. 8º Circular BCB nº 3.691 de 16 de dezembro de 201, arts. 65 a 68 Portaria MDIC no 210, de 31 de agosto de 2012|
-|**BNDES-Exim Pós-Embarque – Serviços** Financiamento à comercialização de serviços nacionais no exterior, através da modalidade supllier’s credit (refinanciamento ao exportador) ou através da modalidade buyer’s credit (financiamento direto ao importador).|CIRCULAR AEX nº 8/2015, de 27 de julho de 2015 http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/posemb.html|
-|**BNDES-Exim Pré-Embarque - Serviços** Financiamento à produção nacional de serviços a serem exportados.|CIRCULAR AEX nº 11/2015, de 23 de outubro de 2015
-http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/preemb.html|
-|**FGE - Fundo de Garantia** à Exportação Garantia prestada pela União nas operações de Seguro de Crédito à Exportação (SCE), que objetiva segurar as exportações brasileiras contra os riscos comerciais, políticos e extraordinários que possam afetar as transações econômicas e financeiras vinculadas a operações de crédito à exportação.|Lei nº 6.704, de 26 de outubro de 1979 Lei no 9.818, de 23 de agosto de 1999 Maiores informações em FGE.|
-|**PROEX - EQUALIZAÇÃO** Cobertura de parte dos encargos financeiros incidentes, de forma a tornar as taxas de juros equivalentes às praticadas internacionalmente.|Lei no 10.184, de 12 de fevereiro de 2001 Portaria MDIC no 208, de 20 de outubro de 2010|
+|**ACC - Adiantamento sobre Contrato de Câmbio – Redução a Zero do IR e do IOF.** Antecipação parcial ou total em reais relativa ao preço da moeda estrangeira vendida ao banco autorizado a operar no mercado de câmbio, pelo exportador, para entrega futura. O ACC é concedido antes da prestação do serviço a residente ou domiciliado no exterior.|[Decreto no 6.306, de 14 de dezembro de 2007, art. 8º](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Decreto/D6306.htm) [Circular BCB nº 3.691, de 16 de dezembro de 2013, arts. 65 a 68](http://www.bcb.gov.br/?CAMBIOREGULA)[Portaria MDIC nº 210, de 31 de agosto de 2012](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=03/09/2012&jornal=1&pagina=143&totalArquivos=232)|
+|**ACE – Adiantamento sobre Cambiais Entregues - Redução a Zero do IR e do IOF.** Antecipação parcial ou total em reais relativa ao preço da moeda estrangeira vendida ao banco autorizado a operar no mercado de câmbio, pelo exportador, para entrega futura. O ACE é concedido após a prestação de serviço a residente ou domiciliado no exterior e geralmente sucede uma  operação prévia de ACC.|[Decreto no 6.306, de 14 de dezembro de 2007, art. 8º](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Decreto/D6306.htm) [Circular BCB nº 3.691 de 16 de dezembro de 201, arts. 65 a 68](http://www.bcb.gov.br/?CAMBIOREGULA) [Portaria MDIC no 210, de 31 de agosto de 2012](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=03/09/2012&jornal=1&pagina=143&totalArquivos=232)|
+|**BNDES-Exim Pós-Embarque – Serviços** Financiamento à comercialização de serviços nacionais no exterior, através da modalidade supllier’s credit (refinanciamento ao exportador) ou através da modalidade buyer’s credit (financiamento direto ao importador).|CIRCULAR AEX nº 8/2015, de 27 de julho de 2015 [http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/posemb.html](http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/posemb.html)|
+|**BNDES-Exim Pré-Embarque - Serviços** Financiamento à produção nacional de serviços a serem exportados.|CIRCULAR AEX nº 11/2015, de 23 de outubro de 2015 [http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/preemb.html](http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/preemb.html)|
+|**FGE - Fundo de Garantia** à Exportação Garantia prestada pela União nas operações de Seguro de Crédito à Exportação (SCE), que objetiva segurar as exportações brasileiras contra os riscos comerciais, políticos e extraordinários que possam afetar as transações econômicas e financeiras vinculadas a operações de crédito à exportação.|[Lei nº 6.704, de 26 de outubro de 1979](http://www.planalto.gov.br/ccivil_03/LEIS/L6704.htm) [Lei no 9.818, de 23 de agosto de 1999](http://www.planalto.gov.br/ccivil_03/leis/L9818.htm) Maiores informações em [FGE](http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/BNDES_Transparente/Fundos/Fge/).|
+|**PROEX - EQUALIZAÇÃO** Cobertura de parte dos encargos financeiros incidentes, de forma a tornar as taxas de juros equivalentes às praticadas internacionalmente.|[Lei no 10.184, de 12 de fevereiro de 2001](http://www.planalto.gov.br/ccivil_03/Leis/LEIS_2001/L10184.htm) [Portaria MDIC no 208, de 20 de outubro de 2010](http://www.mdic.gov.br/arquivos/dwnl_1287751168.pdf)|
+|**PROEX - Financiamento** Financiamento direto ao exportador brasileiro ou importador, com recursos financeiros obtidos junto ao Tesouro Nacional, para conceder às exportações brasileiras condições equivalentes às do mercado internacional.|[Lei no 10.184, de 12 de fevereiro de 2001](http://www.planalto.gov.br/ccivil_03/Leis/LEIS_2001/L10184.htm) [Portaria MDIC no 208, de 20 de outubro de 2010](http://www.mdic.gov.br/arquivos/dwnl_1287751168.pdf)|
 
 
 
@@ -570,10 +541,10 @@ http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/
 
 |MECANISMO                          | **Medida Legal**                  |
 |-----------------------------------|-----------------------------------|
-|**BNDES-Exim Pós-Embarque – Serviços** Financiamento à comercialização de serviços nacionais no exterior, através da modalidade supllier’s credit (refinanciamento ao exportador) ou através da modalidade buyer’s credit (financiamento direto ao importador).|CIRCULAR AEX nº 8/2015, de 27 de julho de 2015. http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/posemb.html|
-|**FGE - Fundo de Garantia à Exportação** Garantia prestada pela União nas operações de Seguro de Crédito à Exportação (SCE), que objetiva segurar as exportações brasileiras contra os riscos comerciais, políticos e extraordinários que possam afetar as transações econômicas e financeiras vinculadas a operações de crédito à exportação.|Lei no 9.818, de 23 de agosto de 1999 Maiores informações em FGE.|
-|**PROEX - EQUALIZAÇÃO** Cobertura de parte dos encargos financeiros incidentes, de forma a tornar as taxas de juros equivalentes às praticadas internacionalmente.|Lei no 10.184, de 12 de fevereiro de 2001 Portaria MDIC no 208, de 20 de outubro de 2010 |
-|**PROEX - Financiamento** Financiamento direto ao exportador brasileiro ou importador, com recursos financeiros obtidos junto ao Tesouro Nacional, para conceder às exportações brasileiras condições equivalentes às do mercado internacional |Lei no 10.184, de 12 de fevereiro de 2001 Portaria MDIC no 208, de 20 de outubro de 2010|
+|**BNDES-Exim Pós-Embarque – Serviços** Financiamento à comercialização de serviços nacionais no exterior, através da modalidade supllier’s credit (refinanciamento ao exportador) ou através da modalidade buyer’s credit (financiamento direto ao importador).|CIRCULAR AEX nº 8/2015, de 27 de julho de 2015. [http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/posemb.html](http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Apoio_Financeiro/Produtos/BNDES_Exim/posemb.html)|
+|**FGE - Fundo de Garantia à Exportação** Garantia prestada pela União nas operações de Seguro de Crédito à Exportação (SCE), que objetiva segurar as exportações brasileiras contra os riscos comerciais, políticos e extraordinários que possam afetar as transações econômicas e financeiras vinculadas a operações de crédito à exportação.|[Lei no 9.818, de 23 de agosto de 1999](http://www.planalto.gov.br/ccivil_03/leis/L9818.htm) Maiores informações em [FGE](http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/BNDES_Transparente/Fundos/Fge/).|
+|**PROEX - EQUALIZAÇÃO** Cobertura de parte dos encargos financeiros incidentes, de forma a tornar as taxas de juros equivalentes às praticadas internacionalmente.|[Lei no 10.184, de 12 de fevereiro de 2001](http://www.planalto.gov.br/ccivil_03/Leis/LEIS_2001/L10184.htm) [Portaria MDIC no 208, de 20 de outubro de 2010](http://www.mdic.gov.br/arquivos/dwnl_1287751168.pdf) |
+|**PROEX - Financiamento** Financiamento direto ao exportador brasileiro ou importador, com recursos financeiros obtidos junto ao Tesouro Nacional, para conceder às exportações brasileiras condições equivalentes às do mercado internacional.|[Lei no 10.184, de 12 de fevereiro de 2001](http://www.planalto.gov.br/ccivil_03/Leis/LEIS_2001/L10184.htm) [Portaria MDIC no 208, de 20 de outubro de 2010](http://www.mdic.gov.br/arquivos/dwnl_1287751168.pdf)|
 
 
 ## 11. Informações e canais de atendimento
@@ -592,22 +563,17 @@ Ao acessar o site, o usuário deve buscar no menu de Assuntos Gerais o tema "Si
 
 Em caso de erros ou falhas apresentados pelo Sistema, estão disponíveis os canais do SERPRO para diagnóstico e correção:
 
-> \- Formulário*:*
-> [http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior](http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior)*;*\
-> - *Email:*
-> [css.serpro\@serpro.gov.br](mailto:css.serpro@serpro.gov.br)*;
-> ou*\
-> - *Fone: 0800-978-2331.*
+* Formulário: [http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior](http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior)
+* Email: [css.serpro@serpro.gov.br](mailto:css.serpro@serpro.gov.br)
+* Fone: 0800-978-2331
 
--   **[Dúvidas sobre classificação de serviços, intangíveis e outras
-    operações que produzam variações no patrimônio:]**
+### Dúvidas sobre classificação de serviços, intangíveis e outras operações que produzam variações no patrimônio:
 
 Deve ser realizada consulta às Regras de Interpretação da Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio -- NBS, bem como às suas Notas Explicativas
 (NEBS), disponíveis nos seguintes endereços eletrônicos:
 
-[http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13]
-
-[http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/nbs-nomenclatura-brasileira-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio](http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/nbs-nomenclatura-brasileira-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio)
+* [http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13)
+* [http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/nbs-nomenclatura-brasileira-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio](http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/nbs-nomenclatura-brasileira-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio)
 
 Caso persistam dúvidas, deve ser formalizado processo administrativo de consulta à Secretaria da Receita Federal do Brasil (RFB), nos termos do art. 48 da Lei nº 9.430, de 27 de dezembro de 1996 e do Decreto nº 7.708, de 02 de abril de 2012, que instituiu a NBS.
 
@@ -622,8 +588,7 @@ Também está disponível no sítio da Secretaria de Comércio e Serviços
 (SCS) uma sessão de Perguntas Frequentes que pode ser acessada por meio do seguinte endereço eletrônico:
 [http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-6](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-6)
 
--   **[Dúvidas sobre casos concretos -- Consultas à Secretaria da
-    Receita Federal do Brasil ]**
+### Dúvidas sobre casos concretos -- Consultas à Secretaria da Receita Federal do Brasil
 
 A consulta é o instrumento previsto na [Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=46030)
 que o contribuinte possui para esclarecer dúvidas quanto à interpretação de determinado dispositivo da legislação tributária e aduaneira relativo aos tributos administrados pela Secretaria da Receita Federal do Brasil
@@ -642,157 +607,10 @@ Maiores informações sobre as Consultas estão disponíveis em:
 
 A legislação relativa ao Siscoserv encontra-se disponível nos endereços:
 
-[http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4]
+* [http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4)
+* [http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/siscoserv-sist-integrado-de-com-exterior-int-e-outras-operacoes-prod-var-patrim/siscoserv-sistema-integrado-de-comercio-exterior-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio](http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/siscoserv-sist-integrado-de-com-exterior-int-e-outras-operacoes-prod-var-patrim/siscoserv-sistema-integrado-de-comercio-exterior-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio)
 
-[http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/siscoserv-sist-integrado-de-com-exterior-int-e-outras-operacoes-prod-var-patrim/siscoserv-sistema-integrado-de-comercio-exterior-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio](http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/siscoserv-sist-integrado-de-com-exterior-int-e-outras-operacoes-prod-var-patrim/siscoserv-sistema-integrado-de-comercio-exterior-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio)
-
-Além dos canais disponíveis, o usuário pode tirar dúvidas em eventos relacionados ao Siscoserv. A divulgação dos eventos é realizada na seção
-"Notícias" do sistema.
-
-
-## 12. Glossário
-
-Esse glossário foi desenvolvido para facilitar o entendimento dos conceitos presentes nos registros do SISCOSERV.
-
-**Admissão Temporária:** regime aduaneiro especial que permite a importação de bens que devam permanecer no País durante prazo e finalidade fixados, com suspensão de tributos na importação, retornando ao exterior sem sofrer modificações que lhes confiram nova individualidade. Também poderão ser submetidos a este regime bens destinados à prestação de serviços ou a produção de outros bens, desde que com o pagamento proporcional dos impostos federais incidentes na importação, de acordo com o tempo de permanência no País.
-
-<a id="data_inicio_prestacao"></a>
-
-**Data de início da prestação de serviço:** é a data acordada entre residente e domiciliado no Brasil, e residente e domiciliado no exterior em contrato (formal ou não) para o início da prestação do serviço; para a transferência de intangível; e para a realização de operação que produza variação no patrimônio.
-
-<a id="declaracao_de_importacao"></a>
-
-**Declaração de Importação (DI):** é um documento eletrônico exigido na importação de bens, cujo processamento ocorre através do Sistema Integrado de Comércio Exterior --
-Siscomex--Importação. A DI consolida as informações cambiais,
-tributárias, fiscais, comerciais e estatísticas da operação. 
-
-**Empresa Controlada**: Considera-se controlada a sociedade na qual a controladora, diretamente ou através de outras controladas, é titular de direitos de sócio que lhe assegurem, de modo permanen<a id="mecanismo_de_apoio_fomento"></a>te, preponderância nas deliberações sociais e o poder de eleger a maioria dos administradores.
-
-<a id="mecanismo_de_apoio_fomento"></a>
-
-**Mecanismo de Apoio/Fomento:** Mecanismos de apoio ou fomento de diversas naturezas (promocional, tributária, creditícia e financeira) a operações de comércio exterior de serviços, intangíveis e [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio).
-
-<a id="ente_despersonalizado"></a>
-
-**Ente Despersonalizado:** trata-se um termo da doutrina jurídica para se referir aos entes que não possuem denominação legal específica, mas que podem, nos termos do art. 12 do Código de Processo Civil Brasileiro,
-ser representados em juízo, ativa e passivamente. São entes despersonalizados: a massa falida, a herança jacente ou vacante, o espólio, as sociedades sem personalidade jurídica e o condomínio.
-
-**Exportação Temporária:** regime aduaneiro especial que permite a saída do País, com suspensão do imposto de exportação, de mercadoria nacional ou nacionalizada, condicionada ao seu retorno em prazo determinado, no mesmo estado em que foi exportada.
-
-**Serviço:** É uma obrigação de fazer do prestador, destinada a atender uma necessidade do tomador.
-
-<a id="intangivel"></a>
-**Intangível:** Serão considerados os seguintes intangíveis para fins do registro no SISCOSERV:
-
-I - o licenciamento (autorização para usar ou explorar comercialmente direito patrimonial) e a cessão, temporária ou definitiva, dos direitos de propriedade intelectual objeto das Seções 1 a 7 da Parte II do Acordo sobre os Aspectos dos Direitos de Propriedade Intelectual Relacionados ao Comércio, conforme o Anexo 1C do Acordo Constitutivo da Organização Mundial do Comércio constante da Ata Final que incorpora os Resultados das Negociações Comerciais Multilaterais da Rodada Uruguai, aprovada pelo Decreto nº 1.355, de 31 de dezembro de 1994;
-
-II - os contratos de transferência de tecnologia envolvendo a prestação de serviços de assistência técnica e científica, combinadamente ou não,
-e o fornecimento da tecnologia -- *know how*;
-
-III - os contratos de franquia;
-
-IV - a exploração dos recursos naturais e o licenciamento dos direitos sobre conhecimento tradicional; e
-
-V - o licenciamento dos direitos relativos ao acesso a recursos genéticos.
-
-Informações adicionais podem ser obtidas nas Notas Explicativas dos Capítulos 11 e 27 da Nomenclatura Brasileira de Serviços, Intangíveis e outras Operações que Produzam Variações no Patrimônio --
-[NBS](http://www.mdic.gov.br/arquivos/dwnl_1387454702.pdf).
-
-<a id="movimentacao_temporaria_de_bens"></a>
-
-**Movimentação Temporária de Bens:** A movimentação temporária de bens ocorre tanto na importa<a id="negocio"></a>ção (Admissão Temporária)
-quanto na exportação (Exportação Temporária).
-
-<a id="negocio"></a>
-
-**Negócio:** operação ou conjunto de operações integrantes do contrato de prestação de serviços; da transferência ou da aquisição do intangível; e da realização de operação(ões) que produza(m)
-variação(ões) no patrimônio.
-
-<a id="nif"></a>
-**NIF -- Número de Identificação Fiscal:** É o número fornecido pelo
-órgão de administração tributária no exterior indicador de pessoa física ou jurídica.
-
-<a id="operacao"></a>
-
-**Operação:** conjunto de dados que caracterizam a prestação de um serviço, a transferência ou aquisição de intangível e a realização de operação que produza variação no patrimônio.
-
-No RVS, são dados de uma operação: Código da NBS, Descrição da NBS,
-Código e País de Destino; Código e Descrição da Moeda; Modo de Prestação; Data de Início; Data de Conclusão; Valor e, se for o caso,
-Mecanismo de apoio/fomento.
-
-No RPC são dados de uma operação: Código da NBS, Descrição da NBS e Valor Faturado. Os dados de uma operação no RPC só devem ser preenchidos quando a operação for amparada por mecanismo de fomento ao comércio exterior de serviços, ou seja, quando for preenchido o campo Mecanismo de apoio/fomento.
-
-<a id="outras_operacoes_que_produzam_variacoes_de_patrimonio"></a>
-
-**Outras Operações que Produzam Variações no Patrimônio:** São operações classificadas na NBS que não se enquadram como serviços nem como intangíveis.
-
-São exemplos:
-
-> \- Operações que envolvem simultaneamente a prestação de serviço e o
-> fornecimento de mercadoria, em que incidem o ICMS e o ISS, como
-> Fornecimento de alimentos -- código NBS 1.0301;
->
-> \- Operações de arrendamento mercantil financeiro, código NBS
-> 1.0901.5;
->
-> \- Arrendamento mercantil operacional, código NBS 1.1101 e 1.1102;
->
-> \- Contratos de franquias, código NBS 1.1110.30.00; e
->
-> \- Fomento comercial (*factoring),* código NBS 1.0908.00.00.
-
-<a id="registro_de_exportacao"></a>
-
-**Registro de Exportação (RE):** no Sistema Integrado de Comércio Exterior - Siscomex é o conjunto de informações de natureza comercial,
-financeira, cambial e fiscal que caracterizam a operação de exportação de uma mercadoria e definem o seu enquadramento.
-
-<a id="residente"></a>
-
-**Residente no Brasil:** Considera-se residente no Brasil a pessoa física (Lei nº 9.718, de 27 de novembro de 1998, art.
-12; Instrução Normativa SRF nº 208, de 27 de setembro de
-2002, art. 2º, com a alteração dada pela Instrução Normativa RFB nº 1.008, de 9 de fevereiro de 2010) :
-
-> I - que resida no Brasil em caráter permanente;
->
-> II - que se ausente para prestar serviços como assalariada a
-> autarquias ou repartições do Governo brasileiro situadas no exterior;
->
-> III - que ingresse no Brasil:
->
-> a\) com visto permanente, na data da chegada;
->
-> b\) com visto temporário:
->
-> 1\. para trabalhar com vínculo empregatício, na data da chegada;
->
-> 2\. na data em que complete 184 dias, consecutivos ou não, de permanência
-> no Brasil, dentro de um período de até doze meses;
->
-> 3\. na data da obtenção de visto permanente ou de vínculo empregatício,
-> se ocorrida antes de completar 184 dias, consecutivos ou não, de
-> permanência no Brasil, dentro de um período de até doze meses;
->
-> IV - brasileira que adquiriu a condição de não residente no Brasil e
-> retorne ao País com ânimo definitivo, na data da chegada;
->
-> V - que se ausente do Brasil em caráter temporário, ou se retire em
-> caráter permanente do território nacional sem entregar a [Comunicação
-> de Saída Definitiva do
-> País](http://www.receita.fazenda.gov.br/PessoaFisica/IRPF/2011/glossario.html#5939266742eb5e38f545ffbcfaa734e986a45f13),
-> durante os primeiros doze meses consecutivos de ausência. 
->
-
-<a id="valor_faturado"></a>
-
-**Valor Faturado:** É o valor parcial ou total da operação objeto de registro de faturamento (nota fiscal de serviço, fatura comercial ou documento equivalente) ou do registro de presença comercial. Deverá ser registrado na moeda vigente do contrato (RVS) da prestação do serviço,
-intangível ou [outra operação que produza variação no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio) ou em dólar dos Estados Unidos da América no caso de presença comercial relacionada à pessoa jurídica domiciliada no Brasil (RPC).
-
-<a id="valor_mantido_no_exterior"></a>
-
-**Valor Mantido no Exterior:** refere-se aos recursos em moeda estrangeira, relativos aos recebimentos de serviços, intangíveis ou
-[outras operações que produzam variações](#outras_operacoes_que_produzam_variacoes_de_patrimonio) no patrimônio, mantidos no exterior, nos termos da [Lei nº 11.371/2006](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11371.htm)
-e [Instrução Normativa no 726, de 28 de fevereiro de
-2007](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=15670).
+Além dos canais disponíveis, o usuário pode tirar dúvidas em eventos relacionados ao Siscoserv. A divulgação dos eventos é realizada na seção "Notícias" do sistema.
 
 
 # Capítulo 2 - Operacionalização do Sistema
@@ -839,16 +657,14 @@ A Procuração Eletrônica, emitida exclusivamente pela RFB, é o instrumento qu
 
 Em caso de dificuldades para acessar o sistema, recomenda-se a limpeza de cache do navegador ou mesmo o uso de outro navegador. É possível ainda que o problema esteja relacionado com a procuração eletrônica.
 Como informado, a procuração eletrônica é emitida pela RFB, a qual possui o seguinte link para verificação:
-http://idg.receita.fazenda.gov.br/interface/lista-de-servicos/procuracao/cadastrar-consultar-cancelar-procuracao-e-cac-eletronica-acesso-via-portal-e-cac/servico.
+[http://idg.receita.fazenda.gov.br/interface/lista-de-servicos/procuracao/cadastrar-consultar-cancelar-procuracao-e-cac-eletronica-acesso-via-portal-e-cac/servico](http://idg.receita.fazenda.gov.br/interface/lista-de-servicos/procuracao/cadastrar-consultar-cancelar-procuracao-e-cac-eletronica-acesso-via-portal-e-cac/servico).
 
 Por fim, caso o problema não seja solucionado, o usuário deve entrar em contato com o SERPRO - Serviço Federal de Processamento de Dados, que é
 o órgão responsável pelos aspectos técnico-operacionais do sistema. Os canais do SERPRO, para identificação e pronta correção dos problemas são:
 
-\-
-[http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior](http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior)
-
-\- Fone: 0800-978-2331
-\- Email: css.serpro\@serpro.gov.
+* [http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior](http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior)
+* Fone: 0800-978-2331
+* Email: css.serpro@serpro.gov.br
 
 
 ### 1.5. Informações Cadastrais
@@ -873,11 +689,9 @@ A partir de 1º de junho de 2016 o sistema oferecerá dois fluxos para inserçã
 
 O Siscoserv permite 3 tipos de Cadastro a saber:
 
-a)  Usuário/Responsável pelo Registro representa uma Pessoa Jurídica;
-
-b)  Usuário/Responsável pelo Registro representa uma Pessoa física; e
-
-c)  Usuário/Responsável pelo Registro é o Próprio Vendedor.
+1. Usuário/Responsável pelo Registro representa uma Pessoa Jurídica;
+2. Usuário/Responsável pelo Registro representa uma Pessoa física; e
+3. Usuário/Responsável pelo Registro é o Próprio Vendedor.
 
 #### 1.5.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica
 
@@ -955,9 +769,7 @@ Passo 4: Após o preenchimento das informações, o Usuário/Responsável clica 
 Passo 1: [Usuário /Responsável pelo Registro](#2y3w247)
 acessa o Siscoserv e clica em Informações cadastrais;
 
-[Obs: No primeiro acesso do usuário ao Sistema, o usuário será
-direcionado diretamente para a ficha de Informações Cadastrais. Não será
-possível efetuar novo registro antes de preencher os dados solicitados.]
+**Obs: No primeiro acesso do usuário ao Sistema, o usuário será direcionado diretamente para a ficha de Informações Cadastrais. Não será possível efetuar novo registro antes de preencher os dados solicitados.**
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas1.jpg](/media/venda/novo_image138.jpg)
 
@@ -998,7 +810,7 @@ Existem outros Campos de preenchimento opcional. São campos de preenchimento op
 >
 > \- Endereço do Canal do *Youtube* da Empresa Vendedora.
 
-[Fluxo de Manutenção de Informações]
+**Fluxo de Manutenção de Informações**
 
 Após um (1) ano, ou sempre que houver alguma alteração nas informações incluídas no cadastro do Siscoserv, o usuário / Responsável pelo Registro poderá acessar o campo **Informações Cadastrais** e atualizar ou confirmar as informações previamente inseridas.
 
@@ -1028,7 +840,8 @@ Passo 2: Seleciona a Opção "O usuário é o próprio Vendedor" e clica em Avan
 ![](/media/venda/novo_image165.jpg)
 
 Passo 3: O Sistema apresenta uma tela para a inserção dos Dados cadastrais.
-**[Fluxo de Registro Inicial**
+
+**Fluxo de Registro Inicial**
 
 O Sistema apresenta os dados do Usuário/Responsável pelo Registro,
 oriundos do e-CPF e da Procuração eletrônica, que se apresentam em fundo cinza, e os demais campos a serem preenchidos em branco. Neste caso, os dados do Usuário/Responsável pelo Registro são os mesmos da Pessoa Física vendedora que apenas deverá complementar as demais informações exigidas pelo Sistema.
@@ -1087,7 +900,6 @@ Em seguida, o usuário clica no símbolo do **Certificado Digital @** e o Sistem
 
 Os registros no Siscoserv podem ser feitos de forma individualizada ou por Transmissão em Lote.
 
-\
 Os registros individualizados no Siscoserv devem seguir as etapas de preenchimento descritas nos [2.1](#2.1),
 [2.2](#2.2) e [2.3 do Capítulo2](#2.3) deste Manual.
 
@@ -1095,13 +907,9 @@ A transmissão em lote permite a inclusão de uma grande quantidade de registros
 
 Para a criação dos arquivos que devem ser transmitidos, estão disponibilizados os seguintes documentos:
 
-\
-- [Orientações Técnicas para o desenvolvimento da funcionalidade Transmissão em Lote do SISCOSERV Módulos Venda e Aquisição](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf);
-
-\- [Modelos dos Arquivos XML e XSD para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Modelos_dos_Arquivos_XML_e_XSD_para_Transmiss%C3%A3o_em_Lote_-_V_2.0.zip);
-e
-
-\- [Tabelas de Códigos do Siscoserv para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Tabelas_de_C%C3%B3digos_do_Siscosev_para_Transmiss%C3%A3o_em_Lote.zip).
+* [Orientações Técnicas para o desenvolvimento da funcionalidade Transmissão em Lote do SISCOSERV Módulos Venda e Aquisição](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf);
+* [Modelos dos Arquivos XML e XSD para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Modelos_dos_Arquivos_XML_e_XSD_para_Transmiss%C3%A3o_em_Lote_-_V_2.0.zip); e
+* [Tabelas de Códigos do Siscoserv para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Tabelas_de_C%C3%B3digos_do_Siscosev_para_Transmiss%C3%A3o_em_Lote.zip).
 
 Cada arquivo XML contém informações referentes a uma funcionalidade:
 Inclusão de RVS, Aditivo ao RVS, Retificação do RVS, Retificação do Aditivo ao RVS, Inclusão do RF ou Cancelamento de RF. Não é possível incluir num mesmo arquivo XML informações de duas ou mais funcionalidades, por exemplo, informações sobre a Retificação de um RVS e sobre o Cancelamento de um RF. Os arquivos XML devem conter as mesmas informações requeridas no preenchimento manual do RVS.
