@@ -326,7 +326,7 @@ Exemplos:
 -   serviços de transporte internacional de cargas prestado por empresa domiciliada no Brasil a empresa domiciliada no exterior
 -   serviços de transporte internacional de passageiros prestado por empresa domiciliada no Brasil a residentes no exterior.
 
-![Imagens Siscoserv](/media/novo_image154.jpg)
+![Imagens Siscoserv](/media/venda/novo_image154.jpg)
 
 
 ### Modo 2 - Consumo no Brasil
@@ -342,7 +342,7 @@ Exemplos:
 -   serviços de manuseio de cargas e contêineres prestados no Brasil a pessoa jurídica domiciliada no exterior;
 -   serviços de hospedagem prestados no Brasil a residente no exterior.
 
-![Imagens Siscoserv](/media/novo_image160.jpg)
+![Imagens Siscoserv](/media/venda/novo_image160.jpg)
 
 ### Modo 3 - Presença comercial no exterior
 
@@ -355,7 +355,7 @@ Exemplos:
 -   filiais bancárias no exterior de banco brasileiro;
 -   controlada de empresa brasileira de tecnologia da informação no exterior.
 
-![Imagens Siscoserv](/media/novo_image172.jpg)
+![Imagens Siscoserv](/media/venda/novo_image172.jpg)
 
 ### Modo 4 - Movimento temporário de pessoas físicas
 
@@ -367,7 +367,7 @@ Exemplos:
 -   empreiteiras domiciliadas no Brasil enviam trabalhadores que mantêm vínculo empregatício no Brasil para construção de uma rodovia no exterior;
 -   advogado residente no Brasil desloca-se para o exterior a fim de prestar consultoria jurídica.
 
-![Imagens Siscoserv](/media/novo_image156.jpg)
+![Imagens Siscoserv](/media/venda/novo_image156.jpg)
 
 Devem registrar [operações](#operacao) em Modo 4 no Módulo Venda do Siscoserv:
 
@@ -440,7 +440,7 @@ f\) o nono dígito é o subitem.
 A sistemática de classificação dos códigos da NBS obedece à seguinte estrutura:
 
 > ![ Descrição:
-> graphic](/media/novo_image162.png)
+> graphic](/media/venda/novo_image162.png)
 
 Exemplo:
 
@@ -507,7 +507,7 @@ Na informação do código NBS, a posição mais específica prevalece sobre a m
 Para utilizar a ferramenta de busca:
 
 > 1-   no campo **Código NBS**, acionar botão ![ Descrição:
-> graphic](/media/novo_image21.png)
+> graphic](/media/venda/novo_image21.png)
 >
 > 2-   é aberta a janela **Seleção de Código NBS** para realização da
 > busca do código;
@@ -921,7 +921,7 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco,
 > \- E-mail do Diretor de Relações Governamentais ou Equivalente da
 > Empresa Vendedora;
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas3.1.jpg](/media/novo_image169.jpg)
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas3.1.jpg](/media/venda/novo_image169.jpg)
 
 Existem outros Campos de preenchimento opcional:
 
@@ -943,7 +943,7 @@ Neste caso, o Sistema disponibilizará uma tela tanto com as informações captu
 
 Anualmente, será solicitada a atualização imediata dos Campos Obrigatórios assim que um novo Registro for iniciado.
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas3.2.jpg](/media/novo_image171.jpg)
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas3.2.jpg](/media/venda/novo_image171.jpg)
 
 Passo 4: Após o preenchimento das informações, o Usuário/Responsável clica em Salvar.
 
@@ -959,11 +959,11 @@ acessa o Siscoserv e clica em Informações cadastrais;
 direcionado diretamente para a ficha de Informações Cadastrais. Não será
 possível efetuar novo registro antes de preencher os dados solicitados.]
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas1.jpg](/media/novo_image138.jpg)
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas1.jpg](/media/venda/novo_image138.jpg)
 
 Passo 2: Preenche o CPF da Pessoa Física que está representando e clica em avançar;
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas4.jpg](/media/novo_image137.jpg)
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas4.jpg](/media/venda/novo_image137.jpg)
 
 Passo 3: O Sistema apresenta uma tela para a inserção dos dados cadastrais.
 
@@ -984,7 +984,7 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco,
 >
 > \- E-mail de contato da Pessoa Física Vendedora;
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas5.jpg](/media/novo_image151.jpg)
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas5.jpg](/media/venda/novo_image151.jpg)
 
 Existem outros Campos de preenchimento opcional. São campos de preenchimento opcional:
 
@@ -1006,7 +1006,7 @@ Neste caso, o Sistema disponibilizará uma tela tanto com as informações captu
 
 Anualmente, será solicitada a atualização imediata dos Campos Obrigatórios assim que um novo Registro for iniciado.
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas5.1.jpg](/media/novo_image145.jpg)
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas5.1.jpg](/media/venda/novo_image145.jpg)
 
 Passo 4: Após a atualização das informações, o Usuário/Responsável clica em Salvar.
 
@@ -1021,7 +1021,7 @@ Passo 1: Responsável pelo Registro acessa o Siscoserv e clica em Informações 
 direcionado diretamente para a ficha de Informações Cadastrais. Não será
 possível efetuar novo registro antes de preencher os dados solicitados.**
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas1.jpg](/media/novo_image138.jpg)
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas1.jpg](/media/venda/novo_image138.jpg)
 
 Passo 2: Seleciona a Opção "O usuário é o próprio Vendedor" e clica em Avançar;
 
@@ -1041,7 +1041,7 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco,
 >
 > \- Endereço da Pessoa Física Vendedora;
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas7.jpg](/media/novo_image158.jpg)
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas7.jpg](/media/venda/novo_image158.jpg)
 
 Existem outros campos de preenchimento opcional:
 
@@ -1063,7 +1063,7 @@ Neste caso, o Sistema disponibilizará uma tela tanto com as informações captu
 
 Anualmente, será solicitada a atualização imediata dos Campos Obrigatórios assim que um novo Registro for iniciado.
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas7.2.jpg](/media/novo_image163.jpg)
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas7.2.jpg](/media/venda/novo_image163.jpg)
 
 
 Passo 4: Após a atualização das informações, o Usuário/Responsável clica em Salvar.
@@ -1138,7 +1138,7 @@ Para usar essa opção, selecione **Aproveitar Dados de RVS Incluído**. O Siste
 a)  **Informar o Número do RVS:** selecionada esta opção, preencha o
     > campo com número de RVS do qual se deseja aproveitar os dados e
     > acione o botão ![ Descrição:
-    > graphic](/media/novo_image24.png)
+    > graphic](/media/venda/novo_image24.png)
     
 
 ![](/media/venda/novo_image23.png)
@@ -1146,11 +1146,11 @@ a)  **Informar o Número do RVS:** selecionada esta opção, preencha o
 
 b)  **Exibir Lista dos RVS Incluídos:** selecionada esta opção, acione o
     > botão ![ Descrição:
-    > graphic](/media/novo_image21.png)
+    > graphic](/media/venda/novo_image21.png)
     > O Sistema exibe lista de RVS
     > incluídos, do mais recente para o mais antigo. Acione o botão
     > ![ Descrição:
-    > graphic](/media/novo_image24.png)
+    > graphic](/media/venda/novo_image24.png)
     > à direita do RVS desejado.
 
 ![](/media/venda/novo_image26.png)
@@ -1765,7 +1765,7 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 > **Operações** **a Faturar**, o usuário deve:
 >
 >    
->    a\) selecionar a operação a ser faturada, acionando o botão <img alt=""  src="/media/novo_image8.png"> ;
+>    a\) selecionar a operação a ser faturada, acionando o botão <img alt=""  src="/media/venda/novo_image8.png"> ;
 >
 >    b\) na tela seguinte <strong>Incluir Dados do RF</strong>, verificar o <strong>Valor da
 >    Operação</strong> e <strong>Saldo a Faturar</strong> da operação selecionada, bem como
@@ -1778,7 +1778,7 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 >    no exterior</a>, se for o caso, e clicar no botão
 >    <strong>Adicionar Dado</strong>. Caso haja outra operação a faturar no mesmo RVS, com
 >    a mesma data e referente à mesma nota fiscal de serviço ou documento
->    equivalente, acionar o botão <img src="/media/novo_image8.png"> 
+>    equivalente, acionar o botão <img src="/media/venda/novo_image8.png"> 
 >    ao lado da operação desejada para incluir
 >    novos dados;
 
@@ -1789,7 +1789,7 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 > e\) antes da inclusão do RF, caso seja detectado erro de preenchimento,
 > clicar no ícone ![](/media/venda/novo_image8.png)
 > à direita para corrigi-lo, procedendo
-> conforme descrito acima. Para excluí-lo, clicar no ícone <img src="/media/novo_image6.png">
+> conforme descrito acima. Para excluí-lo, clicar no ícone <img src="/media/venda/novo_image6.png">
 > à esquerda do campo;
 >
 > f\) inserir o <strong>Número da NF de Serviço ou do Documento Equivalente</strong> e
@@ -2003,7 +2003,7 @@ Na opção **Aproveitar Dados de RPC Incluído** o Sistema permite a seleção d
 Para usar essa opção, selecione Aproveitar Dados de RPC Incluído. O Sistema apresenta as seguintes opções:
 
 a\) **Informar o Número do RPC:** selecionada esta opção, preencha o campo com número de RPC do qual se deseja aproveitar os dados e acione o botão ![Descrição: Descrição: Descrição:
-graphic](/media/novo_image24.png).
+graphic](/media/venda/novo_image24.png).
 
 **b) Exibir Lista dos RPC Incluídos:** selecionada esta opção, acione o botão ![](/media/venda/novo_image21.png).O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RPC desejado.
@@ -2073,7 +2073,7 @@ Acione **Avançar** para validar os dados e seguir para a próxima tela
 Em dados do negócio, são incluídas informações relativas à venda de serviços, transferência de [intangíveis](#intangivel) e realização de [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio) pela presença comercial relacionada à
 pessoa jurídica domiciliada no Brasil.
 
-![Tela RPC11](/media/novo_image39.png)
+![Tela RPC11](/media/venda/novo_image39.png)
 
 __**Ano da apuração**__  
 Indique o ano-calendário a que se refere à **Receita Total.**
@@ -2114,7 +2114,7 @@ O órgão ou a entidade da administração pública que tenha atribuição legal
 
 A concessão ou o reconhecimento de cada mecanismo condiciona-se ao registro das operações no Siscoserv.
 
-![ENQUADRAMENTO02](/media/novo_image9.png)
+![ENQUADRAMENTO02](/media/venda/novo_image9.png)
 
 O Sistema abrirá uma nova tela para inclusão dos dados da(s)
 operação(ões) amparada(s) em mecanismo(s) de apoio.
@@ -2186,7 +2186,7 @@ Para retificar um RPC, o usuário tem como opções: **Informar o Número do RPC
 Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser retificado e acionado o botão ![](/media/venda/novo_image8.png).
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![
-](/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
+](/media/venda/novo_image68.png). O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RPC a ser retificado.
 
 do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RPC a ser retificado.
@@ -2223,7 +2223,7 @@ Para cancelar um RPC, o usuário tem como opções: **Informar o Número do RPC*
 Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser cancelado e acionado o botão ![](/media/venda/novo_image8.png).
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![
-](/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
+](/media/venda/novo_image68.png). O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RPC a ser cancelado.
 do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RPC a ser cancelado.
 
@@ -2254,7 +2254,7 @@ Para consultar um RPC, o usuário tem como opções: **Informar o Número do RPC
 Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser consultado e acionado o botão ![](/media/venda/novo_image8.png).
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![
-](/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
+](/media/venda/novo_image68.png). O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RPC a ser consultado.
 do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RPC a ser consultado.
 
@@ -2345,7 +2345,7 @@ Um arquivo de lote pode receber seis *status* diferentes:
 
 >1)  **EP** -- **Em Processamento**: o lote foi recebido pelo Sistema e pelo menos um dos arquivos de dados que o compõem passou pela validação de formato (veja [Processamento dos Arquivos de Lote](#1ulbmlt)). Os arquivos de dados serão processados pelo Siscoserv que verificará se as informações estão de acordo com suas regras de negócio.
 
-![tela consulta lote EP](/media/novo_image164.png)
+![tela consulta lote EP](/media/venda/novo_image164.png)
 
 >2)  **PS** -- **Processado com Sucesso**: o lote foi recebido e processado. Todas as operações representadas pelos arquivos de dados são efetivadas. Os arquivos de dados que estavam com *status* EP passam para o *status* PS. O Sistema apresenta o número do RVS incluído, retificado, aditado, etc.
 
@@ -2928,7 +2928,7 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 Empresa residente ou domiciliada no Brasil -- Empᴮᴿ, utiliza corretora de seguros, também residente ou domiciliada no Brasil, -- Corᴮᴿ que intermedeia a contratação com a seguradora residente ou domiciliada no exterior -- Segₑₓ. Desta forma, mesmo intervindo o intermediário Corᴮᴿ, as partes do contrato do seguro continuam a ser Empᴮᴿ e Segₑₓ e cabe a Empᴮᴿ, a contratante no Brasil, o registro no Siscoserv.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image95.jpg)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/venda/novo_image95.jpg)
 
 **Atores:**
 
