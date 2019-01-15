@@ -2332,6 +2332,7 @@ body.no-sidebar .row .content-outer {
   .site_logo_mobile span{
     text-align: start;
     color: #ffffff;
+    font-size: 36px;
   }
 
   #acesso-siscoserv{
@@ -2354,6 +2355,7 @@ body.no-sidebar .row .content-outer {
   #spanSidenav{
     visibility: visible;
     display: unset;
+    color: #ffffff;
   }
 
   .sidenav {
@@ -2361,7 +2363,7 @@ body.no-sidebar .row .content-outer {
     width: 0;
     position: relative;
     z-index: 2;
-    top: 0;
+    top: 15px;
     right: 0;
     background-color: #0d4e29;
     overflow-x: hidden;
@@ -2406,7 +2408,6 @@ body.no-sidebar .row .content-outer {
 
 #spanSidenav{
   position:absolute;
-	top:0;
   right:15px;
   margin-right: 0%;
 }
@@ -2530,9 +2531,15 @@ div#barra-brasil {
     border: 0px;
     box-shadow: none;
     float: left;
-    margin-top: 7px;
+    margin-top: 16px;
     margin-left: 21px;
     box-sizing: unset;
+    margin-top: 7px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
 }
 
 .active a {
