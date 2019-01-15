@@ -1529,7 +1529,7 @@ body {
     clear: both; }
   body > header.masthead {
     background: linear-gradient(180deg, rgba(255, 255, 255, 0.29) 0%, rgba(255, 255, 255, 0) 100%), #219653;
-    background-image: url(../public/img/logo-topo-bg.svg);
+    background-image: url(../img/logo-topo-bg.svg);
     background-repeat: no-repeat;
     background-position: right bottom;
     position:relative;
@@ -2017,6 +2017,9 @@ body.index .span9.content-outer {
 	}
 	.outer .title {
       color: #fff;
+      font-weight: 700;
+      font-size: 21px;
+      margin-top: 40px;
 	}
 	.outer ul.menu li {
 	    list-style: none;
@@ -2294,6 +2297,10 @@ body.no-sidebar .row .content-outer {
     float: unset;
   }
 
+  .outer a{
+    font-weight: 400;
+  }
+
   .menu {
     width: 90%;
   }
@@ -2317,12 +2324,14 @@ body.no-sidebar .row .content-outer {
     font-style: normal;
     font-weight: bold;
     font-size: 3rem;
-    position: static;
+    position: absolute;
     padding: 25px;
+    bottom: 15px;
   }
 
   .site_logo_mobile span{
     text-align: start;
+    color: #ffffff;
   }
 
   #acesso-siscoserv{
@@ -2523,6 +2532,7 @@ div#barra-brasil {
     float: left;
     margin-top: 7px;
     margin-left: 21px;
+    box-sizing: unset;
 }
 
 .active a {
