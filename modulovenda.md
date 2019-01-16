@@ -9,8 +9,6 @@ title: Módulo Venda
 # MÓDULO VENDA 12ª Edição
 
 
-![](/media/venda/novo_image22.png)
-
 [TOC]
 
 # Capítulo 1 - Informações gerais e normativas sobre o Siscoserv
@@ -120,17 +118,16 @@ Neste caso, o número da nota fiscal será repetido em cada RF.
 
 Para o registro de faturamento, há dois prazos possíveis, dependendo da data de emissão da nota fiscal ou documento equivalente:
 
-1. quando a nota fiscal ou documento equivalente forem emitidos **depois** [da inclusão do RVS](#21-inclusão-do-rvs), o usuário deve efetuar o RF até o último dia útil do mês subsequente ao da emissão da NF ou documento equivalente.
+   1\) quando a nota fiscal ou documento equivalente forem emitidos **depois** [da inclusão do RVS](#21-inclusão-do-rvs), o usuário deve efetuar o RF até o último dia útil do mês subsequente ao da emissão da NF ou documento equivalente.
+   Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#411-prazo-para-o-rvs).   
+   
+   ![](/media/venda/prazo-RF-caso1.png)   
 
-   Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#411-prazo-para-o-rvs).
+   2\) quando a nota fiscal ou documento equivalente forem emitidos **antes** [da inclusão do RVS](#21-inclusão-do-rvs), o usuário deve efetuar o RF até [o último dia útil do mês subsequente ao de inclusão desse RVS.
 
-   ![](/media/venda/prazo-RF-caso1.png)
+   Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#411-prazo-para-o-rvs).   
 
-2. quando a nota fiscal ou documento equivalente forem emitidos **antes** [da inclusão do RVS](#21-inclusão-do-rvs), o usuário deve efetuar o RF até [o último dia útil do mês subsequente ao de inclusão desse RVS.
-
-   Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#411-prazo-para-o-rvs).
-
-   ![](/media/venda/prazo-RF-caso2.png)
+   ![](/media/venda/prazo-RF-caso2.png)   
 
 ### 4.3. Situações especiais de registro
 
@@ -614,9 +611,6 @@ Além dos canais disponíveis, o usuário pode tirar dúvidas em eventos relacio
 
 
 # Capítulo 2 - Operacionalização do Sistema
-
-![](/media/venda/novo_image22.png)
-
 
 
 ## 1. Acesso ao Siscoserv
@@ -2452,8 +2446,6 @@ O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados par
 
 # Capítulo 3 - Cenários Exemplificativos de Registro no Siscoserv
 
-![](/media/venda/novo_image22.png)
-
 
 ## 1. Registro de Transporte Internacional de Cargas (Frete)
 
@@ -2472,9 +2464,9 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 **Atores:**
 
-> Eᴮᴿ: Exportador residente ou domiciliado no Brasil
+> Eʙʀ: Exportador residente ou domiciliado no Brasil
 >
-> AgCᴮᴿ: A^gente de Cargas residente ou domiciliado no Brasil
+> AgCʙʀ: Agente de Cargas residente ou domiciliado no Brasil
 >
 > Tₑₓ: Transportador residente ou domiciliado no Exterior
 >
@@ -2482,16 +2474,16 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 **Relações entre os Atores:**
 
-> Eᴮᴿ -- Iₑₓ: Exportador Brasileiro se compromete a transportar
+> Eʙʀ -- Iₑₓ: Exportador Brasileiro se compromete a transportar
 > mercadorias até o local indicado pelo Importador residente ou
 > domiciliado no exterior.
 >
-> Eᴮᴿ -- AgCᴮᴿ: Exportador brasileira contrata Agente de Cargas
+> Eʙʀ -- AgCʙʀ: Exportador brasileira contrata Agente de Cargas
 > residente ou domiciliado no Brasil para que, **em nome de Exportador
 > brasileiro**, contrate o transporte marítimo das mercadorias até o
 > local indicado pelo Importador residente ou domiciliado no Exterior.
 >
-> AgCᴮᴿ -- Tₑₓ: Agente de Cargas residente ou domiciliado no Brasil
+> AgCʙʀ -- Tₑₓ: Agente de Cargas residente ou domiciliado no Brasil
 > contrata Transportador residente ou domiciliado no Exterior, **em
 > nome** do Exportador brasileiro, para transportar as mercadorias até o
 > local indicado pelo Importador residente ou domiciliado no Exterior,
@@ -2504,9 +2496,9 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 **Registros devidos:**
 
-> Eᴮᴿ: RAS pelo serviço de transporte tendo Tₑₓ como vendedor.
+> Eʙʀ: RAS pelo serviço de transporte tendo Tₑₓ como vendedor.
 >
-> Observação: Neste cenário Eᴮᴿ não se sujeita a registrar no Módulo
+> Observação: Neste cenário Eʙʀ não se sujeita a registrar no Módulo
 > Venda do Siscoserv os serviços de transporte internacional de carga
 > adquiridos de Tₑₓ, cujo custo seja por ele repassado a Iₑₓ.
 >  
@@ -2519,11 +2511,11 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 **Atores:**
 
-> Iᴮᴿ: Importador residente ou domiciliado no Brasil
+> Iʙʀ: Importador residente ou domiciliado no Brasil
 >
 > Eₑₓ: Exportador residente ou domiciliado no Exterior
 >
-> AgCᴮᴿ: Agente de Cargas residente ou domiciliado no Brasil
+> AgCʙʀ: Agente de Cargas residente ou domiciliado no Brasil
 >
 > AgCgₑₓ: Agente de carga residente ou domiciliado no Exterior
 >
@@ -2531,24 +2523,24 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 **Relações entre os Atores:**
 
-> Iᴮᴿ -- Eₑₓ: Iᴮᴿ assume o ônus de transportar a mercadoria
+> Iʙʀ -- Eₑₓ: Iʙʀ assume o ônus de transportar a mercadoria
 > importada
 >
-> Iᴮᴿ -- AgCᴮᴿ: Iᴮᴿ contrata AgCᴮᴿ para que, em nome de Iᴮᴿ,
+> Iʙʀ -- AgCʙʀ: Iʙʀ contrata AgCʙʀ para que, em nome de Iʙʀ,
 > contrate o transporte marítimo das mercadorias até o local indicado
-> por IBR.
+> por Iʙʀ.
 >
-> AgCᴮᴿ -- Tₑₓ: AgCᴮᴿ contrata Tₑₓ, em nome de Iᴮᴿ, para
-> transportar as mercadorias até o local indicado por Iᴮᴿ, sendo que
+> AgCʙʀ -- Tₑₓ: AgCʙʀ contrata Tₑₓ, em nome de Iʙʀ, para
+> transportar as mercadorias até o local indicado por Iʙʀ, sendo que
 > Tₑₓ de fato fará o transporte.
 
 **Registros devidos:**
 
-> Iᴮᴿ: RAS pelo serviço de transporte tendo Tₑₓ como vendedor.
+> Iʙʀ: RAS pelo serviço de transporte tendo Tₑₓ como vendedor.
 >
 > Observação: Caso o agente de cargas brasileiro intermedeie, em nome do
 > importador brasileiro, a contratação do agente de cargas estrangeiro,
-> deve ser feito um RAS por Iᴮᴿ tendo AgCgₑₓ como vendedor do
+> deve ser feito um RAS por Iʙʀ tendo AgCgₑₓ como vendedor do
 > serviço.
 >  
   
@@ -2563,23 +2555,23 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 > Eₑₓ: Exportador residente ou domiciliado no Exterior
 >
-> Iᴮᴿ: Importador residente ou domiciliado no Brasil
+> Iʙʀ: Importador residente ou domiciliado no Brasil
 >
 > Cₑₓ: Consolidador de cargas residente ou domiciliado no Exterior
 >
-> Dᴮᴿ: Desconsolidador de cargas residente ou domiciliado no Brasil
+> Dʙʀ: Desconsolidador de cargas residente ou domiciliado no Brasil
 >
 > Tₑₓ: Transportador residente ou domiciliado no Exterior
 
 **Relações entre os Atores:**
 
-> Eₑₓ -- Iᴮᴿ: Eₑₓ compromete-se com o Iᴮᴿ a transportar a
-> mercadoria até local indicado por Iᴮᴿ em solo brasileiro.
+> Eₑₓ -- Iʙʀ: Eₑₓ compromete-se com o Iʙʀ a transportar a
+> mercadoria até local indicado por Iʙʀ em solo brasileiro.
 >
 > Eₑₓ -- Cₑₓ: Eₑₓ contrata Cₑₓ para providenciar a consolidação
-> e o transporte da mercadoria até o local indicado por Iᴮᴿ
+> e o transporte da mercadoria até o local indicado por Iʙʀ
 >
-> Cₑₓ -- Dᴮᴿ: Cₑₓ contrata Dᴮᴿ para fazer a desconsolidação da
+> Cₑₓ -- Dʙʀ: Cₑₓ contrata Dʙʀ para fazer a desconsolidação da
 > mercadoria.
 >
 > Cₑₓ -- Tₑₓ: Cₑₓ contrata em seu próprio nome Tₑₓ para
@@ -2587,7 +2579,7 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 **Registros devidos:**
 
-> Dᴮᴿ: RVS pelo serviço de desconsolidação tendo Cₑₓ como
+> Dʙʀ: RVS pelo serviço de desconsolidação tendo Cₑₓ como
 > adquirente.
 >
 > **Não há registro no Siscoserv** pelo serviço de transporte de cargas
@@ -2603,11 +2595,11 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 **Atores:**
 
-> Eᴮᴿ: Exportador residente ou domiciliado no Brasil
+> Eʙʀ: Exportador residente ou domiciliado no Brasil
 >
 > Iₑₓ: Importador residente ou domiciliado no Exterior
 >
-> Cᴮᴿ: Consolidador de cargas residente ou domiciliado no Brasil
+> Cʙʀ: Consolidador de cargas residente ou domiciliado no Brasil
 >
 > Dₑₓ: Desconsolidador de cargas residente ou domiciliado no Exterior
 >
@@ -2616,21 +2608,21 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 **Relações entre os Atores:**
 
-> Eᴮᴿ -- Iₑₓ: Eᴮᴿ compromete-se com o Iₑₓ a transportar a
+> Eʙʀ -- Iₑₓ: Eʙʀ compromete-se com o Iₑₓ a transportar a
 > mercadoria até local indicado por Iₑₓ.
 >
-> Eᴮᴿ -- Cᴮᴿ: Eᴮᴿ contrata Cᴮᴿ para providenciar a consolidação
+> Eʙʀ -- Cʙʀ: Eʙʀ contrata Cʙʀ para providenciar a consolidação
 > e o transporte da mercadoria até o local indicado por Iₑₓ.
 >
-> Cᴮᴿ -- Tₑₓ: CBR contrata Tₑₓ para transportar as mercadorias até
+> Cʙʀ -- Tₑₓ: CBR contrata Tₑₓ para transportar as mercadorias até
 > o local indicado por Iₑₓ, sendo que Tₑₓ de fato fará o transporte.
 >
-> Cᴮᴿ -- Dₑₓ: Cᴮᴿ contrata Dₑₓ para fazer a desconsolidação da
+> Cʙʀ -- Dₑₓ: Cʙʀ contrata Dₑₓ para fazer a desconsolidação da
 > mercadoria.
 
 **Registros devidos:**
 
-> Cᴮᴿ: RAS pelo serviço de transporte tendo Tₑₓ como vendedor e RAS
+> Cʙʀ: RAS pelo serviço de transporte tendo Tₑₓ como vendedor e RAS
 > pelo serviço de desconsolidação, tendo Dₑₓ como vendedor.
 >
   
@@ -2642,59 +2634,59 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 **Descrição**
 
-Empresa residente ou domiciliada no Brasil -- Empᴮᴿ, utiliza corretora de seguros, também residente ou domiciliada no Brasil, -- Corᴮᴿ que intermedeia a contratação com a seguradora residente ou domiciliada no exterior -- Segₑₓ. Desta forma, mesmo intervindo o intermediário Corᴮᴿ, as partes do contrato do seguro continuam a ser Empᴮᴿ e Segₑₓ e cabe a Empᴮᴿ, a contratante no Brasil, o registro no Siscoserv.
+Empresa residente ou domiciliada no Brasil -- Empʙʀ, utiliza corretora de seguros, também residente ou domiciliada no Brasil, -- Corʙʀ que intermedeia a contratação com a seguradora residente ou domiciliada no exterior -- Segₑₓ. Desta forma, mesmo intervindo o intermediário Corʙʀ, as partes do contrato do seguro continuam a ser Empʙʀ e Segₑₓ e cabe a Empʙʀ, a contratante no Brasil, o registro no Siscoserv.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/venda/novo_image95.jpg)
 
 **Atores:**
 
-> Empᴮᴿ: Empresa residente ou domiciliado no Brasil
+> Empʙʀ: Empresa residente ou domiciliado no Brasil
 >
-> Corᴮᴿ: Corretora de seguros residente ou domiciliado no Brasil
+> Corʙʀ: Corretora de seguros residente ou domiciliado no Brasil
 >
 > Segₑₓ: Seguradora residente ou domiciliado no Exterior
 
 **Relações entre os Atores:**
 
-> Empᴮᴿ -- Corᴮᴿ: Empᴮᴿ contrata Corᴮᴿ para que, em nome de
-> Empᴮᴿ, contrate o seguro.
+> Empʙʀ -- Corʙʀ: Empʙʀ contrata Corʙʀ para que, em nome de
+> Empʙʀ, contrate o seguro.
 >
-> Corᴮᴿ -- Segₑₓ: Corᴮᴿ contrata seguro de Segₑₓ, em nome de
-> Empᴮᴿ.
+> Corʙʀ -- Segₑₓ: Corʙʀ contrata seguro de Segₑₓ, em nome de
+> Empʙʀ.
 
 **Registros devidos:**
 
-> Empᴮᴿ: RAS pelo serviço de seguro tendo Segₑₓ como vendedora.
+> Empʙʀ: RAS pelo serviço de seguro tendo Segₑₓ como vendedora.
 >  
   
 
 ### Cenário 2.2. Contratação de seguro de estipulante domiciliada ou residente no Brasil
 
 **Descrição**  
-Estᴮᴿ, residente ou domiciliada no Brasil, é uma corretora que contrata e paga apólice coletiva de seguros, ficando investida dos poderes de representação dos segurados perante as seguradoras, fazendo papel de estipulante. Se Segₑₓ, seguradora residente ou domiciliada no exterior, for contratada e paga por Estᴮᴿ em favor de Empᴮᴿ,
-residente ou domiciliada no Brasil, Estᴮᴿ é considerado o contratante e, consequentemente, o responsável pelo registro no Siscoserv
+Estʙʀ, residente ou domiciliada no Brasil, é uma corretora que contrata e paga apólice coletiva de seguros, ficando investida dos poderes de representação dos segurados perante as seguradoras, fazendo papel de estipulante. Se Segₑₓ, seguradora residente ou domiciliada no exterior, for contratada e paga por Estʙʀ em favor de Empʙʀ,
+residente ou domiciliada no Brasil, Estʙʀ é considerado o contratante e, consequentemente, o responsável pelo registro no Siscoserv
 
 ![](/media/venda/novo_image96.jpg)
 
 **Atores:**
 
-> Empᴮᴿ: Empresa residente ou domiciliado no Brasil
+> Empʙʀ: Empresa residente ou domiciliado no Brasil
 >
-> Estᴮᴿ: Estipulante residente ou domiciliada no Brasil
+> Estʙʀ: Estipulante residente ou domiciliada no Brasil
 >
 > Segₑₓ: Seguradora residente ou domiciliado no Exterior
 
 **Relações entre os Atores:**
 
-> Empᴮᴿ -- Estᴮᴿ: Empᴮᴿ contrata seguro de Estᴮᴿ.
+> Empʙʀ -- Estʙʀ: Empʙʀ contrata seguro de Estʙʀ.
 >
-> Estᴮᴿ -- Segₑₓ: Estᴮᴿ contrata apólice coletiva de seguros de
+> Estʙʀ -- Segₑₓ: Estʙʀ contrata apólice coletiva de seguros de
 > Segₑₓ e paga por ela, ficando investida dos poderes de representação
 > dos segurados, inclusive Empₑₓ, perante Segₑₓ
 
 **Registros devidos:**
 
-> Estᴮᴿ: RAS pelo serviço de seguro tendo Segₑₓ como vendedora.
+> Estʙʀ: RAS pelo serviço de seguro tendo Segₑₓ como vendedora.
 >
   
 
@@ -2755,6 +2747,8 @@ Empresa residente ou domiciliada no Brasil que envia empregado para trabalhar em
 
 Empresa residente e domiciliada no Brasil que efetua apenas o pagamento de contribuições previdenciárias, referente a segurado facultativo, de trabalhador residente no exterior e com vínculo empregatício estabelecido junto a uma empresa residente e domiciliada no exterior, em país que não possua tratado previdenciário com o Brasil, pagamento esse reembolsado pela empresa estrangeira, não deve prestar essa informação no Siscoserv. Tal situação não configura prestação de serviço em modo 4.
 Importante ressaltar que esse cenário trata exclusivamente de situação em que não há nenhuma prestação de serviços do expatriado à empresa brasileira.
+
+# Notas de rodapé
 
 [^1]:  Neste caso, leia-se "prestação de serviços" como "prestação de
     serviços, transferência de intangível e realização de [outras

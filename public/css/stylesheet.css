@@ -586,3 +586,11 @@ Animação - Modal
   75% { transform: translateX(7.5rem) scale(0.5); }
   95% { transform: translateX(0rem) scale(1); }
 }
+
+.footnotes li p {
+  display: inline;
+}
+
+.footnotes li {
+  padding-bottom: 10px;
+}

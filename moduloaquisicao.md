@@ -4046,6 +4046,8 @@ Importante ressaltar que esse cenário trata exclusivamente de situação
 em que não há nenhuma prestação de serviços do expatriado à empresa
 brasileira.
 
+# Notas de rodapé
+
 [^1]: Neste caso, leia-se "prestação de serviços" como "prestação de
     serviços, transferência de [intangível](#Intangível) e realização de
     [outras operações que produzam variações no
