@@ -943,23 +943,13 @@ Na opção **Aproveitar Dados de RVS Incluído,** o Sistema permite a seleção 
 
 Para usar essa opção, selecione **Aproveitar Dados de RVS Incluído**. O Sistema apresentará as seguintes opções:
 
-a)  **Informar o Número do RVS:** selecionada esta opção, preencha o
-    > campo com número de RVS do qual se deseja aproveitar os dados e
-    > acione o botão ![ Descrição:
-    > graphic](/media/venda/novo_image24.png)
+a)  **Informar o Número do RVS:** selecionada esta opção, preencha o campo com número de RVS do qual se deseja aproveitar os dados e acione o botão ![](/media/venda/novo_image24.png)
     
 
 ![](/media/venda/novo_image23.png)
 
 
-b)  **Exibir Lista dos RVS Incluídos:** selecionada esta opção, acione o
-    > botão ![ Descrição:
-    > graphic](/media/venda/novo_image21.png)
-    > O Sistema exibe lista de RVS
-    > incluídos, do mais recente para o mais antigo. Acione o botão
-    > ![ Descrição:
-    > graphic](/media/venda/novo_image24.png)
-    > à direita do RVS desejado.
+b)  **Exibir Lista dos RVS Incluídos:** selecionada esta opção, acione o botão ![](/media/venda/novo_image21.png) O Sistema exibe lista de RVS incluídos, do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png) à direita do RVS desejado.
 
 ![](/media/venda/novo_image26.png)
 
@@ -1097,7 +1087,7 @@ essa alteração não promove a conversão automática do valor em função da m
 
 ![](/media/venda/novo_image30.png)
 
-#### [Modo de Prestação:](#8)
+#### Modo de Prestação
 
 O usuário deve selecionar item na lista **Modo de Prestação**, dentre as opções:
 
@@ -1131,24 +1121,19 @@ Para o Siscoserv, é considerado como valor comercial das operações o valor br
 
 Exemplo:
 
-1)  > Empresa (A), domiciliada no Brasil, presta um serviço para uma
-    > empresa (B), domiciliada no exterior. Posteriormente, a
-    > empresa (A) envia uma nota de despesa solicitando reembolso de
-    > transportes, alimentação e hospedagem, entre outros custos
-    > incorridos durante a prestação desse serviço.
+> 1) Empresa (A), domiciliada no Brasil, presta um serviço para uma empresa (B), domiciliada no exterior. Posteriormente, a empresa (A) envia uma nota de despesa solicitando reembolso de transportes, alimentação e hospedagem, entre outros custos incorridos durante a prestação desse serviço.
 
 Neste caso, a empresa (A) deve adicionar o valor dessas despesas ao valor total da operação, mediante retificação do RVS, conforme o item
 [2.1.2 do Capítulo 2](#2.1.2) deste Manual.
 
 Só pode ser informado valor acima de 0,00 (zero).
 
-#### [Mecanismo](#mecanismo_de_apoio_fomento) de Apoio/Fomento
+#### Mecanismo de Apoio/Fomento
 
 Para informar **Mecanismo de apoio/fomento** da operação, tal como previsto no [item 10](about:blank) do capítulo 1 deste Manual, marque "sim" à direita da pergunta: "A operação está amparada em mecanismo de apoio/fomento ao comércio exterior nos termos do art. 26 da Lei 12.546/2011?". O Sistema abrirá uma nova tela para inclusão do(s)
 mecanismo(s) de apoio.
 
-> ![](/media/venda/novo_image12.png)
-> 
+![](/media/venda/novo_image12.png)
 
 
 Selecione o [Mecanismo de apoio/fomento](#10.1)
@@ -1161,8 +1146,7 @@ para adicioná-lo ao RVS. Caso contrário,
 clique diretamente em ![](/media/venda/novo_image10.png)
 .
 
-> ![](/media/venda/novo_image46.jpg)
-> 
+![](/media/venda/novo_image46.jpg)
 
 Caso deseje excluir um enquadramento selecionado, o usuário deve acionar o botão ![](/media/venda/novo_image6.png)
 .
@@ -1393,19 +1377,15 @@ Excepcionalmente, se, após o término do [prazo para inclusão do último RF](#
 
 > a\) caso o serviço prestado tenha valor diferente do inicialmente registrado, o usuário deve retificar no RVS o  *Valor da Operação*  de forma a corresponder ao valor do serviço efetivamente prestado.
 >
-> b\) caso o serviço tenha sido prestado e o faturamento tenha sido parcial ou inexistente, o usuário deve retificar o RVS para incluir em
-> **Informações Complementares** a justificativa para tanto.
+> b\) caso o serviço tenha sido prestado e o faturamento tenha sido parcial ou inexistente, o usuário deve retificar o RVS para incluir em **Informações Complementares** a justificativa para tanto.
 
 O **Valor da Operação** pode ser retificado para 0,00 (zero) nos seguintes casos:
 
 
-> c\) o usuário tenha registrado a operação para um vendedor incorreto;
->
-> d\) a operação tenha sido informada em duplicidade;
->
-> e\) a operação tenha sido informada no módulo Venda indevidamente; ou
->
-> f\) o pagamento tenha sido inexistente.
+> a\) o usuário tenha registrado a operação para um vendedor incorreto;  
+> b\) a operação tenha sido informada em duplicidade;  
+> c\) a operação tenha sido informada no módulo Venda indevidamente; ou  
+> d\) o pagamento tenha sido inexistente.  
 
 
 Nesses casos, o usuário deve obrigatoriamente justificar a referida retificação em **Informações Complementares**. No caso das alíneas a e b, deve-se indicar o número do RVS correto. No caso da alínea c, indique o número do RAS.
@@ -1474,23 +1454,17 @@ devem coincidir com o valor informado no RVS.
 
 Excepcionalmente, se, após o término do [prazo para inclusão do último RF](#4.2.1), ocorrer de os valores do RVS e do(s) RF não serem coincidentes:
 
-<ol type="a">
-<li> caso o serviço prestado tenha valor diferente do inicialmente registrado, o usuário deve retificar o aditivo do RVS o <strong>Valor da Operação</strong> de forma a corresponder ao valor do serviço efetivamente prestado;
-</li>
-<li>caso o serviço tenha sido prestado e o faturamento tenha sido parcial ou inexistente, o usuário deve retificar o RVS para incluir em
-<strong>Informações Complementares</strong> a justificativa para tanto.
-</li>
-</ol>
+> a\) caso o serviço prestado tenha valor diferente do inicialmente registrado, o usuário deve retificar o aditivo do RVS o **<strong>**Valor da Operação** de forma a corresponder ao valor do serviço efetivamente prestado;
+>
+> b\) caso o serviço tenha sido prestado e o faturamento tenha sido parcial ou inexistente, o usuário deve retificar o RVS para incluir em **Informações Complementares** a justificativa para tanto.
+
 
 O **Valor da Operação** pode ser retificado para 0,00 (zero) nos seguintes casos:
 
-> a\) o usuário houver registrado o aditivo para o RVS incorreto;
->
-> b\) a operação tenha sido informada em duplicidade;
->
-> c\) a operação tenha sido informada no módulo Venda, quando, na ;realidade, deveria ter sido inclusa no módulo de Aquisição;
->
-> d\) o faturamento tenha sido inexistente.
+> a\) o usuário houver registrado o aditivo para o RVS incorreto;  
+> b\) a operação tenha sido informada em duplicidade;  
+> c\) a operação tenha sido informada no módulo Venda, quando, na ;realidade, deveria ter sido inclusa no módulo de Aquisição;  
+> d\) o faturamento tenha sido inexistente.  
 
 Nesses casos, o usuário deve obrigatoriamente justificar a referida retificação em **Informações Complementares** do RVS aditado incorretamente. No caso das alíneas a e b, deve-se indicar o número do aditivo e do RVS correto. No caso da alínea c, é necessário indicar o número do aditivo e do RAS.
 
@@ -1567,26 +1541,25 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 
 ![](/media/venda/novo_image84.png)
 
-> **[Operações](#operacao) a Faturar**
+#### [Operações](#operacao) a Faturar
+
+Para incluir os dados do faturamento de um serviço[^20] no campo **Operações** **a Faturar**, o usuário deve:
+
+    
+>    a\) selecionar a operação a ser faturada, acionando o botão ![](/media/venda/novo_image8.png);
 >
-> Para incluir os dados do faturamento de um serviço[^20] no campo
-> **Operações** **a Faturar**, o usuário deve:
+>    b\) na tela seguinte **Incluir Dados do RF**, verificar o **Valor da
+>    Operação** e **Saldo a Faturar** da operação selecionada, bem como
+>    outros dados, no campo **Dados da Operação**;
 >
->    
->    a\) selecionar a operação a ser faturada, acionando o botão <img alt=""  src="/media/venda/novo_image8.png"> ;
+>    c\) preencher a data da nota fiscal ou do documento equivalente ou
+>    selecioná-la, clicando no ícone **Calendário**
 >
->    b\) na tela seguinte <strong>Incluir Dados do RF</strong>, verificar o <strong>Valor da
->    Operação</strong> e <strong>Saldo a Faturar</strong> da operação selecionada, bem como
->    outros dados, no campo <strong>Dados da Operação</strong>;
->
->    c\)preencher a data da nota fiscal ou do documento equivalente ou
->    selecioná-la, clicando no ícone <strong>Calendário</strong>
->
->    d\)inserir o <a href="#valor_faturado"> valor faturado </a>, o <a href="valor_mantido_no_exterior">valor mantido
->    no exterior</a>, se for o caso, e clicar no botão
->    <strong>Adicionar Dado</strong>. Caso haja outra operação a faturar no mesmo RVS, com
+>    d\) inserir o [valor faturado](#valor_faturado), o [valor mantido
+>    no exterior](#valor_mantido_no_exterior), se for o caso, e clicar no botão
+>    **Adicionar Dado**. Caso haja outra operação a faturar no mesmo RVS, com
 >    a mesma data e referente à mesma nota fiscal de serviço ou documento
->    equivalente, acionar o botão <img src="/media/venda/novo_image8.png"> 
+>    equivalente, acionar o botão ![](/media/venda/novo_image8.png) 
 >    ao lado da operação desejada para incluir
 >    novos dados;
 
@@ -1618,13 +1591,12 @@ Quando a operação estiver totalmente faturada, o ícone ![](/media/venda/novo_
 
 Na inclusão do RF, o Sistema calcula e exibe o **Valor Total do RF**.
 
-> **Resumo do RF**
->
+#### Resumo do RF
+
 > O Sistema exibirá o **Resumo do RF**, e o usuário deve:
 >
-> 1 - conferir os dados do **Resumo do RF**; e
->
-> 2 - clicar no botão **Incluir**, para finalizar o registro.
+>> 1 - conferir os dados do **Resumo do RF**; e  
+>> 2 - clicar no botão **Incluir**, para finalizar o registro.  
 
 ![](/media/venda/novo_image59.jpg)
 
@@ -1669,10 +1641,8 @@ Após selecionar o RF que se deseja retificar, o Sistema mostra a tela
 
 Nessa tela, o usuário poderá:
 
-> 1 - retificar o **Número da NF de Serviço ou Documento Equivalente**;
->
-> 2 - retificar uma ou mais operações, clicando no botão **Retificar
-> Esta Operação.**
+> 1 - retificar o **Número da NF de Serviço ou Documento Equivalente**;  
+> 2 - retificar uma ou mais operações, clicando no botão **Retificar Esta Operação.**  
 
 ![](/media/venda/novo_image73.png)
 
@@ -1705,9 +1675,8 @@ Esta função permite ao usuário cancelar um RF.
 
 O RF pode ser cancelado nas seguintes hipóteses:
 
->1 -- cancelamento da nota fiscal de serviço ou documento equivalente; ou
->
->2 -- erro no preenchimento dos campos **Código NBS** ou **Moeda** do RVS**.**
+>1 - cancelamento da nota fiscal de serviço ou documento equivalente; ou  
+>2 - erro no preenchimento dos campos **Código NBS** ou **Moeda** do RVS.  
 
 Para cancelar um RF é preciso acessar o *menu* **RF** e em seguida
 **Cancelar**.
@@ -1810,11 +1779,9 @@ Na opção **Aproveitar Dados de RPC Incluído** o Sistema permite a seleção d
 
 Para usar essa opção, selecione Aproveitar Dados de RPC Incluído. O Sistema apresenta as seguintes opções:
 
-a\) **Informar o Número do RPC:** selecionada esta opção, preencha o campo com número de RPC do qual se deseja aproveitar os dados e acione o botão ![Descrição: Descrição: Descrição:
-graphic](/media/venda/novo_image24.png).
-
-**b) Exibir Lista dos RPC Incluídos:** selecionada esta opção, acione o botão ![](/media/venda/novo_image21.png).O Sistema exibe lista de RPC incluídos,
-do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RPC desejado.
+> a\) **Informar o Número do RPC:** selecionada esta opção, preencha o campo com número de RPC do qual se deseja aproveitar os dados e acione o botão ![](/media/venda/novo_image24.png).
+>
+> b\) **Exibir Lista dos RPC Incluídos:** selecionada esta opção, acione o botão ![](/media/venda/novo_image21.png).O Sistema exibe lista de RPC incluídos, do mais recente para o mais antigo. Acione o botão ![](/media/venda/novo_image24.png), à direita do RPC desejado.
 
 #### Opção de Atendimento à Legislação
 
@@ -1860,12 +1827,10 @@ Caso não seja informado o **NIF**, deve-se selecionar uma das opções de
 
 **Tipo de Empresa**  
 Selecione o tipo de relação da presença comercial com a pessoa jurídica domiciliada no Brasil, conforme a seguir:
-outras_operacoes_que_produzam_variacoes_de_patrimonio
-\- filial;
 
-\- sucursal; ou
-
-\- controlada.
+> \- filial;  
+> \- sucursal; ou  
+> \- controlada.  
 
 **Participação**
 
@@ -1883,16 +1848,13 @@ pessoa jurídica domiciliada no Brasil.
 
 ![Tela RPC11](/media/venda/novo_image39.png)
 
-__**Ano da apuração**__  
+**Ano da apuração**  
 Indique o ano-calendário a que se refere à **Receita Total.**
 
-__**Receita Total**__  
-Informe a receita total anual da presença comercial, em dólar dos Estados Unidos da América, com a venda de serviços, a transferência de
-[intangíveis](#intangivel) e a realização de [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio)
-no **Ano da apuração**.
+**Receita Total**  
+Informe a receita total anual da presença comercial, em dólar dos Estados Unidos da América, com a venda de serviços, a transferência de [intangíveis](#intangivel) e a realização de [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio) no **Ano da apuração**.
 
-A conversão em dólar dos Estados Unidos da América deve ser efetuada tomando-se por base a taxa de câmbio para venda do dia 31 de dezembro do
-**Ano da apuração**, fixada pelo Banco Central do Brasil.
+A conversão em dólar dos Estados Unidos da América deve ser efetuada tomando-se por base a taxa de câmbio para venda do dia 31 de dezembro do **Ano da apuração**, fixada pelo Banco Central do Brasil.
 
 #### Posição NBS / Descrição da posição da NBS
 
@@ -1907,15 +1869,14 @@ Exemplos de código da NBS em nível de posição:
 Para mais informações sobre a NBS vide [item 9, do Capítulo 1 deste Manual.](#9)
 
 Em 2019, todos os Registros de Presença Comercial no Exterior, relativos
-às operações realizadas em 2018, devem classificar os serviços[^21] de acordo com a NBS 1.1, publicada pela xxxxxx.
+às operações realizadas em 2018, devem classificar os serviços[^21] de acordo com a NBS 1.1, publicada pela [Portaria Conjunta RFB/SCS nº 1.820, de 17 de dezembro de 2013](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
 
-A partir de 1º de janeiro de 2020, todos os Registros de Presença Comercial no Exterior devem classificar os serviços[^22] de acordo com a NBS 2.0, publicada pela **Portaria Conjunta RFB / SCS nº**
-**1.429, de 2018**.
+A partir de 1º de janeiro de 2020, todos os Registros de Presença Comercial no Exterior devem classificar os serviços[^22] de acordo com a [NBS 2.0](http://www.mdic.gov.br/images/REPOSITORIO/scs/decos/NBS/Anexo_I_NBS_2.0_com_altera%C3%A7%C3%B5es_6.12.18.pdf), publicada pela [Portaria Conjunta RFB / SCS nº 1.429, de 2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/12/2018&jornal=515&pagina=139&totalArquivos=243).
 
 #### Operações amparadas por mecanismo de apoio
 
 Caso a presença comercial tenha realizado, durante o ano de apuração,
-operação amparada em um ou mais mecanismos de apoio/fomento ao comércio exterior de serviços, intangíveis e outras operações que produzam variações no patrimônio, o usuário deve marcar "sim" à direita da pergunta: "Há operações amparadas por mecanismo de apoio/fomento ao comércio exterior nos termos do art. 26 da Lei 12.546/2011?". Todos os mecanismos de apoio que amparam a operação devem ser registrados neste campo em cumprimento ao previsto no art. 26 da Lei nº
+operação amparada em um ou mais mecanismos de apoio/fomento ao comércio exterior de serviços, intangíveis e outras operações que produzam variações no patrimônio, o usuário deve marcar "sim" à direita da pergunta: "Há operações amparadas por mecanismo de apoio/fomento ao comércio exterior nos termos do art. 26 da Lei 12.546/2011". Todos os mecanismos de apoio que amparam a operação devem ser registrados neste campo em cumprimento ao previsto no art. 26 da Lei nº
 12.546, de 14 de dezembro de 2011.
 
 O órgão ou a entidade da administração pública que tenha atribuição legal de regulação, normatização, controle ou fiscalização de mecanismo de apoio/fomento, sem prejuízo de legislação específica, utilizará as informações da operação, relacionadas à sua área de competência, para verificação do adimplemento das condições necessárias à fruição daquele mecanismo sob sua gestão.
@@ -1952,7 +1913,7 @@ Para excluir um enquadramento selecionado, acione o botão ![](/media/venda/novo
 
 Após incluir o(s) mecanismo(s) de apoio, clique em **Adicionar Operação**.
 
-__**Informações Complementares**__
+**Informações Complementares**
 
 Destina-se ao preenchimento de informações pertinentes ao RPC que não tenham campo específico no Sistema.
 
@@ -1960,7 +1921,7 @@ O preenchimento deste campo é opcional.
 
 Acione **Avançar** para seguir para o próximo passo.
 
-__**Resumo do RPC**__
+**Resumo do RPC**
 
 O Sistema exibirá tela Resumo do RPC, que traz as informações preenchidas para incluir o RPC.
 
@@ -2010,11 +1971,8 @@ Esta função permite ao usuário cancelar um RPC.
 
 O RPC pode ser cancelado nas seguintes hipóteses:  
   
-<blockquote>
-a) caso o usuário tenha registrado a presença comercial de uma domiciliada no Brasil incorretamente; ou
-
-b) caso a presença comercial tenha sido informada em duplicidade.
-</blockquote>
+> a) caso o usuário tenha registrado a presença comercial de uma domiciliada no Brasil incorretamente; ou  
+> b) caso a presença comercial tenha sido informada em duplicidade.  
 
 Para cancelar um RPC é preciso acessar o *menu* **RPC** e em seguida
 **Cancelar**.
@@ -2080,26 +2038,28 @@ Os arquivos de lote são compostos por arquivos contendo dados de registro que r
 As operações realizadas por meio da transmissão em lote são, no Módulo Venda:
 
 
- 1\)  Incluir RVS;        
- 2\)  Retificar RVS;   
- 3\)  Incluir Aditivo;  
- 4\)  Retificar Aditivo;  
- 5\)  Incluir RF;        
- 6\)  Retificar RF; e               
- 7\)  Cancelar RF 
+> 1\)  Incluir RVS;
+>
+> 2\)  Retificar RVS;
+>
+> 3\)  Incluir Aditivo;
+>
+> 4\)  Retificar Aditivo;
+>
+> 5\)  Incluir RF; 
+>
+> 6\)  Retificar RF; e
+>
+> 7\)  Cancelar RF
 
 
 Este Manual trata apenas da transmissão dos arquivos após sua criação,
 bem como do Retorno do Lote, detalhado na sessão 3.2 -- Consultar Lote.
 
 Os seguintes documentos trazem as orientações técnicas necessárias para a correta criação dos arquivos a serem transmitidos:
-
-\- [Orientações Técnicas para o desenvolvimento da funcionalidade Transmissão em Lote do SISCOSERV Módulos Venda e Aquisição](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf);
-
-\- **[Modelos dos Arquivos XML e XSD para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Modelos_dos_Arquivos_XML_e_XSD_para_Transmiss%C3%A3o_em_Lote_-_V_2.0.zip)**;
-e
-
-\- **[Tabelas de Códigos do Siscoserv para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Tabelas_de_C%C3%B3digos_do_Siscosev_para_Transmiss%C3%A3o_em_Lote.zip)**.
+> \- [Orientações Técnicas para o desenvolvimento da funcionalidade Transmissão em Lote do SISCOSERV Módulos Venda e Aquisição](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf);  
+> \- [Modelos dos Arquivos XML e XSD para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Modelos_dos_Arquivos_XML_e_XSD_para_Transmiss%C3%A3o_em_Lote_-_V_2.0.zip); e  
+> \- [Tabelas de Códigos do Siscoserv para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Tabelas_de_C%C3%B3digos_do_Siscosev_para_Transmiss%C3%A3o_em_Lote.zip).  
 
 Cabe ressaltar a necessidade de avaliação sobre alterações necessárias nos registros realizados por meio de transmissão em lote a partir da publicação da nova edição da NBS e de suas notas explicativas.
 
@@ -2119,13 +2079,13 @@ nova versão da Nomenclatura.
 
 O processamento dos arquivos de lote divide-se em 4 etapas:
 
-1)  Validação do arquivo de lote;
-
-2)  Validação do formato dos arquivos de dados;
-
-3)  Validação das regras de negócio do Sistema; e
-
-4)  Efetivação das operações contidas no lote.
+> 1) Validação do arquivo de lote;
+>
+> 2) Validação do formato dos arquivos de dados;
+>
+> 3) Validação das regras de negócio do Sistema; e
+>
+> 4) Efetivação das operações contidas no lote.
 
 As duas primeiras etapas ocorrem no momento do envio do arquivo de lote enquanto que as duas etapas finais ocorrem durante o processamento noturno dos lotes (o Sistema processa os lotes no período de menor utilização do Sistema de forma a não impactar a seu desempenho durante os períodos de maior acesso). Desta forma, o Sistema apresentará ao usuário o resultado das duas primeiras etapas do processamento imediatamente após o envio do lote. Quanto às demais etapas, o usuário deverá consultar o seu resultado a partir do dia seguinte ao envio do lote (veja [Consultar Lote](#3.2)). A data que será
 considerada como de inclusão de registro será a de envio do arquivo de lote, desde que o arquivo esteja em conformidade com as especificações pertinentes contidas nas [Orientações Técnicas](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf).
@@ -2136,8 +2096,8 @@ A validação do formato dos arquivos de dados ocorre logo após o envio bem- su
 
 Este erro pode ocorrer por dois motivos:
 
-> 1)  O usuário está enviando um tipo de informação diferente da selecionada. Por exemplo, o arquivo de dados refere-se a **Incluir RF**, mas o usuário selecionou **Incluir RVS** no *menu*. Neste caso, basta reenviar o lote após selecionar a operação correta (veja [Procedimentos para envio do arquivo de lote](#3.1)); ou
-> 2)  O arquivo de dados enviado não está de acordo com as especificações descritas nas [Orientações Técnicas](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf). Neste caso, o sistema responsável pela geração dos arquivos de lote e de dados deve sofrer correções.
+> 1)  O usuário está enviando um tipo de informação diferente da selecionada. Por exemplo, o arquivo de dados refere-se a **Incluir RF**, mas o usuário selecionou **Incluir RVS** no *menu*. Neste caso, basta reenviar o lote após selecionar a operação correta (veja [Procedimentos para envio do arquivo de lote](#3.1)); ou  
+> 2)  O arquivo de dados enviado não está de acordo com as especificações descritas nas [Orientações Técnicas](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf). Neste caso, o sistema responsável pela geração dos arquivos de lote e de dados deve sofrer correções.  
 
 Neste momento, o Sistema atribuirá ao lote um *status* de acordo com o *status* dos arquivos de dados que o compõem.
 
@@ -2220,19 +2180,13 @@ o detalhamento do lote ao enumerar todos os arquivos de dados que o compõem com
 
 O campo **Nº do Protocolo** é composto por duas letras e um número sequencial composto por 10 dígitos. As siglas indicativas do protocolo são:
 
-1)  IR -- Incluir RVS;
-
-2)  RR -- Retificar RVS;
-
-3)  IA -- Incluir Aditivo;
-
-4)  RA -- Retificar Aditivo;
-
-5)  IF -- Incluir RF;
-
-6)  RF -- Retificar RF; e
-
-7)  CF -- Cancelar RF.
+> 1) IR -- Incluir RVS;  
+> 2) RR -- Retificar RVS;  
+> 3) IA -- Incluir Aditivo;  
+> 4) RA -- Retificar Aditivo;  
+> 5) IF -- Incluir RF;  
+> 6) RF -- Retificar RF; e  
+> 7) CF -- Cancelar RF.  
 
 ### Validação dos Arquivos de Lote e de Dados
 
@@ -2342,11 +2296,9 @@ O sistema permite a geração dos Relatórios Gerenciais cujas informações abr
 
 O Siscoserv permite que o Usuário/Responsável pelo Registro gere os Relatórios Gerenciais em três situações distintas, a saber:
 
-1) Usuário/Responsável pelo Registro representa uma Pessoa Jurídica;
-
-2) Usuário/Responsável pelo Registro representa Pessoa Física; e
-
-3) Usuário/Responsável pelo Registro é o Próprio Vendedor.
+> a) Usuário/Responsável pelo Registro representa uma Pessoa Jurídica;  
+> b) Usuário/Responsável pelo Registro representa Pessoa Física; e  
+> c) Usuário/Responsável pelo Registro é o Próprio Vendedor.  
 
 O **Usuário/Responsável pelo Registro** é que detém o e-CPF e/ou a procuração eletrônica da Pessoa Jurídica ou da Pessoa Física e é o responsável pela inserção dos dados no Sistema.
 
@@ -2364,20 +2316,15 @@ Passo 3: Usuário/Responsável pelo Registro seleciona dentre as diversas opçõ
 
 Podem ser selecionadas as seguintes opções:
 
-**Agrupamento**:
-
-\- CNPJ de 14 posições: para gerar o relatório de apenas uma empresa do Grupo; ou
-
+**Agrupamento**:  
+\- CNPJ de 14 posições: para gerar o relatório de apenas uma empresa do Grupo; ou  
 \- CNPJ de 8 posições: para gerar relatório contendo todas as empresas do mesmo Grupo. Este tipo de consulta está disponível apenas para CNPJ de natureza matriz, que terá acesso aos registros da própria matriz e de suas filiais.
 
-**Opção de registros efetuados no Sistema:**
-
+**Opção de registros efetuados no Sistema:**  
 \- RVS ou RF: serão disponibilizados todos os registros efetuados no período de 1 ano. As informações sobre os RVS aparecem em uma planilha e as informações sobre os RF em outra.
 
-**Período para geração do relatório:**
-
-\- Selecionar o período das informações desejadas, que não deve ser superior a 1 ano.
-
+**Período para geração do relatório:**  
+\- Selecionar o período das informações desejadas, que não deve ser superior a 1 ano.  
 \- Consulta disponível para **matriz**:
 
 ![](/media/venda/novo_image69.jpg)
@@ -2395,57 +2342,32 @@ Informações disponibilizadas:
 
 ![](/media/venda/novo_image147.jpg)
 
--   Mês/ano
-
--   Nº do RVS
-
--   ID/RVS (Essa informação se refere ao identificador do registro no banco do Siscoserv. O usuário poderá vincular uma operação ou fatura ao registro.)
-
--   CPF do Usuário
-
--   Data da Inclusão do Registro
-
--   CPF do Vendedor (que neste caso vem preenchido com N/A -- não se aplica)
-
--   CNPJ do Vendedor
-
--   Info-Portaria (Essa informação se refere à opção de atendimento a legislação. Os valores possíveis são: 1 -- Ministério da Indústria, Comércio e Serviços; 2 -- RFB; 3 -- Ambos)
-
--   Nome do Adquirente
-
--   Endereço do Adquirente
-
--   País do Adquirente
-
--   NIF
-
--   Motivo do não preenchimento do NIF
-
--   ID-operação (Essa informação se refere ao identificador da operação no banco do Siscoserv. O usuário poderá vincular uma operação a um item de fatura.)
-
--   País de Destino
-
--   Moeda
-
--   Data de Início da operação
-
--   Data de fim da operação
-
--   Modo de Prestação
-
--   Código da NBS (serviço, intangível ou outra operação que produz variação no patrimônio vendido pela empresa)
-
--   Descrição da NBS
-
--   Valor da operação (valor da operação na moeda do contrato, conforme registrado pelo usuário).
-
--   Valor da operação em dólar (valor calculado pelo Sistema)
-
--   Descrição do Mecanismo de apoio/fomento (Inclui informação caso o usuário tenha indicado mecanismo de apoio ao comércio exterior. Caso o campo não tenha sido preenchido, o sistema informará a sigla N/A -- Não se aplica.)
-
--   NR\_RC\_Mecanismo de apoio/fomento
-
--   Informações Complementares (Caso o campo não tenha sido preenchido, o sistema informará a sigla N/A -- Não se aplica. Caso tenha sido preenchido, indicará os comentários incluídos).
+* Mês/ano
+* Nº do RVS
+* ID/RVS (Essa informação se refere ao identificador do registro no banco do Siscoserv. O usuário poderá vincular uma operação ou fatura ao registro.)
+* CPF do Usuário
+* Data da Inclusão do Registro
+* CPF do Vendedor (que neste caso vem preenchido com N/A -- não se aplica)
+* CNPJ do Vendedor
+* Info-Portaria (Essa informação se refere à opção de atendimento a legislação. Os valores possíveis são: 1 -- Ministério da Indústria, Comércio e Serviços; 2 -- RFB; 3 -- Ambos)
+* Nome do Adquirente
+* Endereço do Adquirente
+* País do Adquirente
+* NIF
+* Motivo do não preenchimento do NIF
+* ID-operação (Essa informação se refere ao identificador da operação no banco do Siscoserv. O usuário poderá vincular uma operação a um item de fatura.)
+* País de Destino
+* Moeda
+* Data de Início da operação
+* Data de fim da operação
+* Modo de Prestação
+* Código da NBS (serviço, intangível ou outra operação que produz variação no patrimônio vendido pela empresa)
+* Descrição da NBS
+* Valor da operação (valor da operação na moeda do contrato, conforme registrado pelo usuário).
+* Valor da operação em dólar (valor calculado pelo Sistema)
+* Descrição do Mecanismo de apoio/fomento (Inclui informação caso o usuário tenha indicado mecanismo de apoio ao comércio exterior. Caso o campo não tenha sido preenchido, o sistema informará a sigla N/A -- Não se aplica.)
+* NR\_RC\_Mecanismo de apoio/fomento
+* Informações Complementares (Caso o campo não tenha sido preenchido, o sistema informará a sigla N/A -- Não se aplica. Caso tenha sido preenchido, indicará os comentários incluídos).
 
 *\* As informações acima servem para criar os vínculos entre registro,
 operação e fatura. Esses dados não têm nenhuma utilidade para operações transmitidas por lote.*
@@ -2458,31 +2380,19 @@ Informações disponibilizadas:
 
 ![](/media/venda/novo_image82.png)
 
--   Mês/ ano
-
--   Nº do RVS
-
--   ID/RVS (Essa informação se refere ao identificador do registro no banco do Siscoserv. O usuário poderá vincular uma operação ou fatura ao registro.)
-
--   Nº do RF
-
--   ID\_Fatura (Essa informação se refere ao identificador da fatura no banco do Siscoserv. O usuário poderá vincular uma fatura ao registro.)
-
--   NF\_Fatura (Este é o número indicado pelo usuário para identificar a nota fiscal ou documento equivalente)
-
--   CPF do Usuário
-
--   Info \_Portaria (Essa informação se refere à opção de atendimento a legislação. Os valores possíveis são: 1 -- Ministério da Indústria, Comércio e Serviços; 2 -- RFB; 3 -- Ambos)
-
--   ID\_OPERAÇÃO (Essa informação se refere ao identificador da operação no banco do Siscoserv. O usuário poderá vincular uma operação a um item de fatura.)
-
--   ID\_FATURA\_OP (Essa informação se refere ao identificador da fatura no banco do Siscoserv. O usuário poderá vincular faturas às operações.)
-
--   Data\_In\_Faturamento (Data da nota fiscal ou do documento equivalente, indicada no RF)
-
--   Valor Faturado
-
--   Valor Mantido no Exterior
+* Mês/ ano
+* Nº do RVS
+* ID/RVS (Essa informação se refere ao identificador do registro no banco do Siscoserv. O usuário poderá vincular uma operação ou fatura ao registro.)
+* Nº do RF
+* ID\_Fatura (Essa informação se refere ao identificador da fatura no banco do Siscoserv. O usuário poderá vincular uma fatura ao registro.)
+* NF\_Fatura (Este é o número indicado pelo usuário para identificar a nota fiscal ou documento equivalente)
+* CPF do Usuário
+* Info \_Portaria (Essa informação se refere à opção de atendimento a legislação. Os valores possíveis são: 1 -- Ministério da Indústria, Comércio e Serviços; 2 -- RFB; 3 -- Ambos)
+* ID\_OPERAÇÃO (Essa informação se refere ao identificador da operação no banco do Siscoserv. O usuário poderá vincular uma operação a um item de fatura.)
+* ID\_FATURA\_OP (Essa informação se refere ao identificador da fatura no banco do Siscoserv. O usuário poderá vincular faturas às operações.)
+* Data\_In\_Faturamento (Data da nota fiscal ou do documento equivalente, indicada no RF)
+* Valor Faturado
+* Valor Mantido no Exterior
 
 *\* As informações acima servem para criar os vínculos entre registro,
 operação e fatura. Esses dados não têm nenhuma utilidade para operações transmitidas por lote.*
@@ -2502,13 +2412,11 @@ Passo 3: Usuário/ Responsável pelo Registro seleciona dentre as diversas opç�
 
 Podem ser selecionadas as seguintes opções:
 
-Opção de registros efetuados no Sistema:
+**Opção de registros efetuados no Sistema:**  
+\- RVS ou RF: serão disponibilizados todos os registros efetuados no período de 1 ano. As informações sobre os RVS aparecem em uma planilha e as informações sobre os RF em outra.  
 
-\- RVS ou RF: serão disponibilizados todos os registros efetuados no período de 1 ano. As informações sobre os RVS aparecem em uma planilha e as informações sobre os RF em outra.
-
-Data para geração do relatório:
-
-\- Selecionar o período das informações desejadas, que não deve ser superior a 1 ano.
+**Data para geração do relatório:**  
+\- Selecionar o período das informações desejadas, que não deve ser superior a 1 ano.  
 
 ![](/media/venda/novo_image117.jpg)
 
@@ -2566,7 +2474,7 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 > Eᴮᴿ: Exportador residente ou domiciliado no Brasil
 >
-> AgCᴮᴿ: Agente de Cargas residente ou domiciliado no Brasil
+> AgCᴮᴿ: A^gente de Cargas residente ou domiciliado no Brasil
 >
 > Tₑₓ: Transportador residente ou domiciliado no Exterior
 >
