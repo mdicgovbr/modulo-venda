@@ -36,7 +36,9 @@ aprovado pelo Decreto Legislativo nº 30, de 15 de dezembro de 1994, e promulgad
 
 [Portaria Conjunta RFB/SCS nº 1.908, de 19 de julho de 2012, com suas alterações posteriores.](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012)
 
-[Portaria Conjunta RFB/SCS nº 768, de 13 de maio de 2016.](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=16/05/2016&jornal=1&pagina=21&totalArquivos=152)
+[Portaria Conjunta RFB/SCS nº 2.000, de 18 de dezembro de 2018.](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=97484)
+
+[Portaria Conjunta RFB/SCS nº 2.066, de 21 de dezembro de 2018.](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=97623&visao=anotado)
 
 A prestação de informação no Siscoserv observa as normas complementares estabelecidas neste Manual.
 
@@ -1028,19 +1030,13 @@ Campos a serem preenchidos em Dados do
 
 Vide [item 9, do Capítulo 1 deste Manual.](#9)
 
-A prestação de serviços[^14] iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de
-2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
+A prestação de serviços[^14] iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=70668).
 
-A prestação de serviços[^15] iniciada a partir de 1º de janeiro de 2019
-deve ser registrada tendo por base a [Portaria Conjunta RFB / SCS nº
-1.429, de
-2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20),
-que produz efeitos a partir de 1º de janeiro de 2019.
+A prestação de serviços[^15] iniciada a partir de 1º de janeiro de 2019 deve ser registrada tendo por base a [Portaria Conjunta RFB / SCS nº 1.429, de 2018](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=97484), que produz efeitos a partir de 1º de janeiro de 2019.
 
 #### Código do País / País de Destino
 
-Identifica o país de destino da prestação do serviço, da transferência de [intangível](#intangivel) ou da realização de [outra operação que produza variação no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio),
-podendo ser diferente do país do adquirente.
+Identifica o país de destino da prestação do serviço, da transferência de [intangível](#intangivel) ou da realização de [outra operação que produza variação no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio), podendo ser diferente do país do adquirente.
 
 No Módulo Venda, sempre que o usuário registrar que o serviço foi prestado em Modo 2 (Consumo no Brasil), o País de Destino será o Brasil.
 

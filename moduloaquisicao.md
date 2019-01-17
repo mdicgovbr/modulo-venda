@@ -8,8 +8,6 @@ title: Módulo Aquisição
 
 # MÓDULO AQUISIÇÃO 12ª Edição
 
-![](./media/aquisicao/image1.png)
-
 [TOC]
 
 # Capítulo 1 - Informações gerais e normativas sobre o Siscoserv
@@ -32,28 +30,22 @@ dezembro de 1994, e promulgado pelo Decreto n° 1.355, de
 
 ## 2. Base Legal do Siscoserv
 
-[Lei n° 12.546, de 14 de dezembro de 2011, artigos 24 a
-27.](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12546.htm)
+[Lei nº 12.546, de 14 de dezembro de 2011, artigos 24 a 27.](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12546.htm)
 
-[Decreto n° 7.708, de 02 de abril de
-2012.](http://www.planalto.gov.br/CCIVIL_03/_Ato2011-2014/2012/Decreto/D7708.htm)
+[Decreto nº 7.708, de 02 de abril de 2012.](http://www.planalto.gov.br/CCIVIL_03/_Ato2011-2014/2012/Decreto/D7708.htm)
 
-Portaria MDIC n° 113, de 17 de maio de 2012, com suas alterações
-posteriores.
+[Portaria MDIC nº 113, de 17 de maio de 2012, com suas alterações posteriores.](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4)
 
-Instrução Normativa RFB n° 1.277, de 28 de junho de 2012, com suas
-alterações posteriores.
+[Instrução Normativa RFB nº 1.277, de 28 de junho de 2012, com suas alterações posteriores.](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=40&data=29/06/2012)
 
-[Portaria Conjunta RFB/SCS n° 1.908, de 19 de julho de 2012, com suas
-alterações
-posteriores.](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012)
+[Portaria Conjunta RFB/SCS nº 1.908, de 19 de julho de 2012, com suas alterações posteriores.](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012)
 
-Portaria Conjunta RFB/SCS nº 2.000, de 18 de dezembro de 2018.
+[Portaria Conjunta RFB/SCS nº 2.000, de 18 de dezembro de 2018.](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=97484)
 
-Portaria Conjunta RFB/SCS n° 2.066, de 21 de dezembro de 2018.
+[Portaria Conjunta RFB/SCS nº 2.066, de 21 de dezembro de 2018.](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=97623&visao=anotado)
 
-A prestação de informação no Siscoserv observa as normas complementares
-estabelecidas neste Manual.
+A prestação de informação no Siscoserv observa as normas complementares estabelecidas neste Manual.
+
 
 ## 3. Módulos Venda e Aquisição do Siscoserv
 
@@ -2016,17 +2008,9 @@ Campos a serem preenchidos em Dados do [Negócio](#Negócio):
 
 Vide [item 9, do Capítulo 1 deste Manual.](#9)
 
-A prestação de serviços[^16] iniciada até 31
-de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1,
-publicada pela Portaria Conjunta RFB / SCS nº
-1.820, de 2014.
+A prestação de serviços[^16] iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=70668).
 
-A prestação de serviços[^17] iniciada a partir de 1º de janeiro de 2019
-deve ser registradas tendo por base a [NBS
-2.0](http://www.mdic.gov.br/images/REPOSITORIO/scs/decos/NBS/Anexo_I_NBS_2.0_com_altera%C3%A7%C3%B5es_6.12.18.pdf),
-publicada pela [Portaria Conjunta RFB/SCS nº 2.000, de 18 de dezembro de
-2018.](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/12/2018&jornal=515&pagina=139&totalArquivos=243),
-que produz efeitos a partir de 1º de janeiro de 2019.
+A prestação de serviços[^17] iniciada a partir de 1º de janeiro de 2019 deve ser registrada tendo por base a [Portaria Conjunta RFB / SCS nº 1.429, de 2018](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=97484), que produz efeitos a partir de 1º de janeiro de 2019.
 
 #### Código do País / País de Destino
 

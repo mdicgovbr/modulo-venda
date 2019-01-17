@@ -44,7 +44,7 @@ title: Módulo Venda
         <!--Text-->
         <p class="card-text">Manual do módulo de aquisição do SISCOSERV</p>
         <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-        <div class="mt-auto p-2"><a href="/modulo-venda"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a></div>
+        <div class="mt-auto p-2"><a href="/modulo-aquisicao"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a></div>
 
       </div>
 
