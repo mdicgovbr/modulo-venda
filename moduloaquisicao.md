@@ -1130,12 +1130,12 @@ RAS.
 Para incluir um Registro de Aquisição de Serviços (RAS) é preciso
 acessar o *menu* **RAS** e em seguida a opção **Incluir**.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image29.png)
+![](./media/aquisicao/image29.png)
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com
 informação advinda de seu [Certificado Digital](#certificado).
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image30.png)
+![](./media/aquisicao/image30.png)
 
 No campo **CPF/CNPJ do Adquirente,** o usuário representante legal de
 outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do
@@ -1166,19 +1166,19 @@ Sistema apresentará as seguintes opções:
 
 > a) **Informar o Número do RAS:** selecionada esta opção, preencha o campo com número de RAS do qual se deseja aproveitar os dados e acione o botão ![](./media/aquisicao/image31.png).
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image32.png)
+![](./media/aquisicao/image32.png)
 
 > b) **Exibir Lista dos RAS Incluídos:** selecionada esta opção, acione o botão ![](./media/aquisicao/image10.png). O Sistema exibe lista de RAS incluídos, do mais recente para o mais antigo. Acione o botão ![](./media/aquisicao/image31.png), à direita do RAS desejado.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image33.png)
+![](./media/aquisicao/image33.png)
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image34.png)
+![](./media/aquisicao/image34.png)
 
 #### Opção de Atendimento à Legislação
 
 Em seguida, o Siscoserv apresenta a seguinte tela:
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image35.png)
+![](./media/aquisicao/image35.png)
 
 O usuário deve indicar que as informações objeto de registro serão
 prestadas em atendimento aos arts. 25 e 26 da Lei n°
@@ -1208,7 +1208,7 @@ domiciliado no exterior vendedor da [operação](#operaçao) realizada com
 pessoa física, pessoa jurídica ou [ente despersonalizado](#entes)
 [residente](#residentenoBrasil) ou domiciliado no Brasil.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image36.png)
+![](./media/aquisicao/image36.png)
 
 **Nome do Vendedor** -- Preencha o nome da pessoa física ou o nome
 comercial da pessoa jurídica vendedora do [negócio](#Negócio).
@@ -1231,18 +1231,18 @@ Caso não seja informado o **NIF**, deve-se selecionar uma das opções de
 **Motivo do não preenchimento**: **Dispensado do NIF** ou **País não
 exige NIF**.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image37.png)
+![](./media/aquisicao/image37.png)
 
 Deve-se indicar se o vendedor é pessoa vinculada ao adquirente nos
 termos do [art. 23 da Lei 9.430 de dezembro de
 1996](http://www.planalto.gov.br/ccivil_03/LEIS/L9430.htm#art23).
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image38.png)
+![](./media/aquisicao/image38.png)
 
 Caso o vendedor seja pessoa vinculada ao adquirente, selecione o tipo de
 vinculação.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image39.png)
+![](./media/aquisicao/image39.png)
 
 Acione **Avançar** para validar os dados e seguir para a próxima tela
 (**Dados do Negócio**).
@@ -1342,7 +1342,7 @@ moeda, deve-se concluir a inclusão da operação e na próxima tela alterar
 a moeda na primeira operação registrada naquele RAS acionando o botão
 ![](./media/aquisicao/image40.png).
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image41.png)
+![](./media/aquisicao/image41.png)
 
 A alteração da **Moeda** na primeira operação do registro altera a moeda
 das demais operações, inclusive das operações de aditivos. Entretanto
@@ -1350,9 +1350,9 @@ essa alteração não promove a conversão automática do valor em função da
 moeda alterada. Se for o caso, o usuário deve converter o valor de cada
 operação em função da nova moeda do registro.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image42.png)
+![](./media/aquisicao/image42.png)
 
-#### [Modo de Prestação](#modos-de-prestação-de-serviços-módulo-aquisição)
+#### Modo de Prestação
 
 O usuário deve selecionar item na lista **Modo de Prestação**, dentre as
 opções:
@@ -1370,9 +1370,7 @@ prestação, estes devem ser informados no RAS. Caso isso não seja
 possível, deve ser indicado o modo de prestação predominante para a
 aquisição daquele serviço associado ao valor total da operação.
 
-Não há registro de operação no [Modo 3](#Modo3) -
-Presença Comercial no Brasil no Módulo Aquisição pelas
-razões explicitadas na pagina 14 deste Manual.
+**Não há registro de operação no Modo 3 - Presença Comercial no Brasil no Módulo Aquisição** pelas razões explicitadas na seção [Modos de Prestação de Serviços](#8-modos-de-prestação-de-serviços---módulo-aquisição) deste Manual.
 
 #### Data de Início
 
@@ -1447,7 +1445,7 @@ Neste caso, há duas possibilidades:
     marcar **( ) Não** no campo **Gastos Pessoais a Serviço do
     Empregador?**
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image43.png)
+![](./media/aquisicao/image43.png)
 
 No caso de a operação referir-se a um gasto pessoal a serviço do
 empregador, o usuário deverá fornecer o CNPJ do empregador.
@@ -1482,7 +1480,7 @@ do capítulo
 
 #### Vinculação à Movimentação Temporária de Bens
 
-![](./media/aquisicao/image28.jpeg) Deve ser indicado se a operação está
+Deve ser indicado se a operação está
 vinculada à [movimentação temporária de bens](#movimetacaotemporaria).
 
 ![](./media/aquisicao/image49.png)
@@ -1555,7 +1553,7 @@ que Produzam Variações no Patrimônio (RAS)](#_3.1_O_RVS)
 
 Acione **Avançar** para seguir para o próximo passo.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image53.png)
+![](./media/aquisicao/image53.png)
 
 #### Resumo do RAS
 
@@ -1579,7 +1577,7 @@ Para que o RAS seja gerado é preciso acionar o botão **Incluir**.
 O Sistema retornará mensagem de confirmação da inclusão dos dados no
 Siscoserv e apresentará número de identificação do RAS.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image56.png)
+![](./media/aquisicao/image56.png)
 
 Após a disponibilização do Número de Confirmação da inclusão do RAS, o
 registro está efetuado.
@@ -1629,7 +1627,7 @@ poderão ser alterados por meio da função **Retificar Aditivo ao RAS**.
 Para incluir um Aditivo ao RAS, é preciso acessar o *menu* **Aditivo** e
 em seguida a opção **Incluir**.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image57.png)
+![](./media/aquisicao/image57.png)
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com
 informação advinda do Certificado Digital do usuário.
@@ -1641,7 +1639,7 @@ deve marcar a opção que indica essa situação. Para atuar como
 representante legal de outra pessoa, física ou jurídica, o usuário deve
 possuir [procuração eletrônica](#procuraçao) do representado.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image58.png)
+![](./media/aquisicao/image58.png)
 
 Para incluir um aditivo a um registro, o usuário tem como opções:
 Informar o Número do RAS ou Exibir Lista de RAS Incluídos.
@@ -1657,7 +1655,7 @@ do mais recente para o mais antigo. Acione o botão ![](./media/aquisicao/image3
 
 ![](./media/aquisicao/image28.jpeg)![](./media/aquisicao/image62.png)
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image63.png)
+![](./media/aquisicao/image63.png)
 
 Após selecionar o RAS que deseja aditar, siga os passos descritos a
 partir do tópico "2. Dados do Negócio" no item 2.1 - Passos para incluir
@@ -1673,7 +1671,7 @@ Após conferir os dados na tela **Resumo do RAS**, acione o botão
 O sistema retornará mensagem de confirmação da inclusão dos dados no
 Siscoserv e apresentará número do aditivo ao RAS.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image64.png)
+![](./media/aquisicao/image64.png)
 
 **Após a inclusão de um Aditivo ao RAS não é possível o seu
 cancelamento, admitindo-se apenas retificações.**
@@ -1697,7 +1695,7 @@ incluir uma nova operação em um RAS já incluído, utilize a função
 Para retificar um RAS é preciso acessar o *menu* **RAS** e em seguida
 **Retificar**.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image66.png)
+![](./media/aquisicao/image66.png)
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com
 informação advinda do Certificado Digital do usuário.
@@ -1723,9 +1721,9 @@ Selecionada a opção Exibir Lista de RAS Incluídos, acione o botão
 ![](./media/aquisicao/image61.png). O Sistema exibe lista de RAS incluídos,
 do mais recente para o mais antigo. Acione o botão ![](./media/aquisicao/image31.png), à direita do RAS desejado.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image68.png)
+![](./media/aquisicao/image68.png)
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image69.png)
+![](./media/aquisicao/image69.png)
 
 Após selecionar o RAS que deseja retificar, siga os passos descritos no
 tópico **[2.1 -- Inclusão do RAS](#inclusão-do-ras).**
@@ -1810,7 +1808,7 @@ O aditivo ao RAS não pode ser cancelado, cabendo apenas retificações.
 Para retificar um aditivo ao RAS é preciso acessar o *menu* **Aditivo**
 e em seguida **Retificar**.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image71.png)
+![](./media/aquisicao/image71.png)
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com
 informação advinda do Certificado Digital do usuário.
@@ -1829,16 +1827,16 @@ Selecionada a opção Informar o Número do RAS, preencha o campo com o
 número de RAS que se deseja retificar. Informe o número do aditivo que
 se deseja retificar e acione o botão ![](./media/aquisicao/image59.png).
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image72.png)
+![](./media/aquisicao/image72.png)
 
 > Selecionada a opção Exibir Lista de RAS Incluídos, informe o número do
 > aditivo que se deseja retificar e acione o botão ![](./media/aquisicao/image61.png){. O Sistema exibe lista de RAS
 > incluídos, do mais recente para o mais antigo. Acione o botão
 > ![](./media/aquisicao/image31.png), à direita do RAS desejado.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image73.png)
+![](./media/aquisicao/image73.png)
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image74.png)
+![](./media/aquisicao/image74.png)
 
 Após selecionar o RAS cujo aditivo se deseja retificar, o Sistema mostra
 a tela **[Dados do Negócio](#DadosDoNegócio)** do RAS selecionado,
@@ -1848,7 +1846,7 @@ todos os termos aditivos. Há dois tipos de ícones: Visualizar -
 ![](./media/aquisicao/image76.png). O ícone para alterar aparecerá apenas
 ao lado do aditivo que se deseja retificar, informado na tela anterior.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image77.png)
+![](./media/aquisicao/image77.png)
 
 Ao clicar no ícone
 ![](./media/aquisicao/image76.png) o sistema mostrará a tela [Dados do
@@ -1861,7 +1859,7 @@ Após conferir os dados retificados na tela **Resumo do RAS**, acionar o
 botão **Incluir** para retificar o aditivo ao RAS. O Sistema retornará
 mensagem de confirmação de retificação do aditivo.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image78.png)
+![](./media/aquisicao/image78.png)
 
 Os aditivos ao RAS podem ter todos os
 campos retificados antes da inclusão do RP da [operação](#operaçao).
@@ -1931,12 +1929,12 @@ Esta função permite efetuar consulta a dados dos RAS no Sistema.
 Para consultar um RAS é preciso acessar o *menu* **RAS** e em seguida
 **Consultar**.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image79.png)
+![](./media/aquisicao/image79.png)
 
 Para consultar um aditivo ao RAS é preciso acessar o *menu* **Aditivo**
 e em seguida **Consultar**.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image80.png)
+![](./media/aquisicao/image80.png)
 
 Ao clicar o botão **Consultar**, o campo CPF do usuário é preenchido
 automaticamente pelo sistema com informação advinda do Certificado
@@ -1963,9 +1961,9 @@ Selecionada a opção Exibir Lista de RAS Incluídos, acione o botão
 ![](./media/aquisicao/image61.png). O Sistema exibe lista de RAS incluídos,
 do mais recente para o mais antigo. Acione o botão ![](./media/aquisicao/image31.png), à direita do RAS desejado.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image82.png)
+![](./media/aquisicao/image82.png)
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image83.png)
+![](./media/aquisicao/image83.png)
 
 Após selecionar o RAS que deseja consultar, o Sistema apresenta a tela
 **Resumo do RAS** a seguir, que inclui todos os dados do RAS, e dos seus
@@ -1981,7 +1979,7 @@ aditivos, se for o caso.
 A partir do **Módulo Aquisição**, no *menu* **RP**, há 3 funções:
 **Incluir**, **Cancelar** e **Consultar**.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image84.png)
+![](./media/aquisicao/image84.png)
 
 Para incluir um RP é preciso acessar o *menu* **RP** e em seguida a
 opção **Incluir**.
@@ -1993,14 +1991,14 @@ Em seguida, o Sistema disponibiliza duas opções para registro do
 pagamento: **Informar o Número do RAS** ou **Pesquisar pelo CPF/CNPJ do
 Adquirente**.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image85.png)
+![](./media/aquisicao/image85.png)
 
 Selecionada a opção Informar o Número do RAS, preencha o campo com o
 número do RAS que se deseja incluir o RP e acione o botão ![](./media/aquisicao/image59.png).
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image86.png)
+![](./media/aquisicao/image86.png)
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image87.png)
+![](./media/aquisicao/image87.png)
 
 Selecionada a opção **Pesquisar pelo CPF/CNPJ do Adquirente**, preencha
 o CPF/CNPJ do Adquirente, ainda que seja o mesmo CPF do usuário, acione
@@ -2010,7 +2008,7 @@ botão ![](./media/aquisicao/image59.png). O Sistema abrirá a tela **Operaçõe
 Pagar**, sendo possível visualizar o **Valor da Operação** e **Saldo a
 Pagar** para cada operação, referente ao RAS selecionado**.**
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image88.png)
+![](./media/aquisicao/image88.png)
 
 > **Operações a Pagar**
 >
@@ -2033,9 +2031,9 @@ Pagar** para cada operação, referente ao RAS selecionado**.**
 > acionar o botão ![](./media/aquisicao/image59.png) ao lado da operação desejada para incluir
 > novos dados;
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image89.png)
+![](./media/aquisicao/image89.png)
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image90.png)
+![](./media/aquisicao/image90.png)
 
 > e\) antes da inclusão do RP, caso seja detectado erro de preenchimento,
 > clicar no ícone ![](./media/aquisicao/image59.png) à direita para corrigi-lo, procedendo
@@ -2075,19 +2073,19 @@ O sistema exibirá o Resumo do RP, e o usuário deve:
 
 2 - clicar no botão Incluir, para finalizar o registro.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image91.png)
+![](./media/aquisicao/image91.png)
 
 O Sistema confirmará o recebimento dos dados e gerará um número próprio
 para o RP.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image92.png)
+![](./media/aquisicao/image92.png)
 
 
 #### 2.2.1. Retificação do RP
 
 Esta função permite ao usuário retificar um RP.
 
-![](./media/aquisicao/image28.jpeg) Para retificar um RP é preciso acessar o
+Para retificar um RP é preciso acessar o
 *menu* **RP** e em seguida **Retificar**.
 
 ![](./media/aquisicao/image93.png)
@@ -2096,19 +2094,19 @@ Ao selecionar o comando **Retificar**, o campo **CPF do Usuário** é
 preenchido automaticamente pelo Sistema com informação advinda do
 Certificado Digital do usuário.
 
-![](./media/aquisicao/image28.jpeg) Em seguida, o Sistema disponibiliza duas
+Em seguida, o Sistema disponibiliza duas
 opções para retificação do RP: **Pesquisar pelo Número do RAS** ou
 **Pesquisar pelo CPF/CNPJ do Adquirente**.
 
 ![](./media/aquisicao/image94.png)
 
-![](./media/aquisicao/image28.jpeg) Selecionada a opção **Pesquisar pelo
+Selecionada a opção **Pesquisar pelo
 Número do RAS**, preencha o campo com o número do RAS cujo RP se deseja
 retificar e acione o botão ![](./media/aquisicao/image61.png). Clique no botão ![](./media/aquisicao/image59.png) à direita do RP a ser retificado.
 
 ![](./media/aquisicao/image95.png)
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image96.png)
+![](./media/aquisicao/image96.png)
 
 Selecionada a opção **Pesquisar pelo CPF/CNPJ do Adquirente**, preencha
 o CPF/CNPJ do adquirente, ainda que seja o mesmo CPF do usuário. Acione
@@ -2120,7 +2118,7 @@ botão ![](./media/aquisicao/image59.png) à direita do RP a ser retificado.
 
 ![](./media/aquisicao/image97.png)
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image98.png)
+![](./media/aquisicao/image98.png)
 
 Após selecionar o RP que se deseja retificar, o Sistema mostra a tela
 **Resumo do RP**. Os **Dados do RP** indicam as [operações](#Operação)
@@ -2133,32 +2131,32 @@ Nessa tela, o usuário poderá:
 > 2 - retificar uma ou mais operações, clicando no botão **Retificar
 > Esta Operação.**
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image99.png)
+![](./media/aquisicao/image99.png)
 
 Caso o usuário deseje retificar somente o **Número do Documento**, basta
 editar o número no campo correspondente e, em seguida, clicar no botão
 **Confirmar Retificação**.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image100.png)
+![](./media/aquisicao/image100.png)
 
 Caso deseje retificar os dados do RP em uma operação, clique no botão
 **Retificar Esta Operação**.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image101.png)
+![](./media/aquisicao/image101.png)
 
-![](./media/aquisicao/image28.jpeg) Em seguida o Sistema apresenta a tela de
+Em seguida o Sistema apresenta a tela de
 **Retificar dados** **do RP** e o usuário pode alterar a Data, o Valor
 Pago e o Valor Pago com Recursos no Exterior.
 
 ![](./media/aquisicao/image102.png)
 
-![](./media/aquisicao/image28.jpeg) Para confirmar a alteração dos dados,
+Para confirmar a alteração dos dados,
 clique no botão **Retificar Dados** e, na tela seguinte, clique em
 **Confirmar Retificação**. Caso contrário, clique em **Cancelar**.
 
 ![](./media/aquisicao/image103.png)
 
-![](./media/aquisicao/image28.jpeg) Após o usuário clicar em **Confirmar
+Após o usuário clicar em **Confirmar
 Retificação**, o Sistema confirmará a retificação dos dados do RP.
 
 ![](./media/aquisicao/image104.png)
@@ -2173,7 +2171,7 @@ O RP pode ser cancelado na hipótese de erro no preenchimento dos campos
 Para cancelar um RP é preciso acessar o *menu* **RP** e em seguida
 **Cancelar**.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image105.png)
+![](./media/aquisicao/image105.png)
 
 Ao selecionar o comando **Cancelar**, o campo **CPF do Usuário** é
 preenchido automaticamente pelo Sistema com informação advinda do
@@ -2183,7 +2181,7 @@ Em seguida, o Sistema disponibiliza duas opções para cancelamento do RP:
 **Pesquisar pelo Número do RAS** ou **Pesquisar pelo CPF/CNPJ do
 Adquirente**.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image106.png)
+![](./media/aquisicao/image106.png)
 
 Selecionada a opção Pesquisar pelo Número do RAS, preencha o campo com o
 número do RAS cujo RP se deseja cancelar e acione o botão ![](./media/aquisicao/image61.png). Clique no ícone
@@ -2191,7 +2189,7 @@ número do RAS cujo RP se deseja cancelar e acione o botão ![](./media/aquisica
 ser cancelado. Confirme o cancelamento do RP clicando no botão OK na
 caixa de mensagem.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image107.png)
+![](./media/aquisicao/image107.png)
 
 Selecionada a opção Pesquisar pelo CPF/CNPJ do Adquirente, preencha o
 CPF/CNPJ do adquirente, ainda que seja o mesmo CPF do usuário. Acione o
@@ -2200,20 +2198,20 @@ todos os RP previamente incluídos. Na lista de RP exibida, acione o
 botão ![](./media/aquisicao/image48.png). Confirme o cancelamento do RP clicando
 no botão OK na caixa de mensagem.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image108.png)
+![](./media/aquisicao/image108.png)
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image109.png)
+![](./media/aquisicao/image109.png)
 
 Em seguida o Sistema apresenta a tela de **Confirmação de Cancelamento**
 do RP:
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image110.png)
+![](./media/aquisicao/image110.png)
 
 Caso o usuário acesse novamente o *menu* **RP \> Cancelar**, observará a
 **Data de Cancelamento** ao lado da **Data de Inclusão** e o
 desaparecimento do ícone ![](./media/aquisicao/image48.png) para o RP cancelado.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image111.png)
+![](./media/aquisicao/image111.png)
 
 
 #### 2.2.3. Consulta ao RP
@@ -2223,7 +2221,7 @@ Esta função permite efetuar consulta a dados dos RP no sistema.
 Para consultar um RP é preciso acessar o *menu* **RP** e em seguida
 **Consultar**.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image112.png)
+![](./media/aquisicao/image112.png)
 
 Ao clicar o botão **Consultar**, o campo CPF do usuário é preenchido
 automaticamente pelo sistema com informação advinda do Certificado
@@ -2233,14 +2231,14 @@ Em seguida, o Sistema disponibiliza duas opções para consultar RP:
 **Pesquisar pelo Número do RAS** ou **Pesquisar pelo CPF/CNPJ do
 Adquirente**.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image113.png)
+![](./media/aquisicao/image113.png)
 
 Se o usuário selecionar a opção Pesquisar pelo Número do RAS, deve
 preencher o campo com o número do RAS cujo RP se deseja consultar e
 acione o botão ![](./media/aquisicao/image61.png). Clique no ícone ![](./media/aquisicao/image59.png) à direita do respectivo Número do RP a
 ser consultado. Em seguida é exibida a tela Resumo do RP.
 
-![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image114.png)
+![](./media/aquisicao/image114.png)
 
 Se o usuário selecionar a opção Pesquisar pelo CPF/CNPJ do Adquirente,
 deve preencher o CPF/CNPJ do adquirente, ainda que seja o mesmo CPF do

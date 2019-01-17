@@ -587,13 +587,13 @@ Animação - Modal
   95% { transform: translateX(0rem) scale(1); }
 }
 
-.footnotes li p {
+.footnotes li > p {
   display: inline;
 }
 
-.footnotes li {
+.footnotes li, ol > li > p {
   padding-bottom: 10px;
 }
-ul li p {
+li > p {
   display: inline;
 }
