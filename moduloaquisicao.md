@@ -150,26 +150,20 @@ como outros elementos pertinentes.
 
 #### 4.2.1. Prazos para o RP 
 
-Para o registro de pagamento, há dois prazos
-possíveis, dependendo da data de pagamento:
+Para o registro de pagamento, há dois prazos possíveis, dependendo da data de pagamento:
 
-1)  quando o pagamento ocorrer **depois** da inclusão do RAS, o usuário
-    deve efetuar o RP até o **último dia útil do mês subsequente** ao
-    do pagamento.
+   1\) quando  o  pagamento  ocorrer depois da [inclusão  do  RAS](#),  o  usuário  deve  efetuar  o  RP até **o último dia útil do ês subsequente** ao do pagamento.   
 
-> [Cabe observar que o prazo de inclusão do RAS deve ser respeitado,
-> conforme previsto no item [4.1.1 Prazo para o
-> RAS](#prazo-para-o-ras)
->
-> 
+   Cabe observar que o prazo de inclusão do RAS deve ser respeitado, conforme previsto no item [4.1.1 Prazo para o RAS](#prazo-para-o-ras).  
 
-2)  quando o pagamento ocorrer **antes** da inclusão do RAS , o usuário
-    deve efetuar o RP até o último dia útil do mês subsequente ao de
-    inclusão desse RAS.
+   
+   ![](/media/aquisicao/image-158.png)   
 
-> Cabe observar que o prazo de inclusão do RAS deve ser respeitado,
-> conforme previsto no item 4.1.1 Prazo para o
-> RAS](#prazo-para-o-ras).
+   2\) quando o pagamento ocorrer **antes** da inclusão do RAS , o usuário deve efetuar o RP até **o último dia útil do mês subsequente ao de inclusão desse RAS**.
+
+   Cabe observar que o prazo de inclusão do RAS deve ser respeitado, conforme previsto no item [4.1.1 Prazo para o RAS](#prazo-para-o-ras).  
+
+   ![](/media/aquisicao/image-159.png)   
 
 ### 4.3. Situações especiais de registro
 ------------------------------------
@@ -218,24 +212,15 @@ congressos, feiras e conclaves.
 A inclusão do RAS será feita observadas as seguintes instruções
 específicas para preenchimento:
 
-I -- Nome do Vendedor e Endereço do Vendedor, NIF - inserir a expressão:
-"DIVERSOS";
+I -- Nome do Vendedor e Endereço do Vendedor, NIF - inserir a expressão: "DIVERSOS";  
+II -- Valor da Operação: informar a somatório dos valores relacionados às operações cuja realização ocorreu no mês de referência;  
+III -- Data de Início e Data de Conclusão: informar o primeiro e o último dia do mês de referência.  
 
-II -- Valor da Operação: informar a somatório dos valores relacionados
-às operações cuja realização ocorreu no mês de referência;
+A inclusão do RP será feita observadas adicionalmente as seguintes instruções específicas para preenchimento:
 
-III -- Data de Início e Data de Conclusão: informar o primeiro e o
-último dia do mês de referência.
-
-A inclusão do RP será feita observadas adicionalmente as seguintes
-instruções específicas para preenchimento:
-
-I -- Data do Pagamento: informar o último dia do mês;
-
-II -- Valor do Pagamento: informar o somatório do valor pago no mês;
-
-III -- [Número do Documento](#numerodocumento), inserir a expressão:
-"DIVERSOS".
+I -- Data do Pagamento: informar o último dia do mês;  
+II -- Valor do Pagamento: informar o somatório do valor pago no mês;  
+III -- Número do Documento, inserir a expressão: "DIVERSOS".  
 
 ## 5. Quem deve efetuar registro no Siscoserv -- Módulo Aquisição
 
@@ -285,17 +270,7 @@ São exemplos de gastos pessoais a aquisição de refeições, hospedagem e
 locomoção no exterior em viagens de negócios, de treinamento, missões
 oficiais, participação em congressos, feiras e conclaves.
 
-Também devem ser registradas as [operações](#operação) de aquisição de
-serviços[^7] iniciadas e não concluídas antes das datas constantes do
-Anexo Único da Portaria Conjunta RFB/SCS no 1.908, de 19 de julho de
-2012. Para essas operações deve ser registrada como data de início,
-aquela indicada no retrocitado Anexo Único, por capítulo da NBS. Caso
-haja saldo a pagar, deve ser indicado como valor da operação, o saldo
-remanescente a pagar. Nos casos em que o pagamento tenha ocorrido
-integralmente antes da data indicada no anexo, deve ser registrado o
-valor proporcional da operação correspondente ao período remanescente da
-prestação do serviço[^8], justificando o valor registrado no campo
-**Informações Complementares**.
+Também devem ser registradas as [operações](#operação) de aquisição de serviços[^7] iniciadas e não concluídas antes das datas constantes do Anexo Único da Portaria Conjunta RFB/SCS no 1.908, de 19 de julho de 2012. Para essas operações deve ser registrada como data de início, aquela indicada no retrocitado Anexo Único, por capítulo da NBS. Caso haja saldo a pagar, deve ser indicado como valor da operação, o saldo remanescente a pagar. Nos casos em que o pagamento tenha ocorrido integralmente antes da data indicada no anexo, deve ser registrado o valor proporcional da operação correspondente ao período remanescente da prestação do serviço[^8], justificando o valor registrado no campo **Informações Complementares**.
 
 Caso tenha ocorrido o pagamento integral antes das datas constantes do
 Anexo Único da Portaria Conjunta RFB/SCS n° 1.908, de 19
@@ -406,19 +381,13 @@ residente ou domiciliado no exterior.
 
 Exemplos:
 
--   serviço adquirido via Internet por empresa brasileira de empresa
-    > domiciliada no exterior;
+-   serviço adquirido via Internet por empresa brasileira de empresa domiciliada no exterior;
 
--   serviços de corretagem de ações prestados a cliente domiciliado ou
-    > [residente no Brasil](#residentenoBrasil) efetuados por empresa
-    > corretora domiciliada no exterior;
+-   serviços de corretagem de ações prestados a cliente domiciliado ou [residente no Brasil](#residentenoBrasil) efetuados por empresa corretora domiciliada no exterior;
 
--   serviços de projeto e desenvolvimento de estruturas e conteúdo de
-    > páginas eletrônicas realizados no exterior para cliente residente
-    > ou domiciliado no Brasil;
+-   serviços de projeto e desenvolvimento de estruturas e conteúdo de páginas eletrônicas realizados no exterior para cliente residente ou domiciliado no Brasil;
 
--   serviços de transporte internacional de cargas prestado por empresa
-    > domiciliada no exterior a empresa domiciliada no Brasil.
+-   serviços de transporte internacional de cargas prestado por empresa domiciliada no exterior a empresa domiciliada no Brasil.
 
 > ![](./media/aquisicao/image6.jpeg)
 
@@ -537,103 +506,60 @@ variações](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Outrasope
 no patrimônio pode ser classificado em duas ou mais posições, a
 classificação efetuar-se-á da seguinte forma:
 
-2a) A posição mais específica prevalece sobre a mais genérica. Todavia,
-quando duas ou mais posições se referirem, cada uma delas, a apenas um
-dos serviços,
-[intangíveis](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Intangível)
-ou [outras operações que produzam variações no
-patrimônio](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Outrasoperações)
-que constituam o objeto a ser classificado, tais posições devem ser
-consideradas como igualmente específicas, ainda que uma dessas posições
-apresente uma descrição mais precisa ou completa desse objeto.
+> **2a)** A posição mais específica prevalece sobre a mais genérica. Todavia, quando duas ou mais posições se referirem, cada uma delas, a apenas um dos serviços, [intangíveis](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Intangível) ou [outras operações que produzam variações no patrimônio](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Outrasoperações) que constituam o objeto a ser classificado, tais posições devem ser consideradas como igualmente específicas, ainda que uma dessas posições apresente uma descrição mais precisa ou completa desse objeto.
 
-2b) Quando a Regra 2a) não permitir efetuar a classificação, o serviço,
-intangível ou [outra operação que produza variações no
-patrimônio](#Outrasoperações) classificar-se-á na posição situada em
-último lugar na ordem numérica, dentre as suscetíveis de serem
-consideradas válidas.
+> **2b)** Quando a Regra **2a)** não permitir efetuar a classificação, o serviço, intangível ou [outra operação que produza variações no patrimônio](#Outrasoperações) classificar-se-á na posição situada em último lugar na ordem numérica, dentre as suscetíveis de serem consideradas válidas.
 
-**Regra 3.** A classificação de serviços, intangíveis e [outras
-operações que produzam variações no
-patrimônio](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Outrasoperações)
-nas subposições de uma mesma posição é determinada, para efeitos legais,
-pelos textos dessas subposições e, quando houver, das Notas de
-Subposição respectivas, assim como, \"*mutatis mutandis*\", pelas Regras
-precedentes, entendendo-se que apenas são comparáveis subposições do
-mesmo nível. Para os fins da presente Regra, as Notas de Seção e de
-Capítulo são também aplicáveis, salvo disposições em contrário.
+**Regra 3.** A classificação de serviços, intangíveis e [outras operações que produzam variações no patrimônio](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Outrasoperações) nas subposições de uma mesma posição é determinada, para efeitos legais, pelos textos dessas subposições e, quando houver, das Notas de Subposição respectivas, assim como, \"*mutatis mutandis*\", pelas Regras precedentes, entendendo-se que apenas são comparáveis subposições do mesmo nível. Para os fins da presente Regra, as Notas de Seção e de Capítulo são também aplicáveis, salvo disposições em contrário.
 
 **Regra 4.** As Regras anteriores aplicar-se-ão, \"*mutatis mutandis*\",
 para determinar dentro de cada posição ou subposição, o item aplicável
 e, dentro deste último, o subitem correspondente, entendendo-se que
 apenas são comparáveis desdobramentos (itens e subitens) do mesmo nível.
 
-No contexto do Siscoserv e da Nomenclatura Brasileira de Serviços, são
-exemplos de:
+No contexto do Siscoserv e da Nomenclatura Brasileira de Serviços, são exemplos de:
 
 1\) Serviços: serviços de construção; serviços de transporte de cargas;
-serviços de concessão de crédito; serviços de pesquisa e
-desenvolvimento; serviços de consultoria; serviços de auditoria;
-serviços de gerenciamento de redes; serviços fotográficos; serviços de
-arquitetura e serviços de saúde humana.
+serviços de concessão de crédito; serviços de pesquisa e desenvolvimento; serviços de consultoria; serviços de auditoria;
+serviços de gerenciamento de redes; serviços fotográficos; serviços de arquitetura e serviços de saúde humana.
 
-2)
-[Intangíveis](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Intangível):
-licenciamento de direitos de autor e direitos conexos; licenciamento de
-direitos sobre a propriedade industrial; cessão de direitos de autor e
-direitos conexos; cessão de direitos sobre a propriedade industrial.
+2\) [Intangíveis](#intangivel): licenciamento de direitos de autor e direitos conexos; licenciamento de direitos sobre a propriedade industrial; cessão de direitos de autor e direitos conexos; cessão de direitos sobre a propriedade industrial.
 
-3\) [Outras operações que produzam variações no
-patrimônio](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Outrasoperações):
-fornecimento de refeições; fornecimento de bebidas em bares, cervejarias
-e outros e arrendamento mercantil financeiro de máquinas e equipamentos.
+3\) [Outras operações que produzam variações no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio): fornecimento de refeições;
+fornecimento de bebidas em bares, cervejarias e outros e arrendamento mercantil financeiro de máquinas e equipamentos.
 
-O usuário deve informar o código de acordo com a Nomenclatura Brasileira
-de Serviços, Intangíveis e Outras Operações que Produzam Variações no
-Patrimônio (NBS).
+O usuário deve informar o código de acordo com a Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS).
 
-O código na Nomenclatura Brasileira de Serviços, Intangíveis e Outras
-Operações que Produzam Variações no Patrimônio (NBS) é composto por nove
-dígitos, sendo que sua significância, da esquerda para a direita, é:
+O código na Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS) é composto por nove dígitos, sendo que sua significância, da esquerda para a direita, é:
 
-a\) o primeiro dígito, da esquerda para a direita, é o número 1 e é o
-indicador que o código que se segue se refere a um serviço, intangível
-ou outra operação que produz variação no patrimônio;
+a\) o primeiro dígito, da esquerda para a direita, é o número 1 e é o indicador que o código que se segue se refere a um serviço, intangível ou outra operação que produz variação no patrimônio;
 
 b\) o segundo e o terceiro dígitos indicam o Capítulo da NBS;
 
-c\) o quarto e o quinto dígitos, associados ao primeiro e ao segundo
-dígitos, representam a posição dentro de um Capítulo;
+c\) o quarto e o quinto dígitos, associados ao primeiro e ao segundo dígitos, representam a posição dentro de um Capítulo;
 
 d\) o sexto e o sétimo dígitos, associados aos cinco primeiro dígitos,
-representam, respectivamente, as subposições de primeiro e de segundo
-nível;
+representam, respectivamente, as subposições de primeiro e de segundo nível;
 
 e\) o oitavo dígito é o item; e
 
 f\) o nono dígito é o subitem.
 
-A sistemática de classificação dos códigos da NBS obedece à seguinte
-estrutura:
+A sistemática de classificação dos códigos da NBS obedece à seguinte estrutura:
 
-![](./media/aquisicao/image9.png)
+![](/media/venda/novo_image162.png)
 
 Exemplo:
 
-O código 1.1403.21.10, onde se classificam os "serviços de engenharia de
-projetos de construção residencial" deve ser entendido, da esquerda para
-a direita, da forma que se segue:
+O código 1.1403.21.10, onde se classificam os "serviços de engenharia de projetos de construção residencial" deve ser entendido, da esquerda para a direita, da forma que se segue:
 
-a\) o algarismo 1, da esquerda para a direita, sinaliza que se trata de
-código que se aloja na NBS;
+a\) o algarismo 1, da esquerda para a direita, sinaliza que se trata de código que se aloja na NBS;
 
 b\) o segundo e o terceiro dígitos (14) informa que o código em tela está
 no Capítulo 14, dedicado aos "Outros Serviços Profissionais";
 
-c\) o quarto e o quinto, da esquerda para a direita (03), associados ao
-primeiro, segundo e terceiro dígitos, separados por um ponto, (1.14)
-assinala que a terceira posição do Capítulo 14 é ocupada pelos "serviços
-de engenharia";
+c\) o quarto e o quinto, da esquerda para a direita (03), associados ao primeiro, segundo e terceiro dígitos, separados por um ponto, (1.14)
+assinala que a terceira posição do Capítulo 14 é ocupada pelos "serviços de engenharia";
 
 d\) o sexto e o sétimo dígitos, da esquerda para a direita, indicam,
 respectivamente, as subposições de primeiro e segundo nível (21);
@@ -643,65 +569,45 @@ e\) o oitavo dígito (1) diz que há item no código; e
 f\) o nono dígito (0) informa que o item não foi desdobrado (se o fosse,
 então o algarismo deveria ser diferente de zero).
 
-Dessa maneira, fica claro que nem sempre o código NBS se apresenta
-totalmente desdobrado, isto é, um algarismo diferente de zero para
-subitem como, por exemplo:
+Dessa maneira, fica claro que nem sempre o código NBS se apresenta totalmente desdobrado, isto é, um algarismo diferente de zero para subitem como, por exemplo:
 
-  1.0119.10.00   Serviços de construção de estruturas de prédios
-  -------------- ---------------------------------------------------------------
-  1.0606.10.00   Serviços de operação de aeroportos, exceto manuseio de cargas
-  1.0905.91.00   Serviços de consultoria financeira
-  1.2206.19.10   Serviços de palestras e conferências
+  |--------------|---------------------------------------------------------------|
+  | 1.0119.10.00 | Serviços de construção de estruturas de prédios               |
+  | 1.0606.10.00 | Serviços de operação de aeroportos, exceto manuseio de cargas |
+  | 1.0905.91.00 | Serviços de consultoria financeira                            |
+  | 1.2206.19.10 | Serviços de palestras e conferências                          |
+
 
 O usuário pode informar diretamente o código, ou localizá-lo acionando a
 ferramenta de busca: ![](./media/aquisicao/image10.png), situada ao lado do campo **Código
 NBS**.
 
-Na informação do código NBS, a posição mais específica prevalece sobre a
-mais genérica, sendo que o código só pode ser informado em seu maior
-nível de detalhamento (nove dígitos).
+Na informação do código NBS, a posição mais específica prevalece sobre a mais genérica, sendo que o código só pode ser informado em seu maior nível de detalhamento (nove dígitos).
 
-*Exemplo 1:*
+ *Exemplo 1:*  
+ Código NBS  
+ **Capítulo 1:** 1.01  
+ **Posição:** 1.0105  
+ **Subposição N1:** 1.0105.1  
+ **Subposição N2:** 1.0105.11  
 
-Código NBS
+ Como, para esse código, não há desdobramentos além do nível **Subposição N2**, os dígitos faltantes são preenchidos com 0, até que se complete 9 dígitos.
 
-**Capítulo 1:** 1.01
+ > **Código a ser informado**: 1.0105.11.00
 
-**Posição:** 1.0105
+ *Exemplo 2:*  
+ **Capítulo 1:** 1.07  
+ **Posição:** 1.0702  
 
-                                                                                                           
+ Como, para esse código, não há desdobramentos além do nível **Posição**, os dígitos faltantes são preenchidos com 0, até que se complete 9 dígitos.
 
-**Subposição N1:** 1.0105.1
-
-**Subposição N2:** 1.0105.11
-
-Como, para esse código, não há desdobramentos além do nível **Subposição
-N2**, os dígitos faltantes são preenchidos com 0, até que se complete 9
-dígitos.
-
-**Código a ser informado**: 1.0105.11.00
-
-*Exemplo 2:*
-
-**Capítulo 1:** 1.07
-
-**Posição:** 1.0702
-
-Como, para esse código, não há desdobramentos além do nível **Posição**,
-os dígitos faltantes são preenchidos com 0, até que se complete 9
-dígitos.
-
-**Código a ser informado**: 1.0702.00.00
+ > **Código a ser informado**: 1.0702.00.00
 
 Para utilizar a ferramenta de busca:
 
-1-   no campo **Código NBS**, acionar botão ![](./media/aquisicao/image10.png);
-
-2-   é aberta a janela **Seleção de Código NBS** para realização da
-busca do código;
-
-3-  o usuário pode optar por **Utilizar Pesquisa por Código** ou
-**Utilizar Pesquisa por Descrição**:
+1 - no campo **Código NBS**, acionar botão ![](./media/aquisicao/image10.png);  
+2 - é aberta a janela **Seleção de Código NBS** para realização da busca do código;  
+3 - o usuário pode optar por **Utilizar Pesquisa por Código** ou **Utilizar Pesquisa por Descrição**:  
 
 **Utilizar Pesquisa por Código:** o usuário deve selecionar o código,
 expandindo os níveis "Capítulo", "Posição", "Subposição", "Item" e
@@ -753,407 +659,34 @@ registro das operações no Siscoserv.
 No RAS, são considerados Mecanismos de apoio/fomento ao comércio
 exterior de serviços, os definidos na seguinte **lista exaustiva**:
 
-+-----------------------------------+-----------------------------------+
-| **Mecanismos de Apoio/Fomento**   | **Medida Legal**                  |
-+===================================+===================================+
-| **ADM. PÚBLICA E REPR.            | [Lei nº 10.865, de 30 de      |
-| INTERNACIONAL isenção**           | abril de 2004, art.               |
-| **PIS/Pasep/Cofins Imp.**         | 9º](http://www.planalto.gov.b |
-|                                   | r/ccivil_03/_ato2004-2006/2004/le |
-| Isenção da Contribuição para o    | i/l10.865.htm)                    |
-| PIS/Pasep-Importação e da         |                                   |
-| Cofins-Importação incidentes      |                                   |
-| sobre as importações de serviços  |                                   |
-| realizadas pela União, Estados,   |                                   |
-| Distrito Federal e Municípios,    |                                   |
-| suas autarquias e fundações       |                                   |
-| instituídas e mantidas pelo poder |                                   |
-| público; pelas Missões            |                                   |
-| Diplomáticas e Repartições        |                                   |
-| Consulares de caráter permanente  |                                   |
-| e pelos respectivos integrantes;  |                                   |
-| e pelas representações de         |                                   |
-| organismos internacionais de      |                                   |
-| caráter permanente, inclusive os  |                                   |
-| de âmbito regional, dos quais o   |                                   |
-| Brasil seja membro, e pelos       |                                   |
-| respectivos integrantes.          |                                   |
-+-----------------------------------+-----------------------------------+
-| **Alugueis e Arrend. Mercantil de | [Lei n° 10.865, |
-| maquinas, equip., embarc. e       | de 30 de abril de 2004, art. 8º,  |
-| aeronaves -- red. zero PIS/PASEP  | §                                 |
-| Imp./Cofins Imp.**                | 14](http://www.planalto.gov.br/cc |
-|                                   | ivil_03/_ato2004-2006/2004/lei/l1 |
-| Redução a zero das alíquotas da   | 0.865.htm)                        |
-| Contribuição para o               |                                   |
-| PIS/Pasep-Importação e da         |                                   |
-| Cofins-Importação incidentes      |                                   |
-| sobre o valor pago, creditado,    |                                   |
-| entregue, empregado ou remetido à |                                   |
-| pessoa física ou jurídica         |                                   |
-| residente ou domiciliada no       |                                   |
-| exterior, referente a alugueis e  |                                   |
-| contraprestações de arrendamento  |                                   |
-| mercantil de máquinas e           |                                   |
-| equipamentos, embarcações e       |                                   |
-| aeronaves utilizados na atividade |                                   |
-| da empresa.                       |                                   |
-+-----------------------------------+-----------------------------------+
-| **Arrendamento Mercantil de       | Lei nº 11.371,  |
-| aeronave para empresa de          | de 28 de novembro de 2006, art.   |
-| transporte aéreo público-- red.   | 16                                |
-| zero do IR**                      |                                   |
-|                                   |                                   | 
-| Redução a zero da alíquota do     |                                   |
-| imposto de renda na fonte         |                                   |
-| incidente na hipótese de          |                                   |
-| pagamento, crédito, entrega,      |                                   |
-| emprego ou remessa por fonte      |                                   |
-| situada no País a pessoa jurídica |                                   |
-| domiciliada no exterior, a título |                                   |
-| de contraprestação de contrato de |                                   |
-| arrendamento mercantil de         |                                   |
-| aeronave ou dos motores a ela     |                                   |
-| destinados, celebrado por empresa |                                   |
-| de transporte aéreo público       |                                   |
-| regular, de passageiros ou de     |                                   |
-| cargas, até 31 de dezembro de     |                                   |
-| 2011.                             |                                   |
-+-----------------------------------+-----------------------------------+
-| **Comissão a agentes externos na  | [Lei n° 9.481,  |
-| exportação-- red. a zero IR**     | de 13 de julho de 1997, art.      |
-|                                   | 1°, inciso II\  |
-| Redução a zero da alíquota do IR  | ](http://www.planalto.gov.br/cciv |
-| fonte incidente sobre os          | il_03/LEIS/L9481.htm)             |
-| rendimentos auferidos no País por |                                   |
-| residentes ou domiciliados no     |                                   |
-| exterior na hipótese de comissões |                                   |
-| pagas por exportadores a seus     |                                   |
-| agentes no exterior.              |                                   |
-+-----------------------------------+-----------------------------------+
-| **Despesas de armazenagem, mov. e | [Lei n° 9.481,  |
-| transporte de carga no exterior-- | de 13 de julho de 1997, art.      |
-| red. a zero IR**                  | 1°, inciso XII\ |
-|                                   | ](http://www.planalto.gov.br/cciv |
-| Redução a zero da alíquota do IR  | il_03/LEIS/L9481.htm)             |
-| na fonte incidente sobre os       |                                   |
-| rendimentos auferidos no País,    |                                   |
-| por residentes ou domiciliados no |                                   |
-| exterior, na hipótese de valores  |                                   |
-| pagos, creditados, entregues,     |                                   |
-| empregados ou remetidos para o    |                                   |
-| exterior pelo exportador          |                                   |
-| brasileiro, relativos às despesas |                                   |
-| de armazenagem, movimentação e    |                                   |
-| transporte de carga e emissão de  |                                   |
-| documentos realizadas no          |                                   |
-| exterior.                         |                                   |
-+-----------------------------------+-----------------------------------+
-| **EVENTOS FIFA (subsidiária)**    | [Lei nº 12.350, de 20 de      |
-| **isenção** **PIS/Pasep/Cofins    | dezembro de 2010, art.            |
-| Imp.**                            | 8º](http://www.planalto.gov.b |
-|                                   | r/ccivil_03/_ato2007-2010/2010/Le |
-| Isenção da Contribuição para o    | i/L12350.htm)                     |
-| PIS/Pasep-Importação e da         |                                   |
-| Cofins-Importação incidentes na   |                                   |
-| importação de serviços            |                                   |
-| decorrentes das atividades        |                                   |
-| próprias e diretamente vinculadas |                                   |
-| à organização ou realização dos   |                                   |
-| Eventos realizados pela           |                                   |
-| subsidiária Fifa no Brasil.       |                                   |
-+-----------------------------------+-----------------------------------+
-| **EVENTOS FIFA isenção            | [Lei nº 12.350, de 20 de      |
-| PIS/Pasep/Cofins Imp.**           | dezembro de 2010, art.            |
-|                                   | 7º](http://www.planalto.gov.b |
-| Isenção da Contribuição para o    | r/ccivil_03/_ato2007-2010/2010/Le |
-| PIS/Pasep-Importação e da         | i/L12350.htm)                     |
-| Cofins-Importação em relação aos  |                                   |
-| fatos geradores decorrentes das   |                                   |
-| atividades próprias e diretamente |                                   |
-| vinculadas à organização ou       |                                   |
-| realização dos Eventos realizados |                                   |
-| pela Fifa.                        |                                   |
-+-----------------------------------+-----------------------------------+
-| **Fretes, arrendamentos de        | [Lei n° 9.481,  |
-| embarcações ou aeronaves e outros | de 13 de julho de 1997, art.      |
-| -- red a zero IR**                | 1°, inciso      |
-|                                   | I](http://www.planalto.gov.br/cci |
-| Redução a zero da alíquota do IR  | vil_03/LEIS/L9481.htm)            |
-| na fonte incidente sobre os       |                                   |
-| rendimentos auferidos no País por |                                   |
-| residentes ou domiciliados no     |                                   |
-| exterior na hipótese de receitas  |                                   |
-| de fretes, afretamentos, alugueis |                                   |
-| ou arrendamentos de embarcações   |                                   |
-| marítimas ou fluviais ou de       |                                   |
-| aeronaves estrangeiras, feitos    |                                   |
-| por empresas, desde que tenham    |                                   |
-| sido aprovados pelas autoridades  |                                   |
-| competentes, bem assim os         |                                   |
-| pagamentos de aluguel de          |                                   |
-| containers, sobrestadia e outros  |                                   |
-| relativos ao uso de serviços de   |                                   |
-| instalações portuárias.           |                                   |
-+-----------------------------------+-----------------------------------+
-| **MATERIAL AERONÁUTICO red. zero  | Lei nº 10.865,  |
-| PIS/Pasep Imp /Cofins Imp.**      | de 30 de abril de 2004, art.      |
-|                                   | 8º, § 12, inciso VII          |
-| Redução a zero das alíquotas da   |                                   |
-| Contribuição para o               |                     |
-| PIS/Pasep-Importação e da         |                                   |
-| Cofins-Importação incidentes      |                                   |
-| sobre o valor dos serviços a      |                                   |
-| serem empregados na manutenção,   |                                   |
-| reparo, revisão, conservação,     |                                   |
-| modernização, conversão e         |                                   |
-| montagem das aeronaves,           |                                   |
-| classificadas na posição 88.02 da |                                   |
-| NCM, de seus motores, suas        |                                   |
-| partes, peças, componentes,       |                                   |
-| ferramentais e equipamentos.      |                                   |
-+-----------------------------------+-----------------------------------+
-| **PROMOÇÃO BENS NO EXTERIOR       | [Lei n° 9.481,  |
-| redução a zero IR**               | de 13 de julho de 1997, art.      |
-|                                   | 1°, inciso III, |
-| Redução a zero da alíquota do IR  | alínea a\                         |
-| na fonte incidente sobre os       | ](http://www.planalto.gov.br/cciv |
-| rendimentos auferidos no País,    | il_03/leis/l9481.htm)[Decreto     |
-| por residentes ou domiciliados no | nº 6.761, de 5 de fevereiro de    |
-| exterior, na hipótese de valores  | 2009, art.                        |
-| pagos, creditados, entregues,     | 1º](http://www.planalto.gov.br/cc |
-| empregados ou remetidos para o    | ivil_03/_Ato2007-2010/2009/Decret |
-| exterior em decorrência de        | o/D6761.htm)                      |
-| despesas com pesquisas de         |                                   |
-| mercado, bem como alugueis e      | Portaria MDIC nº 221, de 08 de    |
-| arrendamentos de estandes e       | julho de 2013                     |
-| locais para exposições, feiras e  |                                   |
-| conclaves semelhantes, no         |                                   |
-| exterior, inclusive promoção e    |                                   |
-| propaganda no âmbito desses       |                                   |
-| eventos, para produtos            |                                   |
-| brasileiros.                      |                                   |
-+-----------------------------------+-----------------------------------+
-| **PROMOÇÃO DE DEST. TURÍSTICOS    | [Lei n° 9.481,  |
-| BRASILEIROS redução a zero IR**   | de 13 de julho de 1997, art.      |
-|                                   | 1°, inciso III, |
-| Redução a zero da alíquota do IR  | alínea a\                         |
-| na fonte incidente sobre os       | ](http://www.planalto.gov.br/cciv |
-| rendimentos auferidos no País,    | il_03/leis/l9481.htm)[Decreto     |
-| por residentes ou domiciliados no | nº 6.761, de 5 de fevereiro   |
-| exterior, na hipótese de valores  | de 2009, art.                     |
-| pagos, creditados, entregues,     | 1º](http://www.planalto.gov.b |
-| empregados ou remetidos para o    | r/ccivil_03/_Ato2007-2010/2009/De |
-| exterior em decorrência de        | creto/D6761.htm)                  |
-| despesas com pesquisas de         |                                   |
-| mercado, bem como alugueis e      | Portaria MDIC nº 221, de 08 de    |
-| arrendamentos de estandes e       | julho de 2013                     |
-| locais para exposições, feiras e  |                                   |
-| conclaves semelhantes, no         |                                   |
-| exterior, inclusive promoção e    |                                   |
-| propaganda no âmbito desses       |                                   |
-| eventos, para promoção de         |                                   |
-| destinos turísticos brasileiros.  |                                   |
-+-----------------------------------+-----------------------------------+
-| **PROMOÇÃO DO BRASIL NO EXTERIOR  | [Lei n° 9.481,  |
-| redução a zero IR**               | de 13 de julho de 1997, art.      |
-|                                   | 1°, inciso III, |
-| Redução a zero da alíquota do IR  | alínea b\                         |
-| na fonte incidente sobre os       | ](http://www.planalto.gov.br/cciv |
-| rendimentos auferidos no País,    | il_03/leis/l9481.htm)[Decreto     |
-| por residentes ou domiciliados no | nº 6.761, de 5 de fevereiro   |
-| exterior, na hipótese de valores  | de 2009, art.                     |
-| pagos, creditados, entregues,     | 1º](http://www.planalto.gov.b |
-| empregados ou remetidos, a        | r/ccivil_03/_Ato2007-2010/2009/De |
-| residentes ou domiciliados no     | creto/D6761.htm)                  |
-| exterior, por órgãos do Poder     |                                   |
-| Executivo Federal, relativos a    | Portaria MDIC nº 221, de 08 de    |
-| contratação de serviços           | julho de 2013                     |
-| destinados à promoção do Brasil   |                                   |
-| no exterior.                      |                                   |
-+-----------------------------------+-----------------------------------+
-| **PROMOÇÃO SERVIÇOS NO EXTERIOR   | [Lei n° 9.481,  |
-| redução a zero IR**               | de 13 de julho de 1997, art.      |
-|                                   | 1°, inciso III, |
-| Redução a zero da alíquota do IR  | alínea a\                         |
-| na fonte incidente sobre os       | ](http://www.planalto.gov.br/cciv |
-| rendimentos auferidos no País,    | il_03/leis/l9481.htm)[Decreto     |
-| por residentes ou domiciliados no | nº 6.761, de 5 de fevereiro   |
-| exterior, na hipótese de valores  | de 2009, art.                     |
-| pagos, creditados, entregues,     | 1º](http://www.planalto.gov.b |
-| empregados ou remetidos para o    | r/ccivil_03/_Ato2007-2010/2009/De |
-| exterior em decorrência de        | creto/D6761.htm)                  |
-| despesas com pesquisas de         |                                   |
-| mercado, bem como alugueis e      | Portaria MDIC nº 221, de 08 de    |
-| arrendamentos de estandes e       | julho de 2013                     |
-| locais para exposições, feiras e  |                                   |
-| conclaves semelhantes, no         |                                   |
-| exterior, inclusive promoção e    |                                   |
-| propaganda no âmbito desses       |                                   |
-| eventos, para serviços            |                                   |
-| brasileiros.                      |                                   |
-+-----------------------------------+-----------------------------------+
-| **RECINE -- susp. PIS/Pasep Imp.  | [Lei n° 12.599, |
-| /Cofins Imp.**                    | de 23 de março de                 |
-|                                   | 2012](http://www.planalto.gov.br/ |
-| Suspensão da exigência da         | CCIVIL_03/_Ato2011-2014/2012/Lei/ |
-| Contribuição para o               | L12599.htm)                       |
-| PIS/Pasep-Importação e da         |                                   |
-| Cofins-Importação para as         |                                   |
-| empresas beneficiárias do Regime  |                                   |
-| Especial de Tributação para       |                                   |
-| Desenvolvimento da Atividade de   |                                   |
-| Exibição Cinematográfica          |                                   |
-| (RECINE).                         |                                   |
-+-----------------------------------+-----------------------------------+
-| **RECOPA susp.** **PIS/Pasep      | [Lei nº 12.350, de 20 de      |
-| Imp./Cofins Imp.**                | dezembro de 2010, art.            |
-|                                   | 20](http://www.planalto.gov.br/cc |
-| Suspensão da exigência da         | ivil_03/_ato2007-2010/2010/Lei/L1 |
-| Contribuição para o               | 2350.htm)                         |
-| PIS/Pasep-Importação e da         |                                   |
-| Cofins-Importação incidentes      |                                   |
-| sobre serviços importados         |                                   |
-| diretamente por pessoa jurídica   |                                   |
-| beneficiária do RECOPA.           |                                   |
-+-----------------------------------+-----------------------------------+
-| **Registro e Manutenção de        | [Lei n° 11.196, |
-| marcas, patentes e cultivares --  | de 21 de novembro de 2005, art.   |
-| red. zero IR**                    | 17](http://www.planalto.gov.br/cc |
-|                                   | ivil_03/_Ato2004-2006/2005/Lei/L1 |
-| Redução a zero do IR retido na    | 1196.htm#art133)                  |
-| fonte nas remessas efetuadas para |                                   |
-| o exterior destinadas ao registro |                                   |
-| e manutenção de marcas, patentes  |                                   |
-| e cultivares.                     |                                   |
-+-----------------------------------+-----------------------------------+
-| **REICOMP -- susp. PIS/Pasep Imp. | [Lei n° 12.715, |
-| /Cofins Imp.**                    | de 17 de setembro de              |
-|                                   | 2012.](http://www.planalto.gov.br |
-| Suspensão da exigência da         | /ccivil_03/_Ato2011-2014/2012/Lei |
-| Contribuição para o               | /L12715.htm)                      |
-| PIS/Pasep-Importação e da         |                                   |
-| Cofins-Importação para as         |                                   |
-| empresas beneficiárias do Regime  |                                   |
-| Especial de Incentivo a           |                                   |
-| Computadores para Uso             |                                   |
-| Educacional -- REICOMP.           |                                   |
-+-----------------------------------+-----------------------------------+
-| **REIDI -- susp.PIS/Pasep Imp.    | [Lei n° 11.488, |
-| /Cofins Imp.**                    | de 15 de junho de                 |
-|                                   | 2007](http://www.planalto.gov.br/ |
-| Suspensão da exigência da         | ccivil_03/_ato2007-2010/2007/lei/ |
-| Contribuição para o               | l11488.htm)                       |
-| PIS/Pasep-Importação, da          |                                   |
-| Cofins-Importação, para as        |                                   |
-| empresas beneficiárias do Regime  |                                   |
-| Especial de Incentivos para o     |                                   |
-| Desenvolvimento da Infraestrutura |                                   |
-| (REIDI).                          |                                   |
-+-----------------------------------+-----------------------------------+
-| **REPENEC -- susp.** **PIS/Pasep  | [Lei n°12.249,  |
-| Imp. /Cofins Imp.**               | de 11 de junho de                 |
-|                                   | 2010](http://www.planalto.gov.br/ |
-| Suspensão da exigência da         | ccivil_03/_ato2007-2010/2010/lei/ |
-| Contribuição para o               | l12249.htm)                       |
-| PIS/Pasep-Importação, da          |                                   |
-| Cofins-Importação nas importações |                                   |
-| de beneficiários do Regime        |                                   |
-| Especial de Incentivos para o     |                                   |
-| Desenvolvimento de Infraestrutura |                                   |
-| da Indústria Petrolífera nas      |                                   |
-| Regiões Norte, Nordeste e         |                                   |
-| Centro-Oeste -- REPENEC.          |                                   |
-+-----------------------------------+-----------------------------------+
-| **REPES -- susp. PIS/PASEP /      | [Lei n° 11.196, |
-| COFINS**                          | de 21 de novembro de              |
-|                                   | 2005](http://www.planalto.gov.br/ |
-| Suspensão da exigência da         | ccivil_03/_ato2004-2006/2005/lei/ |
-| Contribuição para o PIS/Pasep, e  | l11196.htm)                       |
-| da Cofins nas situações previstas |                                   |
-| no Regime Especial de Tributação  |                                   |
-| para a Plataforma de Exportação   |                                   |
-| de Serviços de Tecnologia da      |                                   |
-| Informação (REPES).               |                                   |
-+-----------------------------------+-----------------------------------+
-| **RETAERO -- susp.** **PIS/Pasep  | [Lei n° 12.249, |
-| Imp. /Cofins Imp.**               | de 11 de junho de                 |
-|                                   | 2010](http://www.planalto.gov.br/ |
-| Suspensão da exigência da         | ccivil_03/_ato2007-2010/2010/lei/ |
-| Contribuição para o               | l12249.htm)                       |
-| PIS/Pasep-Importação, da          |                                   |
-| Cofins-Importação nas importações |                                   |
-| de beneficiários do Regime        |                                   |
-| Especial para a Indústria         |                                   |
-| Aeronáutica Brasileira --         |                                   |
-| RETAERO.                          |                                   |
-+-----------------------------------+-----------------------------------+
-| **RETID -- susp. PIS/Pasep Imp.   | [Lei n° 12.598, |
-| /Cofins Imp.**                    | de 22 de março de 2012, art.      |
-|                                   | 10](http://www.planalto.gov.br/cc |
-| Suspensão da exigência da         | ivil_03/_ato2011-2014/2012/Lei/L1 |
-| Contribuição para o               | 2598.htm)                         |
-| PIS/Pasep-Importação e da         |                                   |
-| Cofins-Importação incidentes na   |                                   |
-| importação de serviços de         |                                   |
-| tecnologia industrial básica,     |                                   |
-| projetos, pesquisa,               |                                   |
-| desenvolvimento e inovação        |                                   |
-| tecnológica, assistência técnica  |                                   |
-| e transferência de tecnologia,    |                                   |
-| destinados a empresas             |                                   |
-| beneficiárias do RETID.           |                                   |
-+-----------------------------------+-----------------------------------+
-| **Royalties, Assistência Técnica, | [Lei n° 11.196, |
-| Científica e Assemelhados --      | de 21 de novembro de 2005, art.   |
-| dedutibilidade fiscal.**          | 17](http://www.planalto.gov.br/cc |
-|                                   | ivil_03/_Ato2004-2006/2005/Lei/L1 |
-| Dedutibilidade fiscal das         | 1196.htm#art133),                 |
-| importâncias pagas a pessoa       | § 3º                              |
-| física ou jurídica no exterior a  |                                   |
-| título de royalties pelos         |                                   |
-| direitos de propriedade           |                                   |
-| industrial, bem como dos          |                                   |
-| dispêndios com assistência        |                                   |
-| técnica, científica ou            |                                   |
-| assemelhados, relacionados com    |                                   |
-| transferência de tecnologia.      |                                   |
-+-----------------------------------+-----------------------------------+
-| **Serviços de avaliação da        | [Lei n° 12.249, |
-| conformidade vinculados aos       | de 11 de junho de 2010, art.      |
-| Acordos da OMC -- red. a zero do  | 18](http://www.planalto.gov.br/cc |
-| IR**                              | ivil_03/_ato2007-2010/2010/lei/l1 |
-|                                   | 2249.htm)                         |
-| Redução a zero do IR incidente na |                                   |
-| fonte sobre as importâncias       |                                   |
-| remetidas ao exterior, a título   |                                   |
-| de remuneração de serviços        |                                   |
-| vinculados aos processos de       |                                   |
-| avaliação da conformidade,        |                                   |
-| metrologia, normalização,         |                                   |
-| inspeção sanitária e              |                                   |
-| fitossanitária, homologação,      |                                   |
-| registros e outros procedimentos  |                                   |
-| exigidos pelo país importador sob |                                   |
-| o resguardo dos acordos sobre     |                                   |
-| medidas sanitárias e              |                                   |
-| fitossanitárias (SPS) e sobre     |                                   |
-| barreiras técnicas ao comércio    |                                   |
-| (TBT), ambos do âmbito da         |                                   |
-| Organização Mundial do Comércio - |                                   |
-| OMC.                              |                                   |
-+-----------------------------------+-----------------------------------+
-| **ZPE -- suspensão PIS/Pasep Imp. | [Lei n° 11.508, |
-| /Cofins Imp.**                    | de 20 de julho de                 |
-|                                   | 2007](http://www.planalto.gov.br/ |
-| Suspensão da exigência da         | ccivil_03/_Ato2007-2010/2007/Lei/ |
-| Contribuição para o               | L11508.htm)                       |
-| PIS/Pasep-Importação e da Cofins- |                                   |
-| Importação, para as empresas      |                                   |
-| autorizadas a operar em Zonas de  |                                   |
-| Processamento de Exportação       |                                   |
-| (ZPEs).                           |                                   |
-+-----------------------------------+-----------------------------------+
+| **Mecanismos de Apoio/Fomento**           | **Medida Legal**           |
+|-------------------------------------------|----------------------------|
+| **ADM. PÚBLICA E REPR. INTERNACIONAL isenção PIS/Pasep/Cofins Imp.** Isenção da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação incidentes sobre as importações de serviços realizadas pela União, Estados, Distrito Federal e Municípios, suas autarquias e fundações instituídas e mantidas pelo poder público; pelas Missões Diplomáticas e Repartições Consulares de caráter permanente e pelos respectivos integrantes; e pelas representações de organismos internacionais de caráter permanente, inclusive os de âmbito regional, dos quais o Brasil seja membro, e pelos respectivos integrantes.| [Lei nº 10.865, de 30 de abril de 2004, art. 9º](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865.htm)|
+| **Alugueis e Arrend. Mercantil de maquinas, equip., embarc. e aeronaves -- red. zero PIS/PASEP Imp./Cofins Imp.** Redução a zero das alíquotas da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação incidentes sobre o valor pago, creditado, entregue, empregado ou remetido à  pessoa física ou jurídica residente ou domiciliada no exterior, referente a alugueis e contraprestações de arrendamento mercantil de máquinas e equipamentos, embarcações e aeronaves utilizados na atividade  da empresa. | [Lei n° 10.865, de 30 de abril de 2004, art. 8º, § 14](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865.htm)|
+| **Arrendamento Mercantil de aeronave para empresa de transporte aéreo público-- red. zero do IR** Redução a zero da alíquota do imposto de renda na fonte incidente na hipótese de pagamento, crédito, entrega, emprego ou remessa por fonte       situada no País a pessoa jurídica  domiciliada no exterior, a título  de contraprestação de contrato de  arrendamento mercantil de aeronave ou dos motores a ela destinados, celebrado por empresa  de transporte aéreo público regular, de passageiros ou de cargas, até 31 de dezembro de 2011. | [Lei nº 11.371, de 28 de novembro de 2006, art. 16](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11371.htm)|
+| **Comissão a agentes externos na exportação-- red. a zero IR** Redução a zero da alíquota do IR fonte incidente sobre os rendimentos auferidos no País por  residentes ou domiciliados no exterior na hipótese de comissões pagas por exportadores a seus agentes no exterior. | [Lei n° 9.481, de 13 de julho de 1997, art. 1°, inciso II](http://www.planalto.gov.br/ccivil_03/LEIS/L9481.htm)|
+| **Despesas de armazenagem, mov. e transporte de carga no exterior - red. a zero IR** Redução a zero da alíquota do IR na fonte incidente sobre os rendimentos auferidos no País, por residentes ou domiciliados no  exterior, na hipótese de valores   pagos, creditados, entregues, empregados ou remetidos para o exterior pelo exportador brasileiro, relativos às despesas  de armazenagem, movimentação e transporte de carga e emissão de   documentos realizadas no exterior. | [Lei n° 9.481, de 13 de julho de 1997, art. 1°, inciso XII](http://www.planalto.gov.br/ccivil_03/LEIS/L9481.htm)|
+| **EVENTOS FIFA (subsidiária) isenção PIS/Pasep/Cofins Imp.** Isenção da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação incidentes na importação de serviços decorrentes das atividades próprias e diretamente vinculadas  à organização ou realização dos Eventos realizados pela subsidiária Fifa no Brasil. | [Lei nº 12.350, de 20 de dezembro de 2010, art. 8º](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/Lei/L12350.htm) |
+| **EVENTOS FIFA isenção PIS/Pasep/Cofins Imp.** Isenção da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação em relação aos fatos geradores decorrentes das atividades próprias e diretamente  vinculadas à organização ou realização dos Eventos realizados pela Fifa. | [Lei nº 12.350, de 20 de dezembro de 2010, art. 7º](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/Lei/L12350.htm) |
+| **Fretes, arrendamentos de embarcações ou aeronaves e outros -- red a zero IR** Redução a zero da alíquota do IR na fonte incidente sobre os rendimentos auferidos no País por residentes ou domiciliados no      exterior na hipótese de receitas de fretes, afretamentos, alugueis  ou arrendamentos de embarcações marítimas ou fluviais ou de aeronaves estrangeiras, feitos por empresas, desde que tenham sido aprovados pelas autoridades competentes, bem assim os pagamentos de aluguel de containers, sobrestadia e outros relativos ao uso de serviços de instalações portuárias. | [Lei n° 9.481, de 13 de julho de 1997, art. 1°, inciso I](http://www.planalto.gov.br/ccivil_03/LEIS/L9481.htm) |
+| **MATERIAL AERONÁUTICO red. zero PIS/Pasep Imp /Cofins Imp.** Redução a zero das alíquotas da Contribuição para o  PIS/Pasep-Importação e da Cofins-Importação incidentes sobre o valor dos serviços a serem empregados na manutenção, reparo, revisão, conservação, modernização, conversão e montagem das aeronaves, classificadas na posição 88.02 da NCM, de seus motores, suas partes, peças, componentes, ferramentais e equipamentos. | [Lei nº 10.865, de 30 de abril de 2004, art. 8º, § 12, inciso VII](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865.htm) |
+| **PROMOÇÃO BENS NO EXTERIOR redução a zero IR** Redução a zero da alíquota do IR na fonte incidente sobre os rendimentos auferidos no País, por residentes ou domiciliados no exterior, na hipótese de valores pagos, creditados, entregues, empregados ou remetidos para o exterior em decorrência de despesas com pesquisas de mercado, bem como alugueis e arrendamentos de estandes e locais para exposições, feiras e conclaves semelhantes, no exterior, inclusive promoção e     propaganda no âmbito desses eventos, para produtos brasileiros. | [Lei n° 9.481,de 13 de julho de 1997, art.1°, inciso III,alínea a](http://www.planalto.gov.br/ccivil_03/leis/l9481.htm) [Decreto nº 6.761, de 5 de fevereiro de 2009, art. 1º](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Decreto/D6761.htm) [Portaria MDIC nº 221, de 08 de julho de 2013](https://sisprom.mdic.gov.br/public/documentos/portaria_mdic_221.pdf)|
+| **PROMOÇÃO DE DEST. TURÍSTICOS BRASILEIROS redução a zero IR** Redução a zero da alíquota do IR na fonte incidente sobre os rendimentos auferidos no País, por residentes ou domiciliados no exterior, na hipótese de valores pagos, creditados, entregues, empregados ou remetidos para o exterior em decorrência de despesas com pesquisas de mercado, bem como alugueis e arrendamentos de estandes e locais para exposições, feiras e conclaves semelhantes, no exterior, inclusive promoção e     propaganda no âmbito desses eventos, para promoção de destinos turísticos brasileiros.  | [Lei n° 9.481, de 13 de julho de 1997, art. 1°, inciso III, alínea a ](http://www.planalto.gov.br/ccivil_03/leis/l9481.htm) [Decreto nº 6.761, de 5 de fevereiro de 2009, art. 1º](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Decreto/D6761.htm) [Portaria MDIC nº 221, de 08 de julho de 2013](https://sisprom.mdic.gov.br/public/documentos/portaria_mdic_221.pdf)|
+| **PROMOÇÃO DO BRASIL NO EXTERIOR redução a zero IR** Redução a zero da alíquota do IR na fonte incidente sobre os rendimentos auferidos no País, por residentes ou domiciliados no exterior, na hipótese de valores pagos, creditados, entregues, empregados ou remetidos, a residentes ou domiciliados no exterior, por órgãos do Poder Executivo Federal, relativos a contratação de serviços destinados à promoção do Brasil no exterior. |[Lei n° 9.481, de 13 de julho de 1997, art. 1°, inciso III, alínea a ](http://www.planalto.gov.br/ccivil_03/leis/l9481.htm) [Decreto nº 6.761, de 5 de fevereiro de 2009, art. 1º](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Decreto/D6761.htm) [Portaria MDIC nº 221, de 08 de julho de 2013](https://sisprom.mdic.gov.br/public/documentos/portaria_mdic_221.pdf)|
+| **PROMOÇÃO SERVIÇOS NO EXTERIOR redução a zero IR** Redução a zero da alíquota do IR na fonte incidente sobre os rendimentos auferidos no País, por residentes ou domiciliados no exterior, na hipótese de valores pagos, creditados, entregues, empregados ou remetidos para o exterior em decorrência de despesas com pesquisas de mercado, bem como alugueis e arrendamentos de estandes e locais para exposições, feiras e conclaves semelhantes, no exterior, inclusive promoção e     propaganda no âmbito desses eventos, para serviços brasileiros. |[Lei n° 9.481, de 13 de julho de 1997, art. 1°, inciso III, alínea a ](http://www.planalto.gov.br/ccivil_03/leis/l9481.htm) [Decreto nº 6.761, de 5 de fevereiro de 2009, art. 1º](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Decreto/D6761.htm) [Portaria MDIC nº 221, de 08 de julho de 2013](https://sisprom.mdic.gov.br/public/documentos/portaria_mdic_221.pdf)|
+| **RECINE -- susp. PIS/Pasep Imp./Cofins Imp.** Suspensão da exigência da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação para as empresas beneficiárias do Regime   Especial de Tributação para Desenvolvimento da Atividade de    Exibição Cinematográfica (RECINE). | [Lei n° 12.599, de 23 de março de 2012](http://www.planalto.gov.br/CCIVIL_03/_Ato2011-2014/2012/Lei/L12599.htm)|
+| **RECOPA susp. PIS/Pasep Imp./Cofins Imp.** Suspensão da exigência da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação incidentes sobre serviços importados diretamente por pessoa jurídica beneficiária do RECOPA. | [Lei nº 12.350, de 20 de dezembro de 2010, art. 20](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/Lei/L12350.htm) |
+| **Registro e Manutenção de marcas, patentes e cultivares -- red. zero IR**  Redução a zero do IR retido na fonte nas remessas efetuadas para  o exterior destinadas ao registro  e manutenção de marcas, patentes e cultivares. | [Lei n° 11.196, de 21 de novembro de 2005, art. 17](http://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11196.htm#art133) |
+| **REICOMP -- susp. PIS/Pasep Imp./Cofins Imp.**  Suspensão da exigência da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação para as empresas beneficiárias do Regime Especial de Incentivo a Computadores para Uso Educacional -- REICOMP. | [Lei n° 12.715, de 17 de setembro de 2012.](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12715.htm)|
+| **REIDI -- susp.PIS/Pasep Imp./Cofins Imp.** Suspensão da exigência da Contribuição para o PIS/Pasep-Importação, da           Cofins-Importação, para as empresas beneficiárias do Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura (REIDI). | [Lei n° 11.488, de 15 de junho de 2007](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11488.htm) |
+| **REPENEC -- susp.** **PIS/Pasep Imp. /Cofins Imp.** Suspensão da exigência da Contribuição para o PIS/Pasep-Importação, da Cofins-Importação nas importações de beneficiários do Regime Especial de Incentivos para o Desenvolvimento de Infraestrutura da Indústria Petrolífera nas Regiões Norte, Nordeste e Centro-Oeste -- REPENEC. | [Lei n°12.249, de 11 de 2010](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12249.htm) |
+| **REPES -- susp. PIS/PASEP / COFINS** Suspensão da exigência da Contribuição para o PIS/Pasep, e da Cofins nas situações previstas no Regime Especial de Tributação para a Plataforma de Exportação de Serviços de Tecnologia da Informação (REPES). | [Lei n° 11.196, de 21 de novembro de 2005](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11196.htm)|
+| **RETAERO -- susp.** **PIS/Pasep Imp. /Cofins Imp.** Suspensão da exigência da Contribuição para o PIS/Pasep-Importação, da Cofins-Importação nas importações de beneficiários do Regime Especial para a Indústria Aeronáutica Brasileira --          RETAERO. | [Lei n° 12.249, de 11 de junho de 2010](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12249.htm) |
+| **RETID -- susp. PIS/Pasep Imp. /Cofins Imp.** Suspensão da exigência da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação incidentes na importação de serviços de tecnologia industrial básica, projetos, pesquisa, desenvolvimento e inovação tecnológica, assistência técnica e transferência de tecnologia, destinados a empresas beneficiárias do RETID. | [Lei n° 12.598, de 22 de março de 2012, art. 10](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/Lei/L12598.htm) |
+| **Royalties, Assistência Técnica, Científica e Assemelhados -- dedutibilidade fiscal.** Dedutibilidade fiscal das importâncias pagas a pessoa física ou jurídica no exterior a título de royalties pelos direitos de propriedade industrial, bem como dos dispêndios com assistência técnica, científica ou assemelhados, relacionados com transferência de tecnologia. | [Lei n° 11.196, de 21 de novembro de 2005, art. 17,§ 3º](http://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11196.htm#art133)|
+| **Serviços de avaliação da conformidade vinculados aos Acordos da OMC -- red. a zero do IR** Redução a zero do IR incidente na  fonte sobre as importâncias remetidas ao exterior, a título de remuneração de serviços vinculados aos processos de avaliação da conformidade, metrologia, normalização, inspeção sanitária e fitossanitária, homologação, registros e outros procedimentos exigidos pelo país importador sob  o resguardo dos acordos sobre medidas sanitárias e fitossanitárias (SPS) e sobre barreiras técnicas ao comércio (TBT), ambos do âmbito da Organização Mundial do Comércio - OMC.| [Lei n° 12.249, de 11 de junho de 2010, art. 18](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12249.htm)|
+| **ZPE -- suspensão PIS/Pasep Imp./Cofins Imp.** Suspensão da exigência da Contribuição para o PIS/Pasep-Importação e da Cofins- Importação, para as empresas autorizadas a operar em Zonas de Processamento de Exportação (ZPEs). | [Lei n° 11.508, de 20 de julho de 2007](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11508.htm)|
+
 
 ## 11. Informações e canais de atendimento
 
@@ -1171,22 +704,17 @@ Ao acessar o site, o usuário deve buscar no menu de Assuntos Gerais o tema "Si
 
 Em caso de erros ou falhas apresentados pelo Sistema, estão disponíveis os canais do SERPRO para diagnóstico e correção:
 
-> \- Formulário*:*
-> [http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior](http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior)*;*\
-> - *Email:*
-> [css.serpro\@serpro.gov.br](mailto:css.serpro@serpro.gov.br)*;
-> ou*\
-> - *Fone: 0800-978-2331.*
+* Formulário: [http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior](http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior)
+* Email: [css.serpro@serpro.gov.br](mailto:css.serpro@serpro.gov.br)
+* Fone: 0800-978-2331
 
--   **[Dúvidas sobre classificação de serviços, intangíveis e outras
-    operações que produzam variações no patrimônio:]**
+### Dúvidas sobre classificação de serviços, intangíveis e outras operações que produzam variações no patrimônio:
 
 Deve ser realizada consulta às Regras de Interpretação da Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio -- NBS, bem como às suas Notas Explicativas
 (NEBS), disponíveis nos seguintes endereços eletrônicos:
 
-[http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13]
-
-[http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/nbs-nomenclatura-brasileira-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio](http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/nbs-nomenclatura-brasileira-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio)
+* [http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13)
+* [http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/nbs-nomenclatura-brasileira-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio](http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/nbs-nomenclatura-brasileira-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio)
 
 Caso persistam dúvidas, deve ser formalizado processo administrativo de consulta à Secretaria da Receita Federal do Brasil (RFB), nos termos do art. 48 da Lei nº 9.430, de 27 de dezembro de 1996 e do Decreto nº 7.708, de 02 de abril de 2012, que instituiu a NBS.
 
@@ -1201,8 +729,7 @@ Também está disponível no sítio da Secretaria de Comércio e Serviços
 (SCS) uma sessão de Perguntas Frequentes que pode ser acessada por meio do seguinte endereço eletrônico:
 [http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-6](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-6)
 
--   **[Dúvidas sobre casos concretos -- Consultas à Secretaria da
-    Receita Federal do Brasil ]**
+### Dúvidas sobre casos concretos -- Consultas à Secretaria da Receita Federal do Brasil
 
 A consulta é o instrumento previsto na [Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=46030)
 que o contribuinte possui para esclarecer dúvidas quanto à interpretação de determinado dispositivo da legislação tributária e aduaneira relativo aos tributos administrados pela Secretaria da Receita Federal do Brasil
@@ -1221,210 +748,10 @@ Maiores informações sobre as Consultas estão disponíveis em:
 
 A legislação relativa ao Siscoserv encontra-se disponível nos endereços:
 
-[http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4]
+* [http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4)
+* [http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/siscoserv-sist-integrado-de-com-exterior-int-e-outras-operacoes-prod-var-patrim/siscoserv-sistema-integrado-de-comercio-exterior-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio](http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/siscoserv-sist-integrado-de-com-exterior-int-e-outras-operacoes-prod-var-patrim/siscoserv-sistema-integrado-de-comercio-exterior-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio)
 
-[http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/siscoserv-sist-integrado-de-com-exterior-int-e-outras-operacoes-prod-var-patrim/siscoserv-sistema-integrado-de-comercio-exterior-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio](http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/siscoserv-sist-integrado-de-com-exterior-int-e-outras-operacoes-prod-var-patrim/siscoserv-sistema-integrado-de-comercio-exterior-de-servicos-intangiveis-e-outras-operacoes-que-produzam-variacoes-no-patrimonio)
-
-Além dos canais disponíveis, o usuário pode tirar dúvidas em eventos relacionados ao Siscoserv. A divulgação dos eventos é realizada na seção
-"Notícias" do sistema.
-
-## 12. Glossário
-
-Esse glossário foi desenvolvido para facilitar o entendimento dos
-conceitos presentes nos registros do Siscoserv.
-
-**Admissão Temporária:** regime aduaneiro
-especial que permite a importação de bens que devam permanecer no País
-durante prazo e finalidade fixados, com suspensão de tributos na
-importação, retornando ao exterior sem sofrer modificações que lhes
-confiram nova individualidade. Também poderão ser submetidos a este
-regime bens destinados à prestação de serviços ou a produção de outros
-bens, desde que com o pagamento proporcional dos impostos federais
-incidentes na importação, de acordo com o tempo de permanência no País.
-
-**Data de início da prestação de serviço:** é a
-data acordada entre residente e domiciliado no Brasil e residente e
-domiciliado no exterior em contrato (formal ou não) para o início da
-prestação do serviço; para a transferência de intangível; e para a
-realização de operação que produza variação no patrimônio.
-
-**Declaração de Importação (DI):** é um documento eletrônico exigido na
-importação de bens, cujo processamento ocorre através do Sistema
-Integrado de Comércio Exterior -- Siscomex--Importação. A DI consolida
-as informações cambiais, tributárias, fiscais, comerciais e estatísticas
-da operação. 
-
-**Empresa Controlada**: Considera-se controlada a sociedade na qual a
-controladora, diretamente ou através de outras controladas, é titular de
-direitos de sócio que lhe assegurem, de modo permanente, preponderância
-nas deliberações sociais e o poder de eleger a maioria dos
-administradores.
-
-**Ente Despersonalizado:** trata-se um
-termo da doutrina jurídica para se referir aos entes que não possuem
-denominação legal específica, mas que podem, nos termos do art. 12 do
-Código de Processo Civil Brasileiro, ser representados em juízo, ativa e
-passivamente. São entes despersonalizados: a massa falida, a herança
-jacente ou vacante, o espólio, as sociedades sem personalidade jurídica
-e o condomínio.
-
-**Exportação Temporária:** regime aduaneiro especial que permite a saída
-do País, com suspensão do imposto de exportação, de mercadoria nacional
-ou nacionalizada, condicionada ao seu retorno em prazo determinado, no
-mesmo estado em que foi exportada.
-
-**Serviço**: é uma obrigação de fazer do prestador destinada a atender
-uma necessidade do tomador.
-
-**Intangível:** Serão considerados os seguintes
-intangíveis para fins do registro no Siscoserv:
-
-I - o licenciamento (autorização para usar ou
-explorar comercialmente direito patrimonial) e a cessão, temporária ou
-definitiva, dos direitos de propriedade intelectual objeto das Seções 1
-a 7 da Parte II do Acordo sobre os Aspectos dos Direitos de Propriedade
-Intelectual Relacionados ao Comércio, conforme o Anexo 1C do Acordo
-Constitutivo da Organização Mundial do Comércio constante da Ata Final
-que incorpora os Resultados das Negociações Comerciais Multilaterais da
-Rodada Uruguai, aprovada pelo Decreto n° 1.355, de 31 de
-dezembro de 1994;
-
-II - os contratos de transferência de tecnologia envolvendo a prestação
-de serviços de assistência técnica e científica, combinadamente ou não,
-e o fornecimento da tecnologia -- *know how*;
-
-III - os contratos de franquia;
-
-IV - a exploração dos recursos naturais e o licenciamento dos direitos
-sobre conhecimento tradicional; e
-
-V - o licenciamento dos direitos relativos ao acesso a recursos
-genéticos.
-
-Informações adicionais podem ser obtidas nas Notas Explicativas do
-Capítulo 11 e 27 da Nomenclatura Brasileira de Serviços, Intangíveis e
-outras Operações que Produzam Variações no Patrimônio --
-[NBS](http://www.mdic.gov.br/sitio/interna/interna.php?area=4&menu=2374).
-
-**Mecanismo de Apoio/Fomento:** Mecanismos de apoio ou fomento de
-diversas naturezas (promocional, tributária e creditícia) a operações de
-comércio exterior de serviços, intangíveis e [outras operações que
-produzam variações no patrimônio](#Variações).
-
-**Movimentação Temporária de Bens:** A movimentação temporária de bens
-ocorre tanto na importação (Admissão Temporária) quanto na exportação
-(Exportação Temporária).
-
-**Negócio:** operação ou conjunto de operações integrantes do contrato
-de prestação de serviços; da transferência ou da aquisição do
-intangível; e da realização de operação(ões) que produza(m)
-variação(ões) no patrimônio.
-
-**NIF -- Número de Identificação Fiscal:** É o número fornecido pelo
-órgão de administração tributária no exterior indicador de pessoa física
-ou jurídica.
-
-**Operação:** conjunto de dados que caracterizam a
-prestação de um serviço, a transferência ou aquisição de intangível e a
-realização de operação que produza variação no patrimônio. No RAS, são
-dados de uma operação: Código da NBS, Descrição da NBS, Código e País de
-Destino; Código e Descrição da Moeda; Modo de Prestação; Data de Início;
-Data de Conclusão e, se for o caso, Mecanismo de apoio/fomento.
-
-**Outras Operações que Produzam Variações no
-Patrimônio -** São operações classificadas na NBS que não se enquadram
-como serviços nem como intangíveis.
-
-São exemplos:
-
-> \- Operações que envolvem simultaneamente a prestação de serviço e o
-> fornecimento de mercadoria, em que incidem o ICMS e o ISS, como
-> Fornecimento de alimentos, código NBS 1.0301;
->
-> \- Operações de arrendamento mercantil financeiro, código NBS
-> 1.0901.5;
->
-> \- Arrendamento mercantil operacional, código NBS 1.1101 e 1.1102;
->
-> \- Contratos de franquias, código NBS 1.1110.30.00; e
->
-> \- Fomento comercial (*factoring),* código NBS 1.0908.00.00.
-
-**Pagamento:** é o valor transferido,
-creditado, empregado, entregue ou remetido a residente ou domiciliado no
-exterior, decorrente da aquisição de serviços, intangíveis e outras
-operações que produzam variações no patrimônio por residente ou
-domiciliado no Brasil.
-
-Há 5 (cinco) "modos de pagar" o valor devido decorrente da prestação de
-serviço, transferência de intangível ou realização de outras operações
-que produção variação no patrimônio -- entrega, remessa, transferência,
-crédito e emprego --, a cada um correspondendo um evento que marca a
-data do pagamento, que são os seguintes: (a) entrega: a data do
-recebimento do numerário pelo beneficiário; (b) remessa (entendida com a
-transferência de valores para o Exterior): a data da contratação da
-operação de câmbio; (c) transferência (entendida como a transmissão de
-valores financeiros que não configurem nem entrega nem remessa): a data
-da transmissão da quantia; (d) crédito (o registro contábil efetuado
-pela fonte pagadora, pelo qual o rendimento é colocado,
-incondicionalmente, à disposição do beneficiário): a data do registro
-contábil efetuado pelo pagador, pelo qual o valor é colocado,
-incondicionalmente, à disposição do recebedor; e (e) emprego (é a
-aplicação do rendimento por conta e ordem do beneficiário, ou seja, o
-modo de pagar em que o valor é aplicado por conta e ordem do
-beneficiário do pagamento): data em que o valor é aplicado por conta e
-ordem do beneficiário do pagamento.
-
-**Registro de Exportação (RE):** no Sistema Integrado
-de Comércio Exterior - Siscomex é o conjunto de informações de natureza
-comercial, financeira, cambial e fiscal que caracterizam a operação de
-exportação de uma mercadoria e definem o seu enquadramento.
-
-**Residente no Brasil:** Considera-se residente no
-Brasil a pessoa física (Lei n° 9.718, de 27 de novembro
-de 1998, art. 12; Instrução Normativa SRF n° 208, de 27
-de setembro de 2002, art. 2°, com a alteração dada pela
-Instrução Normativa RFB n° 1.008, de 9 de fevereiro de
-2010):
-
-> I - que resida no Brasil em caráter permanente;
->
-> II - que se ausente para prestar serviços como assalariada a
-> autarquias ou repartições do Governo brasileiro situadas no exterior;
->
-> III - que ingresse no Brasil:
->
-> a\) com visto permanente, na data da chegada;
->
-> b\) com visto temporário:
->
-> 1\. para trabalhar com vínculo empregatício, na data da chegada;
->
-> 2\. na data em que complete 184 dias, consecutivos ou não, de permanência
-> no Brasil, dentro de um período de até doze meses;
->
-> 3\. na data da obtenção de visto permanente ou de vínculo empregatício,
-> se ocorrida antes de completar 184 dias, consecutivos ou não, de
-> permanência no Brasil, dentro de um período de até doze meses;
->
-> IV - brasileira que adquiriu a condição de não residente no Brasil e
-> retorne ao País com ânimo definitivo, na data da chegada;
->
-> V - que se ausente do Brasil em caráter temporário, ou se retire em
-> caráter permanente do território nacional sem entregar a [Comunicação
-> de Saída Definitiva do
-> País](http://www.receita.fazenda.gov.br/PessoaFisica/IRPF/2011/glossario.html#5939266742eb5e38f545ffbcfaa734e986a45f13),
-> durante os primeiros doze meses consecutivos de ausência.
-
-**Valor Mantido no Exterior:**
-refere-se aos recursos em moeda estrangeira, relativos aos recebimentos
-de serviços, intangíveis ou outras operações que produzam variações no
-patrimônio das entidades, mantidos no exterior, nos termos da [Lei
-n°
-11.371/2006](http://www.receita.fazenda.gov.br/Legislacao/Leis/2006/lei11371.htm)
-e [Instrução Normativa n° 726, de 28 de fevereiro de
-2007](http://www.receita.fazenda.gov.br/Legislacao/Ins/2007/in7262007.htm).
-
+Além dos canais disponíveis, o usuário pode tirar dúvidas em eventos relacionados ao Siscoserv. A divulgação dos eventos é realizada na seção "Notícias" do sistema.
 
 
 # Capítulo 2 - Operacionalização do Sistema
@@ -1474,30 +801,21 @@ instrumento que permite que uma pessoa física represente outra pessoa
 (física ou jurídica) no Siscoserv. As orientações para obtenção da
 procuração estão disponíveis em:
 
-http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/procuracoes/orientacoes-gerais-procuracoes-rfb
+[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/procuracoes/orientacoes-gerais-procuracoes-rfb](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/procuracoes/orientacoes-gerais-procuracoes-rfb)
 
 
 ### 1.4. Problemas de acesso
 
-Em caso de dificuldades para acessar o sistema, recomenda-se a limpeza
-de cache do navegador ou mesmo o uso de outro navegador. É possível
-ainda que o problema esteja relacionado com a procuração eletrônica.
-Como informado, a procuração eletrônica é emitida pela RFB, a qual
-possui o seguinte link para verificação:
-<http://idg.receita.fazenda.gov.br/interface/lista-de-servicos/procuracao/cadastrar-consultar-cancelar-procuracao-e-cac-eletronica-acesso-via-portal-e-cac/servico>.
+Em caso de dificuldades para acessar o sistema, recomenda-se a limpeza de cache do navegador ou mesmo o uso de outro navegador. É possível ainda que o problema esteja relacionado com a procuração eletrônica.
+Como informado, a procuração eletrônica é emitida pela RFB, a qual possui o seguinte link para verificação:
+[http://idg.receita.fazenda.gov.br/interface/lista-de-servicos/procuracao/cadastrar-consultar-cancelar-procuracao-e-cac-eletronica-acesso-via-portal-e-cac/servico](http://idg.receita.fazenda.gov.br/interface/lista-de-servicos/procuracao/cadastrar-consultar-cancelar-procuracao-e-cac-eletronica-acesso-via-portal-e-cac/servico).
 
-Por fim, caso o problema não seja solucionado, o usuário deve entrar em
-contato com o SERPRO - Serviço Federal de Processamento de Dados, que é
-o órgão responsável pelos aspectos técnico-operacionais do sistema. Os
-canais do SERPRO, para identificação e pronta correção dos problemas
-são:
+Por fim, caso o problema não seja solucionado, o usuário deve entrar em contato com o SERPRO - Serviço Federal de Processamento de Dados, que é
+o órgão responsável pelos aspectos técnico-operacionais do sistema. Os canais do SERPRO, para identificação e pronta correção dos problemas são:
 
-\-
-<http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior>
-
-\- Fone: 0800-978-2331
-
-\- Email: css.serpro@serpro.gov.
+* [http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior](http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior)
+* Fone: 0800-978-2331
+* Email: css.serpro@serpro.gov.br
 
 ### 1.5. Informações Cadastrais
 
@@ -1555,21 +873,17 @@ sistema.
 
 O Siscoserv permite 3 tipos de Cadastro a saber:
 
-a)  Usuário/ Responsável pelo Registro representa uma Pessoa Jurídica;
+1. Usuário/Responsável pelo Registro representa uma Pessoa Jurídica;
+2. Usuário/Responsável pelo Registro representa uma Pessoa física; e
+3. Usuário/Responsável pelo Registro é o Próprio Vendedor.
 
-b)  Usuário/ Responsável pelo Registro representa uma Pessoa física; e
-
-c)  Usuário/ Responsável pelo Registro é o Próprio Adquirente.
 
 #### 1.5.1. Caso 1 -- Usuário/ Responsável pelo Registro representa Pessoa Jurídica
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em
 Informações cadastrais;
 
-Obs: No primeiro acesso do usuário ao Sistema, o usuário será
-direcionado diretamente para a ficha de Informações Cadastrais. Não será
-possível efetuar novo registro antes de preencher os dados
-solicitados.
+**Obs: No primeiro acesso do usuário ao Sistema, o usuário será direcionado diretamente para a ficha de Informações Cadastrais. Não será possível efetuar novo registro antes de preencher os dados solicitados.**
 
 ![](./media/aquisicao/image14.jpeg)
 
@@ -1591,40 +905,25 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com
 asterisco, não apresentam nenhum dado e precisam ser preenchidos. São
 campos obrigatórios:
 
-> \- Telefone do [Usuário/Responsável pelo Registro](#Usuário);
->
-> \- E-mail do Usuário/Responsável pelo Registro;
->
-> \- Nome Fantasia da Empresa Adquirente;
->
-> \- Telefone da Empresa Adquirente;
->
-> \- E-mail de contato da Empresa Adquirente;
->
-> \- Endereço da Empresa Adquirente;
->
-> \- Nome do [Diretor de Relações Governamentais ou
-> Equivalente](#Diretor) da Empresa Adquirente;
->
-> \- Telefone do Diretor de Relações Governamentais ou Equivalente da
-> Empresa Adquirente;
->
-> \- E-mail do Diretor de Relações Governamentais ou Equivalente da
-> Empresa Adquirente;
+> \- Telefone do [Usuário/Responsável pelo Registro](#Usuário);  
+> \- E-mail do Usuário/Responsável pelo Registro;  
+> \- Nome Fantasia da Empresa Adquirente;  
+> \- Telefone da Empresa Adquirente;  
+> \- E-mail de contato da Empresa Adquirente;  
+> \- Endereço da Empresa Adquirente;  
+> \- Nome do [Diretor de Relações Governamentais ou Equivalente](#Diretor) da Empresa Adquirente;  
+> \- Telefone do Diretor de Relações Governamentais ou Equivalente da Empresa Adquirente;  
+> \- E-mail do Diretor de Relações Governamentais ou Equivalente da Empresa Adquirente;  
 
 ![](./media/aquisicao/image16.jpeg)
 
 Existem outros Campos de preenchimento opcional:
 
-> \- Endereço Web da Empresa Adquirente;
->
-> \- Nome da Conta *Skype* da Empresa Adquirente;
->
-> \- Perfil do *Twitter* da Empresa Adquirente;
->
-> \- Perfil do *Facebook* da Empresa Adquirente;
->
-> \- Endereço do Canal do *Youtube* da Empresa Adquirente.
+> \- Endereço Web da Empresa Adquirente;  
+> \- Nome da Conta *Skype* da Empresa Adquirente;  
+> \- Perfil do *Twitter* da Empresa Adquirente;  
+> \- Perfil do *Facebook* da Empresa Adquirente;  
+> \- Endereço do Canal do *Youtube* da Empresa Adquirente.  
 
 **Fluxo de Manutenção de Informações**
 
@@ -1652,10 +951,7 @@ clica em Salvar.
 Passo 1: [Usuário/Responsável pelo Registro](#Usuário) acessa o
 Siscoserv e clica em Informações cadastrais;
 
-Obs: No primeiro acesso do usuário ao Sistema o usuário será
-direcionado diretamente para a ficha de Informações Cadastrais. Não será
-possível efetuar novo registro antes de preencher os dados
-solicitados.
+**Obs: No primeiro acesso do usuário ao Sistema o usuário será direcionado diretamente para a ficha de Informações Cadastrais. Não será possível efetuar novo registro antes de preencher os dados solicitados.**
 
 ![](./media/aquisicao/image14.jpeg)
 
@@ -1678,30 +974,22 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com
 asterisco, não apresentam nenhum dado e precisam ser preenchidos. São
 campos obrigatórios:
 
-> \- Telefone do [Usuário/Responsável pelo Registro](#Usuário);
->
-> \- E-mail do Usuário/Responsável pelo Registro;
->
-> \- Endereço da [Pessoa Física Adquirente](#PF);
->
-> \- Telefone da Pessoa Física Adquirente;
->
-> \- E-mail de contato da Pessoa Física Adquirente;
+> \- Telefone do [Usuário/Responsável pelo Registro](#Usuário);  
+> \- E-mail do Usuário/Responsável pelo Registro;  
+> \- Endereço da [Pessoa Física Adquirente](#PF);  
+> \- Telefone da Pessoa Física Adquirente;  
+> \- E-mail de contato da Pessoa Física Adquirente;  
 
 ![](./media/aquisicao/image20.jpeg)
 
 Existem outros campos de preenchimento opcional. São campos de
 preenchimento opcional:
 
-> \- Endereço Web da Pessoa Física Adquirente;
->
-> \- Nome da Conta Skype Pessoa Física Adquirente;
->
-> \- Perfil do *Twitter* da Pessoa Física Adquirente;
->
-> \- Perfil do *Facebook* da Pessoa Física Adquirente;
->
-> \- Endereço do Canal do *Youtube* da Pessoa Física Adquirente.
+> \- Endereço Web da Pessoa Física Adquirente;  
+> \- Nome da Conta Skype Pessoa Física Adquirente;  
+> \- Perfil do *Twitter* da Pessoa Física Adquirente;  
+> \- Perfil do *Facebook* da Pessoa Física Adquirente;  
+> \- Endereço do Canal do *Youtube* da Pessoa Física Adquirente.  
 
 **Fluxo de Manutenção de Informações**
 
@@ -1729,10 +1017,7 @@ em Salvar.
 Passo 1: Responsável pelo Registro acessa o Siscoserv e clica em
 Informações cadastrais;
 
-Obs: No primeiro acesso do usuário ao Sistema, o usuário será
-direcionado diretamente para a ficha de Informações Cadastrais. Não será
-possível efetuar novo registro antes de preencher os dados
-solicitados.
+**Obs: No primeiro acesso do usuário ao Sistema, o usuário será direcionado diretamente para a ficha de Informações Cadastrais. Não será possível efetuar novo registro antes de preencher os dados solicitados.**
 
 ![](./media/aquisicao/image14.jpeg)
 
@@ -1757,25 +1042,19 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com
 asterisco, não apresentam nenhum dado e precisam ser preenchidos. São
 campos obrigatórios:
 
-> \- Telefone da Pessoa Física Adquirente;
->
-> \- E-mail de contato da Pessoa Física Adquirente;
->
-> \- Endereço da Pessoa Física Adquirente;
+> \- Telefone da Pessoa Física Adquirente;  
+> \- E-mail de contato da Pessoa Física Adquirente;  
+> \- Endereço da Pessoa Física Adquirente;  
 
 ![](./media/aquisicao/image24.jpeg)
 
 Existem outros campos de preenchimento opcional:
 
-> \- Endereço Web da Pessoa Física Adquirente;
->
-> \- Nome da Conta Skype Pessoa Física Adquirente;
->
-> \- Perfil do *Twitter* da Pessoa Física Adquirente;
->
-> \- Perfil do *Facebook* da Pessoa Física Adquirente;
->
-> \- Endereço do Canal do *Youtube* da Pessoa Física Adquirente.
+> \- Endereço Web da Pessoa Física Adquirente;  
+> \- Nome da Conta Skype Pessoa Física Adquirente;  
+> \- Perfil do *Twitter* da Pessoa Física Adquirente;  
+> \- Perfil do *Facebook* da Pessoa Física Adquirente;  
+> \- Endereço do Canal do *Youtube* da Pessoa Física Adquirente.  
 
 **Fluxo de Manutenção de Informações**
 
@@ -1832,16 +1111,9 @@ ZIP.
 Para a criação dos arquivos que devem ser transmitidos, estão
 disponibilizados os seguintes documentos:
 
-[- Orientações Técnicas para o desenvolvimento da funcionalidade
-Transmissão em Lote do SISCOSERV Módulos Venda e
-Aquisição](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf);
-
-\- [Modelos dos Arquivos XML e XSD para Transmissão em
-Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Modelos_dos_Arquivos_XML_e_XSD_para_Transmiss%C3%A3o_em_Lote_-_V_2.0.zip);
-e
-
-\- [Tabelas de Códigos do Siscoserv para Transmissão em
-Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Tabelas_de_C%C3%B3digos_do_Siscosev_para_Transmiss%C3%A3o_em_Lote.zip).
+[- Orientações Técnicas para o desenvolvimento da funcionalidade Transmissão em Lote do SISCOSERV Módulos Venda e Aquisição](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf);  
+\- [Modelos dos Arquivos XML e XSD para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Modelos_dos_Arquivos_XML_e_XSD_para_Transmiss%C3%A3o_em_Lote_-_V_2.0.zip); e  
+\- [Tabelas de Códigos do Siscoserv para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Tabelas_de_C%C3%B3digos_do_Siscosev_para_Transmiss%C3%A3o_em_Lote.zip).  
 
 Cada arquivo XML contém informações referentes a uma funcionalidade:
 Inclusão de RAS, Aditivo ao RAS, Retificação do RAS, Retificação do
@@ -1892,16 +1164,11 @@ preenchidos com os dados do novo registro.
 Para usar essa opção, selecione **Aproveitar Dados de RAS Incluído**. O
 Sistema apresentará as seguintes opções:
 
-a)  **Informar o Número do RAS:** selecionada esta opção, preencha o
-    campo com número de RAS do qual se deseja aproveitar os dados e
-    acione o botão ![](./media/aquisicao/image31.png).
+> a) **Informar o Número do RAS:** selecionada esta opção, preencha o campo com número de RAS do qual se deseja aproveitar os dados e acione o botão ![](./media/aquisicao/image31.png).
 
 ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image32.png)
 
-b)  **Exibir Lista dos RAS Incluídos:** selecionada esta opção, acione o
-    botão ![](./media/aquisicao/image10.png). O Sistema exibe lista de RAS
-    incluídos, do mais recente para o mais antigo. Acione o botão
-    ![](./media/aquisicao/image31.png), à direita do RAS desejado.
+> b) **Exibir Lista dos RAS Incluídos:** selecionada esta opção, acione o botão ![](./media/aquisicao/image10.png). O Sistema exibe lista de RAS incluídos, do mais recente para o mais antigo. Acione o botão ![](./media/aquisicao/image31.png), à direita do RAS desejado.
 
 ![](./media/aquisicao/image28.jpeg) ![](./media/aquisicao/image33.png)
 

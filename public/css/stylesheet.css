@@ -594,3 +594,6 @@ Animação - Modal
 .footnotes li {
   padding-bottom: 10px;
 }
+ul li p {
+  display: inline;
+}

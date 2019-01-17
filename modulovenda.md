@@ -382,11 +382,9 @@ desde que não sejam contrárias aos textos das referidas posições e Notas, pe
 **Regra 2.** Quando aparentar que o serviço,
 [intangível](#intangivel) ou [outra operação que produza variações](#outras_operacoes_que_produzam_variacoes_de_patrimonio) no patrimônio pode ser classificado em duas ou mais posições, a classificação efetuar-se-á da seguinte forma:
 
-2a) A posição mais específica prevalece sobre a mais genérica. Todavia,
-quando duas ou mais posições se referirem, cada uma delas, a apenas um dos serviços, [intangíveis](#intangivel) ou [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio) que constituam o objeto a ser classificado, tais posições devem ser consideradas como igualmente específicas, ainda que uma dessas posições apresente uma descrição mais precisa ou completa desse objeto.
+> **2a)** A posição mais específica prevalece sobre a mais genérica. Todavia, quando duas ou mais posições se referirem, cada uma delas, a apenas um dos serviços, [intangíveis](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Intangível) ou [outras operações que produzam variações no patrimônio](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Outrasoperações) que constituam o objeto a ser classificado, tais posições devem ser consideradas como igualmente específicas, ainda que uma dessas posições apresente uma descrição mais precisa ou completa desse objeto.
 
-2b) Quando a Regra 2a) não permitir efetuar a classificação, o serviço,
-intangível ou [outra operação que produza variações no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio) classificar-se-á na posição situada em último lugar na ordem numérica, dentre as suscetíveis de serem consideradas válidas.
+> **2b)** Quando a Regra **2a)** não permitir efetuar a classificação, o serviço, intangível ou [outra operação que produza variações no patrimônio](#Outrasoperações) classificar-se-á na posição situada em último lugar na ordem numérica, dentre as suscetíveis de serem consideradas válidas.
 
 **Regra 3.** A classificação de serviços, intangíveis e [Outras Operações que Produzam Variações no Patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio)
 nas subposições de uma mesma posição é determinada, para efeitos legais,
@@ -516,7 +514,7 @@ O órgão ou a entidade da administração pública que tenha atribuição legal
 
 A concessão ou o reconhecimento de cada mecanismo condiciona-se ao registro das operações no Siscoserv.
 
-No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de serviços, os definidos na seguinte **lista exaustiva**:
+No RVS, são considerados Mecanismos de apoio/fomento ao comércio exterior de serviços, os definidos na seguinte **lista exaustiva**:
 
 
 
@@ -1248,7 +1246,7 @@ O aditivo ao RVS deve ser usado para a inclusão de nova
 Na inclusão de Aditivo, não é possível realizar alterações nos **Dados do Adquirente**, tendo em vista
 tratar-se de dados do registro como um todo e que só podem ser alterados pela função [**Retificar RVS**](#2.1.2).
 
-Devido à publicação da [NBS 2.0](http://www.mdic.gov.br/images/REPOSITORIO/scs/decos/NBS/Anexo_I_NBS_2.0_com_altera%C3%A7%C3%B5es_6.12.18.pdf)[^17], novos serviços[^18] derivados de complemento ou aditamento em termo de contrato, que envolva operação iniciada a partir de 1º de janeiro de 2019, não poderão ser registrados por meio de Aditivo em um RAS incluído até o dia 31 de dezembro de 2018.
+Devido à publicação da [NBS 2.0](http://www.mdic.gov.br/images/REPOSITORIO/scs/decos/NBS/Anexo_I_NBS_2.0_com_altera%C3%A7%C3%B5es_6.12.18.pdf)[^17], novos serviços[^18] derivados de complemento ou aditamento em termo de contrato, que envolva operação iniciada a partir de 1º de janeiro de 2019, não poderão ser registrados por meio de Aditivo em um RVS incluído até o dia 31 de dezembro de 2018.
 
 Neste caso, o usuário deverá incluir um novo RVS, classificando o serviço prestado[^19] de acordo com a
 [NBS 2.0](http://www.mdic.gov.br/images/REPOSITORIO/scs/decos/NBS/Anexo_I_NBS_2.0_com_altera%C3%A7%C3%B5es_6.12.18.pdf).
