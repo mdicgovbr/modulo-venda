@@ -2527,7 +2527,7 @@ a estas regras, o Sistema emitirá uma das seguintes mensagens.
 
 ![](./media/aquisicao/image133.jpeg)
 
-![](./media/aquisicao/image133.jpeg)
+![](./media/aquisicao/image133-comentada.jpeg)
 
 Em seguida, o formato do arquivo de lote é validado. Caso o arquivo
 enviado não tenha o formato esperado, a seguinte mensagem será
@@ -2556,7 +2556,7 @@ pode ser gerado ao clicar o botão **Gerar Arquivo de Retorno**. O
 formato do arquivo de retorno está descrito nas [Orientações
 Técnicas](http://desenvolvimento.gov.br/arquivos/dwnl_1336998170.pdf).
 
-![](./media/aquisicao/image132.png)
+![](./media/aquisicao/image132-destacada.png)
 
 ### 3.2. Consultar Lote
 
@@ -2588,7 +2588,7 @@ lote específico ao clicar o botão ![](./media/aquisicao/image59.png). Neste ca
 será apresentada como se o usuário consultasse o lote pelo seu número de
 protocolo.
 
-![](./media/aquisicao/image118.png)
+![](./media/aquisicao/image118-comentada.png)
 
 Os registros inseridos, retificados ou aditivados a partir de um arquivo
 de lote podem ser consultados diretamente da tela de dados, ou o usuário
@@ -2598,7 +2598,7 @@ encaminhado.
 Caso o usuário escolha consultar o lote diretamente na tela, deverá
 selecionar o número de registro apresentado.
 
-![](./media/aquisicao/image121.png)
+![](./media/aquisicao/image121-comentada.png)
 
 Os erros de formatação ou de regra de negócio indicados podem ser
 inspecionados ao se posicionar o cursor do mouse sobre o símbolo
@@ -2616,11 +2616,9 @@ Caso o lote tenha sido processado com sucesso, o arquivo de retorno
 conterá os números de registro gerados pelo Siscoserv: RAS ou RP,
 dependendo do tipo de registro incluído.
 
-O formato do arquivo de retorno está descrito nas [Orientações Técnicas
-- 3.1.8. Arquivo de
-Retorno.](http://desenvolvimento.gov.br/arquivos/dwnl_1336998170.pdf)
+O formato do arquivo de retorno está descrito nas [Orientações Técnicas - 3.1.8. Arquivo de Retorno.](http://desenvolvimento.gov.br/arquivos/dwnl_1336998170.pdf)
 
-![](./media/aquisicao/image121.png)
+![](./media/aquisicao/image121-comentada2.png)
 
 Cabe ressaltar ainda que os registros inseridos a partir de um arquivo
 de lote não podem ser editados (retificados, aditados, etc.)
@@ -2641,7 +2639,7 @@ Lote](#consultar-lote)), ao clicar o botão
 ![](./media/aquisicao/image142.png) ao lado do lote que se deseja excluir, o
 Sistema removerá definitivamente o lote da fila de processamento.
 
-![](./media/aquisicao/image118.png)
+![](./media/aquisicao/image118-comentada2.png)
 
 ### 3.4. Cumprimento de Prazos na Transferência em Lote
 
@@ -2666,11 +2664,9 @@ Siscoserv.
 O Siscoserv permite que o Usuário/Responsável pelo Registro gere os
 Relatórios Gerenciais em 3 situações distintas, a saber:
 
-a)  Usuário/Responsável pelo Registro representa uma Pessoa Jurídica;
-
-b)  Usuário/Responsável pelo Registro representa Pessoa Física; e
-
-c)  Usuário/Responsável pelo Registro é o Próprio Vendedor.
+> a) Usuário/Responsável pelo Registro representa uma Pessoa Jurídica;  
+> b) Usuário/Responsável pelo Registro representa Pessoa Física; e  
+> c) Usuário/Responsável pelo Registro é o Próprio Vendedor.  
 
 O **Usuário/Responsável pelo Registro** é que detém o e-CPF e/ou a
 procuração eletrônica da Pessoa Jurídica ou da Pessoa Física e é o
@@ -2693,34 +2689,26 @@ opções possíveis aquelas que deseja e clica em "Gerar Relatório".
 
 Podem ser selecionadas as seguintes opções:
 
-**Agrupamento:**
+**Agrupamento:**  
+\- CNPJ de 14 posições: para gerar o relatório de apenas uma empresa do Grupo; ou  
+\- CNPJ de 8 posições: para gerar relatório contendo todas as empresas do mesmo Grupo. Este tipo de consulta está disponível apenas para CNPJ de natureza matriz, que terá acesso aos registros da própria matriz e de suas filiais.  
 
-\- CNPJ de 14 posições: para gerar o relatório de apenas uma empresa do
-Grupo; ou
-
-\- CNPJ de 8 posições: para gerar relatório contendo todas as empresas
-do mesmo Grupo. Este tipo de consulta está
-disponível apenas para CNPJ de natureza matriz, que terá acesso aos
-registros da própria matriz e de suas filiais.
-
-**Opção de registros efetuados no Sistema:**
-
+**Opção de registros efetuados no Sistema:**  
 \- RAS ou RP: serão disponibilizados todos os registros efetuados no
 período de 1 ano. As informações sobre os RAS aparecem em uma planilha e
 as informações sobre os RP em outra.
 
-**Período para geração do relatório:**
-
+**Período para geração do relatório:**  
 \- Selecionar o período das informações desejadas, que não deve ser
 superior a 1 ano.
 
-- Consulta disponível para **matriz**:
+\- Consulta disponível para **matriz**:
 
 ![](./media/aquisicao/image145.jpeg)
 
-- Consulta disponível para **filial**:
+\- Consulta disponível para **filial**:
 
-![](./media/aquisicao/image145.jpeg) ![](./media/aquisicao/image145.jpeg)
+![](./media/aquisicao/image145-b.jpeg)
 
 O sistema gera uma Planilha Excel com todos os dados de RAS ou RP
 vinculados para o período selecionado.
@@ -2866,16 +2854,12 @@ opções possíveis, aquelas que deseja e clica em "Gerar Relatório".
 
 Podem ser selecionadas as seguintes opções:
 
-**Opção de registros efetuados no Sistema:**
+**Opção de registros efetuados no Sistema:**   
+\- RAS ou RP: serão disponibilizados todos os registros efetuados no período de 1 ano. As informações sobre os RAS aparecem em uma planilha e as operações sobre os RP em outra.   
 
-\- RAS ou RP: serão disponibilizados todos os registros efetuados no
-período de 1 ano. As informações sobre os RAS aparecem em uma planilha e
-as operações sobre os RP em outra.
 
-**Data para geração do relatório:**
-
-\- Selecionar o período das informações desejadas, que não deve ser
-superior a 1 ano.
+**Data para geração do relatório:**   
+\- Selecionar o período das informações desejadas, que não deve ser superior a 1 ano.   
 
 ![](./media/aquisicao/image149.jpeg)
 
@@ -2904,16 +2888,11 @@ opções possíveis, aquelas que deseja e clica em "Gerar Relatório".
 
 Podem ser selecionadas as seguintes opções:
 
-**Opção de registros efetuados no Sistema:**
+**Opção de registros efetuados no Sistema:**  
+\- RAS ou RP: serão disponibilizados todos os registros efetuados no período de 1 ano. As informações sobre os RAS aparecem em uma planilha e as operações sobre os RP em outra.  
 
-\- RAS ou RP: serão disponibilizados todos os registros efetuados no
-período de 1 ano. As informações sobre os RAS aparecem em uma planilha e
-as operações sobre os RP em outra.
-
-**Data para geração do relatório:**
-
-\- Selecionar o período das informações desejadas, que não deve ser
-superior a 1 ano.
+**Data para geração do relatório:**  
+\- Selecionar o período das informações desejadas, que não deve ser superior a 1 ano.  
 
 ![](./media/aquisicao/image151.jpeg)
 
@@ -2964,7 +2943,7 @@ aos casos que não foram aqui descritos.
 > Eᴮᴿ -- AgCᴮᴿ: Exportador brasileiro contrata Agente de Cargas
 > residente ou domiciliado no Brasil para que, **em nome de Exportador
 > brasileiro**, contrate o transporte marítimo das mercadorias até o
-> local indicado pelo Importador residente ou domiciliado no Exterior~.~
+> local indicado pelo Importador residente ou domiciliado no Exterior.
 >
 > AgCᴮᴿ -- Tₑₓ: Agente de Cargas residente ou domiciliado no Brasil
 > contrata Transportador residente ou domiciliado no Exterior, **em nome
