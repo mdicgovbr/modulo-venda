@@ -144,7 +144,7 @@ despesas incorridos para a efetiva prestação desses serviços. Neste
 registro são solicitados os seguintes dados: a data de pagamento, o
 valor pago (valor parcial ou total do contrato, expresso na moeda
 informada no RAS), o [valor pago com recursos mantidos no
-exterior](#valormantidonoexterior), número do documento que comprove o
+exterior](/glossario#valor-mantido-no-exterior), número do documento que comprove o
 [pagamento](#Pagamento) realizado (inclusive notas de despesas), bem
 como outros elementos pertinentes.
 
@@ -2025,7 +2025,7 @@ Pagar** para cada operação, referente ao RAS selecionado**.**
 > no ícone **Calendário**;
 >
 > d\) inserir o valor pago, o [valor pago com recurso mantido no
-> exterior](#valormantidonoexterior), se for o caso, e clicar no botão
+> exterior](/glossario#valor-mantido-no-exterior), se for o caso, e clicar no botão
 > **Adicionar Dado**. Caso haja outra operação a pagar no mesmo RAS, com a
 > mesma data e referente ao mesmo documento que comprove o pagamento,
 > acionar o botão ![](./media/aquisicao/image59.png) ao lado da operação desejada para incluir
