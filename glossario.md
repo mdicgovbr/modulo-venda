@@ -97,15 +97,15 @@ Considera-se residente no Brasil a pessoa física (Lei n° 9.718, de 27 de novem
 >
 > III - que ingresse no Brasil:
 >
-> a\) com visto permanente, na data da chegada;
->
-> b\) com visto temporário:
->
-> 1\. para trabalhar com vínculo empregatício, na data da chegada;
->
-> 2\. na data em que complete 184 dias, consecutivos ou não, de permanência no Brasil, dentro de um período de até doze meses;
->
-> 3\. na data da obtenção de visto permanente ou de vínculo empregatício, se ocorrida antes de completar 184 dias, consecutivos ou não, de permanência no Brasil, dentro de um período de até doze meses;
+>> a\) com visto permanente, na data da chegada;
+>>
+>> b\) com visto temporário:
+>>
+>>> 1\. para trabalhar com vínculo empregatício, na data da chegada;
+>>>
+>>> 2\. na data em que complete 184 dias, consecutivos ou não, de permanência no Brasil, dentro de um período de até doze meses;
+>>>
+>>> 3\. na data da obtenção de visto permanente ou de vínculo empregatício, se ocorrida antes de completar 184 dias, consecutivos ou não, de permanência no Brasil, dentro de um período de até doze meses;
 >
 > IV - brasileira que adquiriu a condição de não residente no Brasil e retorne ao País com ânimo definitivo, na data da chegada;
 >
