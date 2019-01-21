@@ -76,7 +76,7 @@ São exemplos:
 >
 > \- Arrendamento mercantil operacional, código NBS 1.1101 e 1.1102;
 >
-> \- Contratos de franquias, código NBS 1.1110.30.00; e
+> \- Contratos de franquias, código NBS 1.1110.00.00; e
 >
 > \- Fomento comercial (*factoring),* código NBS 1.0908.00.00.
 
