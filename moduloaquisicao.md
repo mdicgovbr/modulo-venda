@@ -15,7 +15,7 @@ title: Módulo Aquisição
 ## 1. Introdução
 
 O Sistema Integrado de Comércio Exterior de Serviços,
-[Intangíveis](#Intangível) e Outras Operações que Produzam Variações no
+[Intangíveis](/glossario#intang%C3%ADvel) e Outras Operações que Produzam Variações no
 Patrimônio (Siscoserv) é um sistema informatizado, desenvolvido pelo
 Governo Federal como ferramenta para o aprimoramento das ações de
 estímulo, formulação, acompanhamento e aferição das políticas públicas
@@ -52,15 +52,15 @@ A prestação de informação no Siscoserv observa as normas complementares esta
 O Siscoserv conta com dois Módulos: **Venda e Aquisição**.
 
 No **Módulo Venda** devem ser registrados os serviços,
-[intangíveis](#Intangível) e [outras operações que produzam variações no
-patrimônio](#Outrasoperações), vendidos por [residentes](#residente) ou
+[intangíveis](/glossario#intang%C3%ADvel) e [outras operações que produzam variações no
+patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio), vendidos por [residentes](/glossario#residente-no-brasil) ou
 domiciliados no País a residentes ou domiciliados no exterior. Este
 módulo abrange também o registro das operações realizadas por meio de
 presença comercial no exterior.
 
 No **Módulo Aquisição** devem ser registrados os serviços,
-[intangíveis](#Intangível) e [outras operações que produzam variações no
-patrimônio](#Outrasoperações), adquiridos por [residentes](#residente)
+[intangíveis](/glossario#intang%C3%ADvel) e [outras operações que produzam variações no
+patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio), adquiridos por [residentes](/glossario#residente-no-brasil)
 ou domiciliados no País, de residentes ou domiciliados no exterior.
 
 Para maiores informações sobre o Modulo Venda acesse:
@@ -72,29 +72,27 @@ Para maiores informações sobre o Modulo Venda acesse:
 No Módulo Aquisição do Siscoserv estão previstos os seguintes registros:
 
 \- Registro de Aquisição de Serviços (RAS): contém dados referentes à
-aquisição, por [residente](#residente) ou domiciliado no País, de
-serviços, [intangíveis](#Intangível) e [outras operações que produzam
-variações no patrimônio](#Variações), de residente ou domiciliado no
-exterior; e
+aquisição, por [residente](/glossario#residente-no-brasil) ou domiciliado no País, de
+serviços, [intangíveis](/glossario#intang%C3%ADvel) e [outras operações que produzam
+variações no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio), de residente ou domiciliado no exterior; e
 
-\- Registro de Pagamento (RP): contém dados referentes ao pagamento
-relativo à aquisição objeto de prévio RAS.
+\- Registro de Pagamento (RP): contém dados referentes ao pagamento relativo à aquisição objeto de prévio RAS.
 
 ### 4.1. O Registro de Aquisição de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RAS)
 
-O Registro de Aquisição de Serviços, [Intangíveis](#Intangível) e
-[Outras Operações que Produzam Variações no Patrimônio](#Variações)
+O Registro de Aquisição de Serviços, [Intangíveis](/glossario#intang%C3%ADvel) e
+[Outras Operações que Produzam Variações no Patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio)
 (RAS) serve para informar a aquisição realizada por
-[residentes](#residentenoBrasil) ou domiciliados no País de residentes
+[residentes](/glossario#residente-no-brasil) ou domiciliados no País de residentes
 ou domiciliados no exterior.
 
 Estão obrigados a registrar as informações no Sistema aqueles
 relacionados no
-[item](#quem-deve-efetuar-registro-no-siscoserv-módulo-aquisição) 5 e
+[item](#5-quem-deve-efetuar-registro-no-siscoserv--módulo-aquisição) 5 e
 dispensados de registro aqueles relacionados no item 6.
 
 A obrigação de registro não se estende às transações envolvendo serviços
-e [intangíveis](#Intangível) incorporados aos bens e mercadorias
+e [intangíveis](/glossario#intang%C3%ADvel) incorporados aos bens e mercadorias
 importados, registrados no Sistema Integrado de Comércio Exterior -
 Siscomex.
 
@@ -104,7 +102,7 @@ mercadorias, serão objeto de registro no Siscoserv, por não serem
 incorporados aos bens e mercadorias.
 
 Cada RAS destina-se a apenas um contrato de prestação de serviços[^1].
-Cada contrato pode conter uma ou mais [operações](#operação) em um mesmo
+Cada contrato pode conter uma ou mais [operações](/glossario#opera%C3%A7%C3%A3o) em um mesmo
 RAS, desde que todas as operações sejam cursadas com o mesmo vendedor.
 
 Caso o contrato envolva mais de um vendedor deve ser registrado um RAS
@@ -116,13 +114,13 @@ vendedores.
 As operações de prestação de serviços previstas em contratos de garantia
 de aquisição de bens e serviços[^2], realizadas com residentes e
 domiciliados no exterior devem ser registradas quando ensejarem
-[pagamento](#Pagamento).
+[pagamento](/glossario#pagamento).
 
 #### 4.1.1. Prazo para o RAS
 
 O prazo para incluir o RAS é até o último dia útil do 3°
 (terceiro) mês subsequente à [data de início da prestação de
-serviço](#datainicio)[^3]
+serviço](/glossario#data-de-in%C3%ADcio-da-presta%C3%A7%C3%A3o-de-servi%C3%A7o)[^3]
 
 ![](./media/aquisicao/image3.jpeg)
 ![](./media/aquisicao/image4.png)
@@ -138,30 +136,30 @@ ou da realização de operação que produza variação no patrimônio.
 -------------------------------
 
 O RP do Siscoserv complementa o RAS com informações relativas ao
-[pagamento](#Pagamento) a residentes ou domiciliados no exterior, pela
+[pagamento](/glossario#pagamento) a residentes ou domiciliados no exterior, pela
 aquisição de serviços[^4], bem como o pagamento dos demais custos e
 despesas incorridos para a efetiva prestação desses serviços. Neste
 registro são solicitados os seguintes dados: a data de pagamento, o
 valor pago (valor parcial ou total do contrato, expresso na moeda
 informada no RAS), o [valor pago com recursos mantidos no
 exterior](/glossario#valor-mantido-no-exterior), número do documento que comprove o
-[pagamento](#Pagamento) realizado (inclusive notas de despesas), bem
+[pagamento](/glossario#pagamento) realizado (inclusive notas de despesas), bem
 como outros elementos pertinentes.
 
 #### 4.2.1. Prazos para o RP 
 
 Para o registro de pagamento, há dois prazos possíveis, dependendo da data de pagamento:
 
-   1\) quando  o  pagamento  ocorrer depois da [inclusão  do  RAS](#),  o  usuário  deve  efetuar  o  RP até **o último dia útil do ês subsequente** ao do pagamento.   
+   1\) quando  o  pagamento  ocorrer depois da [inclusão  do  RAS](#21-inclus%C3%A3o-do-ras),  o  usuário  deve  efetuar  o  RP até **o último dia útil do ês subsequente** ao do pagamento.   
 
-   Cabe observar que o prazo de inclusão do RAS deve ser respeitado, conforme previsto no item [4.1.1 Prazo para o RAS](#prazo-para-o-ras).  
+   Cabe observar que o prazo de inclusão do RAS deve ser respeitado, conforme previsto no item [4.1.1 Prazo para o RAS](#411-prazo-para-o-ras).  
 
    
    ![](/media/aquisicao/image-158.png)   
 
    2\) quando o pagamento ocorrer **antes** da inclusão do RAS , o usuário deve efetuar o RP até **o último dia útil do mês subsequente ao de inclusão desse RAS**.
 
-   Cabe observar que o prazo de inclusão do RAS deve ser respeitado, conforme previsto no item [4.1.1 Prazo para o RAS](#prazo-para-o-ras).  
+   Cabe observar que o prazo de inclusão do RAS deve ser respeitado, conforme previsto no item [4.1.1 Prazo para o RAS](#411-prazo-para-o-ras).  
 
    ![](/media/aquisicao/image-159.png)   
 
@@ -172,14 +170,14 @@ Para o registro de pagamento, há dois prazos possíveis, dependendo da data de 
 
 A operação cuja data de conclusão não seja conhecida por ocasião do seu
 registro, em razão de não ter sido pactuada entre as partes, pode ser
-objeto de registros periódicos, conforme [itens 2.1](#inclusão-do-ras)
-(Inclusão do RAS) ou [2.1.1](#inclusão-de-aditivo-ao-ras) (Inclusão de
+objeto de registros periódicos, conforme [itens 2.1](#21-inclus%C3%A3o-do-ras)
+(Inclusão do RAS) ou [2.1.1](#211-inclus%C3%A3o-de-aditivo-ao-ras) (Inclusão de
 Aditivo ao RAS) do Capítulo 2 deste Manual. Nesse caso, a data de início
 e a data de conclusão devem ser indicadas dentro do mesmo
 ano-calendário. Posteriormente, a data de conclusão pode ser ajustada,
 mediante retificação, conforme descrito nos itens
-[2.1.2](#retificação-do-ras) (Retificação do RAS) ou
-[2.1.3](#retificação-do-aditivo-ao-ras) (Retificação do Aditivo ao RAS)
+[2.1.2](#212-retifica%C3%A7%C3%A3o-do-ras) (Retificação do RAS) ou
+[2.1.3](#213-retifica%C3%A7%C3%A3o-do-aditivo-ao-ras) (Retificação do Aditivo ao RAS)
 do Capítulo 2 deste Manual.
 
 #### 4.3.2. Operação iniciada sem que o valor esteja definido
@@ -188,8 +186,8 @@ A operação cujo valor não seja conhecido por ocasião do seu registro, em
 função de sua apuração só puder ocorrer após a efetiva prestação do
 serviço, pode ser registrada pelo seu valor estimado. Posteriormente, o
 valor deve ser ajustado, mediante retificação, conforme descrito nos
-itens [2.1.2](#retificação-do-ras) ou
-[2.1.3](#retificação-do-aditivo-ao-ras) do Capítulo 2 deste Manual.
+itens [2.1.2](#212-retifica%C3%A7%C3%A3o-do-ras) ou
+[2.1.3](#213-retifica%C3%A7%C3%A3o-do-aditivo-ao-ras) do Capítulo 2 deste Manual.
 
 #### 4.3.3. Operação envolvendo gastos pessoais no exterior por pessoas físicas residentes no Brasil
 
@@ -225,12 +223,12 @@ III -- Número do Documento, inserir a expressão: "DIVERSOS".
 ## 5. Quem deve efetuar registro no Siscoserv -- Módulo Aquisição
 
 Estão obrigados a registrar as informações no Sistema - Módulo
-Aquisição, os [residentes](#residentenoBrasil) ou domiciliados no Brasil
+Aquisição, os [residentes](/glossario#residente-no-brasil) ou domiciliados no Brasil
 que realizem, com residentes ou domiciliados no exterior,
-[operações](#operaçao) de aquisição de serviços,
-[intangíveis](#Intangível) e [outras operações que produzam variações no
-patrimônio](#Variações) das pessoas físicas, das pessoas jurídicas ou
-dos [entes despersonalizados](#entedespersonalizado), inclusive
+[operações](/glossario#opera%C3%A7%C3%A3o) de aquisição de serviços,
+[intangíveis](/glossario#intang%C3%ADvel) e [outras operações que produzam variações no
+patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio) das pessoas físicas, das pessoas jurídicas ou
+dos [entes despersonalizados](/glossario#ente-despersonalizado), inclusive
 operações de importação de serviços.
 
 Estão obrigados a efetuar registro no Módulo Aquisição do Siscoserv:
@@ -243,9 +241,9 @@ intelectual, por meio de cessão, concessão, licenciamento ou por
 quaisquer outros meios admitidos em direito; e
 
 III - a pessoa física ou jurídica ou o responsável legal do [ente
-despersonalizado](#entedespersonalizado), residente ou domiciliado no
+despersonalizado](/glossario#ente-despersonalizado), residente ou domiciliado no
 Brasil, que realize [outras operações que produzam variações no
-patrimônio](#Variações).
+patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio).
 
 Para fins do Módulo Aquisição do Siscoserv, são considerados prestadores
 de serviço os residentes ou domiciliados no exterior que faturam os
@@ -270,25 +268,17 @@ São exemplos de gastos pessoais a aquisição de refeições, hospedagem e
 locomoção no exterior em viagens de negócios, de treinamento, missões
 oficiais, participação em congressos, feiras e conclaves.
 
-Também devem ser registradas as [operações](#operação) de aquisição de serviços[^7] iniciadas e não concluídas antes das datas constantes do Anexo Único da Portaria Conjunta RFB/SCS no 1.908, de 19 de julho de 2012. Para essas operações deve ser registrada como data de início, aquela indicada no retrocitado Anexo Único, por capítulo da NBS. Caso haja saldo a pagar, deve ser indicado como valor da operação, o saldo remanescente a pagar. Nos casos em que o pagamento tenha ocorrido integralmente antes da data indicada no anexo, deve ser registrado o valor proporcional da operação correspondente ao período remanescente da prestação do serviço[^8], justificando o valor registrado no campo **Informações Complementares**.
+Também devem ser registradas as [operações](/glossario#opera%C3%A7%C3%A3o) de aquisição de serviços[^7] iniciadas e não concluídas antes das datas constantes do Anexo Único da Portaria Conjunta RFB/SCS no 1.908, de 19 de julho de 2012. Para essas operações deve ser registrada como data de início, aquela indicada no retrocitado Anexo Único, por capítulo da NBS. Caso haja saldo a pagar, deve ser indicado como valor da operação, o saldo remanescente a pagar. Nos casos em que o pagamento tenha ocorrido integralmente antes da data indicada no anexo, deve ser registrado o valor proporcional da operação correspondente ao período remanescente da prestação do serviço[^8], justificando o valor registrado no campo **Informações Complementares**.
 
-Caso tenha ocorrido o pagamento integral antes das datas constantes do
-Anexo Único da Portaria Conjunta RFB/SCS n° 1.908, de 19
-de julho de 2012, e não tenha sido iniciada a prestação do serviço[^9],
-o registro de pagamento obedece ao [item 2.2 do Capítulo 2 deste
-Manual](#inclusão-do-rp).
+Caso tenha ocorrido o pagamento integral antes das datas constantes do Anexo Único da Portaria Conjunta RFB/SCS n° 1.908, de 19 de julho de 2012, e não tenha sido iniciada a prestação do serviço[^9], o registro de pagamento obedece ao [item 2.2 do   pítulo 2 deste Manual](#22-inclus%C3%A3o-do-rp).
 
 Em qualquer dos casos, a **Data** constante dos **Dados do RP** deve ser
-aquela em que ocorreu o [pagamento](#Pagamento).
-
-As [operações](#Operação) iniciadas e concluídas antes das datas
-constantes do Anexo Único não devem ser registradas, independentemente
-de terem sido ou não pagas.
+aquela em que ocorreu o [pagamento](/glossario#pagamento).  As [operações](/glossario#opera%C3%A7%C3%A3o) iniciadas e concluídas antes das datas constantes do Anexo Único não devem ser registradas, independentemente de terem sido ou não pagas.
 
 Não podem ser registradas operações previamente ao [início da prestação
-do serviço](#datainicio), da transferência do [intangível](#Intangível)
+do serviço](/glossario#data-de-in%C3%ADcio-da-presta%C3%A7%C3%A3o-de-servi%C3%A7o), da transferência do [intangível](/glossario#intang%C3%ADvel)
 ou da realização de [outra operação que produza variação no
-patrimônio](#Variações).
+patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio).
 
 A responsabilidade pelos registros RAS/RP no Módulo Aquisição do
 Siscoserv é do residente ou domiciliado no País que mantenha relação
@@ -298,40 +288,12 @@ subcontratação de residente ou domiciliado no País ou no exterior.
 
 Exemplos:
 
-\(1) Empresa (A) domiciliada no Brasil mantém relação contratual, em que
-é tomadora de serviço, com empresa (B) domiciliada no exterior, e por
-esta é faturada pela prestação de serviço. A empresa (B) subcontrata
-empresa (C) domiciliada no Brasil para prestação parcial ou integral de
-serviço pertinente à relação contratual de (A) com (B). A empresa (A)
-deve proceder aos registros RAS e RP no Módulo Aquisição do Siscoserv,
-no modo de prestação em que o serviço for prestado por (B) ([Modo 1 --
-Comércio Transfronteiriço](#Modo1), [Modo 2 -- Consumo no
-Exterior](#Modo2) ou [Modo 4 -- Movimento Temporário de Pessoas
-Físicas](#Modo4)). Além disso, a empresa (C) deve proceder aos registros
-RVS e RF no Módulo Venda do Siscoserv, no modo de prestação em que o
-serviço for prestado a (B).
+\(1) Empresa (A) domiciliada no Brasil mantém relação contratual, em que é tomadora de serviço, com empresa (B) domiciliada no exterior, e por esta é faturada pela prestação de serviço. A empresa (B) subcontrata empresa (C) domiciliada no Brasil para prestação parcial ou integral de serviço pertinente à relação contratual de (A) com (B). A empresa (A) deve proceder aos registros RAS e RP no Módulo Aquisição do Siscoserv, no modo de prestação em que o serviço for prestado por (B) ([Modo 1 -- Comércio Transfronteiriço](#modo-1---com%C3%A9rcio-transfronteiri%C3%A7o), [Modo 2 -- Consumo no Exterior](#modo-2---consumo-no-exterior) ou [Modo 4 -- Movimento Temporário de Pessoas Físicas](#modo-4---movimento-tempor%C3%A1rio-de-pessoas-f%C3%ADsicas)). Além disso, a empresa (C) deve proceder aos registros RVS e RF no Módulo Venda do Siscoserv, no modo de prestação em que o serviço for prestado a (B).
 
-\(2) Empresa (A) domiciliada no Brasil mantém relação contratual, em que
-é tomadora de serviço, com empresa também domiciliada no Brasil (B) e
-por esta é faturada pela prestação de serviço. A empresa (B) subcontrata
-empresa (C) domiciliada no exterior para prestação parcial ou integral
-de serviço pertinente à relação contratual de (A) com (B). A empresa (B)
-deve proceder aos registros RAS e RP no Módulo Aquisição do Siscoserv,
-no modo de prestação em que o serviço for prestado por (C) ([Modo 1 --
-Comércio Transfronteiriço](#Modo1), [Modo 2 -- Consumo no
-Exterior](#Modo2) ou [Modo 4 -- Movimento Temporário de Pessoas
-Físicas](#Modo4)). A empresa (A) não deve proceder aos registros no
-Módulo Aquisição do Siscoserv quanto a sua relação contratual com (B),
-pois ambas são domiciliadas no Brasil. Além disso, como não há relação
-contratual entre (A) e (C), não há registros no Siscoserv adicionais a
+\(2) Empresa (A) domiciliada no Brasil mantém relação contratual, em que é tomadora de serviço, com empresa também domiciliada no Brasil (B) e por esta é faturada pela prestação de serviço. A empresa (B) subcontrata empresa (C) domiciliada no exterior para prestação parcial ou integral de serviço pertinente à relação contratual de (A) com (B). A empresa (B) deve proceder aos registros RAS e RP no Módulo Aquisição do Siscoserv, no modo de prestação em que o serviço for prestado por (C) ([Modo 1 -- Comércio Transfronteiriço](#modo-1---com%C3%A9rcio-transfronteiri%C3%A7o), [Modo 2 -- Consumo no Exterior](#modo-2---consumo-no-exterior) ou [Modo 4 -- Movimento Temporário de Pessoas Físicas](#modo-4---movimento-tempor%C3%A1rio-de-pessoas-f%C3%ADsicas)). A empresa (A) não deve proceder aos registros no Módulo Aquisição do Siscoserv quanto a sua relação contratual com (B), pois ambas são domiciliadas no Brasil. Além disso, como não há relação contratual entre (A) e (C), não há registros no Siscoserv adicionais a
 serem feitos.
 
-\(3) Empresa (A) domiciliada no Brasil mantém relação contratual, em que
-é tomadora de serviço, com empresa (B) domiciliada no exterior, mediante
-movimentação temporária de profissionais e por esta é faturada pela
-prestação de serviço. A empresa (A) deve proceder aos registros RAS e RP
-no Módulo Aquisição do Siscoserv em [Modo 4 -- Movimento Temporário de
-Pessoa Física](#Modo4), em relação a essa operação.
+\(3) Empresa (A) domiciliada no Brasil mantém relação contratual, em que é tomadora de serviço, com empresa (B) domiciliada no exterior, mediante movimentação temporária de profissionais e por esta é faturada pela prestação de serviço. A empresa (A) deve proceder aos registros RAS e RP no Módulo Aquisição do Siscoserv em [Modo 4 -- Movimento Temporário de Pessoa Física](#modo-4---movimento-tempor%C3%A1rio-de-pessoas-f%C3%ADsicas), em relação a essa operação.
 
 ## 6. Quem está dispensado de efetuar registro no Siscoserv -- Módulo Aquisição
 
@@ -356,15 +318,7 @@ América), ou o equivalente em outra moeda, no mês.
 
 ## 7. Cronograma de registro das informações 
 
-O Registro de Aquisição de Serviços, [Intangíveis](#Intangível) e
-[Outras Operações que Produzam Variações no Patrimônio](#Variações)
-(RAS) e o Registro de Pagamento (RP) obedeceram, no momento da
-implantação do Siscoserv, ao cronograma, que tem por base a Nomenclatura
-Brasileira de Serviços, Intangíveis e Outras Operações que Produzam
-Variações no Patrimônio -- NBS, conforme previsto no §
-5° do art. 6° da [Portaria Conjunta
-RFB/SCS n° 1.908, de 19 de julho de
-2012](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012).
+O Registro de Aquisição de Serviços, [Intangíveis](/glossario#intang%C3%ADvel) e [Outras Operações que Produzam Variações no Patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio) (RAS) e o Registro de Pagamento (RP) obedeceram, no momento da implantação do Siscoserv, ao cronograma, que tem por base a Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio -- NBS, conforme previsto no § 5° do art. 6° da [Portaria Conjunta RFB/SCS n° 1.908, de 19 de julho de 2012](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012).
 
 ## 8. Modos de Prestação de Serviços - Módulo Aquisição
 
@@ -376,14 +330,14 @@ modos de prestação são os seguintes:
 ### Modo 1 - Comércio Transfronteiriço
 
 Serviço adquirido do território de um país ao território de outro país, por
-[residente](#residente) ou domiciliado no Brasil e prestado por
+[residente](/glossario#residente-no-brasil) ou domiciliado no Brasil e prestado por
 residente ou domiciliado no exterior.
 
 Exemplos:
 
 -   serviço adquirido via Internet por empresa brasileira de empresa domiciliada no exterior;
 
--   serviços de corretagem de ações prestados a cliente domiciliado ou [residente no Brasil](#residentenoBrasil) efetuados por empresa corretora domiciliada no exterior;
+-   serviços de corretagem de ações prestados a cliente domiciliado ou [residente no Brasil](/glossario#residente-no-brasil) efetuados por empresa corretora domiciliada no exterior;
 
 -   serviços de projeto e desenvolvimento de estruturas e conteúdo de páginas eletrônicas realizados no exterior para cliente residente ou domiciliado no Brasil;
 
@@ -442,7 +396,7 @@ legislação pertinente ao Siscoserv e neste Manual.
 ### Modo 4 - Movimento temporário de pessoas físicas
 
 Residentes no exterior deslocam-se por tempo limitado ao Brasil com
-vistas a prestar um serviço à [residente](#residentenoBrasil) ou
+vistas a prestar um serviço à [residente](/glossario#residente-no-brasil) ou
 domiciliado no Brasil.
 
 Exemplos:
@@ -455,26 +409,16 @@ Exemplos:
 
 ![](./media/aquisicao/image8.jpeg)
 
-Devem registrar [operações](#operaçao) em Modo 4 no Módulo Aquisição do
+Devem registrar [operações](/glossario#opera%C3%A7%C3%A3o) em Modo 4 no Módulo Aquisição do
 Siscoserv as pessoas físicas ou jurídicas
-[residentes](#residentenoBrasil) ou domiciliadas no Brasil, quando a
+[residentes](/glossario#residente-no-brasil) ou domiciliadas no Brasil, quando a
 aquisição de serviço ensejar o deslocamento temporário de pessoa(s)
 física(s) residente(s) no exterior com vistas a prestar um serviço no
 Brasil, exceto quando se estabelecer vínculo empregatício no Brasil.
 
 ## 9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS)
 
-O registro de
-[operações](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Operação)
-no Siscoserv será realizado de acordo com a [Nomenclatura Brasileira de
-Serviços, Intangíveis e Outras Operações que Produzam Variações no
-Patrimônio
-(NBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13)
-e pelas respectivas [Notas Explicativas
-(NEBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13),
-aprovadas pelo [Decreto n° 7.708, de 2 de abril de
-2012](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm),
-e Portarias Conjuntas RFB/SCS que atualizam a Nomenclatura.
+O registro de [operações](/glossario#opera%C3%A7%C3%A3o) no Siscoserv será realizado de acordo com a [Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13) e pelas respectivas [Notas Explicativas (NEBS)](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13), aprovadas pelo [Decreto n° 7.708, de 2 de abril de 2012](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm), e Portarias Conjuntas RFB/SCS que atualizam a Nomenclatura.
 
 A prestação de serviços[^12] iniciada até 31 de dezembro de 2018 deve
 ser registrada tendo por base a NBS 1.1, publicada pela
@@ -490,27 +434,15 @@ que produz efeitos a partir de 1º de janeiro de 2019.
 Esse registro deverá observar as seguintes regras gerais para
 interpretação da NBS:
 
-**Regra 1.** Os títulos das Seções e Capítulos têm apenas valor
-indicativo. Para os efeitos legais, a classificação do serviço,
-[intangível](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Intangível)
-ou [outra operação que produza variação no
-patrimônio](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Outrasoperações)
-é determinada pelos textos das posições e das Notas de Seção e de
-Capítulo quando houver e, desde que não sejam contrárias aos textos das
-referidas posições e Notas, pelas Regras seguintes.
+**Regra 1.** Os títulos das Seções e Capítulos têm apenas valor indicativo. Para os efeitos legais, a classificação do serviço, [intangível](/glossario#intang%C3%ADvel) ou [outra operação que produza variação no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio) é determinada pelos textos das posições e das Notas de Seção e de Capítulo quando houver e, desde que não sejam contrárias aos textos das referidas posições e Notas, pelas Regras seguintes.
 
-**Regra 2.** Quando aparentar que o serviço,
-[intangível](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Intangível)
-ou [outra operação que produza
-variações](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Outrasoperações)
-no patrimônio pode ser classificado em duas ou mais posições, a
-classificação efetuar-se-á da seguinte forma:
+**Regra 2.** Quando aparentar que o serviço, [intangível](/glossario#intang%C3%ADvel) ou [outra operação que produza variações](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio) no patrimônio pode ser classificado em duas ou mais posições, a classificação efetuar-se-á da seguinte forma:
 
-> **2a)** A posição mais específica prevalece sobre a mais genérica. Todavia, quando duas ou mais posições se referirem, cada uma delas, a apenas um dos serviços, [intangíveis](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Intangível) ou [outras operações que produzam variações no patrimônio](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Outrasoperações) que constituam o objeto a ser classificado, tais posições devem ser consideradas como igualmente específicas, ainda que uma dessas posições apresente uma descrição mais precisa ou completa desse objeto.
+> **2a)** A posição mais específica prevalece sobre a mais genérica. Todavia, quando duas ou mais posições se referirem, cada uma delas, a apenas um dos serviços, [intangíveis](/glossario#intang%C3%ADvel) ou [outras operações que produzam variações no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio) que constituam o objeto a ser classificado, tais posições devem ser consideradas como igualmente específicas, ainda que uma dessas posições apresente uma descrição mais precisa ou completa desse objeto.
 
-> **2b)** Quando a Regra **2a)** não permitir efetuar a classificação, o serviço, intangível ou [outra operação que produza variações no patrimônio](#Outrasoperações) classificar-se-á na posição situada em último lugar na ordem numérica, dentre as suscetíveis de serem consideradas válidas.
+> **2b)** Quando a Regra **2a)** não permitir efetuar a classificação, o serviço, intangível ou [outra operação que produza variações no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio) classificar-se-á na posição situada em último lugar na ordem numérica, dentre as suscetíveis de serem consideradas válidas.
 
-**Regra 3.** A classificação de serviços, intangíveis e [outras operações que produzam variações no patrimônio](file:///F:\Propostas%20para%20novas%20funcionalidades.doc#Outrasoperações) nas subposições de uma mesma posição é determinada, para efeitos legais, pelos textos dessas subposições e, quando houver, das Notas de Subposição respectivas, assim como, \"*mutatis mutandis*\", pelas Regras precedentes, entendendo-se que apenas são comparáveis subposições do mesmo nível. Para os fins da presente Regra, as Notas de Seção e de Capítulo são também aplicáveis, salvo disposições em contrário.
+**Regra 3.** A classificação de serviços, intangíveis e [outras operações que produzam variações no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio) nas subposições de uma mesma posição é determinada, para efeitos legais, pelos textos dessas subposições e, quando houver, das Notas de Subposição respectivas, assim como, \"*mutatis mutandis*\", pelas Regras precedentes, entendendo-se que apenas são comparáveis subposições do mesmo nível. Para os fins da presente Regra, as Notas de Seção e de Capítulo são também aplicáveis, salvo disposições em contrário.
 
 **Regra 4.** As Regras anteriores aplicar-se-ão, \"*mutatis mutandis*\",
 para determinar dentro de cada posição ou subposição, o item aplicável
@@ -523,9 +455,9 @@ No contexto do Siscoserv e da Nomenclatura Brasileira de Serviços, são exemplo
 serviços de concessão de crédito; serviços de pesquisa e desenvolvimento; serviços de consultoria; serviços de auditoria;
 serviços de gerenciamento de redes; serviços fotográficos; serviços de arquitetura e serviços de saúde humana.
 
-2\) [Intangíveis](#intangivel): licenciamento de direitos de autor e direitos conexos; licenciamento de direitos sobre a propriedade industrial; cessão de direitos de autor e direitos conexos; cessão de direitos sobre a propriedade industrial.
+2\) [Intangíveis](/glossario#intang%C3%ADvel): licenciamento de direitos de autor e direitos conexos; licenciamento de direitos sobre a propriedade industrial; cessão de direitos de autor e direitos conexos; cessão de direitos sobre a propriedade industrial.
 
-3\) [Outras operações que produzam variações no patrimônio](#outras_operacoes_que_produzam_variacoes_de_patrimonio): fornecimento de refeições;
+3\) [Outras operações que produzam variações no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio): fornecimento de refeições;
 fornecimento de bebidas em bares, cervejarias e outros e arrendamento mercantil financeiro de máquinas e equipamentos.
 
 O usuário deve informar o código de acordo com a Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS).
@@ -642,9 +574,9 @@ informação deve ser registrada em cumprimento ao previsto no art. 26 da
 Lei n° 12.546, de 14 de dezembro de 2011.
 
 O campo enquadramento deve ser obrigatoriamente preenchido no caso de
-[operação](#Operação) amparada em um ou mais mecanismos de apoio/fomento
+[operação](/glossario#opera%C3%A7%C3%A3o) amparada em um ou mais mecanismos de apoio/fomento
 ao comércio exterior de serviços, intangíveis e às [outras operações que
-produzam variação no patrimônio](#outrasoperações).
+produzam variação no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio).
 
 O órgão ou a entidade da administração pública que tenha atribuição
 legal de regulação, normatização, controle ou fiscalização de mecanismo
@@ -721,7 +653,7 @@ Caso persistam dúvidas, deve ser formalizado processo administrativo de consult
 ### Dúvidas sobre registro no Siscoserv:
 
 Deverão ser consultados os Manuais Informatizados dos Módulos Venda e Aquisição do Siscoserv no sítio da Secretaria da Receita Federal do Brasil (RFB) na Internet, no endereço
-[\<[http://www.receita.fazenda.gov.br](http://www.receita.fazenda.gov.br/)]\>
+[http://www.receita.fazenda.gov.br](http://www.receita.fazenda.gov.br/)
 e no sítio da Secretaria de Comércio e Serviços (SCS) na Internet, no endereço
 [http://www.mdic.gov.br](http://www.mdic.gov.br/), bem como disponibilizados no Sistema.
 
@@ -760,7 +692,7 @@ Além dos canais disponíveis, o usuário pode tirar dúvidas em eventos relacio
 
 O acesso ao Siscoserv está disponível no Centro Virtual de Atendimento
 ao Contribuinte (e-CAC) da RFB na Internet no endereço:
-<http://www.receita.fazenda.gov.br>, e no sítio da Secretaria de
+[http://www.receita.fazenda.gov.br](http://www.receita.fazenda.gov.br), e no sítio da Secretaria de
 Comércio e Serviços (SCS) na Internet, no endereço:
 [http://www.siscoserv.mdic.gov.br](http://www.siscoserv.mdic.gov.br/);
 exceto no horário de manutenção diária do sistema (01:00 às 03:00
@@ -769,10 +701,10 @@ horas).
 ### 1.1. Como acessar o Siscoserv
 
 O acesso ao Siscoserv é sempre feito por [certificado
-digital](#certificado) **e-CPF**. Quando a informação for prestada por
+digital](#12-o-que-%C3%A9-e-como-obter-o-certificado-digital-e-cpf) **e-CPF**. Quando a informação for prestada por
 pessoa jurídica ou representante legal de terceiros, além do e-CPF do
 representante legal, também se exige [procuração
-eletrônica](#procuraçao). Essa procuração deve ser emitida por
+eletrônica](#13-o-que-%C3%A9-e-como-obter-a-procura%C3%A7%C3%A3o-eletr%C3%B4nica). Essa procuração deve ser emitida por
 estabelecimento.
 
 **Não** é possível o acesso via certificado digital **e-CNPJ**.
@@ -791,7 +723,7 @@ A lista de autoridades certificadoras, habilitadas pela Secretaria da
 Receita Federal do Brasil (RFB) para emissão de Certificados Digitais
 e-CPF, está disponível em:
 
-<http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj>
+[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
 
 
 ### 1.3. O que é e como obter a Procuração Eletrônica
@@ -815,7 +747,7 @@ o órgão responsável pelos aspectos técnico-operacionais do sistema. Os canai
 
 * [http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior](http://www.serpro.gov.br/menu/suporte1/especificos/servicos-do-comercio-exterior)
 * Fone: 0800-978-2331
-* Email: css.serpro@serpro.gov.br
+* Email: [css.serpro@serpro.gov.br](mailto:css.serpro@serpro.gov.br)
 
 ### 1.5. Informações Cadastrais
 
@@ -905,13 +837,13 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com
 asterisco, não apresentam nenhum dado e precisam ser preenchidos. São
 campos obrigatórios:
 
-> \- Telefone do [Usuário/Responsável pelo Registro](#Usuário);  
+> \- Telefone do [Usuário/Responsável pelo Registro](#15-informa%C3%A7%C3%B5es-cadastrais);  
 > \- E-mail do Usuário/Responsável pelo Registro;  
 > \- Nome Fantasia da Empresa Adquirente;  
 > \- Telefone da Empresa Adquirente;  
 > \- E-mail de contato da Empresa Adquirente;  
 > \- Endereço da Empresa Adquirente;  
-> \- Nome do [Diretor de Relações Governamentais ou Equivalente](#Diretor) da Empresa Adquirente;  
+> \- Nome do [Diretor de Relações Governamentais ou Equivalente](#15-informa%C3%A7%C3%B5es-cadastrais) da Empresa Adquirente;  
 > \- Telefone do Diretor de Relações Governamentais ou Equivalente da Empresa Adquirente;  
 > \- E-mail do Diretor de Relações Governamentais ou Equivalente da Empresa Adquirente;  
 
@@ -948,7 +880,7 @@ clica em Salvar.
 
 #### 1.5.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física
 
-Passo 1: [Usuário/Responsável pelo Registro](#Usuário) acessa o
+Passo 1: [Usuário/Responsável pelo Registro](#15-informa%C3%A7%C3%B5es-cadastrais) acessa o
 Siscoserv e clica em Informações cadastrais;
 
 **Obs: No primeiro acesso do usuário ao Sistema o usuário será direcionado diretamente para a ficha de Informações Cadastrais. Não será possível efetuar novo registro antes de preencher os dados solicitados.**
@@ -974,9 +906,9 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com
 asterisco, não apresentam nenhum dado e precisam ser preenchidos. São
 campos obrigatórios:
 
-> \- Telefone do [Usuário/Responsável pelo Registro](#Usuário);  
+> \- Telefone do [Usuário/Responsável pelo Registro](#15-informa%C3%A7%C3%B5es-cadastrais);  
 > \- E-mail do Usuário/Responsável pelo Registro;  
-> \- Endereço da [Pessoa Física Adquirente](#PF);  
+> \- Endereço da [Pessoa Física Adquirente](#15-informa%C3%A7%C3%B5es-cadastrais);  
 > \- Telefone da Pessoa Física Adquirente;  
 > \- E-mail de contato da Pessoa Física Adquirente;  
 
@@ -1098,15 +1030,9 @@ Sistema solicitará a senha de validação do Certificado.
 Os registros no Siscoserv podem ser feitos de forma individualizada ou
 por Transmissão em Lote.
 
-Os registros individualizados no Siscoserv devem seguir as etapas de
-preenchimento descritas nos [itens 2.1](#_3.1_O_Registro) e
-[2.2](#inclusão-do-rp) do capítulo 2 deste Manual.
+Os registros individualizados no Siscoserv devem seguir as etapas de preenchimento descritas nos [itens 2.1](#21-inclus%C3%A3o-do-ras) e [2.2](#22-inclus%C3%A3o-do-rp) do capítulo 2 deste Manual.
 
-A transmissão em lote permite a inclusão de uma grande quantidade de
-registros ao mesmo tempo e deve seguir os passos descritos no [item 3
-deste capítulo](#_4._Transmissão_em). A transmissão em lote é feita por
-meio do envio de um ou mais arquivos do tipo XML, compactados no formato
-ZIP.
+A transmissão em lote permite a inclusão de uma grande quantidade de registros ao mesmo tempo e deve seguir os passos descritos no [item 3 deste capítulo](#3-transmiss%C3%A3o-em-lote). A transmissão em lote é feita por meio do envio de um ou mais arquivos do tipo XML, compactados no formato ZIP.
 
 Para a criação dos arquivos que devem ser transmitidos, estão
 disponibilizados os seguintes documentos:
@@ -1133,7 +1059,7 @@ acessar o *menu* **RAS** e em seguida a opção **Incluir**.
 ![](./media/aquisicao/image29.png)
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com
-informação advinda de seu [Certificado Digital](#certificado).
+informação advinda de seu [Certificado Digital](#12-o-que-%C3%A9-e-como-obter-o-certificado-digital-e-cpf).
 
 ![](./media/aquisicao/image30.png)
 
@@ -1142,7 +1068,7 @@ outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do
 adquirente representado. Caso o usuário seja o próprio adquirente, então
 deve marcar a opção que indica essa situação. Para atuar como
 representante legal de outra pessoa, física ou jurídica, o usuário deve
-possuir [procuração eletrônica](#_2.3_O_que) do representado.
+possuir [procuração eletrônica](#13-o-que-%C3%A9-e-como-obter-a-procura%C3%A7%C3%A3o-eletr%C3%B4nica) do representado.
 
 Para iniciar a inclusão do registro, há duas opções: **Criar Novo RAS**
 ou **Aproveitar Dados de RAS Incluído**.
@@ -1152,12 +1078,12 @@ branco. Para usar essa opção, selecione **Criar Novo RAS** e acione o
 botão ![](./media/aquisicao/image31.png)
 
 Cada RAS destina-se a apenas um contrato de prestação de serviços[^14].
-Cada contrato pode conter uma ou mais [operações](#operação) em um mesmo
+Cada contrato pode conter uma ou mais [operações](/glossario#opera%C3%A7%C3%A3o) em um mesmo
 RAS, desde que todas as operações sejam cursadas com o mesmo vendedor.
 
 Na opção **Aproveitar Dados de RAS Incluído** o Sistema permite a
 seleção de um RAS existente, cujos dados serão recuperados para a
-inclusão de um novo RAS. Na tela **Dados do [Negócio](#Negócio)**, os
+inclusão de um novo RAS. Na tela **Dados do [Negócio](/glossario#neg%C3%B3cio)**, os
 campos **Valor**, **Data de Início** e **Data de Conclusão** devem ser
 preenchidos com os dados do novo registro.
 
@@ -1204,17 +1130,17 @@ legislação** no *menu* lateral esquerdo na tela de **Resumo**.
 #### Dados do Vendedor
 
 Em **Dados do Vendedor**, devem ser incluídos os dados do residente ou
-domiciliado no exterior vendedor da [operação](#operaçao) realizada com
-pessoa física, pessoa jurídica ou [ente despersonalizado](#entes)
-[residente](#residentenoBrasil) ou domiciliado no Brasil.
+domiciliado no exterior vendedor da [operação](/glossario#opera%C3%A7%C3%A3o) realizada com
+pessoa física, pessoa jurídica ou [ente despersonalizado](/glossario#ente-despersonalizado)
+[residente](/glossario#residente-no-brasil) ou domiciliado no Brasil.
 
 ![](./media/aquisicao/image36.png)
 
 **Nome do Vendedor** -- Preencha o nome da pessoa física ou o nome
-comercial da pessoa jurídica vendedora do [negócio](#Negócio).
+comercial da pessoa jurídica vendedora do [negócio](/glossario#neg%C3%B3cio).
 
 **Endereço do Vendedor** -- Preencha com o endereço da pessoa física ou
-da pessoa jurídica vendedora do [negócio](#Negócio).
+da pessoa jurídica vendedora do [negócio](/glossario#neg%C3%B3cio).
 
 **País do Vendedor** -- Selecione o país do vendedor do negócio na lista
 disponível de países em **País do Vendedor**, ou informar manualmente o
@@ -1223,7 +1149,7 @@ código do país no campo numérico.
 #### NIF - Número de Identificação Fiscal
 
 Preencha com número
-de Identificação Fiscal do vendedor do [negócio](#Negócio). O
+de Identificação Fiscal do vendedor do [negócio](/glossario#neg%C3%B3cio). O
 fornecimento dessa informação é obrigatório nos casos de países que
 adotam códigos de identificação fiscal.
 
@@ -1233,14 +1159,11 @@ exige NIF**.
 
 ![](./media/aquisicao/image37.png)
 
-Deve-se indicar se o vendedor é pessoa vinculada ao adquirente nos
-termos do [art. 23 da Lei 9.430 de dezembro de
-1996](http://www.planalto.gov.br/ccivil_03/LEIS/L9430.htm#art23).
+Deve-se indicar se o vendedor é pessoa vinculada ao adquirente nos termos do [art. 23 da Lei 9.430 de dezembro de 1996](http://www.planalto.gov.br/ccivil_03/LEIS/L9430.htm#art23).
 
 ![](./media/aquisicao/image38.png)
 
-Caso o vendedor seja pessoa vinculada ao adquirente, selecione o tipo de
-vinculação.
+Caso o vendedor seja pessoa vinculada ao adquirente, selecione o tipo de vinculação.
 
 ![](./media/aquisicao/image39.png)
 
@@ -1249,31 +1172,31 @@ Acione **Avançar** para validar os dados e seguir para a próxima tela
 
 #### Dados do Negócio
 
-Em **Dados do [Negócio](#Negócio)** são incluídos os dados das
-[operações](#operaçao) de aquisição de serviços [^15], por
-[residentes](#residentenoBrasil) ou domiciliados no Brasil de residentes
+Em **Dados do [Negócio](/glossario#neg%C3%B3cio)** são incluídos os dados das
+[operações](/glossario#opera%C3%A7%C3%A3o) de aquisição de serviços [^15], por
+[residentes](/glossario#residente-no-brasil) ou domiciliados no Brasil de residentes
 ou domiciliados no exterior.
 
-Pode ser incluída uma ou mais [operações](#operaçao) em cada RAS. Por
-exemplo, nos casos em que o [negócio](#Negócio) comercial envolva mais
+Pode ser incluída uma ou mais [operações](/glossario#opera%C3%A7%C3%A3o) em cada RAS. Por
+exemplo, nos casos em que o [negócio](/glossario#neg%C3%B3cio) comercial envolva mais
 de uma NBS, mais de uma etapa, mais de um país de destino, ou mais de um
 modo de prestação, desde que tal(is) operação(ões) esteja(m)
 relacionada(s) ao mesmo vendedor.
 
-O Sistema não admite registro de [operações](#operaçao) com [início de
-prestação](#datainicio) em data futura, ou seja, registram-se apenas as
+O Sistema não admite registro de [operações](/glossario#opera%C3%A7%C3%A3o) com [início de
+prestação](/glossario#data-de-in%C3%ADcio-da-presta%C3%A7%C3%A3o-de-servi%C3%A7o) em data futura, ou seja, registram-se apenas as
 operações já realizadas ou cuja realização já tenha sido iniciada.
 
-Nos [negócios](#Negócio) com pelo menos uma [operação](#operaçao) já
+Nos [negócios](/glossario#neg%C3%B3cio) com pelo menos uma [operação](/glossario#opera%C3%A7%C3%A3o) já
 iniciada e que tenha sido objeto de RAS, as demais operações a serem
 realizadas em momento futuro devem ser registradas após seu início, por
-meio de [aditivo ao RAS. ](#inclusão-de-aditivo-ao-ras)
+meio de [aditivo ao RAS.](#211-inclus%C3%A3o-de-aditivo-ao-ras)
 
-Campos a serem preenchidos em Dados do [Negócio](#Negócio):
+Campos a serem preenchidos em Dados do [Negócio](/glossario#neg%C3%B3cio):
 
 #### Código NBS / Descrição da NBS
 
-Vide [item 9, do Capítulo 1 deste Manual.](#9)
+Vide [item 9, do Capítulo 1 deste Manual.](#9-nomenclatura-brasileira-de-servi%C3%A7os-intang%C3%ADveis-e-outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio-nbs)
 
 A prestação de serviços[^16] iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=70668).
 
@@ -1282,8 +1205,8 @@ A prestação de serviços[^17] iniciada a partir de 1º de janeiro de 2019 deve
 #### Código do País / País de Destino
 
 Identifica o país de destino da prestação do serviço, da aquisição de
-[intangível](#Intangível) ou da realização de [outra operação que
-produza variação no patrimônio](#Variações), podendo ser diferente do
+[intangível](/glossario#intang%C3%ADvel) ou da realização de [outra operação que
+produza variação no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio), podendo ser diferente do
 país do adquirente. No Módulo Aquisição, o país de destino geralmente
 será o Brasil, exceto quando se configurar o Modo 2 de prestação --
 Consumo no Exterior.
@@ -1332,12 +1255,12 @@ Todas as operações registradas em um RAS devem ser informadas em uma
 operação daquele registro em diante, o campo ficará bloqueado para
 edição.
 
-Caso o [negócio](#Negócio) registrado envolva mais de uma moeda de
+Caso o [negócio](/glossario#neg%C3%B3cio) registrado envolva mais de uma moeda de
 pagamento, o usuário deve efetuar um novo RAS para cada moeda
 transacionada.
 
 Durante o preenchimento do registro, caso haja mais de uma
-[operação](#operaçao) inserida no RAS e o usuário deseje alterar a
+[operação](/glossario#opera%C3%A7%C3%A3o) inserida no RAS e o usuário deseje alterar a
 moeda, deve-se concluir a inclusão da operação e na próxima tela alterar
 a moeda na primeira operação registrada naquele RAS acionando o botão
 ![](./media/aquisicao/image40.png).
@@ -1374,28 +1297,28 @@ aquisição daquele serviço associado ao valor total da operação.
 
 #### Data de Início
 
-Data em que se [iniciou a prestação do serviço](#datainicio) adquirido,
-a transferência do [intangível](#Intangível) ou a realização de [outra
-operação que produza variações no patrimônio](#Variações). A data
+Data em que se [iniciou a prestação do serviço](/glossario#data-de-in%C3%ADcio-da-presta%C3%A7%C3%A3o-de-servi%C3%A7o) adquirido,
+a transferência do [intangível](/glossario#intang%C3%ADvel) ou a realização de [outra
+operação que produza variações no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio). A data
 informada não pode ser posterior à data em que a operação estiver sendo
 registrada no Sistema.
 
 #### Data de Conclusão
 
 Data em que foi ou será concluída a prestação do serviço adquirido, a
-transferência do [intangível](#Intangível) ou a realização de [outra
-operação que produza variação no patrimônio](#Variações).
+transferência do [intangível](/glossario#intang%C3%ADvel) ou a realização de [outra
+operação que produza variação no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio).
 
 #### Valor
 
-Deve ser especificado o valor da [operação](#operaçao), na moeda
+Deve ser especificado o valor da [operação](/glossario#opera%C3%A7%C3%A3o), na moeda
 indicada em **Código da Moeda / Descrição da Moeda.**
 
 Para o Siscoserv é considerado como valor comercial das operações o
 valor bruto pactuado entre as partes adicionado de todos os custos
 necessários para a efetiva prestação do serviço, transferência do
-[intangível](#Intangível) ou realização de [outra operação que produza
-variação no patrimônio](#Variações). Estes valores deverão ser
+[intangível](/glossario#intang%C3%ADvel) ou realização de [outra operação que produza
+variação no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio). Estes valores deverão ser
 considerados no mesmo código NBS da operação final.
 
 Exemplo:
@@ -1408,7 +1331,7 @@ Exemplo:
 
 Neste caso, a empresa (A) deve adicionar o valor dessas despesas ao
 valor total da operação adquirida, mediante retificação do RAS, conforme
-o item [2.1.2 do Capítulo 2](#retificação-do-ras) deste Manual.
+o item [2.1.2 do Capítulo 2](#212-retifica%C3%A7%C3%A3o-do-ras) deste Manual.
 
 Só poderá ser informado valor acima de 0,00 (zero).
 
@@ -1452,11 +1375,9 @@ empregador, o usuário deverá fornecer o CNPJ do empregador.
 
 ![](./media/aquisicao/image44.png)
 
-#### [Mecanismo](#enquadramento) de Apoio/Fomento
+#### [Mecanismo](/glossario#mecanismo-de-apoiofomento) de Apoio/Fomento
 
-Para informar **Mecanismo de apoio/fomento** da
-operação, tal como previsto no [item
-10](file:///\\FILESERVER\mdic$\SCS\DECIN\Trabalho\CGSE\Pasta%20Técnica\SISCOSERV\MANUAIS\Aquisição\11aEdicaoManualModuloAquisição_versao%20final.doc#10.  Enquadramento (Mecanismo de apoio / fomento ao Comércio Exterior de Serviços e Intangíveis))
+Para informar **Mecanismo de apoio/fomento** da operação, tal como previsto no [item 10](#10-mecanismos-de-apoio--fomento-ao-com%C3%A9rcio-exterior-de-servi%C3%A7os-e-intang%C3%ADveis).  Enquadramento (Mecanismo de apoio / fomento ao Comércio Exterior de Serviços e Intangíveis))
 do capítulo 1 deste Manual, marque "sim" à direita da pergunta: "A
 operação está amparada em mecanismo de apoio/fomento ao comércio
 exterior nos termos do art. 26 da Lei 12.546/2011?". O Sistema abrirá
@@ -1464,16 +1385,16 @@ uma nova tela para inclusão do(s) mecanismo(s) de apoio.
 
 ![](./media/aquisicao/image45.png)
 
-Selecione o [Mecanismo](#enquadramento) de
+Selecione o [Mecanismo](/glossario#mecanismo-de-apoiofomento) de
 apoio/fomento desejado, no campo Enquadramento, e acione o botão
 ![](./media/aquisicao/image46.png) para adicioná-lo ao RAS.
 
 ![](./media/aquisicao/image47.png)
 
-Caso deseje excluir um [Mecanismo](#enquadramento) de Apoio selecionado,
+Caso deseje excluir um [Mecanismo](/glossario#mecanismo-de-apoiofomento) de Apoio selecionado,
 o usuário deve acionar o botão ![](./media/aquisicao/image48.png).
 
-Para maiores informações acerca da lista de [Mecanismo](#enquadramento)s
+Para maiores informações acerca da lista de [Mecanismo](/glossario#mecanismo-de-apoiofomento)s
 de Apoio s disponíveis para seleção no Módulo Aquisição, veja o [item 10
 do capítulo
 1](#mecanismos-de-apoio-fomento-ao-comércio-exterior-de-serviços-e-intangíveis).
@@ -1481,15 +1402,15 @@ do capítulo
 #### Vinculação à Movimentação Temporária de Bens
 
 Deve ser indicado se a operação está
-vinculada à [movimentação temporária de bens](#movimetacaotemporaria).
+vinculada à [movimentação temporária de bens](/glossario#movimenta%C3%A7%C3%A3o-tempor%C3%A1ria-de-bens).
 
 ![](./media/aquisicao/image49.png)
 
 Se a operação estiver vinculada à movimentação temporária de bens,
 selecionar a opção **Sim**. Nesse caso, preencher os campos com o número
-da [Declaração de Importação (DI)](#DI) e/ou com o número
+da [Declaração de Importação (DI)](/glossario#declara%C3%A7%C3%A3o-de-importa%C3%A7%C3%A3o-di) e/ou com o número
 da Declaração Única de Exportação (DU-E) ou do
-[Registro de Exportação (RE)](#RE) averbado, se o registro ainda tiver
+[Registro de Exportação (RE)](/glossario#registro-de-exporta%C3%A7%C3%A3o-re) averbado, se o registro ainda tiver
 sido realizado no Siscomex.
 
 Para incluir mais de um número de DI ou de DU-E (ou RE), clique no ícone
@@ -1503,7 +1424,7 @@ Para excluir número de DI ou de DU-E (ou RE), clique no ícone
 Após preenchimento dos campos **Código NBS / Descrição da NBS, Código do
 País / País de Destino**, **Código da Moeda / Descrição da Moeda**,
 **Modo de Prestação**, **Data de Início**, **Data de Conclusão**,
-**Valor** e, se for o caso, de [Mecanismo](#enquadramento) de
+**Valor** e, se for o caso, de [Mecanismo](/glossario#mecanismo-de-apoiofomento) de
 apoio/fomento , deve-se acionar o botão **Adicionar Operação** para
 inclusão da operação no RAS.
 
@@ -1514,7 +1435,7 @@ inclusão da operação no RAS.
 Caso deseje incluir outra operação no mesmo RAS, clique em **Adicionar
 Operação.**
 
-Caso deseje alterar uma [operação](#operaçao) adicionada ao RAS, acione
+Caso deseje alterar uma [operação](/glossario#opera%C3%A7%C3%A3o) adicionada ao RAS, acione
 o botão ![](./media/aquisicao/image40.png).
 
 Caso deseje excluir uma operação adicionada ao RAS, acione o botão
@@ -1535,27 +1456,21 @@ Os casos de obrigatoriedade de preenchimento deste campo estão indicados
 nos seguintes itens:
 
 [5. Quem deve efetuar registro no Siscoserv -- Módulo
-Aquisição](#quem-deve-efetuar-registro-no-siscoserv-módulo-aquisição)
+Aquisição](#5-quem-deve-efetuar-registro-no-siscoserv--módulo-aquisição)
 (Capítulo 1)
 
 [3.1 O Registro de Aquisição de Serviços, Intangíveis e Outras Operações
-que Produzam Variações no Patrimônio (RAS)](#_3.1_O_RVS)
+que Produzam Variações no Patrimônio (RAS)](#21-inclus%C3%A3o-do-ras)
 
-[2.1 Inclusão do RAS](#inclusão-do-ras) (Capítulo 2)
+[2.1 Inclusão do RAS](#21-inclus%C3%A3o-do-ras) (Capítulo 2)
 
-[2.1.1 Inclusão de Aditivo ao RAS](#inclusão-de-aditivo-ao-ras)
+[2.1.1 Inclusão de Aditivo ao RAS](#211-inclus%C3%A3o-de-aditivo-ao-ras)
 
-[2.1.2 Retificação do RAS](#retificação-do-ras)
+[2.1.2 Retificação do RAS](#212-retifica%C3%A7%C3%A3o-do-ras)
 
-[2.1.3 Retificação do Aditivo ao RAS](#retificação-do-aditivo-ao-ras)
+[2.1.3 Retificação do Aditivo ao RAS](#213-retifica%C3%A7%C3%A3o-do-aditivo-ao-ras)  [2.2 Inclusão do RP](#22-inclus%C3%A3o-do-rp) (Capítulo 2)
 
-[2.2 Inclusão do RP](#inclusão-do-rp) (Capítulo 2)
-
-Acione **Avançar** para seguir para o próximo passo.
-
-![](./media/aquisicao/image53.png)
-
-#### Resumo do RAS
+Acione **Avançar** para seguir para o próximo passo.  ![](./media/aquisicao/image53.png)  #### Resumo do RAS
 
 A tela **Resumo do RAS** traz as informações preenchidas pelo usuário
 para incluir o RAS.
@@ -1586,24 +1501,23 @@ Convém manter controle dos números dos RAS incluídos no Siscoserv, para
 facilitar os registros e/ou retificações posteriores relativos ao RAS.
 
 **Após a inclusão de um RAS, não é possível o seu cancelamento,
-admitindo-se apenas [retificações](#retificação-do-ras).**
+admitindo-se apenas [retificações](#212-retifica%C3%A7%C3%A3o-do-ras).**
 
 #### 2.1.1 Inclusão de Aditivo ao RAS
 
 O aditivo ao RAS deve ser usado para a inclusão de nova operação em um
 RAS previamente incluído, quando houver complementação ou aditamento nos
-termos do contrato ([negócio](#Negócio)), que envolva execução de outra
-operação classificada em [NBS diferente](#NBS), ou ainda executada em
+termos do contrato ([negócio](/glossario#neg%C3%B3cio)), que envolva execução de outra
+operação classificada em [NBS diferente](#9-nomenclatura-brasileira-de-servi%C3%A7os-intang%C3%ADveis-e-outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio-nbs), ou ainda executada em
 outro modo de prestação, outra etapa do negócio, período ou mesmo em
 outro país.
 
 Na inclusão de Aditivo, não é possível realizar alterações nos **Dados
 do Vendedor**, tendo em vista tratar-se de dados do registro como um
 todo e que só podem ser alterados pela função [**Retificar
-RAS**](#retificação-do-ras).
+RAS**](#212-retifica%C3%A7%C3%A3o-do-ras).
 
-Devido à publicação da [NBS
-2.0](http://www.mdic.gov.br/images/REPOSITORIO/scs/decos/NBS/Anexo_I_NBS_2.0_com_altera%C3%A7%C3%B5es_6.12.18.pdf)[^21],
+Devido à publicação da [NBS 2.0](http://www.mdic.gov.br/images/REPOSITORIO/scs/decos/NBS/Anexo_I_NBS_2.0_com_altera%C3%A7%C3%B5es_6.12.18.pdf)[^21],
 novos serviços[^22] derivados de complemento ou aditamento em termo de
 contrato, que envolva operação iniciada a partir de 1º de janeiro de
 2019, não poderão ser registrados por meio de Aditivo em um RAS incluído
@@ -1613,9 +1527,7 @@ Neste caso, o usuário deverá incluir um novo RAS, classificando o
 serviço prestado[^23] de acordo com a [NBS
 2.0](http://www.mdic.gov.br/images/REPOSITORIO/scs/decos/NBS/Anexo_I_NBS_2.0_com_altera%C3%A7%C3%B5es_6.12.18.pdf).
 
-A inclusão de nova operação é realizada em [**Dados do
-Negócio**](#DadosDoNegócio) e deve obedecer aos prazos descritos no
-[item](#_3.1.1_Prazo_para) 4.1.1, do Capítulo 1 deste Manual.
+A inclusão de nova operação é realizada em [**Dados do Negócio**](#dados-do-neg%C3%B3cio) e deve obedecer aos prazos descritos no [item](#411-prazo-para-o-ras) 4.1.1, do Capítulo 1 deste Manual.
 
 Se for o caso, o usuário deve preencher os campos de **Vinculação à
 Importação de Bens** e **Informações Complementares**, com os
@@ -1637,7 +1549,7 @@ outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do
 Adquirente representado. Caso o usuário seja o próprio adquirente, então
 deve marcar a opção que indica essa situação. Para atuar como
 representante legal de outra pessoa, física ou jurídica, o usuário deve
-possuir [procuração eletrônica](#procuraçao) do representado.
+possuir [procuração eletrônica](#13-o-que-%C3%A9-e-como-obter-a-procura%C3%A7%C3%A3o-eletr%C3%B4nica) do representado.
 
 ![](./media/aquisicao/image58.png)
 
@@ -1662,38 +1574,29 @@ partir do tópico "2. Dados do Negócio" no item 2.1 - Passos para incluir
 RAS.
 
 O aditivo utiliza a mesma moeda cadastrada na primeira
-[operação](#operaçao) do RAS. Caso a nova operação envolva outra moeda,
+[operação](/glossario#opera%C3%A7%C3%A3o) do RAS. Caso a nova operação envolva outra moeda,
 deve ser feito um novo RAS.
 
-Após conferir os dados na tela **Resumo do RAS**, acione o botão
-**Incluir** para gerar o Aditivo ao RAS.
+Após conferir os dados na tela **Resumo do RAS**, acione o botão **Incluir** para gerar o Aditivo ao RAS.
 
 O sistema retornará mensagem de confirmação da inclusão dos dados no
 Siscoserv e apresentará número do aditivo ao RAS.
 
 ![](./media/aquisicao/image64.png)
 
-**Após a inclusão de um Aditivo ao RAS não é possível o seu
-cancelamento, admitindo-se apenas retificações.**
+**Após a inclusão de um Aditivo ao RAS não é possível o seu cancelamento, admitindo-se apenas retificações.**
 
-Cabe ressaltar ainda que os registros inseridos a partir de um arquivo
-de lote não podem ser edita-dos (retificados, aditados, etc.)
-manualmente. Caso o usuário tente editar o registro manualmente, o
-Sistema apresentará a seguinte tela:
+Cabe ressaltar ainda que os registros inseridos a partir de um arquivo de lote não podem ser edita-dos (retificados, aditados, etc.) manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apresentará a seguinte tela:
 
 ![](./media/aquisicao/image65.jpeg)
 
 #### 2.1.2. Retificação do RAS
 
-O RAS ou o Aditivo ao RAS **não podem ser cancelados**, cabendo apenas
-retificações.
+O RAS ou o Aditivo ao RAS **não podem ser cancelados**, cabendo apenas retificações.
 
-Não pode ser incluída nova operação por meio de retificação. Para
-incluir uma nova operação em um RAS já incluído, utilize a função
-[**Inclusão de** **Aditivo ao RAS**](#inclusão-de-aditivo-ao-ras)**.**
+Não pode ser incluída nova operação por meio de retificação. Para incluir uma nova operação em um RAS já incluído, utilize a função [**Inclusão de** **Aditivo ao RAS**](#211-inclus%C3%A3o-de-aditivo-ao-ras)**.**
 
-Para retificar um RAS é preciso acessar o *menu* **RAS** e em seguida
-**Retificar**.
+Para retificar um RAS é preciso acessar o *menu* **RAS** e em seguida **Retificar**.
 
 ![](./media/aquisicao/image66.png)
 
@@ -1705,7 +1608,7 @@ outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do
 Adquirente representado. Caso o usuário seja o próprio adquirente, então
 deve marcar a opção que indica essa situação. Para atuar como
 representante legal de outra pessoa, física ou jurídica, o usuário deve
-possuir [procuração eletrônica](#procuraçao) do representado.
+possuir [procuração eletrônica](#13-o-que-%C3%A9-e-como-obter-a-procura%C3%A7%C3%A3o-eletr%C3%B4nica) do representado.
 
 Para retificar um RAS, o usuário tem como opções: Informar o Número do
 RAS ou Exibir Lista de RAS Incluídos.
@@ -1726,7 +1629,7 @@ do mais recente para o mais antigo. Acione o botão ![](./media/aquisicao/image3
 ![](./media/aquisicao/image69.png)
 
 Após selecionar o RAS que deseja retificar, siga os passos descritos no
-tópico **[2.1 -- Inclusão do RAS](#inclusão-do-ras).**
+tópico **[2.1 -- Inclusão do RAS](#21-inclus%C3%A3o-do-ras).**
 
 Após conferir os dados retificados na tela **Resumo do RAS**, acione o
 botão **Incluir** para retificar o RAS. O sistema retornará mensagem de
@@ -1738,7 +1641,7 @@ Os RAS podem ter todos os campos retificados antes da inclusão de
 Pagamento da operação. Após o Pagamento da operação não podem ser
 retificados os campos Código NBS e Moeda. Em caso de erro de
 preenchimento nestes campos para as operações já pagas, proceder
-previamente conforme o [item 2.2.2](#retificação-do-rp) deste capítulo -
+previamente conforme o [item 2.2.1](#retificação-do-rp) deste capítulo -
 Cancelamento do RP.
 
 Caso, devido à necessidade de cancelamento do RP para retificar o RAS, o
@@ -1753,21 +1656,11 @@ são mantidos, ou seja, o Sistema não faz conversão de valores para a
 nova moeda selecionada, devendo o usuário efetuar os ajustes nos
 valores, caso necessário.
 
-A retificação do Valor da [Operação](#operaçao) só é possível se esse
-for maior ou igual aos valores já pagos.
-
-Após o término do [prazo para inclusão do último RP](#inclusão-do-rp), o
+A retificação do Valor da [Operação](/glossario#opera%C3%A7%C3%A3o) só é possível se esse
+for maior ou igual aos valores já pagos.  Após o término do [prazo para inclusão do último RP](#22-inclus%C3%A3o-do-rp), o
 valor total pago deve coincidir com o **Valor da Operação**, ou seja, o
 valor do(s) RP(s) devem coincidir com o valor informado no RAS.
-
-Excepcionalmente, se, após o término do [prazo para inclusão do último
-RP](#inclusão-do-rp), ocorrer de os valores do RAS e do(s) RP não serem
-coincidentes:
-
-a\) caso o serviço prestado tenha valor diferente do inicialmente
-registrado, o usuário deve retificar no RAS o **Valor da Operação** de
-forma a corresponder ao valor do serviço efetivamente prestado;
-
+ Excepcionalmente, se, após o término do [prazo para inclusão do último RP](#22-inclus%C3%A3o-do-rp), ocorrer de os valores  o RAS e do(s) RP não serem coincidentes:  a\) caso o serviço prestado tenha valor diferente do inicialmente registrado, o usuário deve retificar no RAS o **Valor da Operação** de forma a corresponder ao valor do serviço efetivamente prestado; 
 b\) caso o serviço tenha sido prestado e o pagamento tenha sido parcial
 ou inexistente, o usuário deve retificar o RAS para incluir em
 **Informações Complementares** a justificativa para tanto.
@@ -1799,7 +1692,7 @@ Sistema apresentará a seguinte tela:
 
 Não pode ser incluída nova operação por meio de retificação. Para
 incluir uma nova operação em um RAS já incluído, utilize a função
-[**Inclusão de Aditivo ao RAS**](#inclusão-de-aditivo-ao-ras).
+[**Inclusão de Aditivo ao RAS**](#211-inclus%C3%A3o-de-aditivo-ao-ras).
 
 #### 2.1.3. Retificação do Aditivo ao RAS 
 
@@ -1818,7 +1711,7 @@ outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do
 Adquirente representado. Caso o usuário seja o próprio adquirente, então
 deve marcar a opção que indica essa situação. Para atuar como
 representante legal de outra pessoa, física ou jurídica, o usuário deve
-possuir [procuração eletrônica](#procuraçao) do representado.
+possuir [procuração eletrônica](#13-o-que-%C3%A9-e-como-obter-a-procura%C3%A7%C3%A3o-eletr%C3%B4nica) do representado.
 
 Para retificar um aditivo ao RAS, o usuário tem como opções: Informar o
 Número do RAS ou Exibir Lista de RAS Incluídos.
@@ -1839,8 +1732,8 @@ se deseja retificar e acione o botão ![](./media/aquisicao/image59.png).
 ![](./media/aquisicao/image74.png)
 
 Após selecionar o RAS cujo aditivo se deseja retificar, o Sistema mostra
-a tela **[Dados do Negócio](#DadosDoNegócio)** do RAS selecionado,
-indicando as [operações](#operaçao) cadastradas no registro original e
+a tela **[Dados do Negócio](#dados-do-neg%C3%B3cio)** do RAS selecionado,
+indicando as [operações](/glossario#opera%C3%A7%C3%A3o) cadastradas no registro original e
 todos os termos aditivos. Há dois tipos de ícones: Visualizar -
 ![](./media/aquisicao/image75.png) e Alterar -
 ![](./media/aquisicao/image76.png). O ícone para alterar aparecerá apenas
@@ -1850,10 +1743,10 @@ ao lado do aditivo que se deseja retificar, informado na tela anterior.
 
 Ao clicar no ícone
 ![](./media/aquisicao/image76.png) o sistema mostrará a tela [Dados do
-Negócio](#DadosDoNegócio) do aditivo que se deseja retificar. O usuário
+Negócio](#dados-do-neg%C3%B3cio) do aditivo que se deseja retificar. O usuário
 deve efetuar o preenchimento, seguindo os passos descritos no tópico
 **[2.1.2 do Capítulo 2 deste Manual -- Retificação do
-RAS](#retificação-do-ras).**
+RAS](#212-retifica%C3%A7%C3%A3o-do-ras).**
 
 Após conferir os dados retificados na tela **Resumo do RAS**, acionar o
 botão **Incluir** para retificar o aditivo ao RAS. O Sistema retornará
@@ -1862,8 +1755,8 @@ mensagem de confirmação de retificação do aditivo.
 ![](./media/aquisicao/image78.png)
 
 Os aditivos ao RAS podem ter todos os
-campos retificados antes da inclusão do RP da [operação](#operaçao).
-Após o [pagamento](#Pagamento) da operação não podem ser retificados os
+campos retificados antes da inclusão do RP da [operação](/glossario#opera%C3%A7%C3%A3o).
+Após o [pagamento](/glossario#pagamento) da operação não podem ser retificados os
 campos Código NBS e Moeda. Em caso de erro de preenchimento nestes
 campos para as operações já pagas, proceder previamente ao cancelamento
 do RP conforme o [item 2.2.2](#cancelamento-do-rp).
@@ -1876,20 +1769,10 @@ valores para a nova moeda selecionada, devendo o usuário efetuar os
 ajustes nos valores, caso necessário.
 
 A retificação do Valor da Operação só é possível se esse for maior ou
-igual aos valores já pagos.
-
-Após o término do [prazo para inclusão do último R](#inclusão-do-rp)P, o
+igual aos valores já pagos.  Após o término do [prazo para inclusão do último R](#22-inclus%C3%A3o-do-rp)P, o
 valor total pago deve coincidir com o **Valor da Operação**, ou seja, o
 valor do(s) RP(s) devem coincidir com o valor informado no RAS.
-
-Excepcionalmente, se, após o término do [prazo para inclusão do último
-RP](#inclusão-do-rp), ocorrer de os valores do RAS e do(s) RP não serem
-coincidentes:
-
-a\) caso o serviço prestado tenha valor diferente do inicialmente
-registrado, o usuário deve retificar o aditivo do RAS o **Valor da
-Operação** de forma a corresponder ao valor do serviço efetivamente
-prestado;
+ Excepcionalmente, se, após o término do [prazo para inclusão do último RP](#22-inclus%C3%A3o-do-rp), ocorrer de os valores  o RAS e do(s) RP não serem coincidentes:  a\) caso o serviço prestado tenha valor diferente do inicialmente registrado, o usuário deve retificar o aditivo do RAS o **Valor da Operação** de forma a corresponder ao valor do serviço efetivamente prestado;
 
 b\) caso o serviço tenha sido prestado e o pagamento tenha sido parcial
 ou inexistente, o usuário deve retificar o RAS para incluir em
@@ -1945,7 +1828,7 @@ outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do
 Adquirente representado. Caso o usuário seja o próprio adquirente, então
 deve marcar a opção que indica essa situação. Para atuar como
 representante legal de outra pessoa, física ou jurídica, o usuário deve
-possuir [procuração eletrônica](#procuraçao) do representado.
+possuir [procuração eletrônica](#13-o-que-%C3%A9-e-como-obter-a-procura%C3%A7%C3%A3o-eletr%C3%B4nica) do representado.
 
 Para consultar um RAS ou um Aditivo ao RAS, o usuário tem como opções:
 Informar o Número do RAS ou Exibir Lista de RAS Incluídos.
@@ -2012,7 +1895,7 @@ Pagar** para cada operação, referente ao RAS selecionado**.**
 
 > **Operações a Pagar**
 >
-> Para incluir os dados do [pagamento](#Pagamento) de um serviço [^24]no
+> Para incluir os dados do [pagamento](/glossario#pagamento) de um serviço [^24]no
 > campo **Operações** **a Pagar**, o usuário deve:
 >
 > a\) selecionar a operação a ser paga, acionando o botão ![](./media/aquisicao/image59.png);
@@ -2021,7 +1904,7 @@ Pagar** para cada operação, referente ao RAS selecionado**.**
 > Operação** e **Saldo a Pagar** da operação selecionada, bem como outros
 > dados, no campo **Dados da Operação**;
 >
-> c\) preencher a data do [pagamento](#Pagamento) ou selecioná-la, clicando
+> c\) preencher a data do [pagamento](/glossario#pagamento) ou selecioná-la, clicando
 > no ícone **Calendário**;
 >
 > d\) inserir o valor pago, o [valor pago com recurso mantido no
@@ -2044,14 +1927,14 @@ Pagar** para cada operação, referente ao RAS selecionado**.**
 > residente ou domiciliado no exterior e acionar o botão **Avançar.** O
 > usuário deve preencher o campo **Número do
 > Documento** com o número da *invoice* ou do contrato ou de outro
-> documento que comprove o [pagamento](#Pagamento) realizado.
+> documento que comprove o [pagamento](/glossario#pagamento) realizado.
 
-Após a **Data de Conclusão** da [operação](#operaçao), o valor total
+Após a **Data de Conclusão** da [operação](/glossario#opera%C3%A7%C3%A3o), o valor total
 pago deve coincidir com o **Valor da Operação**, na moeda do RAS. Caso
 os valores sejam divergentes, o usuário deve retificar o **Valor da
 Operação** utilizando os passos descritos no item
-[2.1.2](#retificação-do-ras) (Retificação do RAS) e
-[2.1.3](#retificação-do-aditivo-ao-ras) (Retificação do Aditivo ao RAS),
+[2.1.2](#212-retifica%C3%A7%C3%A3o-do-ras) (Retificação do RAS) e
+[2.1.3](#213-retifica%C3%A7%C3%A3o-do-aditivo-ao-ras) (Retificação do Aditivo ao RAS),
 se for o caso.
 
 Todas as retificações de valor no RAS realizadas após o primeiro RP
@@ -2121,7 +2004,7 @@ botão ![](./media/aquisicao/image59.png) à direita do RP a ser retificado.
 ![](./media/aquisicao/image98.png)
 
 Após selecionar o RP que se deseja retificar, o Sistema mostra a tela
-**Resumo do RP**. Os **Dados do RP** indicam as [operações](#Operação)
+**Resumo do RP**. Os **Dados do RP** indicam as [operações](/glossario#opera%C3%A7%C3%A3o)
 cadastradas no registro original e todos os termos aditivos.
 
 Nessa tela, o usuário poderá:
@@ -2255,76 +2138,49 @@ Em seguida, é exibida a tela **Resumo do RP**.
 
 ## 3. Transmissão em Lote
 
-A transmissão em lote foi implementada para atender os residentes e
-domiciliados no Brasil que realizam um grande número de transações de
-venda ou aquisição de serviços com residentes ou domiciliados no
-exterior e têm a obrigação legal de efetuar os registros correspondentes
-no Siscoserv.
+A transmissão em lote foi implementada para atender os residentes e domiciliados no Brasil que realizam um grande número de transações de venda ou aquisição de serviços com residentes ou domiciliados no exterior e têm a obrigação legal de efetuar os registros correspondentes no Siscoserv.
 
-Por meio da transmissão em lote busca-se uma interoperabilidade entre o
-Siscoserv e os sistemas internos de gestão de seus usuários. A forma de
-comunicação são os arquivos de lote e retorno trocados pelos sistemas.
-Os arquivos de lote são compostos por arquivos contendo dados de
-registro que representam cada qual uma operação distinta no Siscoserv.
-As operações realizadas por meio da transmissão em lote são no Módulo
-Aquisição:
+Por meio da transmissão em lote busca-se uma interoperabilidade entre o Siscoserv e os sistemas internos de gestão de seus usuários. A forma de comunicação são os arquivos de lote e retorno trocados pelos sistemas.
+Os arquivos de lote são compostos por arquivos contendo dados de registro que representam cada qual uma operação distinta no Siscoserv.
+As operações realizadas por meio da transmissão em lote são, no Módulo Aquisição:
 
-+------------------------+
-| 1)  Incluir RAS;       |
-|                        |
-| 2)  Retificar RAS;     |
-|                        |
-| 3)  Incluir Aditivo;   |
-|                        |
-| 4)  Retificar Aditivo; |
-|                        |
-| 5)  Incluir RP;        |
-|                        |
-| 6)  Retificar RP; e    |
-|                        |
-| 7)  Cancelar RP.       |
-+------------------------+
+
+> 1\)  Incluir RAS;
+>
+> 2\)  Retificar RAS;
+>
+> 3\)  Incluir Aditivo;
+>
+> 4\)  Retificar Aditivo;
+>
+> 5\)  Incluir RP; 
+>
+> 6\)  Retificar RP; e
+>
+> 7\)  Cancelar RP
+
 
 Este Manual trata apenas da transmissão dos arquivos após sua criação,
 bem como do Retorno do Lote, detalhado na sessão 3.2 -- Consultar Lote.
 
-Os seguintes documentos trazem as orientações técnicas necessárias para
-a correta criação dos arquivos a serem transmitidos:
+Os seguintes documentos trazem as orientações técnicas necessárias para a correta criação dos arquivos a serem transmitidos:
+> \- [Orientações Técnicas para o desenvolvimento da funcionalidade Transmissão em Lote do SISCOSERV Módulos Venda e Aquisição](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf);  
+> \- [Modelos dos Arquivos XML e XSD para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Modelos_dos_Arquivos_XML_e_XSD_para_Transmiss%C3%A3o_em_Lote_-_V_2.0.zip); e  
+> \- [Tabelas de Códigos do Siscoserv para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Tabelas_de_C%C3%B3digos_do_Siscosev_para_Transmiss%C3%A3o_em_Lote.zip).  
 
-> \- [Orientações Técnicas para o desenvolvimento da funcionalidade
-> Transmissão em Lote do SISCOSERV Módulos Venda e
-> Aquisição](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf);
->
-> \- [Modelos dos Arquivos XML e XSD para Transmissão em
-> Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Modelos_dos_Arquivos_XML_e_XSD_para_Transmiss%C3%A3o_em_Lote_-_V_2.0.zip);
-> e
->
-> \- [Tabelas de Códigos do Siscoserv para Transmissão em
-> Lote.](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Tabelas_de_C%C3%B3digos_do_Siscosev_para_Transmiss%C3%A3o_em_Lote.zip)
+Cabe ressaltar a necessidade de avaliação sobre alterações necessárias nos registros realizados por meio de transmissão em lote a partir da publicação da nova edição da NBS e de suas notas explicativas.
 
-Cabe ressaltar a necessidade de avaliação
-sobre alterações necessárias nos registros realizados por meio de
-transmissão em lote a partir da publicação da nova edição da NBS e de
-suas notas explicativas.
+A prestação de serviços[^24] iniciada até 31 de dezembro de 2018 deve ser registrada tendo por base a NBS 1.1, publicada pela [Portaria Conjunta RFB / SCS nº 1.820, de 2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
 
-A prestação de serviços[^25] iniciada até 31 de dezembro de 2018 deve
-ser registrada tendo por base a NBS 1.1, publicada pela [Portaria
-Conjunta RFB / SCS nº 1.820, de
-2014](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384).
-
-A prestação de serviços iniciada a partir de 1º de janeiro de 2019 deve
-ser registrada tendo por base a [NBS
-2.0](http://www.mdic.gov.br/images/REPOSITORIO/scs/decos/NBS/Anexo_I_NBS_2.0_com_altera%C3%A7%C3%B5es_6.12.18.pdf),
-publicada pela [Portaria Conjunta RFB/SCS nº 2.000, de 18 de dezembro de
-2018.](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/12/2018&jornal=515&pagina=139&totalArquivos=243),
+A prestação de serviços iniciada a partir de 1º de janeiro de 2019
+devem ser registradas tendo por base a [Portaria Conjunta RFB / SCS nº
+nº 1.429, de 2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=17/09/2018&jornal=515&pagina=20),
 que produz efeitos a partir de 1º de janeiro de 2019.
 
-Cabe ressaltar que todos os usuários que efetuam registro por meio de
-transmissão em lote devem verificar na [versão 2.0 da
-NBS](http://www.mdic.gov.br/images/REPOSITORIO/scs/decos/NBS/Anexo_I_NBS_2.0_com_altera%C3%A7%C3%B5es_6.12.18.pdf)
-se houve alteração nos códigos em que classificam os serviços
-registrados no Siscoserv, visto que houve reaproveitamento de códigos
-previamente existentes na nova versão da Nomenclatura.
+Cabe ressaltar que todos os usuários que efetuam registro por meio de transmissão em lote devem
+verificar na [versão 2.0 da NBS](#http://www.mdic.gov.br/images/REPOSITORIO/scs/decos/NBS/Anexo_I_NBS_2.0_com_altera%C3%A7%C3%B5es_6.12.18.pdf) se houve alteração nos códigos em que classificam os serviços
+registrados no Siscoserv, visto que houve reaproveitamento de códigos previamente existentes na
+nova versão da Nomenclatura.
 
 ### Processamento dos Arquivos de Lote
 
@@ -2346,7 +2202,7 @@ os períodos de maior acesso). Desta forma, o Sistema apresentará ao
 usuário o resultado das duas primeiras etapas do processamento
 imediatamente após o envio do lote. Quanto às demais etapas, o usuário
 deverá consultar o seu resultado a partir do dia seguinte ao envio do
-lote (veja [Consultar Lote](#consultar-lote)). A data que será
+lote (veja [Consultar Lote](#32-consultar-lote)). A data que será
 considerada como de inclusão de registro será a de envio do arquivo de
 lote, desde que o arquivo esteja em conformidade com as especificações
 pertinentes contidas nas [Orientações
@@ -2365,18 +2221,9 @@ Recebido) e o código de erro "E0005".
 
 Este erro pode ocorrer por dois motivos:
 
-1)  O usuário está enviando um tipo de informação diferente da
-    > selecionada. Por exemplo, o arquivo de dados refere-se a **Incluir
-    > RP**, mas o usuário selecionou **Incluir RAS** no *menu*. Neste
-    > caso, basta reenviar o lote após selecionar a operação correta
-    > (veja [Procedimentos para envio do arquivo de
-    > lote](#procedimentos-para-envio-do-arquivo-de-lote)); ou
+> 1) O usuário está enviando um tipo de informação diferente da selecionada. Por exemplo, o arquivo de dados refere-se a **Incluir RP**, mas o usuário selecionou **Incluir RAS** no *menu*. Neste caso, basta reenviar o lote após selecionar a operação correta (veja [Procedimentos para envio do arquivo de lote](#31-procedimentos-para-envio-do-arquivo-de-lote)); ou
 
-2)  O arquivo de dados enviado não está de acordo com as especificações
-    > descritas nas [Orientações
-    > Técnicas.](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf)
-    > Neste caso, o sistema responsável pela geração dos arquivos de
-    > lote e de dados deve sofrer correções.
+> 2) O arquivo de dados enviado não está de acordo com as especificações descritas nas [Orientações Técnicas.](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf) Neste caso, o sistema responsável pela geração dos arquivos de lote e de dados deve sofrer correções.
 
 Neste momento, o Sistema atribuirá ao lote um *status* de acordo com o
 *status* dos arquivos de dados que o compõem.
@@ -2399,7 +2246,7 @@ Um arquivo de lote pode receber seis *status* diferentes:
 1)  **EP** -- **Em Processamento**: o lote foi recebido pelo Sistema e
     pelo menos um dos arquivos de dados que o compõem passou pela
     validação de formato (veja [Processamento dos Arquivos de
-    Lote](#ProcessamentoLote)). Os arquivos de dados serão processados
+    Lote](#processamento-dos-arquivos-de-lote)). Os arquivos de dados serão processados
     pelo Siscoserv que verificará se as informações estão de acordo com
     suas regras de negócio.
 
@@ -2446,7 +2293,7 @@ Um arquivo de lote pode receber seis *status* diferentes:
 ### 3.1. Procedimentos para envio do arquivo de lote
 
 Para efetuar a transmissão em lote o usuário deve [acessar o
-Siscoserv](#_2.1_Como_acessar) e clicar na aba **Transmissão em Lote**.
+Siscoserv](#11-como-acessar-o-siscoserv) e clicar na aba **Transmissão em Lote**.
 
 ![](./media/aquisicao/image125.jpeg)
 
@@ -2538,7 +2385,7 @@ apresentada.
 Após a transmissão bem-sucedida do arquivo de lote, o Siscoserv valida o
 formato dos arquivos de dados e atribui ao lote e aos arquivos de dados
 que o compõem um *status* de acordo com o resultado da validação (veja
-[*Status* dos Arquivos de Lote](#StatusLote)).
+[*Status* dos Arquivos de Lote](#status-dos-arquivos-de-lote)).
 
 Para maior detalhamento sobre o *status* ou o tipo de erro associados
 aos arquivos de dados, ao deixar o cursor do *mouse* sobre a coluna
@@ -2635,7 +2482,7 @@ necessário que o *status* do lote ainda seja EP -- Em Processamento.
 Logo, a operação estará disponível apenas no mesmo dia do envio do lote.
 
 A partir da tela de listagem dos lotes enviados (veja [Consultar
-Lote](#consultar-lote)), ao clicar o botão
+Lote](#32-consultar-lote)), ao clicar o botão
 ![](./media/aquisicao/image142.png) ao lado do lote que se deseja excluir, o
 Sistema removerá definitivamente o lote da fila de processamento.
 
@@ -2679,8 +2526,7 @@ Relatório Gerencial;
 
 ![](./media/aquisicao/image143.jpeg)
 
-Passo 2: Usuário/Responsável pelo Registro preenche o CNPJ da Pessoa
-Jurídica Adquirente e clica em "Avançar";
+Passo 2: Usuário/Responsável pelo Registro preenche o CNPJ da Pessoa Jurídica Adquirente e clica em "Avançar";
 
 ![](./media/aquisicao/image144.jpeg)
 
@@ -2774,12 +2620,12 @@ Informações disponibilizadas:
 
 -   Valor da operação em dólar (valor calculado pelo Sistema)
 
--   Descrição do [Mecanismo](#enquadramento) de Apoio (Inclui informação
+-   Descrição do [Mecanismo](/glossario#mecanismo-de-apoiofomento) de Apoio (Inclui informação
     caso o usuário tenha indicado mecanismo de apoio ao comércio
     exterior. Caso o campo não tenha sido preenchido, o sistema
     informará a sigla N/A -- Não se aplica.)
 
--   NR\_RC\_[Mecanismo](#enquadramento) de Apoio
+-   NR\_RC\_[Mecanismo](/glossario#mecanismo-de-apoiofomento) de Apoio
 
 -   Informações Complementares (Caso o campo não tenha sido preenchido,
     o sistema informará a sigla N/A -- Não se aplica. Caso tenha sido
@@ -2819,7 +2665,7 @@ Informações disponibilizadas:
     legislação. Os valores possíveis são: 1 -- MDIC; 2 -- RFB; 3 --
     Ambos)
 
--   ID\_ OPERAÇÃO\* (Essa informação se refere ao identificador da
+-   ID\_OPERAÇÃO\* (Essa informação se refere ao identificador da
     operação no banco do Siscoserv. O usuário poderá vincular uma
     operação a um item de pagamento.)
 
@@ -2866,10 +2712,10 @@ Podem ser selecionadas as seguintes opções:
 O sistema gera uma Planilha Excel com todos os dados de RAS ou RP
 vinculados para o período selecionado. Para verificar as informações
 disponibilizadas nas planilhas Excel, acessar: [Relatórios Gerenciais
-RAS](#relatorioRVS) (atentar que no 2º caso as informações do CPF do
+RAS](#relat%C3%B3rios-gerenciais-relativos-aos-ras) (atentar que no 2º caso as informações do CPF do
 adquirente serão disponibilizadas e as informações de CNPJ do adquirente
 virão preenchidas com N/A -- não se aplica) e [Relatórios Gerenciais
-R](#relatorioRF)P.
+RP](#relat%C3%B3rios-gerenciais-relativos-aos-rp).
 
 ### 4.3. Caso 1 - Usuário/Responsável pelo Registro é o próprio Adquirente
 
@@ -2896,13 +2742,7 @@ Podem ser selecionadas as seguintes opções:
 
 ![](./media/aquisicao/image151.jpeg)
 
-O sistema gera uma Planilha Excel com todos os dados do RAS ou RP
-vinculados, para o período selecionado. Para verificar as informações
-disponibilizadas nas planilhas Excel, acessar: [Relatórios Gerenciais
-RAS](#relatorioRVS) (atentar que no 3º caso as informações do CPF do
-usuário e do CPF do adquirente são as mesmas e as informações de CNPJ do
-adquirente virão preenchidas com N/A -- não se aplica) e [Relatórios
-Gerenciais RP](#relatorioRF).
+O sistema gera uma Planilha Excel com todos os dados do RAS ou RP vinculados, para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [Relatórios Gerenciais RAS](#relat%C3%B3rios-gerenciais-relativos-aos-ras) (atentar que no 3º caso as informações do CPF do usuário e do CPF do adquirente são as mesmas e as informações de CNPJ do adquirente virão preenchidas com N/A -- não se aplica) e [Relatórios Gerenciais RP](#relat%C3%B3rios-gerenciais-relativos-aos-rp).
 
 # Capítulo 3 - Cenários Exemplificativos de Registro no Siscoserv
 
@@ -3221,9 +3061,9 @@ legislação pertinente ao Siscoserv e neste Manual.
 A movimentação temporária de pessoas físicas para prestação de serviços
 enseja o registro no Siscoserv, sempre que cumpridos os pilares
 previstos na legislação relativa ao Sistema. Conforme explicitado neste
-Manual, deve-se registrar [operações](#operaçao) em Modo 4 no Módulo
+Manual, deve-se registrar [operações](/glossario#opera%C3%A7%C3%A3o) em Modo 4 no Módulo
 Aquisição do Siscoserv as pessoas físicas ou jurídicas
-[residentes](#residentenoBrasil) ou domiciliadas no Brasil, quando a
+[residentes](/glossario#residente-no-brasil) ou domiciliadas no Brasil, quando a
 aquisição de serviço ensejar o deslocamento temporário de pessoa(s)
 física(s) residente(s) no exterior com vistas a prestar um serviço no
 Brasil, **exceto quando se estabelecer vínculo empregatício no Brasil**.
@@ -3277,25 +3117,25 @@ brasileira.
 # Notas de rodapé
 
 [^1]: Neste caso, leia-se "prestação de serviços" como "prestação de
-    serviços, transferência de [intangível](#Intangível) e realização de
+    serviços, transferência de [intangível](/glossario#intang%C3%ADvel) e realização de
     [outras operações que produzam variações no
-    patrimônio](#Outrasoperações).
+    patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio).
 
 [^2]: Neste caso, leia-se "bens ou serviços" como "bens, mercadorias,
     serviços, intangíveis ou [outras operações que produzam variações no
-    patrimônio](#Variações)".
+    patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio)".
 
 [^3]: Neste caso, leia-se "prestação de serviços" como "prestação de
     serviços, transferência de intangível e realização de [outras
-    operações que produzam variações no patrimônio](#Variações)".
+    operações que produzam variações no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio)".
 
 [^4]: Neste caso, leia-se "aquisição de serviços" como "aquisição de
     serviços, transferência de intangível ou realização de [outras
-    operações que produzam variações no patrimônio](#Variações)".
+    operações que produzam variações no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio)".
 
 [^5]: Neste caso, leia-se "aquisição de serviços" como "aquisição de
     serviços, transferência de intangível ou realização de [outras
-    operações que produzam variações no patrimônio](#Variações)".
+    operações que produzam variações no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio)".
 
 [^6]: Neste caso, leia-se "aquisição de serviços", como "aquisição de
     serviços, transferência de intangível e realização de outras
@@ -3303,11 +3143,11 @@ brasileira.
 
 [^7]: Neste caso, leia-se "aquisição de serviços" como "aquisição de
     serviços, transferência de intangível ou realização de [outras
-    operações que produzam variações no patrimônio](#Variações)".
+    operações que produzam variações no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio)".
 
 [^8]: Neste caso, leia-se "prestação de serviços", como "prestação de
     serviços, transferência de intangível e realização de [outras
-    operações que produzam variações no patrimônio](#Variações)".
+    operações que produzam variações no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio)".
 
 [^9]: Idem Nota 2
 
@@ -3319,14 +3159,14 @@ brasileira.
 
 [^12]: Neste caso, leia-se "prestação de serviços", como "prestação de
     serviços, transferência de intangível e realização de [outras
-    operações que produzam variações no patrimônio](#Variações)".
+    operações que produzam variações no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio)".
 
 [^13]: Idem.
 
 [^14]: Neste caso, leia-se "prestação de serviços" como "prestação de
-    serviços, transferência de [intangível](#Intangível) e realização de
+    serviços, transferência de [intangível](/glossario#intang%C3%ADvel) e realização de
     [outras operações que produzam variações no
-    patrimônio](#Outrasoperações).
+    patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio).
 
 [^15]: Neste caso, leia-se "aquisição de serviços" como "aquisição de
     serviços, intangíveis e [outras operações que produzam variações no
@@ -3334,13 +3174,13 @@ brasileira.
 
 [^16]: Neste caso, leia-se "prestação de serviços", como "prestação de
     serviços, transferência de intangível e realização de [outras
-    operações que produzam variações no patrimônio](#Variações)".
+    operações que produzam variações no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio)".
 
 [^17]: Idem.
 
 [^18]: Neste caso, leia-se "prestação de serviços", como "prestação de
     serviços, transferência de intangível e realização de [outras
-    operações que produzam variações no patrimônio](#Variações)".
+    operações que produzam variações no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio)".
 
 [^19]: Neste caso, leia-se "aquisição de serviços", como "aquisição de
     serviços, transferência de intangível e realização de outras
@@ -3348,7 +3188,7 @@ brasileira.
 
 [^20]: Neste caso, leia-se "aquisição de serviços" como "aquisição de
     serviços, transferência de intangível ou realização de [outras
-    operações que produzam variações no patrimônio](#Variações)".
+    operações que produzam variações no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio)".
 
 [^21]: Maiores informações no [item 9 do Capítulo
     1](#nomenclatura-brasileira-de-serviços-intangíveis-e-outras-operações-que-produzam-variações-no-patrimônio-nbs)
@@ -3356,7 +3196,7 @@ brasileira.
 
 [^22]: Neste caso, leia-se "serviços" como "serviços, intangíveis e
     [outras operações que produzam variações no
-    patrimônio](#Outrasoperações)".
+    patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio)".
 
 [^23]: Neste caso, leia-se "serviço prestado" como "serviço prestado,
     intangível transferido e outra operação que produza variações no
@@ -3368,4 +3208,4 @@ brasileira.
 
 [^25]: Neste caso, leia-se "prestação de serviços", como "prestação de
     serviços, transferência de intangível e realização de [outras
-    operações que produzam variações no patrimônio](#Variações)".
+    operações que produzam variações no patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio)".
