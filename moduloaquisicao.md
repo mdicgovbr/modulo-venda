@@ -130,7 +130,7 @@ até o último dia útil do 6° (sexto) mês subsequente à
 data de início da prestação de serviço, da comercialização de intangível
 ou da realização de operação que produza variação no patrimônio.
 
-![](./media/aquisicao/image5.jpeg)
+![Imagem que explica os pe](./media/aquisicao/image5.jpeg)
 
 ### 4.2. Registro de Pagamento (RP)
 -------------------------------
@@ -150,7 +150,7 @@ como outros elementos pertinentes.
 
 Para o registro de pagamento, há dois prazos possíveis, dependendo da data de pagamento:
 
-   1\) quando  o  pagamento  ocorrer depois da [inclusão  do  RAS](#21-inclus%C3%A3o-do-ras),  o  usuário  deve  efetuar  o  RP até **o último dia útil do ês subsequente** ao do pagamento.   
+   1\) quando  o  pagamento  ocorrer depois da [inclusão  do  RAS](#21-inclus%C3%A3o-do-ras),  o  usuário  deve  efetuar  o  RP até **o último dia útil do mês subsequente** ao do pagamento.   
 
    Cabe observar que o prazo de inclusão do RAS deve ser respeitado, conforme previsto no item [4.1.1 Prazo para o RAS](#411-prazo-para-o-ras).  
 
