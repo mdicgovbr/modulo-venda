@@ -2776,7 +2776,7 @@ Importante ressaltar que esse cenário trata exclusivamente de situação em que
     operações que produzam variações no
     patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio)".
 
-[^15]: Idem Nota 15
+[^15]: Idem Nota 12
 
 [^16]: Neste caso, leia-se "prestação de serviços", como "prestação de
     serviços, transferência de intangível e realização de [outras
@@ -2803,7 +2803,7 @@ Importante ressaltar que esse cenário trata exclusivamente de situação em que
 
 [^22]: Neste caso, leia-se "serviços", como "serviços, intangíveis e
     [outras operações que produzam variações no
-    patrimônio".
+    patrimônio](/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio)".
 
 [^23]: Neste caso, leia-se "serviços", como "serviços, intangíveis e
     [outras operações que produzam variações no
