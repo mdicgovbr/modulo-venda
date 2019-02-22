@@ -2883,7 +2883,7 @@ Relações entre os Atores:
 > **Não há registro no Siscoserv** pelo serviço de transporte de cargas
 > neste caso, pois ambos, Cₑₓ e Tₑₓ são domiciliados no exterior.
 
-#### Cenário 1.4. Transporte internacional de cargas com consolidação e desconsolidação de cargas
+### Cenário 1.4. Transporte internacional de cargas com consolidação e desconsolidação de cargas
 
 **Exportação brasileira com a obrigação de transportar da empresa brasileira.**
 
