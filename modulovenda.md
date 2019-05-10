@@ -21,7 +21,7 @@ bem como para a orientação de estratégias empresariais de comércio exterior 
 
 O Siscoserv guarda conformidade com as diretrizes do Acordo Geral sobre Comércio de Serviços (GATS) da Organização Mundial do Comércio (OMC),
 aprovado pelo Decreto Legislativo nº 30, de 15 de dezembro de 1994, e promulgado pelo Decreto nº 1.355, de
-30 de dezembro de 1994.
+30 de dezembro de 1994..
 
 
 ## 2. Base Legal do Siscoserv
